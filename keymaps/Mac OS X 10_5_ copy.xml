@@ -37,13 +37,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="Exit" />
-  <action id="GotoChangedFile" />
-  <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="shift meta o" />
-  </action>
-  <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="meta o" />
-  </action>
   <action id="Groovy.Shell.Execute" />
   <action id="InsertLiveTemplate">
     <keyboard-shortcut first-keystroke="ctrl j" />
@@ -76,5 +69,12 @@
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="UpdateRunningApplication" />
   <action id="ViewSource" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="meta f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
 </keymap>
