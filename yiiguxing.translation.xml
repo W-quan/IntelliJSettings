@@ -1,71 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="disable quick setting when listening order" />
-      <item value="listening" />
-      <item value="disable quick setting when listing order" />
-      <item value="chevron" />
-      <item value="¡" />
-      <item value="add new order voice alert" />
-      <item value="m Is Distribute" />
-      <item value="m Is DISTRIBUTE" />
-      <item value="parent" />
-      <item value="auto stop listen order after grab order succeed" />
-      <item value="An HTTP response. Instances of this class are not immutable: the response body is a one-shot * value that may be consumed only once and then closed. All other properties are immutable." />
-      <item value="Implementors of LayoutManager should define whether or not it uses * AutoMeasure by overriding {@link #isAutoMeasureEnabled()}." />
-      <item value="* Defines whether the measuring pass of layout should use the AutoMeasure mechanism of" />
-      <item value="java.lang.IllegalArgumentException: parameter must be a descendant of this view" />
-      <item value="remove the order that had been grab from list" />
-      <item value="remove the order had been grab from list" />
-      <item value="If we see a start call on the original mActivity instance, then the mActivity // starting event executed between our call to recreate() and the actual // recreation of the mActivity. In that case, a stop() call should not be scheduled." />
-      <item value="GENERAL" />
-      <item value="Current" />
-      <item value="reason" />
-      <item value="reform" />
-      <item value="reform Order" />
-      <item value="Format" />
-      <item value="Fommat" />
-      <item value="fixed the code of upload for the pic of car" />
-      <item value="fixed upload code for the pic of car" />
-      <item value="show message's details then set it has been read" />
-      <item value="show message's details then set it has readed" />
-      <item value="update working status in top bar at home page" />
-      <item value="get Expect Trip" />
-      <item value="special" />
-      <item value="Immediately closes the socket connection if it's currently held. Use this to interrupt an * in-flight request from any thread. It's the caller's responsibility to close the request body * and response body streams; otherwise resources may be leaked. * * &lt;p&gt;This method is safe to be called concurrently, but provides limited guarantees. If a * transport layer connection has been established (such as a HTTP/2 stream) that is terminated. * Otherwise if a socket connection is being established, that is terminated." />
-      <item value="Listening" />
-      <item value="m Btn Start Listening" />
-      <item value="Attempts to initiate a graceful shutdown of this web socket. Any already-enqueued messages will be transmitted before the close message is sent but subsequent calls to send(java.lang.String) will return false and their messages will not be enqueued." />
-      <item value="Attempts to initiate a graceful shutdown of this web socket. Any already-enqueued messages will * be transmitted before the close message is sent but subsequent calls to {@link #send} will * return false and their messages will not be enqueued. * * &lt;p&gt;This returns true if a graceful shutdown was initiated by this call. It returns false and if * a graceful shutdown was already underway or if the web socket is already closed or canceled. *" />
-      <item value="* * Immediately and violently release resources held by this web socket, discarding any enqueued * messages. This does nothing if the web socket has already been closed or canceled. */" />
-      <item value="Immediately and violently release resources held by this web socket, discarding any enqueued * messages. This does nothing if the web socket has already been closed or canceled. */" />
-      <item value="This returns true if a graceful shutdown was initiated by this call. It returns false and if * a graceful shutdown was already underway or if the web socket is already closed or canceled." />
-      <item value="Attempts to initiate a graceful shutdown of this web socket. Any already-enqueued messages will * be transmitted before the close message is sent but subsequent calls to {@link #send} will * return false and their messages will not be enqueued." />
-      <item value="OPERATE" />
-      <item value="BUSINESS OPERATE FAILURE" />
-      <item value="MEDIUM" />
-      <item value="TIMEOUT" />
-      <item value="NOTIFY ORDER HED BEEN GRABED BY OTHER" />
-      <item value="OTHER" />
-      <item value="NOTIFY ORDER HED BEEN GRABED" />
-      <item value="NOTIFY ORDER GOT GRAB" />
-      <item value="RECEIVED" />
-      <item value="RECEIVE" />
+      <item value="change the promo name if the discount &gt;= 10 when publish a new promo" />
     </histories>
-    <option name="languageScores">
-      <map>
-        <entry key="CHINESE" value="274" />
-        <entry key="ENGLISH" value="274" />
-        <entry key="FRENCH" value="1" />
-        <entry key="LITHUANIAN" value="1" />
-        <entry key="ROMANIAN" value="3" />
-        <entry key="JAPANESE" value="60" />
-        <entry key="SWEDISH" value="3" />
-        <entry key="ESPERANTO" value="1" />
-        <entry key="SPANISH" value="1" />
-        <entry key="ITALIAN" value="1" />
-        <entry key="INDONESIAN" value="1" />
-      </map>
-    </option>
   </component>
 </application>
