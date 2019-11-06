@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="don't show order if don't have location" />
+      <item value="don't show order if no location" />
       <item value="¡" />
       <item value="request api when open quick_settings every time." />
       <item value="INSTALL FAILED CONFLICTING PROVIDER" />
