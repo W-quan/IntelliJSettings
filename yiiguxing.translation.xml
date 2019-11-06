@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Appedner Mode Async" />
       <item value="don't show order if don't have location" />
       <item value="don't show order if no location" />
       <item value="¡" />
@@ -11,7 +12,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>

@@ -4,7 +4,9 @@
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping ext="rawproto" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
+      <mapping ext="mmap3" type="PLAIN_TEXT" />
       <mapping ext="bundle" type="PLAIN_TEXT" />
+      <mapping ext="xlog" type="PLAIN_TEXT" />
       <mapping ext="mmap" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
