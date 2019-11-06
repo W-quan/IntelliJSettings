@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="¡" />
+      <item value="request api when open quick_settings every time." />
       <item value="INSTALL FAILED CONFLICTING PROVIDER" />
       <item value="change the promo name if the discount &gt;= 10 when publish a new promo" />
     </histories>
     <option name="languageScores">
       <map>
+        <entry key="CHINESE" value="1" />
         <entry key="ENGLISH" value="1" />
       </map>
     </option>
