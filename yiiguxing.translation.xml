@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="calling LayoutManager here is not pretty but that API is already public and it is better // than creating another method since this is internal." />
+      <item value="This specific call should be considered deprecated and replaced with * {@link #defaultOnMeasure(int, int)}. It can't actually be replaced as it could * break existing third party code but all documentation directs developers to not * override {@link LayoutManager#onMeasure(int, int)} when * {@link LayoutManager#isAutoMeasureEnabled()} returns true. */" />
       <item value="If your use of RecyclerView falls into this category, set this to {@code true}. It will allow * RecyclerView to avoid invalidating the whole layout when its adapter contents change. *" />
       <item value="RecyclerView can perform several optimizations if it can know in advance that RecyclerView's * size is not affected by the adapter contents. RecyclerView can still change its size based * on other factors (e.g. its parent's size) but this size calculation cannot depend on the * size of its children or contents of its adapter (except the number of items in the adapter)." />
       <item value="Implementors of LayoutManager should define whether or not it uses * AutoMeasure by overriding {@link #isAutoMeasureEnabled()}. */" />
@@ -27,8 +29,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="20" />
       </map>
     </option>
   </component>
