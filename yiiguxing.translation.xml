@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RecyclerView internally does its own View measurement caching which should help with * WRAP_CONTENT. * &lt;p&gt; * Use this method if the View is not yet measured and you need to decide whether to * measure this View or not." />
       <item value="The measured height of this view. May be a complex * bit mask as defined by {@link #MEASURED_SIZE_MASK} and * {@link #MEASURED_STATE_TOO_SMALL}. */" />
       <item value="m Decorated Measurement In Other" />
       <item value="calling LayoutManager here is not pretty but that API is already public and it is better // than creating another method since this is internal." />
@@ -31,8 +32,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="23" />
       </map>
     </option>
   </component>
