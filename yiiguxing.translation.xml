@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scrap" />
+      <item value="set Item Prefetch Enabled" />
+      <item value="reverse Layout" />
       <item value="RecyclerView internally does its own View measurement caching which should help with * WRAP_CONTENT. * &lt;p&gt; * Use this method if the View is not yet measured and you need to decide whether to * measure this View or not." />
       <item value="The measured height of this view. May be a complex * bit mask as defined by {@link #MEASURED_SIZE_MASK} and * {@link #MEASURED_STATE_TOO_SMALL}. */" />
       <item value="m Decorated Measurement In Other" />
@@ -32,8 +35,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
       </map>
     </option>
   </component>
