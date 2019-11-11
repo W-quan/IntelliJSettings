@@ -1,13 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="//make sure properties are correct while measure more than once" />
       <item value="get Decorated Measured Height" />
       <item value="try Get View Holder For Position By Deadline" />
       <item value="dry Run" />
       <item value="The Recycler may reuse a scrap or detached view from a shared pool if one is * available for the correct view type. If the adapter has not indicated that the * data at the given position has changed, the Recycler will attempt to hand back * a scrap view that was previously initialized for that data without rebinding." />
       <item value="This method should be used by {@link LayoutManager} implementations to obtain * views to represent data from an {@link Adapter}." />
       <item value="* Obtain a view initialized for the given position." />
-      <item value="//make sure properties are correct while measure more than once" />
       <item value="ensure Layout State" />
       <item value="fixed the wrap_content height of item_order by using a ScrollView to wrapper item_order" />
       <item value="using a ScrollView to wrapper item_order" />
@@ -45,8 +45,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="35" />
       </map>
     </option>
   </component>
