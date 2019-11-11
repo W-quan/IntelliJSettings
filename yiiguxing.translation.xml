@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="//make sure properties are correct while measure more than once" />
+      <item value="ensure Layout State" />
       <item value="fixed the wrap_content height of item_order by using a ScrollView to wrapper item_order" />
       <item value="using a ScrollView to wrapper item_order" />
       <item value="scrap" />
@@ -37,8 +39,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="CHINESE" value="27" />
+        <entry key="ENGLISH" value="28" />
       </map>
     </option>
   </component>
