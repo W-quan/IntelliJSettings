@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Left edge, with item decoration insets included" />
+      <item value="Lay out the given child view within the RecyclerView using coordinates that * include any current {@link ItemDecoration ItemDecorations}. *" />
+      <item value="&gt;LayoutManagers should prefer working in sizes and coordinates that include * item decoration insets whenever possible. This allows the LayoutManager to effectively * ignore decoration insets within measurement and layout code. See the following * methods:&lt;/p&gt;" />
+      <item value="// we need i to calculate the real offset of current view" />
       <item value="Temporarily detach and scrap all currently attached child views. Views will be scrapped * into the given Recycler. The Recycler may prefer to reuse scrap views before * other views that were previously recycled." />
       <item value="Returns the space occupied by this View in the perpendicular orientation including * decorations and margins. *" />
       <item value="m Decorated Measurement In Other" />
@@ -48,8 +52,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
       </map>
     </option>
   </component>
