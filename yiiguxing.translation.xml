@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scrap Or Recycle View" />
+      <item value="other views that were previously recycled." />
       <item value="This ViewHolder should not be recycled. This flag is set via setIsRecyclable() * and is intended to keep views around during animations." />
       <item value="This ViewHolder points at data that represents an item previously removed from the * data set. Its view may still be used for things like outgoing animations. */" />
       <item value="This ViewHolder's data is invalid. The identity implied by mPosition and mItemId * are not to be trusted and may no longer match the item view type. * This ViewHolder must be fully rebound to different data." />
@@ -49,13 +51,11 @@
       <item value="If your use of RecyclerView falls into this category, set this to {@code true}. It will allow * RecyclerView to avoid invalidating the whole layout when its adapter contents change. * * @param hasFixedSize true if adapter changes cannot affect the size of the RecyclerView. */" />
       <item value="with Cross Fade" />
       <item value="enables a cross fade animation" />
-      <item value="filter" />
-      <item value="Appedner Mode Async" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
