@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This ViewHolder should not be recycled. This flag is set via setIsRecyclable() * and is intended to keep views around during animations." />
+      <item value="This ViewHolder points at data that represents an item previously removed from the * data set. Its view may still be used for things like outgoing animations. */" />
+      <item value="This ViewHolder's data is invalid. The identity implied by mPosition and mItemId * are not to be trusted and may no longer match the item view type. * This ViewHolder must be fully rebound to different data." />
+      <item value="The data this ViewHolder's view reflects is stale and needs to be rebound * by the adapter. mPosition and mItemId are consistent." />
+      <item value="This ViewHolder has been bound to a position; mPosition, mItemId and mItemViewType * are all valid. */" />
       <item value="/ This is very ugly but the only place we can grab this information // before the View is rebound and returned to the LayoutManager for post layout ops. // We don't need this in pre-layout since the VH is not updated by the LM." />
       <item value="try Get View Holder For Position By Deadline" />
       <item value="Returns the value of the given calendar field. In lenient mode, * all calendar fields are normalized. In non-lenient mode, all * calendar fields are validated and this method throws an * exception if any calendar fields have out-of-range values. The * normalization and validation are handled by the * {@link #complete()} method, which process is calendar * system dependent." />
@@ -46,16 +51,11 @@
       <item value="enables a cross fade animation" />
       <item value="filter" />
       <item value="Appedner Mode Async" />
-      <item value="don't show order if don't have location" />
-      <item value="don't show order if no location" />
-      <item value="¡" />
-      <item value="request api when open quick_settings every time." />
-      <item value="INSTALL FAILED CONFLICTING PROVIDER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="51" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
