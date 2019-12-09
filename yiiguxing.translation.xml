@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/ This is very ugly but the only place we can grab this information // before the View is rebound and returned to the LayoutManager for post layout ops. // We don't need this in pre-layout since the VH is not updated by the LM." />
+      <item value="try Get View Holder For Position By Deadline" />
       <item value="Returns the value of the given calendar field. In lenient mode, * all calendar fields are normalized. In non-lenient mode, all * calendar fields are validated and this method throws an * exception if any calendar fields have out-of-range values. The * normalization and validation are handled by the * {@link #complete()} method, which process is calendar * system dependent." />
       <item value="merge" />
       <item value="Left edge, with item decoration insets included" />
@@ -13,7 +15,6 @@
       <item value="* The offset of property which will change while scrolling" />
       <item value="//make sure properties are correct while measure more than once" />
       <item value="get Decorated Measured Height" />
-      <item value="try Get View Holder For Position By Deadline" />
       <item value="dry Run" />
       <item value="The Recycler may reuse a scrap or detached view from a shared pool if one is * available for the correct view type. If the adapter has not indicated that the * data at the given position has changed, the Recycler will attempt to hand back * a scrap view that was previously initialized for that data without rebinding." />
       <item value="This method should be used by {@link LayoutManager} implementations to obtain * views to represent data from an {@link Adapter}." />
@@ -50,12 +51,11 @@
       <item value="¡" />
       <item value="request api when open quick_settings every time." />
       <item value="INSTALL FAILED CONFLICTING PROVIDER" />
-      <item value="change the promo name if the discount &gt;= 10 when publish a new promo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
