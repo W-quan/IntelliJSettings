@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the value of the given calendar field. In lenient mode, * all calendar fields are normalized. In non-lenient mode, all * calendar fields are validated and this method throws an * exception if any calendar fields have out-of-range values. The * normalization and validation are handled by the * {@link #complete()} method, which process is calendar * system dependent." />
       <item value="merge" />
       <item value="Left edge, with item decoration insets included" />
       <item value="Lay out the given child view within the RecyclerView using coordinates that * include any current {@link ItemDecoration ItemDecorations}. *" />
@@ -54,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="ENGLISH" value="44" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
