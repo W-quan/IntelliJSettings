@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unmetered" />
+      <item value="NET CAPABILITY NOT METERED" />
+      <item value="METERED" />
+      <item value="INTERNET" />
+      <item value="* Indicates this network uses a Cellular transport." />
+      <item value="TRANSPORT CELLULAR" />
       <item value="NET_CAPABILITY_MMS, NET_CAPABILITY_SUPL, NET_CAPABILITY_DUN, NET_CAPABILITY_FOTA, NET_CAPABILITY_IMS, NET_CAPABILITY_CBS, NET_CAPABILITY_WIFI_P2P, NET_CAPABILITY_IA, NET_CAPABILITY_RCS, NET_CAPABILITY_XCAP, NET_CAPABILITY_EIMS, NET_CAPABILITY_NOT_METERED, NET_CAPABILITY_INTERNET, NET_CAPABILITY_NOT_RESTRICTED, NET_CAPABILITY_TRUSTED, NET_CAPABILITY_NOT_VPN, NET_CAPABILITY_VALIDATED, NET_CAPABILITY_CAPTIVE_PORTAL, NET_CAPABILITY_NOT_ROAMING, NET_CAPABILITY_FOREGROUND, NET_CAPABILITY_NOT_CONGESTED, NET_CAPABILITY_NOT_SUSPENDED, NET_CAPABILITY_OEM_PAID," />
       <item value="* * Tells the underlying networking system that the caller wants to * begin using the named feature. The interpretation of {@code feature} * is completely up to each networking implementation. *" />
       <item value="/** * Binds the current process to {@code network}. All Sockets created in the future * (and not explicitly bound via a bound SocketFactory from * {@link Network#getSocketFactory() Network.getSocketFactory()}) will be bound to * {@code network}. All host name resolutions will be limited to {@code network} as well. * Note that if {@code network} ever disconnects, all Sockets created in this way will cease to * work and all host name resolutions will fail. This is by design so an application doesn't * accidentally use Sockets it thinks are still bound to a particular {@link Network}. * To clear binding pass {@code null} for {@code network}. Using individually bound * Sockets created by Network.getSocketFactory().createSocket() and * performing network-specific host name resolutions via * {@link Network#getAllByName Network.getAllByName} is preferred to calling * {@code setProcessDefaultNetwork}. * * @param network The {@link Network} to bind the current process to, or {@code null} to clear * the current binding. * @return {@code true} on success, {@code false} if the {@link Network} is no longer valid. * @deprecated This function can throw {@link IllegalStateException}. Use * {@link #bindProcessToNetwork} instead. {@code bindProcessToNetwork} * is a direct replacement." />
@@ -45,17 +51,11 @@
       <item value="Implementors of LayoutManager should define whether or not it uses * AutoMeasure by overriding {@link #isAutoMeasureEnabled()}. */" />
       <item value="if layout measurement should be done by the * RecyclerView, &lt;code&gt;false&lt;/code&gt; if it should be done by this * LayoutManager." />
       <item value="Defines whether the measuring pass of layout should use the AutoMeasure mechanism of * {@link RecyclerView} or if it should be done by the LayoutManager's implementation of * {@link LayoutManager#onMeasure(Recycler, State, int, int)}. *" />
-      <item value="This method returns false by default (it actually returns the value passed to the * deprecated {@link #setAutoMeasureEnabled(boolean)}) and should be overridden to return * true if a LayoutManager wants to be auto measured by the RecyclerView." />
-      <item value="Returns whether the measuring pass of layout should use the AutoMeasure mechanism of * {@link RecyclerView} or if it should be done by the LayoutManager's implementation of * {@link LayoutManager#onMeasure(Recycler, State, int, int)}." />
-      <item value="The default implementation will handle EXACTLY measurements and respect * the minimum width and height properties of the host RecyclerView if measured * as UNSPECIFIED. AT_MOST measurements will be treated as EXACTLY and the RecyclerView * will consume all available space." />
-      <item value="It is strongly advised to use the AutoMeasure mechanism by overriding * {@link #isAutoMeasureEnabled()} to return true as AutoMeasure handles all the standard * measure cases including when the RecyclerView's layout_width or layout_height have been * set to wrap_content. If {@link #isAutoMeasureEnabled()} is overridden to return true, * this method should not be overridden." />
-      <item value="This method must be called by {@link #onMeasure(int, int)} to store the * measured width and measured height. Failing to do so will trigger an * exception at measurement time." />
-      <item value="m Layout Frozen" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
