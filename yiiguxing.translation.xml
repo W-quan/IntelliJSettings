@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="accidentally" />
       <item value="unmetered" />
       <item value="NET CAPABILITY NOT METERED" />
       <item value="METERED" />
@@ -50,12 +51,11 @@
       <item value="RecyclerView can perform several optimizations if it can know in advance that RecyclerView's * size is not affected by the adapter contents. RecyclerView can still change its size based * on other factors (e.g. its parent's size) but this size calculation cannot depend on the * size of its children or contents of its adapter (except the number of items in the adapter)." />
       <item value="Implementors of LayoutManager should define whether or not it uses * AutoMeasure by overriding {@link #isAutoMeasureEnabled()}. */" />
       <item value="if layout measurement should be done by the * RecyclerView, &lt;code&gt;false&lt;/code&gt; if it should be done by this * LayoutManager." />
-      <item value="Defines whether the measuring pass of layout should use the AutoMeasure mechanism of * {@link RecyclerView} or if it should be done by the LayoutManager's implementation of * {@link LayoutManager#onMeasure(Recycler, State, int, int)}. *" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
