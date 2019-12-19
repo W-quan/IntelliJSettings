@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Indicates that this network is available for general use. If this is not set * applications should not attempt to communicate on this network. Note that this * is simply informative and not enforcement - enforcement is handled via other means. * Set by default." />
+      <item value="* Indicates that this network should be able to reach the internet." />
       <item value="SPIN INDETERMINATE" />
       <item value="is Satation" />
       <item value="accidentally" />
@@ -49,13 +51,11 @@
       <item value="The measured height of this view. May be a complex * bit mask as defined by {@link #MEASURED_SIZE_MASK} and * {@link #MEASURED_STATE_TOO_SMALL}. */" />
       <item value="calling LayoutManager here is not pretty but that API is already public and it is better // than creating another method since this is internal." />
       <item value="This specific call should be considered deprecated and replaced with * {@link #defaultOnMeasure(int, int)}. It can't actually be replaced as it could * break existing third party code but all documentation directs developers to not * override {@link LayoutManager#onMeasure(int, int)} when * {@link LayoutManager#isAutoMeasureEnabled()} returns true. */" />
-      <item value="If your use of RecyclerView falls into this category, set this to {@code true}. It will allow * RecyclerView to avoid invalidating the whole layout when its adapter contents change. *" />
-      <item value="RecyclerView can perform several optimizations if it can know in advance that RecyclerView's * size is not affected by the adapter contents. RecyclerView can still change its size based * on other factors (e.g. its parent's size) but this size calculation cannot depend on the * size of its children or contents of its adapter (except the number of items in the adapter)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="65" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MARATHI" value="1" />
       </map>
