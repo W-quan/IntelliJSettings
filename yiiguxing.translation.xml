@@ -1,7 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Adds the given transport type to this {@code NetworkCapability} instance. * Multiple transports may be applied sequentially. Note that when searching * for a network to satisfy a request, any listed in the request will satisfy the request. * For example {@code TRANSPORT_WIFI} and {@code TRANSPORT_ETHERNET} added to a * {@code NetworkCapabilities} would cause either a Wi-Fi network or an Ethernet network * to be selected. This is logically different than * {@code NetworkCapabilities.NET_CAPABILITY_*} listed above. *" />
+      <item value="* Adds the given transport requirement to this builder. These represent * the set of allowed transports for the request. Only networks using one * of these transports will satisfy the request. If no particular transports * are required, none should be specified here. See {@link NetworkCapabilities} * for {@code TRANSPORT_*} definitions. *" />
       <item value="Indicates that this network is available for general use. If this is not set * applications should not attempt to communicate on this network. Note that this * is simply informative and not enforcement - enforcement is handled via other means. * Set by default." />
+      <item value="NET CAPABILITY NOT RESTRICTED" />
+      <item value="Indicates this is a network that has the ability to reach a Wi-Fi direct * peer." />
+      <item value="Similarly if an application * needs an unmetered network for a bulk transfer it can specify that rather than assuming * all cellular based connections are metered and all Wi-Fi based connections are not. */" />
+      <item value="Rather than indicate a need for Wi-Fi because an application * needs high bandwidth and risk obsolescence when a new, fast network appears (like LTE), * the application should specify it needs high bandwidth." />
+      <item value="Rather than indicate a need for" />
+      <item value="Rather than indicate a need for Wi-Fi because an application * needs high bandwidth and risk obsolescence when a new, f" />
+      <item value="satisfy" />
+      <item value="represent" />
+      <item value="capability" />
       <item value="* Indicates that this network should be able to reach the internet." />
       <item value="SPIN INDETERMINATE" />
       <item value="is Satation" />
@@ -40,22 +51,11 @@
       <item value="dry Run" />
       <item value="The Recycler may reuse a scrap or detached view from a shared pool if one is * available for the correct view type. If the adapter has not indicated that the * data at the given position has changed, the Recycler will attempt to hand back * a scrap view that was previously initialized for that data without rebinding." />
       <item value="This method should be used by {@link LayoutManager} implementations to obtain * views to represent data from an {@link Adapter}." />
-      <item value="* Obtain a view initialized for the given position." />
-      <item value="ensure Layout State" />
-      <item value="fixed the wrap_content height of item_order by using a ScrollView to wrapper item_order" />
-      <item value="using a ScrollView to wrapper item_order" />
-      <item value="scrap" />
-      <item value="set Item Prefetch Enabled" />
-      <item value="reverse Layout" />
-      <item value="RecyclerView internally does its own View measurement caching which should help with * WRAP_CONTENT. * &lt;p&gt; * Use this method if the View is not yet measured and you need to decide whether to * measure this View or not." />
-      <item value="The measured height of this view. May be a complex * bit mask as defined by {@link #MEASURED_SIZE_MASK} and * {@link #MEASURED_STATE_TOO_SMALL}. */" />
-      <item value="calling LayoutManager here is not pretty but that API is already public and it is better // than creating another method since this is internal." />
-      <item value="This specific call should be considered deprecated and replaced with * {@link #defaultOnMeasure(int, int)}. It can't actually be replaced as it could * break existing third party code but all documentation directs developers to not * override {@link LayoutManager#onMeasure(int, int)} when * {@link LayoutManager#isAutoMeasureEnabled()} returns true. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="77" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MARATHI" value="1" />
       </map>
