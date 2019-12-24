@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Prevent gradle from building native code with ndk; we have our own Makefile for it." />
       <item value="A slave is an external input source that may contains an additional subtitle * track (like a .srt) or an additional audio track (like a .ac3). *" />
       <item value="Add a slave to the current media." />
       <item value="Returns the int descriptor. It's highly unlikely you should be calling this. Please discuss * your needs with a libcore maintainer before using this method. * @hide internal use only" />
@@ -50,12 +51,11 @@
       <item value="Returns the space occupied by this View in the perpendicular orientation including * decorations and margins. *" />
       <item value="m Decorated Measurement In Other" />
       <item value="* The offset of property which will change while scrolling" />
-      <item value="//make sure properties are correct while measure more than once" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="82" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MARATHI" value="1" />
       </map>
