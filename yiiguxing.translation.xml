@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The policy here is to ignore that we were created using a different * libvlc_instance, because we don't really care *" />
+      <item value="* If needed, this waits for any other thread to release it." />
+      <item value="Acquires a mutex." />
       <item value="Prevent gradle from building native code with ndk; we have our own Makefile for it." />
       <item value="A slave is an external input source that may contains an additional subtitle * track (like a .srt) or an additional audio track (like a .ac3). *" />
       <item value="Add a slave to the current media." />
@@ -48,14 +51,11 @@
       <item value="&gt;LayoutManagers should prefer working in sizes and coordinates that include * item decoration insets whenever possible. This allows the LayoutManager to effectively * ignore decoration insets within measurement and layout code. See the following * methods:&lt;/p&gt;" />
       <item value="// we need i to calculate the real offset of current view" />
       <item value="Temporarily detach and scrap all currently attached child views. Views will be scrapped * into the given Recycler. The Recycler may prefer to reuse scrap views before * other views that were previously recycled." />
-      <item value="Returns the space occupied by this View in the perpendicular orientation including * decorations and margins. *" />
-      <item value="m Decorated Measurement In Other" />
-      <item value="* The offset of property which will change while scrolling" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="84" />
+        <entry key="ENGLISH" value="85" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MARATHI" value="1" />
       </map>
