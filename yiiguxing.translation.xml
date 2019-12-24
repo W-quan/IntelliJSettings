@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/* synchronized Surfaces accessed by an other thread from JNI */" />
       <item value="Facilities for retrieving external libraries and building them for systems that don't have the right versions." />
       <item value="doc/ - Miscellaneous documentation." />
       <item value="Main structure representing an input thread. This structure is mostly * private. The only public fields are read-only and constant." />
@@ -50,12 +51,11 @@
       <item value="This ViewHolder points at data that represents an item previously removed from the * data set. Its view may still be used for things like outgoing animations. */" />
       <item value="This ViewHolder's data is invalid. The identity implied by mPosition and mItemId * are not to be trusted and may no longer match the item view type. * This ViewHolder must be fully rebound to different data." />
       <item value="The data this ViewHolder's view reflects is stale and needs to be rebound * by the adapter. mPosition and mItemId are consistent." />
-      <item value="This ViewHolder has been bound to a position; mPosition, mItemId and mItemViewType * are all valid. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="95" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MARATHI" value="1" />
       </map>
