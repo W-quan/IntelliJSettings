@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Root VLC object of the objects tree that this object belongs in." />
+      <item value="/** Module probe flag * * A boolean during module probing when the probe is &quot;forced&quot;. * See \ref module_need()." />
+      <item value="Common public properties for all VLC objects. * Object also have private properties maintained by the core, see * \ref vlc_object_internals_t" />
       <item value="/* synchronized Surfaces accessed by an other thread from JNI */" />
       <item value="Facilities for retrieving external libraries and building them for systems that don't have the right versions." />
       <item value="doc/ - Miscellaneous documentation." />
@@ -48,14 +51,11 @@
       <item value="scrap Or Recycle View" />
       <item value="other views that were previously recycled." />
       <item value="This ViewHolder should not be recycled. This flag is set via setIsRecyclable() * and is intended to keep views around during animations." />
-      <item value="This ViewHolder points at data that represents an item previously removed from the * data set. Its view may still be used for things like outgoing animations. */" />
-      <item value="This ViewHolder's data is invalid. The identity implied by mPosition and mItemId * are not to be trusted and may no longer match the item view type. * This ViewHolder must be fully rebound to different data." />
-      <item value="The data this ViewHolder's view reflects is stale and needs to be rebound * by the adapter. mPosition and mItemId are consistent." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
-        <entry key="ENGLISH" value="95" />
+        <entry key="CHINESE" value="97" />
+        <entry key="ENGLISH" value="98" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MARATHI" value="1" />
       </map>
