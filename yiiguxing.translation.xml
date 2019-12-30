@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="minimum time interval between location updates, in milliseconds" />
       <item value="toggle visibility of listen_order_button while WebSocket connect or disconnected" />
       <item value="* Root VLC object of the objects tree that this object belongs in." />
       <item value="/** Module probe flag * * A boolean during module probing when the probe is &quot;forced&quot;. * See \ref module_need()." />
@@ -50,12 +51,11 @@
       <item value="/** * Binds the current process to {@code network}. All Sockets created in the future * (and not explicitly bound via a bound SocketFactory from * {@link Network#getSocketFactory() Network.getSocketFactory()}) will be bound to * {@code network}. All host name resolutions will be limited to {@code network} as well. * Note that if {@code network} ever disconnects, all Sockets created in this way will cease to * work and all host name resolutions will fail. This is by design so an application doesn't * accidentally use Sockets it thinks are still bound to a particular {@link Network}. * To clear binding pass {@code null} for {@code network}. Using individually bound * Sockets created by Network.getSocketFactory().createSocket() and * performing network-specific host name resolutions via * {@link Network#getAllByName Network.getAllByName} is preferred to calling * {@code setProcessDefaultNetwork}. * * @param network The {@link Network} to bind the current process to, or {@code null} to clear * the current binding. * @return {@code true} on success, {@code false} if the {@link Network} is no longer valid. * @deprecated This function can throw {@link IllegalStateException}. Use * {@link #bindProcessToNetwork} instead. {@code bindProcessToNetwork} * is a direct replacement." />
       <item value="reply" />
       <item value="scrap Or Recycle View" />
-      <item value="other views that were previously recycled." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MARATHI" value="1" />
       </map>
