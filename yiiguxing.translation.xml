@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Prior" />
+      <item value="Prior to {@link android.os.Build.VERSION_CODES#JELLY_BEAN_MR1}, this method * always returned the SSID with no quotes around it." />
       <item value="is Satation" />
       <item value="STATION IP" />
       <item value="minimum time interval between location updates, in milliseconds" />
@@ -49,13 +51,11 @@
       <item value="TRANSPORT CELLULAR" />
       <item value="NET_CAPABILITY_MMS, NET_CAPABILITY_SUPL, NET_CAPABILITY_DUN, NET_CAPABILITY_FOTA, NET_CAPABILITY_IMS, NET_CAPABILITY_CBS, NET_CAPABILITY_WIFI_P2P, NET_CAPABILITY_IA, NET_CAPABILITY_RCS, NET_CAPABILITY_XCAP, NET_CAPABILITY_EIMS, NET_CAPABILITY_NOT_METERED, NET_CAPABILITY_INTERNET, NET_CAPABILITY_NOT_RESTRICTED, NET_CAPABILITY_TRUSTED, NET_CAPABILITY_NOT_VPN, NET_CAPABILITY_VALIDATED, NET_CAPABILITY_CAPTIVE_PORTAL, NET_CAPABILITY_NOT_ROAMING, NET_CAPABILITY_FOREGROUND, NET_CAPABILITY_NOT_CONGESTED, NET_CAPABILITY_NOT_SUSPENDED, NET_CAPABILITY_OEM_PAID," />
       <item value="* * Tells the underlying networking system that the caller wants to * begin using the named feature. The interpretation of {@code feature} * is completely up to each networking implementation. *" />
-      <item value="/** * Binds the current process to {@code network}. All Sockets created in the future * (and not explicitly bound via a bound SocketFactory from * {@link Network#getSocketFactory() Network.getSocketFactory()}) will be bound to * {@code network}. All host name resolutions will be limited to {@code network} as well. * Note that if {@code network} ever disconnects, all Sockets created in this way will cease to * work and all host name resolutions will fail. This is by design so an application doesn't * accidentally use Sockets it thinks are still bound to a particular {@link Network}. * To clear binding pass {@code null} for {@code network}. Using individually bound * Sockets created by Network.getSocketFactory().createSocket() and * performing network-specific host name resolutions via * {@link Network#getAllByName Network.getAllByName} is preferred to calling * {@code setProcessDefaultNetwork}. * * @param network The {@link Network} to bind the current process to, or {@code null} to clear * the current binding. * @return {@code true} on success, {@code false} if the {@link Network} is no longer valid. * @deprecated This function can throw {@link IllegalStateException}. Use * {@link #bindProcessToNetwork} instead. {@code bindProcessToNetwork} * is a direct replacement." />
-      <item value="reply" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="102" />
+        <entry key="ENGLISH" value="103" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MARATHI" value="1" />
       </map>
