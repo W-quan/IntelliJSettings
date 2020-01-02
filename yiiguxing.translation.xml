@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Satation" />
       <item value="STATION IP" />
       <item value="minimum time interval between location updates, in milliseconds" />
       <item value="toggle visibility of listen_order_button while WebSocket connect or disconnected" />
@@ -39,7 +40,6 @@
       <item value="capability" />
       <item value="* Indicates that this network should be able to reach the internet." />
       <item value="SPIN INDETERMINATE" />
-      <item value="is Satation" />
       <item value="accidentally" />
       <item value="unmetered" />
       <item value="NET CAPABILITY NOT METERED" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="99" />
-        <entry key="ENGLISH" value="100" />
+        <entry key="CHINESE" value="100" />
+        <entry key="ENGLISH" value="101" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MARATHI" value="1" />
       </map>
