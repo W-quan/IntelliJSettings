@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hotspot" />
       <item value="This provider combines inputs for all possible location sources * to provide the best possible Location fix. It is implicitly * used for all API's that involve the {@link LocationRequest} * object." />
       <item value="* Name of the Fused location provider." />
       <item value="Requires the permission * {@link android.Manifest.permission#ACCESS_FINE_LOCATION}, although if the GPS is * not enabled this provider might only return coarse fixes." />
@@ -50,11 +51,10 @@
       <item value="* Indicates that this network should be able to reach the internet." />
       <item value="SPIN INDETERMINATE" />
       <item value="accidentally" />
-      <item value="unmetered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="109" />
+        <entry key="CHINESE" value="110" />
         <entry key="ENGLISH" value="110" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MARATHI" value="1" />
