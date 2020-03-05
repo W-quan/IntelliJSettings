@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="следующий" />
+      <item value="Wiedergabe" />
       <item value="uses Cleartext Traffic" />
       <item value="hotspot" />
       <item value="This provider combines inputs for all possible location sources * to provide the best possible Location fix. It is implicitly * used for all API's that involve the {@link LocationRequest} * object." />
@@ -49,13 +51,13 @@
       <item value="satisfy" />
       <item value="represent" />
       <item value="capability" />
-      <item value="* Indicates that this network should be able to reach the internet." />
-      <item value="SPIN INDETERMINATE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="112" />
+        <entry key="GERMAN" value="1" />
+        <entry key="RUSSIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MARATHI" value="1" />
       </map>
