@@ -824,6 +824,11 @@
       </value>
     </option>
     <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER" baseAttributes="KOTLIN_PARAMETER" />
+    <option name="KOTLIN_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="efefe8" />
+      </value>
+    </option>
     <option name="KOTLIN_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="aad52a" />
