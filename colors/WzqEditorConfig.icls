@@ -813,6 +813,11 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
+    <option name="KOTLIN_ABSTRACT_CLASS">
+      <value>
+        <option name="FOREGROUND" value="fa008f" />
+      </value>
+    </option>
     <option name="KOTLIN_CLASS">
       <value>
         <option name="FOREGROUND" value="f4005d" />
@@ -822,6 +827,11 @@
     <option name="KOTLIN_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="aad52a" />
+      </value>
+    </option>
+    <option name="KOTLIN_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="2b63fd" />
       </value>
     </option>
     <option name="KOTLIN_PARAMETER">
