@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="clip Path" />
+      <item value="* A Card view that clips the content of any shape, this should be done upstream in card, * working around it for now." />
+      <item value="* Determines if the plant should be watered. Returns true if [since]'s date &gt; date of last * watering + watering Interval; false otherwise." />
+      <item value="Embedded" />
+      <item value="Staggered grids are likely to have gaps at the edges of the layout. To avoid these gaps, * StaggeredGridLayoutManager can offset spans independently or move items between spans. You can * control this behavior via {@link #setGapStrategy(int)}. */" />
+      <item value="A LayoutManager that lays out children in a staggered grid formation. * It supports horizontal &amp; vertical layout as well as an ability to layout children in reverse. * &lt;p&gt;" />
+      <item value="Staggered Grid Layout Manager" />
+      <item value="garden" />
       <item value="snap" />
       <item value="Coordinator Layout" />
       <item value="ViewPager2 replaces {@link androidx.viewpager.widget.ViewPager}, addressing most of its * predecessor’s pain-points, including right-to-left layout support, vertical orientation, * modifiable Fragment collections, etc." />
@@ -43,19 +51,11 @@
       <item value="Returns the int descriptor. It's highly unlikely you should be calling this. Please discuss * your needs with a libcore maintainer before using this method. * @hide internal use only" />
       <item value="Instances of the file descriptor class serve as an opaque handle * to the underlying machine-specific structure representing an open * file, an open socket, or another source or sink of bytes. The * main practical use for a file descriptor is to create a * &lt;code&gt;FileInputStream&lt;/code&gt; or &lt;code&gt;FileOutputStream&lt;/code&gt; to * contain it." />
       <item value="* Adds the given transport type to this {@code NetworkCapability} instance. * Multiple transports may be applied sequentially. Note that when searching * for a network to satisfy a request, any listed in the request will satisfy the request. * For example {@code TRANSPORT_WIFI} and {@code TRANSPORT_ETHERNET} added to a * {@code NetworkCapabilities} would cause either a Wi-Fi network or an Ethernet network * to be selected. This is logically different than * {@code NetworkCapabilities.NET_CAPABILITY_*} listed above. *" />
-      <item value="* Adds the given transport requirement to this builder. These represent * the set of allowed transports for the request. Only networks using one * of these transports will satisfy the request. If no particular transports * are required, none should be specified here. See {@link NetworkCapabilities} * for {@code TRANSPORT_*} definitions. *" />
-      <item value="Indicates that this network is available for general use. If this is not set * applications should not attempt to communicate on this network. Note that this * is simply informative and not enforcement - enforcement is handled via other means. * Set by default." />
-      <item value="NET CAPABILITY NOT RESTRICTED" />
-      <item value="Indicates this is a network that has the ability to reach a Wi-Fi direct * peer." />
-      <item value="Similarly if an application * needs an unmetered network for a bulk transfer it can specify that rather than assuming * all cellular based connections are metered and all Wi-Fi based connections are not. */" />
-      <item value="Rather than indicate a need for Wi-Fi because an application * needs high bandwidth and risk obsolescence when a new, fast network appears (like LTE), * the application should specify it needs high bandwidth." />
-      <item value="Rather than indicate a need for" />
-      <item value="Rather than indicate a need for Wi-Fi because an application * needs high bandwidth and risk obsolescence when a new, f" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE" value="122" />
+        <entry key="ENGLISH" value="123" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="ROMANIAN" value="1" />

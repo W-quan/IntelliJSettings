@@ -807,6 +807,12 @@
         <option name="BACKGROUND" value="141414" />
       </value>
     </option>
+    <option name="KDOC_LINK">
+      <value>
+        <option name="FOREGROUND" value="1c5e9a" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="LABEL">
       <value>
         <option name="FONT_TYPE" value="2" />
