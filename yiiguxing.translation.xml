@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This is particularly important for main thread delivery and registrations bound to the * live cycle of an Activity or Fragment." />
+      <item value="Skipping subscriptions prevents race conditions * between {@link #unregister(Object)} and event delivery." />
       <item value="launch" />
       <item value="* Creates a localized description of this throwable. * Subclasses may override this method in order to produce a * locale-specific message. For subclasses that do not override this * method, the default implementation returns the same result as * {@code getMessage()}." />
       <item value="* OnConflict strategy constant to replace the old data and continue the transaction." />
@@ -49,13 +51,11 @@
       <item value="/* Set the destructor when we are sure we are initialized */" />
       <item value="* if we are preparsing, use the i_preparse_depth of the parent item */" />
       <item value="Retain" />
-      <item value="The policy here is to ignore that we were created using a different * libvlc_instance, because we don't really care *" />
-      <item value="* If needed, this waits for any other thread to release it." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="131" />
+        <entry key="ENGLISH" value="132" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
