@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="EXTRA STREAM" />
       <item value="* Asynchronously subscribes Observers to this ObservableSource on the specified {@link Scheduler}." />
       <item value="Asynchronously" />
       <item value="This is particularly important for main thread delivery and registrations bound to the * live cycle of an Activity or Fragment." />
@@ -50,12 +51,11 @@
       <item value="We don't want a high input priority here or we'll * end-up sucking up all the CPU time */" />
       <item value="* reads the stream, cleans up and waits" />
       <item value="* This is the &quot;normal&quot; thread that spawns the input processing chain," />
-      <item value="/* Set the destructor when we are sure we are initialized */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="133" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="CHINESE" value="134" />
+        <entry key="ENGLISH" value="135" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
