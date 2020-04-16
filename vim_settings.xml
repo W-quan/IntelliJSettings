@@ -1,6 +1,60 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>leak</entry>
+        <entry>auth</entry>
+        <entry>19:01</entry>
+        <entry>speech</entry>
+        <entry>0.3.</entry>
+        <entry>clear</entry>
+        <entry>0.4</entry>
+        <entry>version</entry>
+        <entry>;</entry>
+        <entry>layout</entry>
+        <entry>itemSpace</entry>
+        <entry>)</entry>
+        <entry>test</entry>
+        <entry>alert</entry>
+        <entry>vlc</entry>
+        <entry>git clone</entry>
+        <entry>cloning into</entry>
+        <entry>v18</entry>
+        <entry>libtool</entry>
+        <entry>map</entry>
+      </history-search>
+      <history-cmd>
+        <entry>214,220s/'/&quot;/g</entry>
+        <entry>214,220s/28.0.0/$root.ext.supportVersion/g</entry>
+        <entry>334</entry>
+        <entry>825</entry>
+        <entry>215</entry>
+        <entry>124</entry>
+        <entry>222</entry>
+        <entry>254</entry>
+        <entry>121</entry>
+        <entry>330</entry>
+        <entry>230</entry>
+        <entry>162</entry>
+        <entry>209</entry>
+        <entry>780</entry>
+        <entry>783</entry>
+        <entry>200</entry>
+        <entry>858</entry>
+        <entry>198</entry>
+        <entry>863</entry>
+        <entry>188</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
@@ -54,9 +108,336 @@
         <text>ctrl pressed J</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="false" />
-    </editor>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1586965434165">
+        <mark key="'" line="0" column="66" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/build.gradle" timestamp="1586758874452">
+        <mark key="[" line="8" column="54" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/fragment/LocalFileFragmnt.java" timestamp="1586795644223">
+        <mark key="[" line="224" column="0" />
+        <mark key="]" line="224" column="0" />
+        <mark key="^" line="222" column="12" />
+        <mark key="." line="224" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/tool/WifiHelper.java" timestamp="1586694053613">
+        <mark key="[" line="286" column="11" />
+        <mark key="]" line="286" column="17" />
+        <mark key="^" line="286" column="17" />
+        <mark key="." line="286" column="17" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/md3500/playerview/build.gradle" timestamp="1587030659552">
+        <mark key="[" line="36" column="56" />
+        <mark key="]" line="37" column="53" />
+        <mark key="^" line="37" column="53" />
+        <mark key="." line="37" column="53" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/AndroidManifest.xml" timestamp="1586699307218">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="61" column="86" />
+        <mark key="." line="61" column="86" />
+        <mark key="^" line="61" column="86" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/md3500/app/build.gradle" timestamp="1587030525205">
+        <mark key="[" line="23" column="47" />
+        <mark key="]" line="23" column="47" />
+        <mark key="." line="23" column="47" />
+        <mark key="^" line="23" column="48" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/mdc/VideoViewer.java" timestamp="1586923512500">
+        <mark key="'" line="104" column="18" />
+        <mark key="[" line="105" column="31" />
+        <mark key="]" line="105" column="67" />
+        <mark key="^" line="105" column="67" />
+        <mark key="." line="105" column="67" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/fragment/HomeFragment.java" timestamp="1586701536989">
+        <mark key="'" line="390" column="0" />
+        <mark key="[" line="396" column="0" />
+        <mark key="]" line="396" column="0" />
+        <mark key="." line="396" column="0" />
+        <mark key="^" line="394" column="39" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/md3500/gradle.properties" timestamp="1586755454974">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="23" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/base/MainApplication.java" timestamp="1586789646477">
+        <mark key="[" line="84" column="51" />
+        <mark key="]" line="84" column="51" />
+        <mark key="." line="84" column="51" />
+        <mark key="^" line="84" column="51" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/md3500/build.gradle" timestamp="1586758891134">
+        <mark key="'" line="8" column="55" />
+        <mark key="[" line="8" column="54" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/layout/fragment_home.xml" timestamp="1586795225557">
+        <mark key="[" line="235" column="32" />
+        <mark key="]" line="235" column="38" />
+        <mark key="^" line="235" column="38" />
+        <mark key="." line="235" column="38" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/act/VersionActivity.java" timestamp="1586413800449">
+        <mark key="[" line="148" column="43" />
+        <mark key="]" line="148" column="44" />
+        <mark key="." line="148" column="44" />
+        <mark key="^" line="148" column="36" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/md3500/playerview/proguard-rules.pro" timestamp="1587029969509">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="21" column="59" />
+        <mark key="^" line="21" column="59" />
+        <mark key="." line="21" column="59" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/raw/dashcam_samsung.mp4" timestamp="1586795367601">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/md3500/app/proguard-rules.pro" timestamp="1587031051406">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/fragment/PlayBackFileFragmnt.java" timestamp="1586413523549">
+        <mark key="[" line="363" column="84" />
+        <mark key="]" line="364" column="31" />
+        <mark key="." line="364" column="31" />
+        <mark key="^" line="364" column="31" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="480" column="32" filename="$USER_HOME$/Downloads/Carcam to Sundy/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/mdc/VideoViewer.java" />
+      <jump line="474" column="32" filename="$USER_HOME$/Downloads/Carcam to Sundy/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/mdc/VideoViewer.java" />
+      <jump line="32" column="10" filename="$USER_HOME$/Downloads/Carcam to Sundy/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/act/SettingActivity.java" />
+      <jump line="322" column="12" filename="$USER_HOME$/Downloads/Carcam to Sundy/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/act/SettingActivity.java" />
+      <jump line="33" column="17" filename="$USER_HOME$/Downloads/Carcam to Sundy/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/act/SettingActivity.java" />
+      <jump line="473" column="32" filename="$USER_HOME$/Downloads/Carcam to Sundy/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/mdc/VideoViewer.java" />
+      <jump line="58" column="22" filename="$USER_HOME$/Downloads/Carcam to Sundy/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/mdc/VideoViewer.java" />
+      <jump line="705" column="20" filename="$USER_HOME$/Downloads/Carcam to Sundy/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/act/MainActivity.java" />
+      <jump line="234" column="41" filename="$USER_HOME$/Downloads/Carcam to Sundy/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/fragment/HomeFragment.java" />
+      <jump line="236" column="22" filename="$USER_HOME$/Downloads/Carcam to Sundy/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/comment/CameraCommand.java" />
+      <jump line="331" column="10" filename="$USER_HOME$/Carcam to Sundy/md3500/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" />
+      <jump line="76" column="22" filename="$USER_HOME$/Carcam to Sundy/md3500/app/build.gradle" />
+      <jump line="163" column="32" filename="$USER_HOME$/Carcam to Sundy/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/act/MainActivity.java" />
+      <jump line="5" column="44" filename="$USER_HOME$/Workspace/Android/md3500/playerview/src/main/res/values/ids.xml" />
+      <jump line="156" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.infullmobile.android/videokit-release/1.1.2/b5b8d91d0b0a6417f4d80a354d2aa9df61cb9375/videokit-release-1.1.2-sources.jar!/processing/ffmpeg/videokit/VideoCommandBuilder.java" />
+      <jump line="1061" column="40" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/fragment/HomeFragment.java" />
+      <jump line="132" column="17" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/nicevideoplayer/NiceVideoPlayer.java" />
+      <jump line="68" column="27" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/rtspclient/RtspClient.java" />
+      <jump line="47" column="17" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/rtspclient/RtspClient.java" />
+      <jump line="239" column="26" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/rtspclient/RtspClinet/Socket/RtpSocket.java" />
+      <jump line="366" column="24" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/fragment/CMDVideoFragment.java" />
+      <jump line="509" column="20" filename="$USER_HOME$/Workspace/Android/md3500/playerview/src/main/java/com/dl7/player/media/IjkPlayerView.java" />
+      <jump line="56" column="27" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/act/PlayVideoActivity.java" />
+      <jump line="417" column="15" filename="$USER_HOME$/Workspace/Android/Demo/vlc-android/compile.sh" />
+      <jump line="274" column="60" filename="$USER_HOME$/Workspace/Android/Demo/vlc-android/compile.sh" />
+      <jump line="428" column="0" filename="$USER_HOME$/Workspace/Android/Demo/vlc-android/compile.sh" />
+      <jump line="346" column="14" filename="$USER_HOME$/Workspace/Android/Demo/vlc-android/libvlc/jni/libvlcjni-mediaplayer.c" />
+      <jump line="101" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.1.0/9865019bbd2d95e41dede3d8ebf964aa93f97766/appcompat-1.1.0-sources.jar!/androidx/appcompat/app/AppCompatActivity.java" />
+      <jump line="265" column="9" filename="$USER_HOME$/Workspace/Android/Demo/vlc-android/libvlc/jni/libvlcjni.c" />
+      <jump line="145" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ctiao/DanmakuFlameMaster/0.6.2/4dcf4fda2559c0c7a5c528cf015f13e67f41b63b/DanmakuFlameMaster-0.6.2-sources.jar!/master/flame/danmaku/ui/widget/DanmakuSurfaceView.java" />
+      <jump line="94" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robolectric/shadows-framework/4.2.1/f4d7cbb609007b2d76a4ef8dc9be6d8a6e3cda3e/shadows-framework-4.2.1-sources.jar!/org/robolectric/shadows/ShadowSurfaceView.java" />
+      <jump line="365" column="39" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/mdc/VideoViewer.java" />
+      <jump line="96" column="13" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/SurfaceView.java" />
+      <jump line="92" column="11" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/fragment/MapFragments.java" />
+      <jump line="292" column="16" filename="$USER_HOME$/Workspace/Android/Demo/vlc-android/vlc/src/input/input.c" />
+      <jump line="686" column="35" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/fragment/PlayBackFileFragmnt.java" />
+      <jump line="78" column="34" filename="$USER_HOME$/Workspace/Android/md3500/app/build.gradle" />
+      <jump line="93" column="52" filename="$USER_HOME$/Workspace/Android/md3500/app/build.gradle" />
+      <jump line="2564" column="14" filename="$USER_HOME$/Workspace/Android/md3500/playerview/src/main/java/com/dl7/player/media/IjkPlayerView.java" />
+      <jump line="254" column="47" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/fragment/MapFragments.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/fragment/MapFragments.java" />
+      <jump line="245" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/fragment/MapFragments.java" />
+      <jump line="447" column="33" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/location/LocationManager.java" />
+      <jump line="73" column="4" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/util/PhoneUtil.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/util/PhoneUtil.java" />
+      <jump line="71" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/util/PhoneUtil.java" />
+      <jump line="427" column="32" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/fragment/CMDVideoFragment.java" />
+      <jump line="714" column="32" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/fragment/HomeFragment.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-es/strings.xml" />
+      <jump line="278" column="40" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/act/MainActivity.java" />
+      <jump line="215" column="22" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/fragment/MapFragments.java" />
+      <jump line="149" column="0" filename="$USER_HOME$/Workspace/Android/zyDriverAPP/app/proguard-rules.pro" />
+      <jump line="21" column="34" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-de/strings.xml" />
+      <jump line="27" column="32" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-en/strings.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-it/strings.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-ja/strings.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-ko/strings.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-nl/strings.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-nl-rNL/strings.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-pl/strings.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-pt/strings.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-ru/strings.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-sv/strings.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-th/strings.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-tr/strings.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-tw/strings.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-uk/strings.xml" />
+      <jump line="21" column="7" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-zh/strings.xml" />
+      <jump line="1029" column="21" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/fragment/HomeFragment.java" />
+      <jump line="219" column="5" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/fragment/MapFragments.java" />
+      <jump line="658" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-fragment/27.0.1/6151785902da520bd0b31a9b943623721f9ff203/support-fragment-27.0.1-sources.jar!/android/support/v4/app/Fragment.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/layout/fragment_home.xml" />
+      <jump line="273" column="33" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-de/strings.xml" />
+      <jump line="267" column="24" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-es/strings.xml" />
+      <jump line="352" column="52" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-fr/strings.xml" />
+      <jump line="344" column="101" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-it/strings.xml" />
+      <jump line="261" column="23" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-ja/strings.xml" />
+      <jump line="356" column="63" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-ko/strings.xml" />
+      <jump line="341" column="79" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-nl/strings.xml" />
+      <jump line="5" column="30" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-nl/strings.xml" />
+      <jump line="341" column="80" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-nl-rNL/strings.xml" />
+      <jump line="349" column="98" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-pt/strings.xml" />
+      <jump line="261" column="24" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-ru/strings.xml" />
+      <jump line="272" column="24" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-sv/strings.xml" />
+      <jump line="359" column="77" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-th/strings.xml" />
+      <jump line="360" column="83" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-tr/strings.xml" />
+      <jump line="332" column="10" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-tw/strings.xml" />
+      <jump line="261" column="24" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-uk/strings.xml" />
+      <jump line="261" column="45" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-zh/strings.xml" />
+      <jump line="259" column="38" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-tw/strings.xml" />
+      <jump line="421" column="31" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/act/MainActivity.java" />
+      <jump line="96" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/comment/LoadingDialog.java" />
+      <jump line="391" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/fragment/HomeFragment.java" />
+      <jump line="232" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kaopiz/kprogresshud/1.0.5/e59e39f5b6b90c0b4bf16e3547eaf56164110321/kprogresshud-1.0.5-sources.jar!/com/kaopiz/kprogresshud/KProgressHUD.java" />
+      <jump line="294" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kaopiz/kprogresshud/1.0.5/e59e39f5b6b90c0b4bf16e3547eaf56164110321/kprogresshud-1.0.5-sources.jar!/com/kaopiz/kprogresshud/KProgressHUD.java" />
+      <jump line="1633" column="28" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/act/DevSettingActivity.java" />
+      <jump line="32" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.1.1/29acbdd4c7d904e414d33955e367b9561b13079f/eventbus-3.1.1-sources.jar!/org/greenrobot/eventbus/PendingPost.java" />
+      <jump line="8" column="55" filename="$USER_HOME$/Workspace/Android/md3500/build.gradle" />
+      <jump line="104" column="18" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/mdc/VideoViewer.java" />
+      <jump line="0" column="66" filename="/Dummy.txt" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="*" type="4">
+        <text>e</text>
+      </register>
+      <register name="-" type="4">
+        <text>/</text>
+      </register>
+      <register name="/" type="4">
+        <text>map</text>
+      </register>
+      <register name="o" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="0" type="2">
+        <text>#ijkplayer
+-keep class tv.danmaku.ijk.media.player.** {;}
+-keep class tv.danmaku.ijk.media.player.IjkMediaPlayer{;}
+-keep class tv.danmaku.ijk.media.player.ffmpeg.FFmpegApi{*;}</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">I2lqa3BsYXllcgota2VlcCBjbGFzcyB0di5kYW5tYWt1Lmlqay5tZWRpYS5wbGF5ZXIuKiogezt9Ci1rZWVwIGNsYXNzIHR2LmRhbm1ha3UuaWprLm1lZGlhLnBsYXllci5JamtNZWRpYVBsYXllcns7fQota2VlcCBjbGFzcyB0di5kYW5tYWt1Lmlqay5tZWRpYS5wbGF5ZXIuZmZtcGVnLkZGbXBlZ0FwaXsqO30K</text>
+      </register>
+      <register name="3" type="2">
+        <text>unused resource, fixed bugremove unused resource, fixed bug</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2hhcmVJbnRlbnQucHV0RXh0cmEoSW50ZW50LkVYVFJBX1NUUkVBTSwgVXJpLmZyb21GaWxlKGZpbGUpKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2hhcmVJbnRlbnQuc2V0QWN0aW9uKEludGVudC5BQ1RJT05fU0VORCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25OZXdWaWRlb0xheW91dChJVkxDVm91dCBpdmxjVm91dCwgaW50IGksIGludCBpMSwgaW50IGkyLCBpbnQgaTMsIGludCBpNCwgaW50IGk1KSB7CgogICAgfQoK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25IYXJkd2FyZUFjY2VsZXJhdGlvbkVycm9yKElWTENWb3V0IGl2bGNWb3V0KSB7CgogICAgfQoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgY29tcGlsZShuYW1lOiAnbGlidmxjLTMuMC4wLTEuOS44JywgZXh0OiAnYWFyJykKICAgIGltcGxlbWVudGF0aW9uICdvcmcudmlkZW9sYW4uYW5kcm9pZDpsaWJ2bGMtYWxsOjMuMi42Jwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdvcmcudmlkZW9sYW4uYW5kcm9pZDpsaWJ2bGMtYWxsOjMuMS4xMicK</text>
+      </register>
+      <register name=":" type="4">
+        <text>188</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>map</last-search>
+      <last-offset />
+      <last-pattern>map</last-pattern>
+      <last-replace>$root.ext.supportVersion</last-replace>
+      <last-substitute>28.0.0</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
