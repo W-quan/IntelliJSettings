@@ -112,7 +112,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1586965434165">
+      <file name="/Dummy.txt" timestamp="1587095641258">
         <mark key="'" line="0" column="66" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -134,10 +134,9 @@
         <mark key="." line="286" column="17" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/md3500/playerview/build.gradle" timestamp="1587030659552">
-        <mark key="[" line="36" column="56" />
-        <mark key="]" line="37" column="53" />
-        <mark key="^" line="37" column="53" />
-        <mark key="." line="37" column="53" />
+        <mark key="]" line="34" column="53" />
+        <mark key="^" line="34" column="53" />
+        <mark key="." line="34" column="53" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/AndroidManifest.xml" timestamp="1586699307218">
         <mark key="[" line="60" column="0" />
@@ -145,12 +144,13 @@
         <mark key="." line="61" column="86" />
         <mark key="^" line="61" column="86" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/md3500/app/build.gradle" timestamp="1587034640052">
+      <file name="$USER_HOME$/Workspace/Android/md3500/app/build.gradle" timestamp="1587095569839">
         <mark key="[" line="19" column="25" />
         <mark key="]" line="19" column="26" />
         <mark key="." line="19" column="26" />
         <mark key="^" line="23" column="48" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/net/wifi/WifiInfo.java" timestamp="1587092656492" />
       <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/mdc/VideoViewer.java" timestamp="1586923512500">
         <mark key="'" line="104" column="18" />
         <mark key="[" line="105" column="31" />
@@ -158,12 +158,12 @@
         <mark key="^" line="105" column="67" />
         <mark key="." line="105" column="67" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/fragment/HomeFragment.java" timestamp="1586701536989">
+      <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/fragment/HomeFragment.java" timestamp="1587095620383">
         <mark key="'" line="390" column="0" />
-        <mark key="[" line="396" column="0" />
-        <mark key="]" line="396" column="0" />
-        <mark key="." line="396" column="0" />
-        <mark key="^" line="394" column="39" />
+        <mark key="[" line="774" column="0" />
+        <mark key="]" line="774" column="0" />
+        <mark key="." line="774" column="0" />
+        <mark key="^" line="775" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/md3500/gradle.properties" timestamp="1586755454974">
         <mark key="[" line="18" column="0" />
@@ -323,13 +323,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICgoQmFzZUFjdCkgZ2V0QWN0aXZpdHkoKSkuaW5pdFNvY2tldCgpOyAgIC8v5oqK6L+Z6YeM5L+u5pS55L2N5pu/5o2iZnJhZ21lbnQK</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
@@ -394,31 +394,31 @@
 -keep class tv.danmaku.ijk.media.player.ffmpeg.FFmpegApi{*;}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICgoQmFzZUFjdCkgZ2V0QWN0aXZpdHkoKSkuaW5pdFNvY2tldCgpOyAgIC8v5oqK6L+Z6YeM5L+u5pS55L2N5pu/5o2iZnJhZ21lbnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2lqa3BsYXllcgota2VlcCBjbGFzcyB0di5kYW5tYWt1Lmlqay5tZWRpYS5wbGF5ZXIuKiogezt9Ci1rZWVwIGNsYXNzIHR2LmRhbm1ha3UuaWprLm1lZGlhLnBsYXllci5JamtNZWRpYVBsYXllcns7fQota2VlcCBjbGFzcyB0di5kYW5tYWt1Lmlqay5tZWRpYS5wbGF5ZXIuZmZtcGVnLkZGbXBlZ0FwaXsqO30K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICgoQmFzZUFjdCkgZ2V0QWN0aXZpdHkoKSkuaW5pdFNvY2tldCgpOyAgIC8v5oqK6L+Z6YeM5L+u5pS55L2N5pu/5o2iZnJhZ21lbnQK</text>
       </register>
       <register name="3" type="2">
-        <text>unused resource, fixed bugremove unused resource, fixed bug</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZmlIZWxwZXIuZ2V0V2lmaUNvbm5lY3Rpb25JbmZvKCkuZ2V0U1NJRCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hhcmVJbnRlbnQucHV0RXh0cmEoSW50ZW50LkVYVFJBX1NUUkVBTSwgVXJpLmZyb21GaWxlKGZpbGUpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFdpZmlNYW5hZ2VyIHdpZmlNYW5hZ2VyID0gKFdpZmlNYW5hZ2VyKSBnZXRDb250ZXh0KCkuZ2V0QXBwbGljYXRpb25Db250ZXh0KCkuZ2V0U3lzdGVtU2VydmljZShXSUZJX1NFUlZJQ0UpOwogICAgICAgICAgICAgICAgaWYgKHdpZmlNYW5hZ2VyID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBXaWZpSW5mbyB3aWZpSW5mbyA9IHdpZmlNYW5hZ2VyLmdldENvbm5lY3Rpb25JbmZvKCk7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hhcmVJbnRlbnQuc2V0QWN0aW9uKEludGVudC5BQ1RJT05fU0VORCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25OZXdWaWRlb0xheW91dChJVkxDVm91dCBpdmxjVm91dCwgaW50IGksIGludCBpMSwgaW50IGkyLCBpbnQgaTMsIGludCBpNCwgaW50IGk1KSB7CgogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25IYXJkd2FyZUFjY2VsZXJhdGlvbkVycm9yKElWTENWb3V0IGl2bGNWb3V0KSB7CgogICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgY29tcGlsZShuYW1lOiAnbGlidmxjLTMuMC4wLTEuOS44JywgZXh0OiAnYWFyJykKICAgIGltcGxlbWVudGF0aW9uICdvcmcudmlkZW9sYW4uYW5kcm9pZDpsaWJ2bGMtYWxsOjMuMi42Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdvcmcudmlkZW9sYW4uYW5kcm9pZDpsaWJ2bGMtYWxsOjMuMS4xMicK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFdpZmlNYW5hZ2VyIHdpZmlNYW5hZ2VyID0gKFdpZmlNYW5hZ2VyKSBnZXRDb250ZXh0KCkuZ2V0QXBwbGljYXRpb25Db250ZXh0KCkuZ2V0U3lzdGVtU2VydmljZShXSUZJX1NFUlZJQ0UpOwogICAgICAgICAgICAgICAgaWYgKHdpZmlNYW5hZ2VyID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBXaWZpSW5mbyB3aWZpSW5mbyA9IHdpZmlNYW5hZ2VyLmdldENvbm5lY3Rpb25JbmZvKCk7CgogICAgICAgICAgICAgICAgc3NpZCA9IHdpZmlJbmZvLmdldFNTSUQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>188</text>
