@@ -133,11 +133,10 @@
         <mark key="^" line="286" column="17" />
         <mark key="." line="286" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/md3500/playerview/build.gradle" timestamp="1587104136978">
-        <mark key="[" line="36" column="54" />
-        <mark key="]" line="36" column="55" />
-        <mark key="^" line="36" column="55" />
-        <mark key="." line="36" column="54" />
+      <file name="$USER_HOME$/Workspace/Android/md3500/playerview/build.gradle" timestamp="1587120626959">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/AndroidManifest.xml" timestamp="1586699307218">
         <mark key="[" line="60" column="0" />
@@ -323,8 +322,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>8.1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
@@ -395,31 +394,31 @@
 -keep class tv.danmaku.ijk.media.player.ffmpeg.FFmpegApi{*;}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICgoQmFzZUFjdCkgZ2V0QWN0aXZpdHkoKSkuaW5pdFNvY2tldCgpOyAgIC8v5oqK6L+Z6YeM5L+u5pS55L2N5pu/5o2iZnJhZ21lbnQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICgoQmFzZUFjdCkgZ2V0QWN0aXZpdHkoKSkuaW5pdFNvY2tldCgpOyAgIC8v5oqK6L+Z6YeM5L+u5pS55L2N5pu/5o2iZnJhZ21lbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZmlIZWxwZXIuZ2V0V2lmaUNvbm5lY3Rpb25JbmZvKCkuZ2V0U1NJRCgpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICgoQmFzZUFjdCkgZ2V0QWN0aXZpdHkoKSkuaW5pdFNvY2tldCgpOyAgIC8v5oqK6L+Z6YeM5L+u5pS55L2N5pu/5o2iZnJhZ21lbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFdpZmlNYW5hZ2VyIHdpZmlNYW5hZ2VyID0gKFdpZmlNYW5hZ2VyKSBnZXRDb250ZXh0KCkuZ2V0QXBwbGljYXRpb25Db250ZXh0KCkuZ2V0U3lzdGVtU2VydmljZShXSUZJX1NFUlZJQ0UpOwogICAgICAgICAgICAgICAgaWYgKHdpZmlNYW5hZ2VyID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBXaWZpSW5mbyB3aWZpSW5mbyA9IHdpZmlNYW5hZ2VyLmdldENvbm5lY3Rpb25JbmZvKCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZmlIZWxwZXIuZ2V0V2lmaUNvbm5lY3Rpb25JbmZvKCkuZ2V0U1NJRCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFdpZmlNYW5hZ2VyIHdpZmlNYW5hZ2VyID0gKFdpZmlNYW5hZ2VyKSBnZXRDb250ZXh0KCkuZ2V0QXBwbGljYXRpb25Db250ZXh0KCkuZ2V0U3lzdGVtU2VydmljZShXSUZJX1NFUlZJQ0UpOwogICAgICAgICAgICAgICAgaWYgKHdpZmlNYW5hZ2VyID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBXaWZpSW5mbyB3aWZpSW5mbyA9IHdpZmlNYW5hZ2VyLmdldENvbm5lY3Rpb25JbmZvKCk7Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFdpZmlNYW5hZ2VyIHdpZmlNYW5hZ2VyID0gKFdpZmlNYW5hZ2VyKSBnZXRDb250ZXh0KCkuZ2V0QXBwbGljYXRpb25Db250ZXh0KCkuZ2V0U3lzdGVtU2VydmljZShXSUZJX1NFUlZJQ0UpOwogICAgICAgICAgICAgICAgaWYgKHdpZmlNYW5hZ2VyID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBXaWZpSW5mbyB3aWZpSW5mbyA9IHdpZmlNYW5hZ2VyLmdldENvbm5lY3Rpb25JbmZvKCk7CgogICAgICAgICAgICAgICAgc3NpZCA9IHdpZmlJbmZvLmdldFNTSUQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>188</text>
