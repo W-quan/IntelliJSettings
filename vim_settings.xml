@@ -133,10 +133,11 @@
         <mark key="^" line="286" column="17" />
         <mark key="." line="286" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/md3500/playerview/build.gradle" timestamp="1587030659552">
-        <mark key="]" line="34" column="53" />
-        <mark key="^" line="34" column="53" />
-        <mark key="." line="34" column="53" />
+      <file name="$USER_HOME$/Workspace/Android/md3500/playerview/build.gradle" timestamp="1587104136978">
+        <mark key="[" line="36" column="54" />
+        <mark key="]" line="36" column="55" />
+        <mark key="^" line="36" column="55" />
+        <mark key="." line="36" column="54" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/AndroidManifest.xml" timestamp="1586699307218">
         <mark key="[" line="60" column="0" />
@@ -322,14 +323,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICgoQmFzZUFjdCkgZ2V0QWN0aXZpdHkoKSkuaW5pdFNvY2tldCgpOyAgIC8v5oqK6L+Z6YeM5L+u5pS55L2N5pu/5o2iZnJhZ21lbnQK</text>
+      <register name="&quot;" type="4">
+        <text>8.1</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>8.1</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
