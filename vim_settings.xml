@@ -150,7 +150,6 @@
         <mark key="." line="19" column="26" />
         <mark key="^" line="23" column="48" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/net/wifi/WifiInfo.java" timestamp="1587092656492" />
       <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/mdc/VideoViewer.java" timestamp="1586923512500">
         <mark key="'" line="104" column="18" />
         <mark key="[" line="105" column="31" />
@@ -216,9 +215,11 @@
         <mark key="." line="364" column="31" />
         <mark key="^" line="364" column="31" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/os/Looper.java" timestamp="1590463945907">
+        <mark key="'" line="453" column="13" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="480" column="32" filename="$USER_HOME$/Downloads/Carcam to Sundy/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/mdc/VideoViewer.java" />
       <jump line="474" column="32" filename="$USER_HOME$/Downloads/Carcam to Sundy/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/mdc/VideoViewer.java" />
       <jump line="32" column="10" filename="$USER_HOME$/Downloads/Carcam to Sundy/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/act/SettingActivity.java" />
       <jump line="322" column="12" filename="$USER_HOME$/Downloads/Carcam to Sundy/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/act/SettingActivity.java" />
@@ -318,6 +319,7 @@
       <jump line="8" column="55" filename="$USER_HOME$/Workspace/Android/md3500/build.gradle" />
       <jump line="104" column="18" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/mdc/VideoViewer.java" />
       <jump line="0" column="66" filename="/Dummy.txt" />
+      <jump line="453" column="13" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/os/Looper.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
