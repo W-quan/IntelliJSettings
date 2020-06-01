@@ -150,6 +150,7 @@
         <mark key="." line="19" column="26" />
         <mark key="^" line="23" column="48" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/build.gradle" timestamp="1590986771719" />
       <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/mdc/VideoViewer.java" timestamp="1586923512500">
         <mark key="'" line="104" column="18" />
         <mark key="[" line="105" column="31" />
@@ -176,7 +177,6 @@
         <mark key="." line="84" column="51" />
         <mark key="^" line="84" column="51" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/view/View.java" timestamp="1590652938735" />
       <file name="$USER_HOME$/Workspace/Android/md3500/build.gradle" timestamp="1586758891134">
         <mark key="'" line="8" column="55" />
         <mark key="[" line="8" column="54" />
@@ -189,12 +189,6 @@
         <mark key="]" line="235" column="38" />
         <mark key="^" line="235" column="38" />
         <mark key="." line="235" column="38" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/act/VersionActivity.java" timestamp="1586413800449">
-        <mark key="[" line="148" column="43" />
-        <mark key="]" line="148" column="44" />
-        <mark key="." line="148" column="44" />
-        <mark key="^" line="148" column="36" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/md3500/playerview/proguard-rules.pro" timestamp="1587029969509">
         <mark key="[" line="18" column="0" />
@@ -210,11 +204,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/fragment/PlayBackFileFragmnt.java" timestamp="1586413523549">
-        <mark key="[" line="363" column="84" />
-        <mark key="]" line="364" column="31" />
-        <mark key="." line="364" column="31" />
-        <mark key="^" line="364" column="31" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/gradle.properties" timestamp="1590986782968">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="1" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="1" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/os/Looper.java" timestamp="1590463945907">
         <mark key="'" line="453" column="13" />
@@ -325,14 +319,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>8.1</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
