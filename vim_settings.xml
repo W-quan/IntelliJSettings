@@ -112,12 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/fragment/LocalFileFragmnt.java" timestamp="1586795644223">
-        <mark key="[" line="224" column="0" />
-        <mark key="]" line="224" column="0" />
-        <mark key="^" line="222" column="12" />
-        <mark key="." line="224" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/AndroidManifest.xml" timestamp="1590991748087" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/build.gradle" timestamp="1590986771719" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/base/AbstractMvpPresenter.java" timestamp="1590995632079">
@@ -142,6 +136,9 @@
         <mark key="]" line="774" column="0" />
         <mark key="." line="774" column="0" />
         <mark key="^" line="775" column="28" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/diff_src_erban/java/com/yizhuan/xchat_android_core/home/model/HomeModel.java" timestamp="1590998911668">
+        <mark key="'" line="828" column="46" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/md3500/app/proguard-rules.pro" timestamp="1587031051406">
         <mark key="[" line="17" column="0" />
@@ -197,8 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="322" column="12" filename="$USER_HOME$/Downloads/Carcam to Sundy/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/act/SettingActivity.java" />
-      <jump line="33" column="17" filename="$USER_HOME$/Downloads/Carcam to Sundy/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/act/SettingActivity.java" />
       <jump line="473" column="32" filename="$USER_HOME$/Downloads/Carcam to Sundy/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/mdc/VideoViewer.java" />
       <jump line="58" column="22" filename="$USER_HOME$/Downloads/Carcam to Sundy/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/mdc/VideoViewer.java" />
       <jump line="705" column="20" filename="$USER_HOME$/Downloads/Carcam to Sundy/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/act/MainActivity.java" />
@@ -297,6 +292,8 @@
       <jump line="453" column="13" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/os/Looper.java" />
       <jump line="724" column="38" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/MainActivity.java" />
       <jump line="138" column="28" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/base/AbstractMvpPresenter.java" />
+      <jump line="90" column="29" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/diff_src_erban/java/com/yizhuan/xchat_android_core/home/model/HomeModel.java" />
+      <jump line="828" column="46" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/diff_src_erban/java/com/yizhuan/xchat_android_core/home/model/HomeModel.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
