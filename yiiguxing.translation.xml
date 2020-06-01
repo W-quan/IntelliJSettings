@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="room Processor" />
+      <item value="computation" />
       <item value="/** * Call this when something has changed which has invalidated the * layout of this view. This will schedule a layout pass of the view * tree. This should not be called while the view hierarchy is currently in a layout * pass ({@link #isInLayout()}. If layout is happening, the request may be honored at the * end of the current layout pass (and then layout will run again) or after the current * frame is drawn and the next layout occurs. * * &lt;p&gt;Subclasses which override this method should call the superclass method to * handle possible request-during-layout errors correctly.&lt;/p&gt; */" />
       <item value="Initialize the current thread as a looper. This gives you a chance to create handlers that then reference this" />
       <item value="Surface aspect ratio denominator" />
@@ -49,13 +51,11 @@
       <item value="/** Module probe flag * * A boolean during module probing when the probe is &quot;forced&quot;. * See \ref module_need()." />
       <item value="Common public properties for all VLC objects. * Object also have private properties maintained by the core, see * \ref vlc_object_internals_t" />
       <item value="/* synchronized Surfaces accessed by an other thread from JNI */" />
-      <item value="Facilities for retrieving external libraries and building them for systems that don't have the right versions." />
-      <item value="doc/ - Miscellaneous documentation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="137" />
+        <entry key="CHINESE" value="138" />
+        <entry key="ENGLISH" value="139" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
