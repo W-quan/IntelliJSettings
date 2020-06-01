@@ -112,44 +112,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587095641258">
-        <mark key="'" line="0" column="66" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/build.gradle" timestamp="1586758874452">
-        <mark key="[" line="8" column="54" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/fragment/LocalFileFragmnt.java" timestamp="1586795644223">
         <mark key="[" line="224" column="0" />
         <mark key="]" line="224" column="0" />
         <mark key="^" line="222" column="12" />
         <mark key="." line="224" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/tool/WifiHelper.java" timestamp="1586694053613">
-        <mark key="[" line="286" column="11" />
-        <mark key="]" line="286" column="17" />
-        <mark key="^" line="286" column="17" />
-        <mark key="." line="286" column="17" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/md3500/playerview/build.gradle" timestamp="1587120626959">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/AndroidManifest.xml" timestamp="1586699307218">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="61" column="86" />
-        <mark key="." line="61" column="86" />
-        <mark key="^" line="61" column="86" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/md3500/app/build.gradle" timestamp="1587095569839">
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="19" column="26" />
-        <mark key="." line="19" column="26" />
-        <mark key="^" line="23" column="48" />
-      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/AndroidManifest.xml" timestamp="1590991748087" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/build.gradle" timestamp="1590986771719" />
       <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/mdc/VideoViewer.java" timestamp="1586923512500">
         <mark key="'" line="104" column="18" />
@@ -158,6 +127,12 @@
         <mark key="^" line="105" column="67" />
         <mark key="." line="105" column="67" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/activity_bumo_main.xml" timestamp="1590992597667">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/other/activity/SplashActivity.java" timestamp="1590991836544" />
       <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/fragment/HomeFragment.java" timestamp="1587095620383">
         <mark key="'" line="390" column="0" />
         <mark key="[" line="774" column="0" />
@@ -165,36 +140,11 @@
         <mark key="." line="774" column="0" />
         <mark key="^" line="775" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/md3500/gradle.properties" timestamp="1586755454974">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="23" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/base/MainApplication.java" timestamp="1586789646477">
-        <mark key="[" line="84" column="51" />
-        <mark key="]" line="84" column="51" />
-        <mark key="." line="84" column="51" />
-        <mark key="^" line="84" column="51" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/md3500/build.gradle" timestamp="1586758891134">
-        <mark key="'" line="8" column="55" />
-        <mark key="[" line="8" column="54" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/layout/fragment_home.xml" timestamp="1586795225557">
         <mark key="[" line="235" column="32" />
         <mark key="]" line="235" column="38" />
         <mark key="^" line="235" column="38" />
         <mark key="." line="235" column="38" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/md3500/playerview/proguard-rules.pro" timestamp="1587029969509">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="21" column="59" />
-        <mark key="^" line="21" column="59" />
-        <mark key="." line="21" column="59" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/raw/dashcam_samsung.mp4" timestamp="1586795367601">
         <mark key="[" line="0" column="0" />
@@ -213,9 +163,40 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/os/Looper.java" timestamp="1590463945907">
         <mark key="'" line="453" column="13" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/base/factory/PresenterMvpFactoryImpl.java" timestamp="1590992014262" />
+      <file name="/Dummy.txt" timestamp="1587095641258">
+        <mark key="'" line="0" column="66" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/MainActivity.java" timestamp="1590992462364">
+        <mark key="'" line="724" column="38" />
+        <mark key="[" line="607" column="65" />
+        <mark key="]" line="607" column="80" />
+        <mark key="^" line="607" column="80" />
+        <mark key="." line="607" column="79" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/md3500/playerview/build.gradle" timestamp="1587120626959">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/md3500/app/build.gradle" timestamp="1587095569839">
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="19" column="26" />
+        <mark key="." line="19" column="26" />
+        <mark key="^" line="23" column="48" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/bean/RoomInfo.java" timestamp="1590992456075" />
+      <file name="$USER_HOME$/Workspace/Android/md3500/playerview/proguard-rules.pro" timestamp="1587029969509">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="21" column="59" />
+        <mark key="^" line="21" column="59" />
+        <mark key="." line="21" column="59" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="474" column="32" filename="$USER_HOME$/Downloads/Carcam to Sundy/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/mdc/VideoViewer.java" />
       <jump line="32" column="10" filename="$USER_HOME$/Downloads/Carcam to Sundy/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/act/SettingActivity.java" />
       <jump line="322" column="12" filename="$USER_HOME$/Downloads/Carcam to Sundy/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/act/SettingActivity.java" />
       <jump line="33" column="17" filename="$USER_HOME$/Downloads/Carcam to Sundy/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/act/SettingActivity.java" />
@@ -315,12 +296,13 @@
       <jump line="104" column="18" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/mdc/VideoViewer.java" />
       <jump line="0" column="66" filename="/Dummy.txt" />
       <jump line="453" column="13" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/os/Looper.java" />
+      <jump line="724" column="38" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/MainActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdHlsZT0iQHN0eWxlL2FwcF9iZ19zdHlsZSIK</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
@@ -391,31 +373,31 @@
 -keep class tv.danmaku.ijk.media.player.ffmpeg.FFmpegApi{*;}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZT0iQHN0eWxlL2FwcF9iZ19zdHlsZSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICgoQmFzZUFjdCkgZ2V0QWN0aXZpdHkoKSkuaW5pdFNvY2tldCgpOyAgIC8v5oqK6L+Z6YeM5L+u5pS55L2N5pu/5o2iZnJhZ21lbnQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICgoQmFzZUFjdCkgZ2V0QWN0aXZpdHkoKSkuaW5pdFNvY2tldCgpOyAgIC8v5oqK6L+Z6YeM5L+u5pS55L2N5pu/5o2iZnJhZ21lbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZmlIZWxwZXIuZ2V0V2lmaUNvbm5lY3Rpb25JbmZvKCkuZ2V0U1NJRCgpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICgoQmFzZUFjdCkgZ2V0QWN0aXZpdHkoKSkuaW5pdFNvY2tldCgpOyAgIC8v5oqK6L+Z6YeM5L+u5pS55L2N5pu/5o2iZnJhZ21lbnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFdpZmlNYW5hZ2VyIHdpZmlNYW5hZ2VyID0gKFdpZmlNYW5hZ2VyKSBnZXRDb250ZXh0KCkuZ2V0QXBwbGljYXRpb25Db250ZXh0KCkuZ2V0U3lzdGVtU2VydmljZShXSUZJX1NFUlZJQ0UpOwogICAgICAgICAgICAgICAgaWYgKHdpZmlNYW5hZ2VyID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBXaWZpSW5mbyB3aWZpSW5mbyA9IHdpZmlNYW5hZ2VyLmdldENvbm5lY3Rpb25JbmZvKCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZmlIZWxwZXIuZ2V0V2lmaUNvbm5lY3Rpb25JbmZvKCkuZ2V0U1NJRCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFdpZmlNYW5hZ2VyIHdpZmlNYW5hZ2VyID0gKFdpZmlNYW5hZ2VyKSBnZXRDb250ZXh0KCkuZ2V0QXBwbGljYXRpb25Db250ZXh0KCkuZ2V0U3lzdGVtU2VydmljZShXSUZJX1NFUlZJQ0UpOwogICAgICAgICAgICAgICAgaWYgKHdpZmlNYW5hZ2VyID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBXaWZpSW5mbyB3aWZpSW5mbyA9IHdpZmlNYW5hZ2VyLmdldENvbm5lY3Rpb25JbmZvKCk7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>188</text>
