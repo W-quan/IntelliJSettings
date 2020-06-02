@@ -112,38 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netease.nimlib/chatroom/6.4.0/43f729e8ad29a62dd88063053ace8b8b94bdba06/chatroom-6.4.0-sources.jar!/com/netease/nimlib/sdk/chatroom/ChatRoomService.java" timestamp="1591003123048">
-        <mark key="'" line="126" column="35" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/AndroidManifest.xml" timestamp="1590991748087" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/build.gradle" timestamp="1590986771719" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/base/AbstractMvpPresenter.java" timestamp="1590995632079">
-        <mark key="'" line="138" column="28" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/activity_bumo_main.xml" timestamp="1590992597667">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/net/rxnet/manager/RxNetManager.java" timestamp="1591004842605" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/other/activity/SplashActivity.java" timestamp="1590991836544" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/presenter/AvRoomPresenter.java" timestamp="1591004632809" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/diff_src_erban/java/com/yizhuan/xchat_android_core/home/model/HomeModel.java" timestamp="1590998911668">
-        <mark key="'" line="828" column="46" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/activity/AVRoomActivity.java" timestamp="1591002851087">
-        <mark key="'" line="151" column="23" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/gradle.properties" timestamp="1590986782968">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="1" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="1" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/home/bean/HomeRecommendInfo.java" timestamp="1591001659681">
-        <mark key="'" line="103" column="27" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/base/factory/PresenterMvpFactoryImpl.java" timestamp="1590992014262" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/utils/SingleToastUtil.java" timestamp="1591002777599">
         <mark key="'" line="89" column="20" />
       </file>
@@ -154,20 +122,38 @@
         <mark key="^" line="607" column="80" />
         <mark key="." line="607" column="79" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/bean/RoomInfo.java" timestamp="1591005653829" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netease.nimlib/chatroom/6.4.0/43f729e8ad29a62dd88063053ace8b8b94bdba06/chatroom-6.4.0-sources.jar!/com/netease/nimlib/sdk/chatroom/ChatRoomService.java" timestamp="1591003123048">
+        <mark key="'" line="126" column="35" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/build.gradle" timestamp="1591069049596" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/base/AbstractMvpPresenter.java" timestamp="1590995632079">
+        <mark key="'" line="138" column="28" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/activity_bumo_main.xml" timestamp="1590992597667">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/NewHomeFragment.java" timestamp="1590996056301">
         <mark key="[" line="287" column="102" />
         <mark key="]" line="287" column="102" />
         <mark key="^" line="287" column="102" />
         <mark key="." line="287" column="101" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/diff_src_erban/java/com/yizhuan/xchat_android_core/home/model/HomeModel.java" timestamp="1590998911668">
+        <mark key="'" line="828" column="46" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/activity/AVRoomActivity.java" timestamp="1591069061845">
+        <mark key="'" line="133" column="12" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/utils/config/BasicConfig.java" timestamp="1591002676644">
         <mark key="'" line="89" column="19" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/home/bean/HomeRecommendInfo.java" timestamp="1591001659681">
+        <mark key="'" line="103" column="27" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="331" column="10" filename="$USER_HOME$/Carcam to Sundy/md3500/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" />
-      <jump line="76" column="22" filename="$USER_HOME$/Carcam to Sundy/md3500/app/build.gradle" />
       <jump line="163" column="32" filename="$USER_HOME$/Carcam to Sundy/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/act/MainActivity.java" />
       <jump line="5" column="44" filename="$USER_HOME$/Workspace/Android/md3500/playerview/src/main/res/values/ids.xml" />
       <jump line="156" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.infullmobile.android/videokit-release/1.1.2/b5b8d91d0b0a6417f4d80a354d2aa9df61cb9375/videokit-release-1.1.2-sources.jar!/processing/ffmpeg/videokit/VideoCommandBuilder.java" />
@@ -266,6 +252,8 @@
       <jump line="89" column="19" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/utils/config/BasicConfig.java" />
       <jump line="89" column="20" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/utils/SingleToastUtil.java" />
       <jump line="126" column="35" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netease.nimlib/chatroom/6.4.0/43f729e8ad29a62dd88063053ace8b8b94bdba06/chatroom-6.4.0-sources.jar!/com/netease/nimlib/sdk/chatroom/ChatRoomService.java" />
+      <jump line="517" column="55" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/activity/AVRoomActivity.java" />
+      <jump line="133" column="12" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/activity/AVRoomActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
