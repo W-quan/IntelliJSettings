@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tv daily task" />
       <item value="room Processor" />
       <item value="computation" />
       <item value="/** * Call this when something has changed which has invalidated the * layout of this view. This will schedule a layout pass of the view * tree. This should not be called while the view hierarchy is currently in a layout * pass ({@link #isInLayout()}. If layout is happening, the request may be honored at the * end of the current layout pass (and then layout will run again) or after the current * frame is drawn and the next layout occurs. * * &lt;p&gt;Subclasses which override this method should call the superclass method to * handle possible request-during-layout errors correctly.&lt;/p&gt; */" />
@@ -50,12 +51,11 @@
       <item value="* Root VLC object of the objects tree that this object belongs in." />
       <item value="/** Module probe flag * * A boolean during module probing when the probe is &quot;forced&quot;. * See \ref module_need()." />
       <item value="Common public properties for all VLC objects. * Object also have private properties maintained by the core, see * \ref vlc_object_internals_t" />
-      <item value="/* synchronized Surfaces accessed by an other thread from JNI */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="140" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
