@@ -112,6 +112,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/widget/MessageView.java" timestamp="1591083350517" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/utils/SingleToastUtil.java" timestamp="1591002777599">
         <mark key="'" line="89" column="20" />
       </file>
@@ -124,6 +125,11 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netease.nimlib/chatroom/6.4.0/43f729e8ad29a62dd88063053ace8b8b94bdba06/chatroom-6.4.0-sources.jar!/com/netease/nimlib/sdk/chatroom/ChatRoomService.java" timestamp="1591003123048">
         <mark key="'" line="126" column="35" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.19/6b3e317b749ca2eeb0d8a84a0bf656299b5258cf/rxjava-2.2.19-sources.jar!/io/reactivex/subjects/PublishSubject.java" timestamp="1591083517562" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/manager/ChatRoomEventNotice.java" timestamp="1591083647375" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/manager/NimChatRoomManager.java" timestamp="1591083846745">
+        <mark key="'" line="185" column="39" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/base/AbstractMvpPresenter.java" timestamp="1590995632079">
         <mark key="'" line="138" column="28" />
@@ -165,7 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1061" column="40" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/fragment/HomeFragment.java" />
       <jump line="132" column="17" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/nicevideoplayer/NiceVideoPlayer.java" />
       <jump line="68" column="27" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/rtspclient/RtspClient.java" />
       <jump line="47" column="17" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/rtspclient/RtspClient.java" />
@@ -265,6 +270,7 @@
       <jump line="553" column="24" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/activity/AVRoomActivity.java" />
       <jump line="924" column="21" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/activity/AVRoomActivity.java" />
       <jump line="28" column="95" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/widget/RoomAnnouncementView.java" />
+      <jump line="185" column="39" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/manager/NimChatRoomManager.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">

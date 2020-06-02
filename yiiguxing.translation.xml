@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="volatile" />
       <item value="Room Charm Rank View" />
       <item value="unregister" />
       <item value="mutate" />
@@ -50,12 +51,11 @@
       <item value="&gt;This provider can be used to passively receive location updates * when other applications or services request them without actually requesting * the locations yourself." />
       <item value="A special location provider for receiving locations without actually initiating * a location fix. *" />
       <item value="Prior" />
-      <item value="Prior to {@link android.os.Build.VERSION_CODES#JELLY_BEAN_MR1}, this method * always returned the SSID with no quotes around it." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="147" />
+        <entry key="ENGLISH" value="148" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
