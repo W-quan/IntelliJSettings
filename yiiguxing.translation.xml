@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Room Charm Rank View" />
+      <item value="unregister" />
+      <item value="mutate" />
+      <item value="against" />
+      <item value="guard" />
+      <item value="iterator" />
+      <item value="detached" />
       <item value="tv daily task" />
       <item value="room Processor" />
       <item value="computation" />
@@ -44,18 +51,11 @@
       <item value="A special location provider for receiving locations without actually initiating * a location fix. *" />
       <item value="Prior" />
       <item value="Prior to {@link android.os.Build.VERSION_CODES#JELLY_BEAN_MR1}, this method * always returned the SSID with no quotes around it." />
-      <item value="is Satation" />
-      <item value="STATION IP" />
-      <item value="minimum time interval between location updates, in milliseconds" />
-      <item value="toggle visibility of listen_order_button while WebSocket connect or disconnected" />
-      <item value="* Root VLC object of the objects tree that this object belongs in." />
-      <item value="/** Module probe flag * * A boolean during module probing when the probe is &quot;forced&quot;. * See \ref module_need()." />
-      <item value="Common public properties for all VLC objects. * Object also have private properties maintained by the core, see * \ref vlc_object_internals_t" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="139" />
-        <entry key="ENGLISH" value="140" />
+        <entry key="CHINESE" value="146" />
+        <entry key="ENGLISH" value="147" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
