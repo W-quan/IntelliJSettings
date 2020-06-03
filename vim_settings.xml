@@ -128,6 +128,7 @@
         <mark key="]" line="26" column="34" />
         <mark key="." line="26" column="34" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/model/AvRoomModel.java" timestamp="1591153551622" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/manager/AvRoomDataManager.java" timestamp="1591084811208">
         <mark key="'" line="691" column="42" />
       </file>
@@ -169,7 +170,6 @@
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/widget/RoomHeatView.java" timestamp="1591150445991">
         <mark key="'" line="60" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/build.gradle" timestamp="1591084638011" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/widget/RoomAnnouncementView.java" timestamp="1591149337051">
         <mark key="'" line="27" column="95" />
         <mark key="[" line="83" column="0" />
