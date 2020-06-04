@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Create a new component identifier from a Context and Class object." />
       <item value="¡" />
       <item value="retrieving playback state and metadata changes" />
       <item value="controlling the session via transport controls" />
@@ -50,12 +51,11 @@
       <item value="Asynchronously" />
       <item value="This is particularly important for main thread delivery and registrations bound to the * live cycle of an Activity or Fragment." />
       <item value="Skipping subscriptions prevents race conditions * between {@link #unregister(Object)} and event delivery." />
-      <item value="launch" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="151" />
+        <entry key="ENGLISH" value="152" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
