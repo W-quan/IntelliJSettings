@@ -113,6 +113,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Workspace/Android/Demo/uamp/common/src/main/java/com/example/android/uamp/common/MusicServiceConnection.kt" timestamp="1591243185485" />
+      <file name="$USER_HOME$/Workspace/Android/Demo/uamp/build.gradle" timestamp="1591250907054" />
       <file name="$USER_HOME$/Workspace/Android/Demo/uamp/README.md" timestamp="1591234111995" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/app/VoiceApplication.java" timestamp="1591176997015">
         <mark key="[" line="1123" column="0" />
@@ -147,7 +148,6 @@
       <file name="$USER_HOME$/Workspace/Android/Demo/uamp/app/src/main/java/com/example/android/uamp/MainActivity.kt" timestamp="1591238380890" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/content/ComponentName.java" timestamp="1591238444400" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.media/media/1.0.1/47b07b12e00d67295d73ffde730c759b2dfc4c11/media-1.0.1-sources.jar!/androidx/media/session/MediaButtonReceiver.java" timestamp="1591240932547" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/BannerAdapter.java" timestamp="1591166945467" />
       <file name="$USER_HOME$/Workspace/Android/Demo/uamp/common/src/main/java/com/example/android/uamp/media/MusicService.kt" timestamp="1591238313178">
         <mark key="'" line="371" column="42" />
       </file>
