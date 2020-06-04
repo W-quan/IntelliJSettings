@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Make sure all annotation processors are incremental to improve your build speed." />
+      <item value="incremental" />
       <item value="* Create a new component identifier from a Context and Class object." />
       <item value="¡" />
       <item value="retrieving playback state and metadata changes" />
@@ -49,13 +51,11 @@
       <item value="EXTRA STREAM" />
       <item value="* Asynchronously subscribes Observers to this ObservableSource on the specified {@link Scheduler}." />
       <item value="Asynchronously" />
-      <item value="This is particularly important for main thread delivery and registrations bound to the * live cycle of an Activity or Fragment." />
-      <item value="Skipping subscriptions prevents race conditions * between {@link #unregister(Object)} and event delivery." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="154" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
