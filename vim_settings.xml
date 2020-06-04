@@ -122,11 +122,6 @@
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/session/MediaController.java" timestamp="1591241182664" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.media/media/1.0.1/47b07b12e00d67295d73ffde730c759b2dfc4c11/media-1.0.1-sources.jar!/android/support/v4/media/session/PlaybackStateCompat.java" timestamp="1591240091110" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_audio_player/java/com/wujie/ermeng/audio/player/activity/AudioPlayingActivity.java" timestamp="1591175436368">
-        <mark key="[" line="272" column="0" />
-        <mark key="]" line="272" column="0" />
-        <mark key="." line="272" column="0" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.media/media/1.0.1/47b07b12e00d67295d73ffde730c759b2dfc4c11/media-1.0.1-sources.jar!/android/support/v4/media/MediaBrowserCompat.java" timestamp="1591239250092">
         <mark key="'" line="293" column="16" />
       </file>
@@ -149,6 +144,12 @@
       <file name="$USER_HOME$/Workspace/Android/Demo/uamp/app/src/main/java/com/example/android/uamp/MainActivity.kt" timestamp="1591238380890" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/content/ComponentName.java" timestamp="1591238444400" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.media/media/1.0.1/47b07b12e00d67295d73ffde730c759b2dfc4c11/media-1.0.1-sources.jar!/androidx/media/session/MediaButtonReceiver.java" timestamp="1591240932547" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeFragmentAdapter.java" timestamp="1591254521857">
+        <mark key="[" line="638" column="62" />
+        <mark key="]" line="638" column="63" />
+        <mark key="^" line="609" column="51" />
+        <mark key="." line="638" column="63" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Demo/uamp/common/src/main/java/com/example/android/uamp/media/MusicService.kt" timestamp="1591238313178">
         <mark key="'" line="371" column="42" />
       </file>
