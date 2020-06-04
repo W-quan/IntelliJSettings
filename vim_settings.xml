@@ -115,6 +115,7 @@
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/model/AvRoomModel.java" timestamp="1591153551622" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/audio_engine/zego/ZegoEngineManager.java" timestamp="1591165467646" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.1.0/9865019bbd2d95e41dede3d8ebf964aa93f97766/appcompat-1.1.0-sources.jar!/androidx/appcompat/app/AppCompatDelegate.java" timestamp="1591165216174" />
+      <file name="$USER_HOME$/Workspace/Android/Demo/uamp/README.md" timestamp="1591234111995" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/widget/RoomOwnerView.java" timestamp="1591149421604">
         <mark key="'" line="158" column="16" />
         <mark key="[" line="35" column="35" />
@@ -143,12 +144,6 @@
         <mark key="[" line="740" column="0" />
         <mark key="]" line="741" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/widget/RoomRankView.java" timestamp="1591149378677">
-        <mark key="'" line="103" column="16" />
-        <mark key="[" line="26" column="34" />
-        <mark key="]" line="26" column="34" />
-        <mark key="." line="26" column="34" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/im/recent/RecentContactsFragment.java" timestamp="1591173109913" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/utils/MediaPlayerUtils.java" timestamp="1591179377454">
         <mark key="'" line="227" column="19" />
@@ -166,17 +161,11 @@
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/widget/RoomHeatView.java" timestamp="1591150445991">
         <mark key="'" line="60" column="16" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Demo/uamp/app/src/main/java/com/example/android/uamp/MainActivity.kt" timestamp="1591236734004" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/manager/RoomEvent.java" timestamp="1591154753940">
         <mark key="'" line="208" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/BannerAdapter.java" timestamp="1591166945467" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/widget/RoomAnnouncementView.java" timestamp="1591149337051">
-        <mark key="'" line="27" column="95" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-        <mark key="^" line="25" column="58" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1591152179119">
         <mark key="[" line="278" column="0" />
         <mark key="]" line="278" column="0" />

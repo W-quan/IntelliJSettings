@@ -1,6 +1,31 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="¡" />
+      <item value="retrieving playback state and metadata changes" />
+      <item value="controlling the session via transport controls" />
+      <item value="Creating a MediaController for the current media session which can be used by view models for:" />
+      <item value="Allowing view models to retrieve the list of albums and songs by subscribing to changes in the MusicService's list of media items via subscribe" />
+      <item value="wrapper" />
+      <item value="singleton" />
+      <item value="This is achieved using LiveData types." />
+      <item value="The Activity and Fragments are backed by their own view models. The view model represents the underlying state of the corresponding view. When the model changes, such as" />
+      <item value="achieved" />
+      <item value="reflect" />
+      <item value="corresponding" />
+      <item value="underlying" />
+      <item value="separation" />
+      <item value="UAMP achieves this by using a Model-View-ViewModel architecture. This allows a separation of responsibilities between each layer." />
+      <item value="see changes in the underlying player, such as playback duration" />
+      <item value="Preparing media sources from URIs using UampPlaybackPreparer" />
+      <item value="glue" />
+      <item value="Diagram" />
+      <item value="communicate" />
+      <item value="It provides various mechanisms for controlling playback, receiving status updates and retrieving metadata about the current media." />
+      <item value="represents an ongoing media playback session" />
+      <item value="decoupling playback from the app's UI." />
+      <item value="decoupling" />
+      <item value="discover" />
       <item value="banner" />
       <item value="修复直播列表Banner间距问题" />
       <item value="set Hint View" />
@@ -26,31 +51,6 @@
       <item value="This is particularly important for main thread delivery and registrations bound to the * live cycle of an Activity or Fragment." />
       <item value="Skipping subscriptions prevents race conditions * between {@link #unregister(Object)} and event delivery." />
       <item value="launch" />
-      <item value="* Creates a localized description of this throwable. * Subclasses may override this method in order to produce a * locale-specific message. For subclasses that do not override this * method, the default implementation returns the same result as * {@code getMessage()}." />
-      <item value="* OnConflict strategy constant to replace the old data and continue the transaction." />
-      <item value="coroutine Scope" />
-      <item value="Coroutine Worker" />
-      <item value="populate" />
-      <item value="DISTINCT" />
-      <item value="clip Path" />
-      <item value="* A Card view that clips the content of any shape, this should be done upstream in card, * working around it for now." />
-      <item value="* Determines if the plant should be watered. Returns true if [since]'s date &gt; date of last * watering + watering Interval; false otherwise." />
-      <item value="Embedded" />
-      <item value="Staggered grids are likely to have gaps at the edges of the layout. To avoid these gaps, * StaggeredGridLayoutManager can offset spans independently or move items between spans. You can * control this behavior via {@link #setGapStrategy(int)}. */" />
-      <item value="A LayoutManager that lays out children in a staggered grid formation. * It supports horizontal &amp; vertical layout as well as an ability to layout children in reverse. * &lt;p&gt;" />
-      <item value="Staggered Grid Layout Manager" />
-      <item value="garden" />
-      <item value="snap" />
-      <item value="Coordinator Layout" />
-      <item value="ViewPager2 replaces {@link androidx.viewpager.widget.ViewPager}, addressing most of its * predecessor’s pain-points, including right-to-left layout support, vertical orientation, * modifiable Fragment collections, etc." />
-      <item value="следующий" />
-      <item value="Wiedergabe" />
-      <item value="uses Cleartext Traffic" />
-      <item value="hotspot" />
-      <item value="This provider combines inputs for all possible location sources * to provide the best possible Location fix. It is implicitly * used for all API's that involve the {@link LocationRequest} * object." />
-      <item value="* Name of the Fused location provider." />
-      <item value="Requires the permission * {@link android.Manifest.permission#ACCESS_FINE_LOCATION}, although if the GPS is * not enabled this provider might only return coarse fixes." />
-      <item value="You can query the {@link Location#getProvider()} method to determine * the origin of the location update." />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,6 +62,15 @@
         <entry key="MARATHI" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="4b8c0dd3e2395c8d" />
+      </youdao-translate>
     </option>
   </component>
 </application>
