@@ -66,7 +66,6 @@
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
-    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="4b8c0dd3e2395c8d" />
