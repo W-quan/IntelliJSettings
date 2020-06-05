@@ -113,9 +113,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.19/6b3e317b749ca2eeb0d8a84a0bf656299b5258cf/rxjava-2.2.19-sources.jar!/io/reactivex/Single.java" timestamp="1591328711353" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/application/XChatApplication.java" timestamp="1591257873631">
-        <mark key="'" line="264" column="8" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/presenter/LiveRoomPresenter.java" timestamp="1591329151573" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.19/6b3e317b749ca2eeb0d8a84a0bf656299b5258cf/rxjava-2.2.19-sources.jar!/io/reactivex/processors/PublishProcessor.java" timestamp="1591329685751" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/AndroidManifest.xml" timestamp="1591340383303">
@@ -135,6 +132,9 @@
         <mark key="]" line="142" column="0" />
         <mark key="." line="142" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/widget/GiftView.java" timestamp="1591342030204">
+        <mark key="'" line="212" column="17" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/gradle.properties" timestamp="1591324793573">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="1" />
@@ -153,11 +153,6 @@
         <mark key="." line="78" column="19" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/manager/ChatRoomEventNotice.java" timestamp="1591329455521" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/build.gradle" timestamp="1591258290834">
-        <mark key="[" line="17" column="65" />
-        <mark key="]" line="17" column="66" />
-        <mark key="." line="17" column="66" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/manager/WuJieChatRoomManager.java" timestamp="1591328763197" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/radish/task/activity/TaskCenterActivity.java" timestamp="1591339784978">
         <mark key="'" line="70" column="60" />
@@ -169,6 +164,9 @@
         <mark key="]" line="7" column="23" />
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="22" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/widget/GiftV2View.java" timestamp="1591341808445">
+        <mark key="'" line="387" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/widget/RoomAttentionDialog.java" timestamp="1591327607734">
         <mark key="[" line="59" column="0" />
@@ -188,8 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="16" filename="$USER_HOME$/Workspace/Android/Demo/vlc-android/vlc/src/input/input.c" />
-      <jump line="686" column="35" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/fragment/PlayBackFileFragmnt.java" />
       <jump line="78" column="34" filename="$USER_HOME$/Workspace/Android/md3500/app/build.gradle" />
       <jump line="93" column="52" filename="$USER_HOME$/Workspace/Android/md3500/app/build.gradle" />
       <jump line="2564" column="14" filename="$USER_HOME$/Workspace/Android/md3500/playerview/src/main/java/com/dl7/player/media/IjkPlayerView.java" />
@@ -288,6 +284,8 @@
       <jump line="6" column="55" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/layout_room_attention.xml" />
       <jump line="93" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/layout_room_attention.xml" />
       <jump line="70" column="60" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/radish/task/activity/TaskCenterActivity.java" />
+      <jump line="212" column="17" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/widget/GiftView.java" />
+      <jump line="387" column="16" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/widget/GiftV2View.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
