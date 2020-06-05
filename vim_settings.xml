@@ -121,12 +121,6 @@
         <mark key="^" line="712" column="26" />
         <mark key="." line="712" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/build.gradle" timestamp="1591260639853">
-        <mark key="[" line="180" column="21" />
-        <mark key="]" line="180" column="21" />
-        <mark key="." line="180" column="21" />
-        <mark key="^" line="180" column="20" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/manager/ChatRoomManager.java" timestamp="1591328384996">
         <mark key="[" line="142" column="0" />
         <mark key="]" line="142" column="0" />
@@ -153,6 +147,7 @@
         <mark key="." line="78" column="19" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/manager/ChatRoomEventNotice.java" timestamp="1591329455521" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/widget/callback/RoomBottomViewWrapper.java" timestamp="1591342988655" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/manager/WuJieChatRoomManager.java" timestamp="1591328763197" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/radish/task/activity/TaskCenterActivity.java" timestamp="1591339784978">
         <mark key="'" line="70" column="60" />
@@ -180,9 +175,9 @@
         <mark key="^" line="321" column="8" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeFragmentAdapter.java" timestamp="1591322637662">
-        <mark key="[" line="652" column="0" />
-        <mark key="]" line="652" column="0" />
-        <mark key="." line="652" column="0" />
+        <mark key="[" line="654" column="0" />
+        <mark key="]" line="654" column="0" />
+        <mark key="." line="654" column="0" />
       </file>
     </filemarks>
     <jumps>
