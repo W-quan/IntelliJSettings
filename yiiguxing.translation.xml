@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decorated" />
+      <item value="to set the * corresponding custom views to display." />
+      <item value="set Custom Heads Up Content View" />
+      <item value="Instead of providing a media notification that is completely custom, a developer can set * this style and still obtain system decorations like the notification header with the expand * affordance and actions." />
+      <item value="* Notification style for media custom views that are decorated by the system." />
+      <item value="Decorated Media Custom View Style" />
+      <item value="Notifications created with MediaStyle will have their category set to * {@link androidx.core.app.NotificationCompat#CATEGORY_TRANSPORT CATEGORY_TRANSPORT} * unless you set a different category using * {@link androidx.core.app.NotificationCompat.Builder#setCategory(String) * setCategory()}." />
+      <item value="Unlike the other styles provided here, MediaStyle can also modify the standard-size * content view; by providing action indices to * {@link #setShowActionsInCompactView(int...)} you can promote up to 3 actions to be displayed * in the standard view alongside the usual content." />
+      <item value="* be treated as album artwork." />
+      <item value="* pushbuttons, suitable for transport controls. The Bitmap given to" />
+      <item value="* #addAction(int, CharSequence, PendingIntent) addAction} will be shown as icon-only" />
+      <item value="* In the expanded form, up to 5" />
+      <item value="you can promote up to 3 actions to be displayed * in the standard view alongside the usual content." />
       <item value="/** * Add an action to this notification. Actions are typically displayed by * the system as a button adjacent to the notification content. * &lt;br&gt; * Action buttons won't appear on platforms prior to Android 4.1. Action * buttons depend on expanded notifications, which are only available in Android 4.1 * and later. To ensure that an action button's functionality is always available, first * implement the functionality in the {@link android.app.Activity} that starts when a user * clicks the notification (see {@link #setContentIntent setContentIntent()}), and then * enhance the notification by implementing the same functionality with * {@link #addAction addAction()}. *" />
       <item value="start a radio station based on the current item or skip ahead by * 30 seconds." />
       <item value="* e.g. start a radio station based on the current item or skip ahead by" />
@@ -38,24 +51,11 @@
       <item value="UAMP achieves this by using a Model-View-ViewModel architecture. This allows a separation of responsibilities between each layer." />
       <item value="see changes in the underlying player, such as playback duration" />
       <item value="Preparing media sources from URIs using UampPlaybackPreparer" />
-      <item value="glue" />
-      <item value="Diagram" />
-      <item value="communicate" />
-      <item value="It provides various mechanisms for controlling playback, receiving status updates and retrieving metadata about the current media." />
-      <item value="represents an ongoing media playback session" />
-      <item value="decoupling playback from the app's UI." />
-      <item value="decoupling" />
-      <item value="discover" />
-      <item value="banner" />
-      <item value="修复直播列表Banner间距问题" />
-      <item value="set Hint View" />
-      <item value="Specifies the radius for the corners of the gradient. If this is &gt; 0, * then the drawable is drawn in a round-rectangle, rather than a * rectangle. This property is honored only when the shape is of type * {@link #RECTANGLE}." />
-      <item value="volatile" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="170" />
-        <entry key="ENGLISH" value="171" />
+        <entry key="CHINESE" value="183" />
+        <entry key="ENGLISH" value="184" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
