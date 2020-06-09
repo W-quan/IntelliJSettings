@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="head home print audio" />
+      <item value="iv constellation" />
+      <item value="attention" />
+      <item value="tv Personalized Signature" />
+      <item value="constellation" />
       <item value="queue Mic" />
       <item value="abbreviate" />
       <item value="Erban" />
@@ -46,16 +51,11 @@
       <item value="controlling the session via transport controls" />
       <item value="Creating a MediaController for the current media session which can be used by view models for:" />
       <item value="Allowing view models to retrieve the list of albums and songs by subscribing to changes in the MusicService's list of media items via subscribe" />
-      <item value="wrapper" />
-      <item value="singleton" />
-      <item value="This is achieved using LiveData types." />
-      <item value="The Activity and Fragments are backed by their own view models. The view model represents the underlying state of the corresponding view. When the model changes, such as" />
-      <item value="achieved" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="189" />
-        <entry key="ENGLISH" value="189" />
+        <entry key="CHINESE" value="194" />
+        <entry key="ENGLISH" value="195" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
