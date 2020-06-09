@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="queue Mic" />
       <item value="abbreviate" />
       <item value="Erban" />
       <item value="charm Seq" />
@@ -50,7 +51,6 @@
       <item value="This is achieved using LiveData types." />
       <item value="The Activity and Fragments are backed by their own view models. The view model represents the underlying state of the corresponding view. When the model changes, such as" />
       <item value="achieved" />
-      <item value="reflect" />
     </histories>
     <option name="languageScores">
       <map>
@@ -58,6 +58,7 @@
         <entry key="ENGLISH" value="189" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
+        <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MARATHI" value="1" />
         <entry key="SWEDISH" value="1" />
