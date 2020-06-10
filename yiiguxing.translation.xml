@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="iv sign" />
+      <item value="level" />
+      <item value="production" />
       <item value="head home print audio" />
       <item value="iv constellation" />
       <item value="attention" />
@@ -48,14 +51,11 @@
       <item value="* Create a new component identifier from a Context and Class object." />
       <item value="¡" />
       <item value="retrieving playback state and metadata changes" />
-      <item value="controlling the session via transport controls" />
-      <item value="Creating a MediaController for the current media session which can be used by view models for:" />
-      <item value="Allowing view models to retrieve the list of albums and songs by subscribing to changes in the MusicService's list of media items via subscribe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="194" />
-        <entry key="ENGLISH" value="195" />
+        <entry key="CHINESE" value="197" />
+        <entry key="ENGLISH" value="198" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
