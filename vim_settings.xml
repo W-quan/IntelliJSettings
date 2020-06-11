@@ -112,28 +112,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/presenter/MineFragmentPresenter.java" timestamp="1591846404166">
-        <mark key="[" line="30" column="20" />
-        <mark key="]" line="30" column="31" />
-        <mark key="." line="30" column="30" />
-        <mark key="^" line="30" column="31" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/View.java" timestamp="1591784481424" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_user_center_notice_value.xml" timestamp="1591863136269">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="1" column="95" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/UserModel.java" timestamp="1591855982271">
-        <mark key="'" line="192" column="28" />
-        <mark key="." line="274" column="58" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/gradle.properties" timestamp="1591783726013">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="1" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="1" />
+      <file name="/Dummy.txt" timestamp="1591863093080">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" timestamp="1591846949446">
         <mark key="'" line="66" column="26" />
@@ -154,32 +136,24 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="45" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/values/colors.xml" timestamp="1591857553928">
-        <mark key="[" line="319" column="0" />
-        <mark key="]" line="319" column="0" />
-        <mark key="." line="319" column="0" />
-        <mark key="^" line="317" column="17" />
-      </file>
-      <file name="/Clipboard.txt" timestamp="1591858582027">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/colors.xml" timestamp="1591858577617">
-        <mark key="[" line="3" column="36" />
-        <mark key="]" line="3" column="42" />
-        <mark key="." line="3" column="41" />
-        <mark key="^" line="3" column="42" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591863093080">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_user_center.xml" timestamp="1591867350970">
         <mark key="'" line="740" column="61" />
         <mark key="[" line="754" column="60" />
         <mark key="]" line="754" column="61" />
         <mark key="^" line="472" column="55" />
         <mark key="." line="754" column="61" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/presenter/MineFragmentPresenter.java" timestamp="1591846404166">
+        <mark key="[" line="30" column="20" />
+        <mark key="]" line="30" column="31" />
+        <mark key="." line="30" column="30" />
+        <mark key="^" line="30" column="31" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/colors.xml" timestamp="1591858577617">
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="3" column="42" />
+        <mark key="." line="3" column="41" />
+        <mark key="^" line="3" column="42" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_mine.xml" timestamp="1591858209535">
         <mark key="'" line="21" column="8" />
@@ -200,7 +174,12 @@
         <mark key="." line="290" column="32" />
         <mark key="^" line="290" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/pay/PayModel.java" timestamp="1591846189622" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/values/colors.xml" timestamp="1591857553928">
+        <mark key="[" line="319" column="0" />
+        <mark key="]" line="319" column="0" />
+        <mark key="." line="319" column="0" />
+        <mark key="^" line="317" column="17" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" timestamp="1591865903752">
         <mark key="'" line="1160" column="31" />
         <mark key="[" line="1131" column="0" />
@@ -213,10 +192,24 @@
         <mark key="]" line="105" column="52" />
         <mark key="." line="105" column="52" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/bean/UserInfo.java" timestamp="1591869514461" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_user_center_notice_label.xml" timestamp="1591861683797">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_user_center_notice_value.xml" timestamp="1591863136269">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="1" column="95" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/UserModel.java" timestamp="1591855982271">
+        <mark key="'" line="192" column="28" />
+        <mark key="." line="274" column="58" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1591858582027">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
