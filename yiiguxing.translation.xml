@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="敬请期待" />
+      <item value="notice" />
       <item value="This method is used to put the over device UI into temporary modes * where the user's attention is focused more on the application content, * by dimming or hiding surrounding system affordances. This is typically * used in conjunction with {@link Window#FEATURE_ACTION_BAR_OVERLAY * Window.FEATURE_ACTION_BAR_OVERLAY}, allowing the applications content * to be placed behind the action bar (and with these flags other system * affordances) so that smooth transitions between hiding and showing them * can be done." />
       <item value="Request that the visibility of the status bar or other screen/window * decorations be changed." />
       <item value="charm" />
@@ -49,13 +51,11 @@
       <item value="* Provides an API (via a cold Single) that bridges the reactive world with the callback-style world." />
       <item value="* The size is adjusted based on the current rotation of the display." />
       <item value="* Gets display metrics based on the real size of this display." />
-      <item value="Make sure all annotation processors are incremental to improve your build speed." />
-      <item value="incremental" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="200" />
-        <entry key="ENGLISH" value="201" />
+        <entry key="CHINESE" value="202" />
+        <entry key="ENGLISH" value="202" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
