@@ -122,7 +122,8 @@
         <mark key="'" line="1272" column="18" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/View.java" timestamp="1591784481424" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/UserModel.java" timestamp="1591778158355">
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/UserModel.java" timestamp="1591855982271">
+        <mark key="'" line="192" column="28" />
         <mark key="." line="274" column="58" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/gradle.properties" timestamp="1591783726013">
@@ -137,6 +138,12 @@
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
         <mark key="^" line="149" column="8" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/MainActivity.java" timestamp="1591856359393">
+        <mark key="[" line="1008" column="35" />
+        <mark key="]" line="1008" column="53" />
+        <mark key="^" line="1008" column="53" />
+        <mark key="." line="1008" column="52" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_wallet/java/com/yizhuan/erban/wallet/fragment/MyNoteBalanceFragment.java" timestamp="1591772385793">
         <mark key="[" line="197" column="0" />
@@ -194,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-ko/strings.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-nl/strings.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-nl-rNL/strings.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-pl/strings.xml" />
@@ -294,6 +300,7 @@
       <jump line="7" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_mine.xml" />
       <jump line="309" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_mine.xml" />
       <jump line="21" column="8" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_mine.xml" />
+      <jump line="192" column="28" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/UserModel.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
