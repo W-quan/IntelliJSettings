@@ -112,17 +112,30 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/RoomTypeSelectDialog.java" timestamp="1591930282879">
+        <mark key="'" line="87" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/colors.xml" timestamp="1591858577617">
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="3" column="42" />
+        <mark key="." line="3" column="41" />
+        <mark key="^" line="3" column="42" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/bean/UserInfo.java" timestamp="1591869514461" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_user_center_notice_value.xml" timestamp="1591863136269">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="1" column="95" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/UserModel.java" timestamp="1591855982271">
+        <mark key="'" line="192" column="28" />
+        <mark key="." line="274" column="58" />
+      </file>
       <file name="/Dummy.txt" timestamp="1591863093080">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" timestamp="1591846949446">
-        <mark key="'" line="66" column="26" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="." line="150" column="0" />
-        <mark key="^" line="149" column="8" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/MainActivity.java" timestamp="1591858939018">
         <mark key="[" line="1008" column="35" />
@@ -143,18 +156,7 @@
         <mark key="." line="712" column="61" />
         <mark key="^" line="707" column="30" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/presenter/MineFragmentPresenter.java" timestamp="1591846404166">
-        <mark key="[" line="30" column="20" />
-        <mark key="]" line="30" column="31" />
-        <mark key="." line="30" column="30" />
-        <mark key="^" line="30" column="31" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/colors.xml" timestamp="1591858577617">
-        <mark key="[" line="3" column="36" />
-        <mark key="]" line="3" column="42" />
-        <mark key="." line="3" column="41" />
-        <mark key="^" line="3" column="42" />
-      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/model/RoomBaseModel.java" timestamp="1591930237682" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_mine.xml" timestamp="1591871570271">
         <mark key="'" line="21" column="8" />
         <mark key="[" line="78" column="0" />
@@ -192,29 +194,17 @@
         <mark key="]" line="105" column="52" />
         <mark key="." line="105" column="52" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/bean/UserInfo.java" timestamp="1591869514461" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_user_center_notice_label.xml" timestamp="1591861683797">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.coordinatorlayout/coordinatorlayout/1.1.0/a15529ac349d76a872ae5ef42b84c320c456cd7f/coordinatorlayout-1.1.0-sources.jar!/androidx/coordinatorlayout/widget/CoordinatorLayout.java" timestamp="1591871326829" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_user_center_notice_value.xml" timestamp="1591863136269">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="1" column="95" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/UserModel.java" timestamp="1591855982271">
-        <mark key="'" line="192" column="28" />
-        <mark key="." line="274" column="58" />
-      </file>
       <file name="/Clipboard.txt" timestamp="1591858582027">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-ru/strings.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-sv/strings.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-th/strings.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-tr/strings.xml" />
@@ -314,6 +304,7 @@
       <jump line="217" column="46" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_user_center.xml" />
       <jump line="736" column="48" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_user_center.xml" />
       <jump line="740" column="61" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_user_center.xml" />
+      <jump line="87" column="24" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/RoomTypeSelectDialog.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
