@@ -121,20 +121,14 @@
         <mark key="." line="3" column="29" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/bean/UserInfo.java" timestamp="1591869514461" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_user_center_notice_value.xml" timestamp="1591863136269">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="1" column="95" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_user_center_preview_value.xml" timestamp="1591945784945">
         <mark key="[" line="6" column="35" />
         <mark key="]" line="6" column="46" />
         <mark key="^" line="6" column="46" />
         <mark key="." line="6" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591942457909">
-        <mark key="[" line="0" column="1" />
+      <file name="/Dummy.txt" timestamp="1591947639437">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
@@ -165,12 +159,18 @@
         <mark key="^" line="80" column="12" />
         <mark key="." line="80" column="11" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_mine.xml" timestamp="1591946343485">
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_mine.xml" timestamp="1591947019904">
         <mark key="'" line="20" column="8" />
         <mark key="[" line="277" column="44" />
         <mark key="]" line="277" column="55" />
         <mark key="." line="277" column="54" />
         <mark key="^" line="277" column="55" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/head_home_print_audio.xml" timestamp="1591947221323">
+        <mark key="[" line="27" column="32" />
+        <mark key="]" line="27" column="44" />
+        <mark key="^" line="27" column="44" />
+        <mark key="." line="27" column="43" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/bean/RoomInfo.java" timestamp="1591865894866">
         <mark key="[" line="289" column="48" />
