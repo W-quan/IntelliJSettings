@@ -127,13 +127,6 @@
         <mark key="." line="3" column="29" />
         <mark key="^" line="2" column="45" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_user_center.xml" timestamp="1591929074193">
-        <mark key="'" line="726" column="61" />
-        <mark key="[" line="712" column="24" />
-        <mark key="]" line="712" column="24" />
-        <mark key="." line="712" column="61" />
-        <mark key="^" line="707" column="30" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/attachment/RoomHeaderInfoAttachment.java" timestamp="1591958488685" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/drawable-xhdpi/bg_white_all_6.xml" timestamp="1591945886999">
         <mark key="[" line="3" column="29" />
@@ -168,6 +161,12 @@
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/utils/TimeUtils.java" timestamp="1591956587024">
         <mark key="'" line="778" column="5" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/build.gradle" timestamp="1592186866851">
+        <mark key="[" line="24" column="39" />
+        <mark key="]" line="24" column="43" />
+        <mark key="^" line="24" column="43" />
+        <mark key="." line="24" column="42" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_user_center_preview_label.xml" timestamp="1591945865666">
         <mark key="[" line="5" column="35" />
         <mark key="]" line="5" column="46" />
@@ -179,6 +178,12 @@
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
         <mark key="^" line="113" column="73" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/gradle.properties" timestamp="1592186929275">
+        <mark key="[" line="23" column="25" />
+        <mark key="]" line="23" column="26" />
+        <mark key="^" line="23" column="26" />
+        <mark key="." line="23" column="25" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_user_center_preview_value.xml" timestamp="1591945784945">
         <mark key="[" line="6" column="35" />
