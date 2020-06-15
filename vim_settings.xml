@@ -113,11 +113,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/attachment/RoomHeaderInfoAttachment.java" timestamp="1591958488685" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/drawable-xhdpi/bg_white_all_6.xml" timestamp="1591945886999">
-        <mark key="[" line="3" column="29" />
-        <mark key="]" line="3" column="29" />
-        <mark key="." line="3" column="29" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/presenter/MineFragmentPresenter.java" timestamp="1592189463536">
         <mark key="[" line="14" column="28" />
         <mark key="]" line="14" column="28" />
@@ -143,6 +138,7 @@
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/UserModel.java" timestamp="1592189315774">
         <mark key="." line="128" column="48" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/utils/net/RxHelper.java" timestamp="1592192497395" />
       <file name="/Dummy.txt" timestamp="1592189892514">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -180,11 +176,8 @@
         <mark key="^" line="27" column="44" />
         <mark key="." line="27" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_user_center_preview_label.xml" timestamp="1591945865666">
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="5" column="46" />
-        <mark key="." line="5" column="45" />
-        <mark key="^" line="5" column="46" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/GameHomeFragment.java" timestamp="1592192612466">
+        <mark key="[" line="489" column="60" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/presenter/MainFragmentPresenter.java" timestamp="1592191568508">
         <mark key="[" line="199" column="0" />
