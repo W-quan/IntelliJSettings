@@ -116,7 +116,7 @@
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/presenter/MineFragmentPresenter.java" timestamp="1592189463536">
         <mark key="[" line="14" column="28" />
         <mark key="]" line="14" column="28" />
-        <mark key="^" line="23" column="24" />
+        <mark key="^" line="14" column="24" />
         <mark key="." line="14" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/utils/TimeUtils.java" timestamp="1591956587024">
@@ -150,13 +150,6 @@
         <mark key="]" line="3" column="29" />
         <mark key="." line="3" column="29" />
         <mark key="^" line="2" column="45" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" timestamp="1592189533976">
-        <mark key="'" line="140" column="42" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="107" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/MainActivity.java" timestamp="1592189494620">
         <mark key="[" line="1003" column="60" />
