@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remain" />
       <item value="Gradle build daemon disappeared unexpectedly (it may have been killed or may have crashed)" />
       <item value="abbreviate" />
       <item value="Rect" />
@@ -50,12 +51,11 @@
       <item value="ACTION SKIP AD" />
       <item value="ACTION FLAG AS INAPPROPRIATE" />
       <item value="ACTION FAST FORWARD" />
-      <item value="ACTION REWIND" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="206" />
-        <entry key="ENGLISH" value="207" />
+        <entry key="CHINESE" value="207" />
+        <entry key="ENGLISH" value="208" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />

@@ -150,24 +150,30 @@
         <mark key="." line="128" column="48" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/utils/net/RxHelper.java" timestamp="1592192497395" />
-      <file name="/Dummy.txt" timestamp="1592189892514">
+      <file name="/Dummy.txt" timestamp="1592209726972">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" timestamp="1592207898782">
-        <mark key="[" line="183" column="29" />
-        <mark key="]" line="183" column="37" />
-        <mark key="^" line="183" column="37" />
-        <mark key="." line="183" column="36" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" timestamp="1592209226629">
+        <mark key="[" line="182" column="65" />
+        <mark key="]" line="182" column="82" />
+        <mark key="^" line="182" column="82" />
+        <mark key="." line="182" column="81" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/MainActivity.java" timestamp="1592207275543">
-        <mark key="[" line="1003" column="66" />
-        <mark key="]" line="1003" column="97" />
-        <mark key="." line="1003" column="96" />
-        <mark key="^" line="1003" column="97" />
+        <mark key="[" line="998" column="66" />
+        <mark key="]" line="998" column="97" />
+        <mark key="." line="998" column="96" />
+        <mark key="^" line="998" column="97" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" timestamp="1592205638621" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_er_meng_vip/res/values/strings.xml" timestamp="1592209159657">
+        <mark key="[" line="13" column="33" />
+        <mark key="]" line="13" column="33" />
+        <mark key="." line="13" column="33" />
+        <mark key="^" line="13" column="41" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" timestamp="1592208229252" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/GameHomeFragment.java" timestamp="1592192612466">
         <mark key="[" line="489" column="60" />
       </file>
@@ -290,13 +296,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>mUserInfo</text>
+        <text>vipDays</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>mUserInfo</text>
+        <text>vipDays</text>
       </register>
       <register name="/" type="4">
         <text>9</text>
@@ -358,31 +364,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbUVudHJ5QWRhcHRlci5ub3RpZnlEYXRhU2V0Q2hhbmdlZCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHZpcERheXMgPSB1c2VySW5mby5nZXRWaXAoKSArICLlpKkiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaG9sZGVyLm1WTGluZS5zZXRWaXNpYmlsaXR5KHBvc2l0aW9uID09IG1FbnRyeUxpc3Quc2l6ZSgpIC0gMSA/IFZpZXcuSU5WSVNJQkxFIDogVmlldy5WSVNJQkxFKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHZpcERheXMgPSBtVXNlckluZm8uZ2V0VmlwKCkgKyAi5aSpIjsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQEJpbmRWaWV3KFIuaWQudl9saW5lKSBWaWV3IG1WTGluZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaG9sZGVyLm1WTGluZS5zZXRWaXNpYmlsaXR5KHBvc2l0aW9uID09IG1FbnRyeUxpc3Quc2l6ZSgpIC0gMSA/IFZpZXcuSU5WSVNJQkxFIDogVmlldy5WSVNJQkxFKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC92X2xpbmUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IkBkaW1lbi9kcF8xIgogICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGNvbG9yL2NvbG9yX2YwZjBmNSIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJAaWQvdHZfdmFsdWUiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJAaWQvdHZfdGl0bGUiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEJpbmRWaWV3KFIuaWQudl9saW5lKSBWaWV3IG1WTGluZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUVudHJ5QWRhcHRlci5ub3RpZnlJdGVtUmFuZ2VSZW1vdmVkKDIsIDIpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC92X2xpbmUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IkBkaW1lbi9kcF8xIgogICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGNvbG9yL2NvbG9yX2YwZjBmNSIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJAaWQvdHZfdmFsdWUiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJAaWQvdHZfdGl0bGUiIC8+Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDnrKzkuIDmrKHliqDovb0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUVudHJ5QWRhcHRlci5ub3RpZnlJdGVtUmFuZ2VSZW1vdmVkKDIsIDIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>281</text>
