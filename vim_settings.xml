@@ -123,6 +123,12 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="33" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/dimens.xml" timestamp="1592277031384">
+        <mark key="[" line="30" column="21" />
+        <mark key="]" line="30" column="28" />
+        <mark key="^" line="30" column="28" />
+        <mark key="." line="30" column="27" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" timestamp="1592275470838">
         <mark key="'" line="103" column="44" />
         <mark key="[" line="347" column="0" />
@@ -175,11 +181,6 @@
         <mark key="[" line="248" column="0" />
         <mark key="]" line="249" column="5" />
         <mark key="." line="248" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/presenter/MainFragmentPresenter.java" timestamp="1592191568508">
-        <mark key="[" line="199" column="0" />
-        <mark key="]" line="199" column="0" />
-        <mark key="." line="199" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_mine_entry.xml" timestamp="1592274815320">
         <mark key="'" line="4" column="4" />
