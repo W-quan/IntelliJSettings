@@ -153,16 +153,17 @@
         <mark key="^" line="23" column="23" />
         <mark key="." line="23" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592360050252">
-        <mark key="[" line="0" column="1" />
+      <file name="/Dummy.txt" timestamp="1592361350529">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" timestamp="1592360474032">
-        <mark key="[" line="300" column="29" />
-        <mark key="]" line="300" column="29" />
-        <mark key="^" line="300" column="29" />
-        <mark key="." line="300" column="28" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" timestamp="1592361344450">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="304" column="30" />
+        <mark key="]" line="304" column="55" />
+        <mark key="^" line="304" column="55" />
+        <mark key="." line="304" column="54" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/diff_src_erban/java/com/yizhuan/xchat_android_core/home/bean/HomeRoom.java" timestamp="1592298206238">
         <mark key="[" line="84" column="0" />
@@ -193,8 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="349" column="98" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-pt/strings.xml" />
-      <jump line="261" column="24" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-ru/strings.xml" />
       <jump line="272" column="24" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-sv/strings.xml" />
       <jump line="359" column="77" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-th/strings.xml" />
       <jump line="360" column="83" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/res/values-tr/strings.xml" />
@@ -293,18 +292,20 @@
       <jump line="516" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/widget/IOSSwitchView.java" />
       <jump line="237" column="48" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/widget/SlideSwitch.java" />
       <jump line="27" column="13" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/widget/IOSSwitchView.java" />
+      <jump line="92" column="58" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" />
+      <jump line="83" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>3</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>9</text>
