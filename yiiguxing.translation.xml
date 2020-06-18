@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Translucent" />
+      <item value="* &lt;p&gt;This is the primary method to control the DayNight functionality, since it allows * the delegates to avoid unnecessary recreations when possible.&lt;/p&gt;" />
       <item value="prefix" />
       <item value="panel" />
       <item value="* Space is a lightweight View subclass that may be used to create gaps between components * in general purpose layouts." />
@@ -49,13 +51,11 @@
       <item value="start a radio station based on the current item or skip ahead by * 30 seconds." />
       <item value="* e.g. start a radio station based on the current item or skip ahead by" />
       <item value="Add a custom action to the playback state. Actions can be used to * expose additional functionality to {@link MediaControllerCompat * Controllers} beyond what is offered by the standard transport * controls." />
-      <item value="MEDIA ATTRIBUTE PLAYLIST" />
-      <item value="MEDIA ATTRIBUTE ALBUM" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="214" />
-        <entry key="ENGLISH" value="215" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="217" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
