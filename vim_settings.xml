@@ -139,11 +139,11 @@
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" timestamp="1592460517167">
-        <mark key="[" line="504" column="48" />
-        <mark key="]" line="504" column="48" />
-        <mark key="." line="504" column="48" />
-        <mark key="^" line="502" column="99" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" timestamp="1592461763368">
+        <mark key="[" line="501" column="34" />
+        <mark key="]" line="501" column="34" />
+        <mark key="." line="501" column="33" />
+        <mark key="^" line="501" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/MainActivity.java" timestamp="1592453509069">
         <mark key="'" line="294" column="85" />
@@ -298,13 +298,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>9</text>
