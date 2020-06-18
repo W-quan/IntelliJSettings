@@ -139,10 +139,10 @@
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" timestamp="1592453175968">
-        <mark key="[" line="501" column="37" />
-        <mark key="]" line="502" column="99" />
-        <mark key="." line="502" column="98" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" timestamp="1592460517167">
+        <mark key="[" line="504" column="48" />
+        <mark key="]" line="504" column="48" />
+        <mark key="." line="504" column="48" />
         <mark key="^" line="502" column="99" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/MainActivity.java" timestamp="1592453509069">
@@ -297,14 +297,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55aXpodWFuLnhjaGF0X2FuZHJvaWRfY29yZS5Db25zdGFudHM7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>KEY_MAIN_POSITION</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>9</text>
