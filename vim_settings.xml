@@ -118,7 +118,7 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/content/Intent.java" timestamp="1592549387188" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/content/Intent.java" timestamp="1592550234846" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/widget/IOSSwitchView.java" timestamp="1592473667645">
         <mark key="'" line="182" column="16" />
         <mark key="[" line="324" column="0" />
@@ -173,11 +173,11 @@
         <mark key="^" line="377" column="72" />
         <mark key="." line="377" column="71" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Demo/uamp/common/src/main/java/com/example/android/uamp/media/NotificationBuilder.kt" timestamp="1592549497417">
-        <mark key="[" line="105" column="62" />
-        <mark key="]" line="105" column="62" />
-        <mark key="." line="105" column="61" />
-        <mark key="^" line="105" column="62" />
+      <file name="$USER_HOME$/Workspace/Android/Demo/uamp/common/src/main/java/com/example/android/uamp/media/NotificationBuilder.kt" timestamp="1592550683071">
+        <mark key="[" line="107" column="68" />
+        <mark key="]" line="108" column="24" />
+        <mark key="." line="107" column="51" />
+        <mark key="^" line="108" column="24" />
       </file>
     </filemarks>
     <jumps>
