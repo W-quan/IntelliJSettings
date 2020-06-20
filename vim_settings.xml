@@ -134,7 +134,6 @@
         <mark key="." line="415" column="50" />
         <mark key="^" line="415" column="51" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/activity/MeMoreAct.java" timestamp="1592469689221" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/app/PendingIntent.java" timestamp="1592549220283" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/drawable/bg_circle_ff.xml" timestamp="1592559860921">
         <mark key="[" line="2" column="29" />
@@ -173,6 +172,12 @@
         <mark key="." line="384" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.media/media/1.0.1/47b07b12e00d67295d73ffde730c759b2dfc4c11/media-1.0.1-sources.jar!/androidx/media/session/MediaButtonReceiver.java" timestamp="1592551457896" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeFragmentAdapter.java" timestamp="1592636905731">
+        <mark key="[" line="374" column="82" />
+        <mark key="]" line="374" column="82" />
+        <mark key="^" line="377" column="72" />
+        <mark key="." line="374" column="82" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Demo/uamp/common/src/main/java/com/example/android/uamp/media/MusicService.kt" timestamp="1592553707134">
         <mark key="'" line="146" column="32" />
       </file>
@@ -291,14 +296,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9BVlJvb21BY3Rpdml0eS5zdGFydCh2LmdldENvbnRleHQoKSwgbVVzZXJJbmZvLmdldFVpZCgpKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>9</text>
