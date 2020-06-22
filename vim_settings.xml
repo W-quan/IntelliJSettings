@@ -126,7 +126,9 @@
         <mark key="^" line="821" column="37" />
         <mark key="." line="821" column="36" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Demo/uamp/common/src/main/java/com/example/android/uamp/common/MusicServiceConnection.kt" timestamp="1592812236360" />
+      <file name="$USER_HOME$/Workspace/Android/Demo/uamp/common/src/main/java/com/example/android/uamp/common/MusicServiceConnection.kt" timestamp="1592812998289">
+        <mark key="'" line="181" column="28" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/drawable/bg_circle_ff.xml" timestamp="1592559860921">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="41" />
@@ -145,11 +147,11 @@
         <mark key="." line="20" column="75" />
         <mark key="^" line="20" column="76" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicServiceConnection.java" timestamp="1592812416118">
-        <mark key="[" line="8" column="44" />
-        <mark key="]" line="9" column="51" />
-        <mark key="^" line="9" column="51" />
-        <mark key="." line="9" column="50" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicServiceConnection.java" timestamp="1592813566743">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_user_center.xml" timestamp="1592792173907" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_mine.xml" timestamp="1592559824755">
@@ -184,7 +186,6 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/Calendar.java" timestamp="1592793041648" />
     </filemarks>
     <jumps>
-      <jump line="232" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kaopiz/kprogresshud/1.0.5/e59e39f5b6b90c0b4bf16e3547eaf56164110321/kprogresshud-1.0.5-sources.jar!/com/kaopiz/kprogresshud/KProgressHUD.java" />
       <jump line="294" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kaopiz/kprogresshud/1.0.5/e59e39f5b6b90c0b4bf16e3547eaf56164110321/kprogresshud-1.0.5-sources.jar!/com/kaopiz/kprogresshud/KProgressHUD.java" />
       <jump line="1633" column="28" filename="$USER_HOME$/Workspace/Android/md3500/app/src/main/java/com/hubbleconnected/camthreehundred/act/DevSettingActivity.java" />
       <jump line="32" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.1.1/29acbdd4c7d904e414d33955e367b9561b13079f/eventbus-3.1.1-sources.jar!/org/greenrobot/eventbus/PendingPost.java" />
@@ -284,12 +285,13 @@
       <jump line="146" column="32" filename="$USER_HOME$/Workspace/Android/Demo/uamp/common/src/main/java/com/example/android/uamp/media/MusicService.kt" />
       <jump line="1121" column="10" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.media/media/1.0.1/47b07b12e00d67295d73ffde730c759b2dfc4c11/media-1.0.1-sources.jar!/android/support/v4/media/MediaBrowserCompat.java" />
       <jump line="1103" column="31" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" />
+      <jump line="181" column="28" filename="$USER_HOME$/Workspace/Android/Demo/uamp/common/src/main/java/com/example/android/uamp/common/MusicServiceConnection.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIE9iamVjdCBDb250ZXh0Owo=</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
@@ -357,31 +359,31 @@
         <text encoding="base64">ICAgICAgICAgICAgQ29uc3RyYWludExheW91dC5MYXlvdXRQYXJhbXMgbGF5b3V0UGFyYW1zMiA9IChDb25zdHJhaW50TGF5b3V0LkxheW91dFBhcmFtcykgaXZSaWdodDIuZ2V0TGF5b3V0UGFyYW1zKCk7CiAgICAgICAgICAgIGxheW91dFBhcmFtczIudG9wTWFyZ2luID0gVGl0bGVCYXIuZ2V0U3RhdHVzQmFySGVpZ2h0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXZSaWdodDIuc2V0SW1hZ2VSZXNvdXJjZShSLmRyYXdhYmxlLmljX3VzZXJfY2VudGVyX2hhZF9hdHRlbnRpb24pOwogICAgICAgICAgICBWaWV3R3JvdXAuTGF5b3V0UGFyYW1zIGxheW91dFBhcmFtczEgPSBpdlJpZ2h0Mi5nZXRMYXlvdXRQYXJhbXMoKTsKICAgICAgICAgICAgbGF5b3V0UGFyYW1zMS53aWR0aCA9IFNjcmVlblV0aWwuZGlwMnB4KDIyKTsKICAgICAgICAgICAgbGF5b3V0UGFyYW1zMS5oZWlnaHQgPSBTY3JlZW5VdGlsLmRpcDJweCgyMik7CiAgICAgICAgICAgIGl2UmlnaHQyLnNldExheW91dFBhcmFtcyhsYXlvdXRQYXJhbXMxKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIE9iamVjdCBDb250ZXh0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY2FjaGVNYXhEYXlPZlllYXIgPSBjYWxlbmRhci5nZXRBY3R1YWxNYXhpbXVtKENhbGVuZGFyLkRBWV9PRl9ZRUFSKTsK</text>
+        <text encoding="base64">ICAgICAgICBzTXVzaWNTZXJ2aWNlQ29ubmVjdGlvbiA9IG5ldyBNdXNpY1NlcnZpY2VDb25uZWN0aW9uKGNvbnRleHQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbGVhc0RheU9mWWVhciA9IGNhbGVuZGFyLmdldEFjdHVhbE1heGltdW0oQ2FsZW5kYXIuREFZX09GX1lFQVIpOwogICAgICAgIExvZy5kKCJUaW1lVXRpbHMiLCAiaXNUb21vcnJvdzogIiArIGxlYXNEYXlPZlllYXIpOwo=</text>
+        <text encoding="base64">ICAgIE11c2ljU2VydmljZUNvbm5lY3Rpb24oKSB7CgogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIElOU1RBTkNFOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY2FjaGVEYXlPZk1vbnRoID0gY2FsZW5kYXIuZ2V0KENhbGVuZGFyLkRBWV9PRl9NT05USCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTWVkaWFCcm93c2VyQ29tcGF0LkNvbm5lY3Rpb25DYWxsYmFjayBtQ29ubmVjdGlvbkNhbGxiYWNrOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY2FjaGVNb250aCA9IGNhbGVuZGFyLmdldChDYWxlbmRhci5NT05USCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIE9iamVjdCBjb250ZXh0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY3Vyck1vbnRoID0gY2FsZW5kYXIuZ2V0KENhbGVuZGFyLk1PTlRIKTsKICAgICAgICBpbnQgY3VyckRheU9mTW9udGggPSBjYWxlbmRhci5nZXQoQ2FsZW5kYXIuREFZX09GX01PTlRIKTsK</text>
+        <text encoding="base64">ICAgIE11c2ljU2VydmljZUNvbm5lY3Rpb24oKSB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name=":" type="4">
         <text>408</text>
