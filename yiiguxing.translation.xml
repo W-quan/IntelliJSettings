@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// If the results are not ready, the service must &quot;detach&quot; the results before // the method returns. After the source is ready, the lambda above will run, // and the caller will be notified that the results are ready. // // See [MediaItemFragmentViewModel.subscriptionCallback] for how this is passed to the // UI/displayed in the [RecyclerView]." />
+      <item value="* Detach this message from the current thread and allow the {@link #sendResult} * call to happen later." />
+      <item value="Queries with service-specific arguments for information about the media items * that are contained within the specified id and subscribes to receive updates * when they change." />
+      <item value="CONTENT STYLE PLAYABLE HINT" />
+      <item value="CONTENT STYLE BROWSABLE HINT" />
+      <item value="CONTENT STYLE SUPPORTED" />
       <item value="mocking" />
       <item value="typically" />
       <item value="coroutine" />
@@ -45,17 +51,11 @@
       <item value="Instead of providing a media notification that is completely custom, a developer can set * this style and still obtain system decorations like the notification header with the expand * affordance and actions." />
       <item value="* Notification style for media custom views that are decorated by the system." />
       <item value="Decorated Media Custom View Style" />
-      <item value="Notifications created with MediaStyle will have their category set to * {@link androidx.core.app.NotificationCompat#CATEGORY_TRANSPORT CATEGORY_TRANSPORT} * unless you set a different category using * {@link androidx.core.app.NotificationCompat.Builder#setCategory(String) * setCategory()}." />
-      <item value="Unlike the other styles provided here, MediaStyle can also modify the standard-size * content view; by providing action indices to * {@link #setShowActionsInCompactView(int...)} you can promote up to 3 actions to be displayed * in the standard view alongside the usual content." />
-      <item value="* be treated as album artwork." />
-      <item value="* pushbuttons, suitable for transport controls. The Bitmap given to" />
-      <item value="* #addAction(int, CharSequence, PendingIntent) addAction} will be shown as icon-only" />
-      <item value="* In the expanded form, up to 5" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="221" />
-        <entry key="ENGLISH" value="222" />
+        <entry key="CHINESE" value="227" />
+        <entry key="ENGLISH" value="228" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
