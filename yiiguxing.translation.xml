@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mocking" />
+      <item value="typically" />
+      <item value="coroutine" />
+      <item value="suspending" />
       <item value="The default implementation of this method uses an iterative * algorithm to determine the actual maximum value for the * calendar field. Subclasses should, if possible, override this * with a more efficient implementation." />
       <item value="Translucent" />
       <item value="* &lt;p&gt;This is the primary method to control the DayNight functionality, since it allows * the delegates to avoid unnecessary recreations when possible.&lt;/p&gt;" />
@@ -47,15 +51,11 @@
       <item value="* pushbuttons, suitable for transport controls. The Bitmap given to" />
       <item value="* #addAction(int, CharSequence, PendingIntent) addAction} will be shown as icon-only" />
       <item value="* In the expanded form, up to 5" />
-      <item value="you can promote up to 3 actions to be displayed * in the standard view alongside the usual content." />
-      <item value="/** * Add an action to this notification. Actions are typically displayed by * the system as a button adjacent to the notification content. * &lt;br&gt; * Action buttons won't appear on platforms prior to Android 4.1. Action * buttons depend on expanded notifications, which are only available in Android 4.1 * and later. To ensure that an action button's functionality is always available, first * implement the functionality in the {@link android.app.Activity} that starts when a user * clicks the notification (see {@link #setContentIntent setContentIntent()}), and then * enhance the notification by implementing the same functionality with * {@link #addAction addAction()}. *" />
-      <item value="start a radio station based on the current item or skip ahead by * 30 seconds." />
-      <item value="* e.g. start a radio station based on the current item or skip ahead by" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="218" />
+        <entry key="CHINESE" value="221" />
+        <entry key="ENGLISH" value="222" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />

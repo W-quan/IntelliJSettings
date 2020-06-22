@@ -112,6 +112,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/1.1.0/286cc6523cc957ab6c96c118cd36073974859aa7/kotlinx-coroutines-core-common-1.1.0-sources.jar!/Builders.common.kt" timestamp="1592806857110" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/extension-mediasession/2.10.0/ccda6b650599faec48de40144d10bb3c604fea4/extension-mediasession-2.10.0-sources.jar!/com/google/android/exoplayer2/ext/mediasession/MediaSessionConnector.java" timestamp="1592559212010">
         <mark key="'" line="1045" column="18" />
         <mark key="[" line="1157" column="66" />
@@ -124,25 +125,14 @@
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Demo/uamp/common/src/main/java/com/example/android/uamp/media/library/JsonSource.kt" timestamp="1592806924497" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" timestamp="1592635229017">
         <mark key="[" line="20" column="75" />
         <mark key="]" line="20" column="76" />
         <mark key="." line="20" column="75" />
         <mark key="^" line="20" column="76" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/UserInfoModifyActivity.java" timestamp="1592533956051">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_user_center.xml" timestamp="1592792173907" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/widget/IOSSwitchView.java" timestamp="1592473667645">
-        <mark key="'" line="182" column="16" />
-        <mark key="[" line="324" column="0" />
-        <mark key="]" line="324" column="0" />
-        <mark key="." line="324" column="0" />
-        <mark key="^" line="597" column="9" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_mine.xml" timestamp="1592559824755">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="181" column="0" />
@@ -155,6 +145,7 @@
         <mark key="^" line="821" column="37" />
         <mark key="." line="821" column="36" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Demo/uamp/common/src/main/java/com/example/android/uamp/common/MusicServiceConnection.kt" timestamp="1592807256034" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" timestamp="1592795746499">
         <mark key="[" line="1291" column="0" />
         <mark key="]" line="1292" column="68" />
