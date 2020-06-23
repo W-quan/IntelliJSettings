@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* This may look strange, but the documentation for [Service.startForeground] * notes that &quot;calling this method does *not* put the service in the started * state itself, even though the name sounds like it.&quot;" />
+      <item value="strange" />
       <item value="* @deprecated This flag is no longer used. All media sessions are expected to handle media * button events now. For backward compatibility, this flag will be always set." />
       <item value="// If the results are not ready, the service must &quot;detach&quot; the results before // the method returns. After the source is ready, the lambda above will run, // and the caller will be notified that the results are ready. // // See [MediaItemFragmentViewModel.subscriptionCallback] for how this is passed to the // UI/displayed in the [RecyclerView]." />
       <item value="* Detach this message from the current thread and allow the {@link #sendResult} * call to happen later." />
@@ -49,13 +51,11 @@
       <item value="decorated" />
       <item value="to set the * corresponding custom views to display." />
       <item value="set Custom Heads Up Content View" />
-      <item value="Instead of providing a media notification that is completely custom, a developer can set * this style and still obtain system decorations like the notification header with the expand * affordance and actions." />
-      <item value="* Notification style for media custom views that are decorated by the system." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="229" />
-        <entry key="ENGLISH" value="230" />
+        <entry key="CHINESE" value="231" />
+        <entry key="ENGLISH" value="232" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
