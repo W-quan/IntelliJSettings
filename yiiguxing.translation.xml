@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="meda data" />
       <item value="invalidate Media Session Metadata" />
       <item value="on Position Discontinuity" />
       <item value="* This may look strange, but the documentation for [Service.startForeground] * notes that &quot;calling this method does *not* put the service in the started * state itself, even though the name sounds like it.&quot;" />
@@ -50,15 +51,15 @@
       <item value="exper Url" />
       <item value="exper Seq" />
       <item value="has Pretty No" />
-      <item value="decorated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="233" />
+        <entry key="CHINESE" value="234" />
         <entry key="ENGLISH" value="234" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
+        <entry key="CROATIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MARATHI" value="1" />
         <entry key="SWEDISH" value="1" />
