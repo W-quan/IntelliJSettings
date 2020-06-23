@@ -136,14 +136,19 @@
         <mark key="]" line="188" column="0" />
         <mark key="." line="188" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicService.java" timestamp="1592879092178">
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicService.java" timestamp="1592881320459">
         <mark key="'" line="43" column="23" />
-        <mark key="[" line="42" column="39" />
-        <mark key="]" line="47" column="28" />
-        <mark key="." line="47" column="27" />
-        <mark key="^" line="47" column="28" />
+        <mark key="[" line="56" column="24" />
+        <mark key="]" line="56" column="25" />
+        <mark key="." line="56" column="24" />
+        <mark key="^" line="56" column="25" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Demo/uamp/build.gradle" timestamp="1592817583430" />
+      <file name="$USER_HOME$/Workspace/Android/Demo/LockScreenMusicControl/build.gradle" timestamp="1592881053168">
+        <mark key="[" line="7" column="54" />
+        <mark key="]" line="7" column="55" />
+        <mark key="." line="7" column="55" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.media/media/1.0.1/47b07b12e00d67295d73ffde730c759b2dfc4c11/media-1.0.1-sources.jar!/android/support/v4/media/session/MediaControllerCompat.java" timestamp="1592817562703">
         <mark key="'" line="241" column="18" />
       </file>
@@ -157,7 +162,6 @@
         <mark key="[" line="75" column="0" />
         <mark key="]" line="87" column="18" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.media/media/1.0.1/47b07b12e00d67295d73ffde730c759b2dfc4c11/media-1.0.1-sources.jar!/androidx/media/MediaBrowserServiceCompat.java" timestamp="1592815778446" />
       <file name="$USER_HOME$/Workspace/Android/Demo/uamp/common/build.gradle" timestamp="1592817552442">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="54" />
@@ -196,8 +200,10 @@
         <mark key="." line="817" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.media/media/1.1.0/341e10416063572d12dbd751bda73d39284401af/media-1.1.0-sources.jar!/android/support/v4/media/session/PlaybackStateCompat.java" timestamp="1592821727721" />
-      <file name="$USER_HOME$/Workspace/Android/Demo/uamp/common/src/main/java/com/example/android/uamp/media/MusicService.kt" timestamp="1592822072593">
+      <file name="$USER_HOME$/Workspace/Android/Demo/uamp/common/src/main/java/com/example/android/uamp/media/MusicService.kt" timestamp="1592881270864">
         <mark key="'" line="391" column="24" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="55" />
       </file>
     </filemarks>
     <jumps>
@@ -305,14 +311,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRTdGF0ZShQbGF5YmFja1N0YXRlQ29tcGF0LlNUQVRFX05PTkUsIDAsIDFmKQo=</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>9</text>
@@ -371,7 +377,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE11c2ljU2VydmljZUNvbm5lY3Rpb24uZ2V0SW5zdGFuY2UoKS5nZXRUcmFuc3BvcnRDb250cm9scygpLnBhdXNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25CdWlsZGVyID0gTm90aWZpY2F0aW9uQnVpbGRlcih0aGlzKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRTdGF0ZShQbGF5YmFja1N0YXRlQ29tcGF0LlNUQVRFX05PTkUsIDAsIDFmKQo=</text>
