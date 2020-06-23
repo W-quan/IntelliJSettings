@@ -134,12 +134,12 @@
       <file name="$USER_HOME$/Workspace/Android/Demo/uamp/common/src/main/java/com/example/android/uamp/common/MusicServiceConnection.kt" timestamp="1592897022079">
         <mark key="'" line="181" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicService.java" timestamp="1592896751018">
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicService.java" timestamp="1592900210869">
         <mark key="'" line="151" column="5" />
-        <mark key="[" line="489" column="0" />
-        <mark key="]" line="572" column="5" />
-        <mark key="." line="489" column="0" />
-        <mark key="^" line="379" column="4" />
+        <mark key="[" line="512" column="5" />
+        <mark key="]" line="543" column="0" />
+        <mark key="." line="543" column="0" />
+        <mark key="^" line="543" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Demo/LockScreenMusicControl/build.gradle" timestamp="1592881053168">
         <mark key="[" line="7" column="54" />
@@ -162,7 +162,7 @@
         <mark key="^" line="196" column="108" />
         <mark key="." line="196" column="107" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/app/VoiceApplication.java" timestamp="1592896737166">
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/app/VoiceApplication.java" timestamp="1592900204919">
         <mark key="'" line="1081" column="24" />
         <mark key="[" line="1129" column="0" />
         <mark key="]" line="1212" column="5" />
