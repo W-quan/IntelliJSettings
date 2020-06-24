@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* &lt;p&gt;If you are using this style, consider using the corresponding styles like * {@link androidx.media.R.style#TextAppearance_Compat_Notification_Media} or * {@link" />
+      <item value="* corresponding custom views to display." />
+      <item value="&gt;Instead of providing a media notification that is completely custom, a developer can set * this style and still obtain system decorations like the notification header with the expand * affordance and actions." />
+      <item value="* Notification style for media custom views that are decorated by the system." />
+      <item value="Prior" />
       <item value="indeterminate" />
       <item value="Requests up to 3 actions (by index in the order of addition) to be shown in the compact * notification view." />
       <item value="* @param actions the indices of the actions to show in the compact notification view" />
@@ -46,16 +51,11 @@
       <item value="head home print audio" />
       <item value="iv constellation" />
       <item value="attention" />
-      <item value="tv Personalized Signature" />
-      <item value="constellation" />
-      <item value="queue Mic" />
-      <item value="Erban" />
-      <item value="charm Seq" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="238" />
-        <entry key="ENGLISH" value="239" />
+        <entry key="CHINESE" value="243" />
+        <entry key="ENGLISH" value="244" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
