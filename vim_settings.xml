@@ -161,12 +161,12 @@
         <mark key="[" line="902" column="0" />
         <mark key="]" line="903" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/notify_media_controller.xml" timestamp="1592984281438">
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/notify_media_controller.xml" timestamp="1592986050381">
         <mark key="'" line="24" column="8" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="71" column="59" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="30" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Demo/uamp/common/src/main/java/com/example/android/uamp/media/MusicService.kt" timestamp="1592967635206">
         <mark key="'" line="366" column="12" />
@@ -281,13 +281,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>action_</text>
+        <text>color_000000</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>action_</text>
+        <text>color_000000</text>
       </register>
       <register name="/" type="4">
         <text>9</text>
@@ -346,34 +346,34 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxJbWFnZVZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL25vdGlmaWNhdGlvbl9hY3Rpb25fcGF1c2UiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IkBkaW1lbi9kcF8yMCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IkBkaW1lbi9kcF8yMCIKICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2ljX25vdGlmaWNhdGlvbl9wYXVzZSIKICAgICAgICBhbmRyb2lkOmxheW91dF9iZWxvdz0iQGlkL25vdGlmaWNhdGlvbl9hdXRob3IiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25Ub3A9IkBpZC9ub3RpZmljYXRpb25fYWN0aW9uX3NraXBfdG9fcHJldmlvdXMiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfdG9FbmRPZj0iQGlkL25vdGlmaWNhdGlvbl9hY3Rpb25fc2tpcF90b19wcmV2aW91cyIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iQGRpbWVuL2RwXzQ1IiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL2NvbG9yX0ZGRkZGRiIKICAgICAgICBhbmRyb2lkOnRleHRTaXplPSJAZGltZW4vc3BfMTMiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGNvbG9yL2NvbG9yXzgwODA4MCIK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRBcHBlYXJhbmNlPSJAc3R5bGUvVGV4dEFwcGVhcmFuY2UuQ29tcGF0Lk5vdGlmaWNhdGlvbi5JbmZvIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IkBkaW1lbi9kcF8xNCIgCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRBcHBlYXJhbmNlPSJAc3R5bGUvVGV4dEFwcGVhcmFuY2UuQ29tcGF0Lk5vdGlmaWNhdGlvbi5UaXRsZSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblN0YXJ0PSJAaWQvbm90aWZpY2F0aW9uX2F1dGhvciIK</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGNvbG9yL2NvbG9yXzgwODA4MCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IkBkaW1lbi9kcF84Igo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IkBkaW1lbi9kcF8xNCIgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iQGRpbWVuL2RwXzE2Igo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblN0YXJ0PSJAaWQvbm90aWZpY2F0aW9uX2F1dGhvciIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0Q3VzdG9tQ29udGVudFZpZXcoY29udGVudFZpZXcpCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IkBkaW1lbi9kcF84Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVtb3RlVmlld3MgY29udGVudFZpZXcgPSBuZXcgUmVtb3RlVmlld3MoKTsK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iQGRpbWVuL2RwXzE2Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0UHJvZ3Jlc3MoMTAwLCA1MCwgZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0Q3VzdG9tQ29udGVudFZpZXcoY29udGVudFZpZXcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIub25TdG9wKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVtb3RlVmlld3MgY29udGVudFZpZXcgPSBuZXcgUmVtb3RlVmlld3MoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>408</text>
