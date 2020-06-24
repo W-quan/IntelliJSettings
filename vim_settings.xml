@@ -151,13 +151,9 @@
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_audio_player/java/com/wujie/ermeng/audio/player/activity/AudioPlayingActivity.java" timestamp="1592904800925">
         <mark key="[" line="605" column="55" />
-        <mark key="]" line="606" column="81" />
-        <mark key="." line="606" column="80" />
-        <mark key="^" line="606" column="81" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.media/media/1.1.0/341e10416063572d12dbd751bda73d39284401af/media-1.1.0-sources.jar!/android/support/v4/media/session/MediaSessionCompat.java" timestamp="1592818022103">
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="143" column="83" />
+        <mark key="]" line="605" column="81" />
+        <mark key="." line="605" column="80" />
+        <mark key="^" line="605" column="81" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/AndroidManifest.xml" timestamp="1592884767531">
         <mark key="'" line="842" column="34" />
@@ -177,6 +173,11 @@
         <mark key="]" line="196" column="108" />
         <mark key="^" line="196" column="108" />
         <mark key="." line="196" column="107" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592908472181">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicServiceConnection.java" timestamp="1592906077001">
         <mark key="[" line="25" column="0" />
