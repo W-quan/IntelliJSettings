@@ -121,21 +121,15 @@
         <mark key="." line="858" column="7" />
         <mark key="^" line="858" column="8" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicService.java" timestamp="1592993376081">
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicService.java" timestamp="1592995105771">
         <mark key="'" line="177" column="5" />
-        <mark key="[" line="224" column="166" />
-        <mark key="]" line="224" column="214" />
-        <mark key="." line="224" column="213" />
-        <mark key="^" line="224" column="214" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/utils/MediaPlayerUtils.java" timestamp="1592907516895">
-        <mark key="[" line="194" column="66" />
-        <mark key="]" line="194" column="72" />
-        <mark key="." line="194" column="71" />
-        <mark key="^" line="194" column="72" />
+        <mark key="[" line="239" column="37" />
+        <mark key="]" line="240" column="22" />
+        <mark key="." line="240" column="21" />
+        <mark key="^" line="240" column="22" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.media/media/1.0.0/5faf25be15e16e27275f5c7e04e15e944ebccea0/media-1.0.0-sources.jar!/androidx/media/app/NotificationCompat.java" timestamp="1592980322514" />
-      <file name="/Dummy.txt" timestamp="1592981717706">
+      <file name="/Dummy.txt" timestamp="1592995136108">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -146,6 +140,7 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="37" column="19" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/app/Service.java" timestamp="1592994790137" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.31/d16c788b755be19bf8a7eace113755519a1d7182/kotlin-stdlib-1.3.31-sources.jar!/kotlin/Primitives.kt" timestamp="1592964583237">
         <mark key="[" line="902" column="0" />
         <mark key="]" line="903" column="43" />
@@ -279,14 +274,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0TWVkaWFTZXNzaW9uKG1NZWRpYVNlc3Npb24uZ2V0U2Vzc2lvblRva2VuKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>mediaStyle</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>9</text>
