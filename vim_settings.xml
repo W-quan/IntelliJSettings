@@ -126,15 +126,16 @@
         <mark key="^" line="858" column="8" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/app/NotificationChannel.java" timestamp="1593310723896" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicService.java" timestamp="1593316659714">
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicService.java" timestamp="1593317307817">
         <mark key="'" line="102" column="77" />
-        <mark key="[" line="219" column="81" />
+        <mark key="[" line="326" column="48" />
         <mark key="]" line="220" column="20" />
         <mark key="." line="220" column="19" />
         <mark key="^" line="220" column="20" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/app/PendingIntent.java" timestamp="1593313583816" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/activity/base/BaseActivity.java" timestamp="1593312776896" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.trello.rxlifecycle3/rxlifecycle/3.1.0/fc0f0fb75c30bd9447c3abd3f257d4e2a9f5a52c/rxlifecycle-3.1.0-sources.jar!/com/trello/rxlifecycle3/LifecycleProvider.java" timestamp="1593316964786" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/strings.xml" timestamp="1593310671052">
         <mark key="[" line="131" column="51" />
         <mark key="]" line="132" column="4" />
