@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="viewer" />
+      <item value="indeterminate" />
+      <item value="plate" />
       <item value="* Removes the [NOW_PLAYING_NOTIFICATION] notification. * * Since `stopForeground(false)` was already called (see * [MediaControllerCallback.onPlaybackStateChanged], it's possible to cancel the notification * with `notificationManager.cancel(NOW_PLAYING_NOTIFICATION)` if minSdkVersion is &gt;= * [Build.VERSION_CODES.LOLLIPOP]. * * Prior to [Build.VERSION_CODES.LOLLIPOP], notifications associated with a foreground * service remained marked as &quot;ongoing&quot; even after calling [Service.stopForeground], * and cannot be cancelled normally. * * Fortunately, it's possible to simply call [Service.stopForeground] a second time, this * time with `true`. This won't change anything about the service's state, but will simply * remove the notification." />
       <item value="GET SIGNATURES" />
       <item value="* UAMP takes the first approach for a variety of reasons, but both are valid * options." />
@@ -24,7 +27,6 @@
       <item value="&gt;Instead of providing a media notification that is completely custom, a developer can set * this style and still obtain system decorations like the notification header with the expand * affordance and actions." />
       <item value="* Notification style for media custom views that are decorated by the system." />
       <item value="Prior" />
-      <item value="indeterminate" />
       <item value="Requests up to 3 actions (by index in the order of addition) to be shown in the compact * notification view." />
       <item value="* @param actions the indices of the actions to show in the compact notification view" />
       <item value="meda data" />
@@ -49,13 +51,11 @@
       <item value="* Space is a lightweight View subclass that may be used to create gaps between components * in general purpose layouts." />
       <item value="PRODUCTION" />
       <item value="DEFUALT" />
-      <item value="Companion" />
-      <item value="remain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="261" />
-        <entry key="ENGLISH" value="262" />
+        <entry key="CHINESE" value="263" />
+        <entry key="ENGLISH" value="264" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
