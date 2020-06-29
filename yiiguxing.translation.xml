@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Removes the [NOW_PLAYING_NOTIFICATION] notification. * * Since `stopForeground(false)` was already called (see * [MediaControllerCallback.onPlaybackStateChanged], it's possible to cancel the notification * with `notificationManager.cancel(NOW_PLAYING_NOTIFICATION)` if minSdkVersion is &gt;= * [Build.VERSION_CODES.LOLLIPOP]. * * Prior to [Build.VERSION_CODES.LOLLIPOP], notifications associated with a foreground * service remained marked as &quot;ongoing&quot; even after calling [Service.stopForeground], * and cannot be cancelled normally. * * Fortunately, it's possible to simply call [Service.stopForeground] a second time, this * time with `true`. This won't change anything about the service's state, but will simply * remove the notification." />
+      <item value="GET SIGNATURES" />
+      <item value="* UAMP takes the first approach for a variety of reasons, but both are valid * options." />
+      <item value="CONTENT STYLE PLAYABLE HINT" />
+      <item value="CONTENT STYLE SUPPORTED" />
+      <item value="// Verify that things aren't ... broken. (This test should always pass.)" />
+      <item value="utilized" />
       <item value="artwork" />
       <item value="genre" />
       <item value="* The compilation status of the media." />
@@ -29,9 +36,7 @@
       <item value="// If the results are not ready, the service must &quot;detach&quot; the results before // the method returns. After the source is ready, the lambda above will run, // and the caller will be notified that the results are ready. // // See [MediaItemFragmentViewModel.subscriptionCallback] for how this is passed to the // UI/displayed in the [RecyclerView]." />
       <item value="* Detach this message from the current thread and allow the {@link #sendResult} * call to happen later." />
       <item value="Queries with service-specific arguments for information about the media items * that are contained within the specified id and subscribes to receive updates * when they change." />
-      <item value="CONTENT STYLE PLAYABLE HINT" />
       <item value="CONTENT STYLE BROWSABLE HINT" />
-      <item value="CONTENT STYLE SUPPORTED" />
       <item value="mocking" />
       <item value="typically" />
       <item value="coroutine" />
@@ -46,16 +51,11 @@
       <item value="DEFUALT" />
       <item value="Companion" />
       <item value="remain" />
-      <item value="Gradle build daemon disappeared unexpectedly (it may have been killed or may have crashed)" />
-      <item value="abbreviate" />
-      <item value="Rect" />
-      <item value="* &lt;li&gt;As a container for a specific interaction with one or more child views&lt;/li&gt;" />
-      <item value="* &lt;li&gt;As a top-level application decor or chrome layout&lt;/li&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="254" />
-        <entry key="ENGLISH" value="255" />
+        <entry key="CHINESE" value="261" />
+        <entry key="ENGLISH" value="262" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
