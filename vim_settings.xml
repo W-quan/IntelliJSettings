@@ -140,7 +140,7 @@
         <mark key="[" line="196" column="0" />
         <mark key="]" line="196" column="108" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/activity/AVRoomActivity.java" timestamp="1593403400928">
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/activity/AVRoomActivity.java" timestamp="1593411933589">
         <mark key="[" line="197" column="0" />
         <mark key="]" line="197" column="0" />
         <mark key="." line="197" column="0" />
@@ -289,7 +289,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBb6YCa55+l5qCP6Z+z5LmQ5o6n5Yi25ZmoXeenu+mZpOaXoOeUqOS7o+eggQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFZvaWNlQXBwbGljYXRpb24uZ2V0SW5zdGFuY2UoKS5wYXVzZSgpOwo=</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
@@ -357,31 +357,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE11c2ljU2VydmljZUNvbm5lY3Rpb24uZ2V0SW5zdGFuY2UoKS5nZXRUcmFuc3BvcnRDb250cm9scygpLnBhdXNlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBb6YCa55+l5qCP6Z+z5LmQ5o6n5Yi25ZmoXeenu+mZpOaXoOeUqOS7o+eggQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFZvaWNlQXBwbGljYXRpb24uZ2V0SW5zdGFuY2UoKS5wYXVzZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBb6YCa55+l5qCP6Z+z5LmQ5o6n5Yi25ZmoXeenu+mZpOaXoOeUqOS7o+eggQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PEhFQUQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFZvaWNlQXBwbGljYXRpb24uZ2V0SW5zdGFuY2UoKS5wYXVzZSgpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBb5aqS5L2T5pyN5YqhXWluaXQgTXVzaWNTZXJ2aWNlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vVm9pY2VBcHBsaWNhdGlvbi5nZXRJbnN0YW5jZSgpLnBhdXNlKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PEhFQUQK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFZvaWNlQXBwbGljYXRpb24uZ2V0SW5zdGFuY2UoKS5wYXVzZSgpOwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBb5aqS5L2T5pyN5YqhXWluaXQgTXVzaWNTZXJ2aWNlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vVm9pY2VBcHBsaWNhdGlvbi5nZXRJbnN0YW5jZSgpLnBhdXNlKCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFZvaWNlQXBwbGljYXRpb24uZ2V0SW5zdGFuY2UoKS5wYXVzZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>198</text>
