@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="extras" />
       <item value="Utility to return a default size. Uses the supplied size if the * MeasureSpec imposed no constraints. Will get larger if allowed * by the MeasureSpec." />
       <item value="* Measure the view and its content to determine the measured width and the * measured height. This method is invoked by {@link #measure(int, int)} and * should be overridden by subclasses to provide accurate and efficient * measurement of their contents." />
       <item value="viewer" />
@@ -50,12 +51,11 @@
       <item value="* &lt;p&gt;This is the primary method to control the DayNight functionality, since it allows * the delegates to avoid unnecessary recreations when possible.&lt;/p&gt;" />
       <item value="prefix" />
       <item value="panel" />
-      <item value="* Space is a lightweight View subclass that may be used to create gaps between components * in general purpose layouts." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="265" />
-        <entry key="ENGLISH" value="266" />
+        <entry key="CHINESE" value="266" />
+        <entry key="ENGLISH" value="267" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
