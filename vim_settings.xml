@@ -130,12 +130,6 @@
         <mark key="^" line="76" column="107" />
         <mark key="." line="76" column="106" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicService.java" timestamp="1593414879417">
-        <mark key="[" line="199" column="56" />
-        <mark key="]" line="256" column="45" />
-        <mark key="." line="256" column="44" />
-        <mark key="^" line="256" column="45" />
-      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/View.java" timestamp="1593482992848" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_home_music_player.xml" timestamp="1593421298621">
         <mark key="[" line="6" column="39" />
@@ -149,12 +143,12 @@
         <mark key="^" line="995" column="83" />
         <mark key="." line="1506" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/MainActivity.java" timestamp="1593425791213">
-        <mark key="'" line="634" column="16" />
-        <mark key="[" line="408" column="63" />
-        <mark key="]" line="409" column="24" />
-        <mark key="." line="409" column="23" />
-        <mark key="^" line="409" column="24" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/MainActivity.java" timestamp="1593485061737">
+        <mark key="'" line="639" column="16" />
+        <mark key="[" line="416" column="0" />
+        <mark key="]" line="416" column="0" />
+        <mark key="." line="416" column="0" />
+        <mark key="^" line="413" column="20" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_audio_player/java/com/wujie/ermeng/audio/player/activity/AudioPlayingActivity.java" timestamp="1593415426656">
         <mark key="[" line="826" column="96" />
@@ -163,11 +157,11 @@
         <mark key="." line="826" column="102" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/widget/ProgressBar.java" timestamp="1593421742188" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/widget/FloatingMusicPrecessView.java" timestamp="1593483444928">
-        <mark key="[" line="47" column="9" />
-        <mark key="]" line="47" column="15" />
-        <mark key="." line="47" column="14" />
-        <mark key="^" line="47" column="15" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/widget/FloatingMusicPrecessView.java" timestamp="1593484723508">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="72" column="10" />
+        <mark key="." line="72" column="9" />
+        <mark key="^" line="72" column="10" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/colors.xml" timestamp="1593483238465">
         <mark key="[" line="122" column="61" />
@@ -175,11 +169,12 @@
         <mark key="." line="123" column="3" />
         <mark key="^" line="123" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/activity_bumo_main.xml" timestamp="1593425946610">
-        <mark key="[" line="52" column="58" />
-        <mark key="]" line="52" column="69" />
-        <mark key="^" line="52" column="69" />
-        <mark key="." line="52" column="68" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/graphics/Canvas.java" timestamp="1593483723867" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/activity_bumo_main.xml" timestamp="1593484244913">
+        <mark key="[" line="48" column="49" />
+        <mark key="]" line="48" column="33" />
+        <mark key="^" line="48" column="35" />
+        <mark key="." line="48" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/activity/AVRoomActivity.java" timestamp="1593415419696">
         <mark key="[" line="197" column="100" />
@@ -312,14 +307,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>x</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>9</text>
@@ -381,31 +376,31 @@
         <text encoding="base64">ICAgICAgICBtQ3ggPSBnZXRNZWFzdXJlZFdpZHRoKCkgLyAyZjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtQ3kgPSBnZXRNZWFzdXJlZEhlaWdodCgpIC8gMmY7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdCBjeCA9IGdldE1lYXN1cmVkV2lkdGgoKSAvIDJmOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtUGFpbnQuc2V0U3R5bGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBldmVudC5nZXRTdGF0ZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbml0KCkgewogICAgICAgIG1QYWludCA9IG5ldyBQYWludCgpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvV2lkZ2V0LkFwcENvbXBhdC5Qcm9ncmVzc0Jhci5Ib3Jpem9udGFsIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQYWludCBwYWludCA9IG5ldyBQYWludCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbWVhc3VyZWRXaWR0aCA9IGdldE1lYXN1cmVkV2lkdGgoKTsK</text>
+        <text encoding="base64">ICAgICAgICBtT3ZhbCA9IG5ldyBSZWN0RigwLCAwLCBnZXRNZWFzdXJlZFdpZHRoKCksIGdldE1lYXN1cmVkSGVpZ2h0KCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkRyYXcoY2FudmFzKTsK</text>
+        <text encoding="base64">ICAgICAgICBSZWN0RiBvdmFsID0gbmV3IFJlY3RGKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBGbG9hdGluZ011c2ljUHJlY2VzVnNWaWV3KENvbnRleHQgY29udGV4dCwgQE51bGxhYmxlIEF0dHJpYnV0ZVNldCBhdHRycywgaW50IGRlZlN0eWxlQXR0ciwgaW50IGRlZlN0eWxlUmVzKSB7CiAgICAgICAgc3VwZXIoY29udGV4dCwgYXR0cnMsIGRlZlN0eWxlQXR0ciwgZGVmU3R5bGVSZXMpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBtQ3kgPSBnZXRNZWFzdXJlZEhlaWdodCgpIC8gMmY7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmbG9hdCBjeCA9IGdldE1lYXN1cmVkV2lkdGgoKSAvIDJmOwo=</text>
       </register>
       <register name=":" type="4">
         <text>198</text>
