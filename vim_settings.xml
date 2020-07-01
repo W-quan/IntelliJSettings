@@ -169,11 +169,11 @@
         <mark key="^" line="52" column="84" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicService.java" timestamp="1593586406138">
-        <mark key="[" line="318" column="0" />
-        <mark key="]" line="318" column="0" />
-        <mark key="." line="318" column="0" />
-        <mark key="^" line="299" column="42" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicService.java" timestamp="1593587615096">
+        <mark key="[" line="311" column="88" />
+        <mark key="]" line="311" column="92" />
+        <mark key="." line="311" column="91" />
+        <mark key="^" line="311" column="92" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/utils/MediaPlayerUtils.java" timestamp="1593508597946">
         <mark key="[" line="8" column="0" />
@@ -307,14 +307,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>NotificationCompat</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RGVjb3JhdGVkQ3VzdG9tVmlld1N0eWxlIA==</text>
+        <text>NotificationCompat</text>
       </register>
       <register name="/" type="4">
         <text>9</text>
