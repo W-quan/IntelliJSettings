@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* &lt;p&gt;&lt;em&gt;Warning!&lt;/em&gt; this class is extremely prone to mis-use. Use SimpleTarget only as a last" />
       <item value="* However, for MediaStyle and DecoratedMediaCustomViewStyle notifications * that have a media session attached there is no such requirement." />
       <item value="colorized" />
       <item value="* telling the system not to decorate this notification with any special color but instead use * default colors when presenting this notification." />
@@ -50,12 +51,11 @@
       <item value="Queries with service-specific arguments for information about the media items * that are contained within the specified id and subscribes to receive updates * when they change." />
       <item value="CONTENT STYLE BROWSABLE HINT" />
       <item value="mocking" />
-      <item value="typically" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="274" />
-        <entry key="ENGLISH" value="275" />
+        <entry key="CHINESE" value="275" />
+        <entry key="ENGLISH" value="276" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
