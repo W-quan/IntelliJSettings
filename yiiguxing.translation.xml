@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* However, for MediaStyle and DecoratedMediaCustomViewStyle notifications * that have a media session attached there is no such requirement." />
+      <item value="colorized" />
+      <item value="* telling the system not to decorate this notification with any special color but instead use * default colors when presenting this notification." />
       <item value="* Sets the &quot;ticker&quot; text which is sent to accessibility services. Prior to * {@link Build.VERSION_CODES#LOLLIPOP}, sets the text that is displayed in the status bar * when the notification first arrives." />
       <item value="badge" />
       <item value="* Supply custom RemoteViews to use instead of the platform template in the heads up dialog. *" />
@@ -48,14 +51,11 @@
       <item value="CONTENT STYLE BROWSABLE HINT" />
       <item value="mocking" />
       <item value="typically" />
-      <item value="coroutine" />
-      <item value="suspending" />
-      <item value="The default implementation of this method uses an iterative * algorithm to determine the actual maximum value for the * calendar field. Subclasses should, if possible, override this * with a more efficient implementation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="271" />
-        <entry key="ENGLISH" value="272" />
+        <entry key="CHINESE" value="274" />
+        <entry key="ENGLISH" value="275" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
