@@ -137,11 +137,11 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="64" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/layout_notify_media_controller_big.xml" timestamp="1593599351135">
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="6" column="30" />
-        <mark key="^" line="6" column="30" />
-        <mark key="." line="6" column="29" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/layout_notify_media_controller_big.xml" timestamp="1593655476374">
+        <mark key="[" line="56" column="36" />
+        <mark key="]" line="56" column="40" />
+        <mark key="^" line="56" column="40" />
+        <mark key="." line="56" column="39" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.media/media/1.1.0/341e10416063572d12dbd751bda73d39284401af/media-1.1.0-sources.jar!/androidx/media/app/NotificationCompat.java" timestamp="1593594366368" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/activity/RoomActivity.java" timestamp="1593508914416">
@@ -159,17 +159,17 @@
         <mark key="[" line="298" column="0" />
         <mark key="]" line="300" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/layout_notify_media_controller.xml" timestamp="1593597595277">
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="17" column="35" />
-        <mark key="^" line="17" column="35" />
-        <mark key="." line="17" column="34" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/layout_notify_media_controller.xml" timestamp="1593655575106">
+        <mark key="[" line="78" column="41" />
+        <mark key="]" line="78" column="46" />
+        <mark key="^" line="78" column="46" />
+        <mark key="." line="78" column="45" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicService.java" timestamp="1593597620908">
-        <mark key="[" line="310" column="11" />
-        <mark key="]" line="311" column="8" />
-        <mark key="." line="311" column="7" />
-        <mark key="^" line="311" column="8" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicService.java" timestamp="1593656117514">
+        <mark key="[" line="151" column="59" />
+        <mark key="]" line="152" column="70" />
+        <mark key="." line="152" column="69" />
+        <mark key="^" line="152" column="70" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/utils/MediaPlayerUtils.java" timestamp="1593508597946">
         <mark key="[" line="8" column="0" />
@@ -307,13 +307,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>icon_round_logo</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>icon_round_logo</text>
       </register>
       <register name="/" type="4">
         <text>9</text>
