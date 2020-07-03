@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Supervisor Job" />
       <item value="previous" />
       <item value="increments" />
       <item value="add To Next In Play List" />
@@ -50,12 +51,11 @@
       <item value="strange" />
       <item value="* @deprecated This flag is no longer used. All media sessions are expected to handle media * button events now. For backward compatibility, this flag will be always set." />
       <item value="// If the results are not ready, the service must &quot;detach&quot; the results before // the method returns. After the source is ready, the lambda above will run, // and the caller will be notified that the results are ready. // // See [MediaItemFragmentViewModel.subscriptionCallback] for how this is passed to the // UI/displayed in the [RecyclerView]." />
-      <item value="* Detach this message from the current thread and allow the {@link #sendResult} * call to happen later." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="278" />
-        <entry key="ENGLISH" value="279" />
+        <entry key="CHINESE" value="279" />
+        <entry key="ENGLISH" value="280" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
