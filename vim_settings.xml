@@ -132,13 +132,13 @@
         <mark key="." line="294" column="0" />
         <mark key="^" line="346" column="85" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" timestamp="1594086665608" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicServiceConnection.java" timestamp="1594004774380">
         <mark key="[" line="192" column="0" />
         <mark key="]" line="192" column="0" />
         <mark key="." line="192" column="0" />
         <mark key="^" line="192" column="31" />
       </file>
-      <file name="/activity_bumo_main.xml" timestamp="1594029397712" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/widget/FloatingMusicPrecessView.java" timestamp="1594027366977">
         <mark key="[" line="87" column="131" />
         <mark key="]" line="87" column="131" />
@@ -188,16 +188,21 @@
         <mark key="." line="138" column="3" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/app/VoiceApplication.java" timestamp="1594029158631">
-        <mark key="[" line="1440" column="27" />
-        <mark key="]" line="1441" column="31" />
-        <mark key="^" line="1441" column="31" />
-        <mark key="." line="1441" column="30" />
+        <mark key="]" line="1431" column="31" />
+        <mark key="^" line="1431" column="31" />
+        <mark key="." line="1431" column="30" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Demo/uamp/common/src/main/java/com/example/android/uamp/media/UampNotificationManager.kt" timestamp="1593759764834">
         <mark key="'" line="81" column="8" />
       </file>
       <file name="/fragment.java" timestamp="1593767000033">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeFragmentAdapter.java" timestamp="1594087025651">
+        <mark key="[" line="290" column="9" />
+        <mark key="]" line="290" column="9" />
+        <mark key="^" line="290" column="9" />
+        <mark key="." line="290" column="8" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/app/Configs.java" timestamp="1593768120702">
         <mark key="[" line="24" column="28" />
