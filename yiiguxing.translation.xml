@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="should have the same name (various editor features rely on this convention)" />
+      <item value="By convention, the custom view (VoicePlayingIcon) and the declare-styleable (voisePlayingIconAttr)" />
       <item value="* Gives this view a hint about whether is displayed or not. For instance, when * a View moves out of the screen, it might receives a display hint indicating * the view is not displayed. Applications should not &lt;em&gt;rely&lt;/em&gt; on this hint * as there is no guarantee that they will receive one. *" />
       <item value="oval" />
       <item value="Supervisor Job" />
@@ -49,12 +51,10 @@
       <item value="meda data" />
       <item value="invalidate Media Session Metadata" />
       <item value="on Position Discontinuity" />
-      <item value="* This may look strange, but the documentation for [Service.startForeground] * notes that &quot;calling this method does *not* put the service in the started * state itself, even though the name sounds like it.&quot;" />
-      <item value="strange" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="281" />
+        <entry key="CHINESE" value="282" />
         <entry key="ENGLISH" value="282" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
