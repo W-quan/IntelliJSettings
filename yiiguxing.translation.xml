@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Gives this view a hint about whether is displayed or not. For instance, when * a View moves out of the screen, it might receives a display hint indicating * the view is not displayed. Applications should not &lt;em&gt;rely&lt;/em&gt; on this hint * as there is no guarantee that they will receive one. *" />
       <item value="oval" />
       <item value="Supervisor Job" />
       <item value="previous" />
@@ -50,12 +51,11 @@
       <item value="on Position Discontinuity" />
       <item value="* This may look strange, but the documentation for [Service.startForeground] * notes that &quot;calling this method does *not* put the service in the started * state itself, even though the name sounds like it.&quot;" />
       <item value="strange" />
-      <item value="* @deprecated This flag is no longer used. All media sessions are expected to handle media * button events now. For backward compatibility, this flag will be always set." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="280" />
-        <entry key="ENGLISH" value="281" />
+        <entry key="CHINESE" value="281" />
+        <entry key="ENGLISH" value="282" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
