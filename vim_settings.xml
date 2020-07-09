@@ -119,7 +119,7 @@
         <mark key="^" line="208" column="24" />
         <mark key="." line="208" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/widget/FloatingMusicPrecessView.java" timestamp="1594280605030">
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/widget/FloatingMusicPrecessView.java" timestamp="1594280964085">
         <mark key="[" line="54" column="21" />
         <mark key="]" line="54" column="46" />
         <mark key="." line="54" column="45" />
@@ -161,7 +161,6 @@
         <mark key="^" line="467" column="64" />
         <mark key="." line="467" column="63" />
       </file>
-      <file name="/HomeFragmentAdapter.java" timestamp="1594090161366" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/gradle.properties" timestamp="1594278760302">
         <mark key="[" line="23" column="19" />
       </file>
@@ -171,7 +170,7 @@
         <mark key="^" line="1431" column="31" />
         <mark key="." line="20" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594280143442">
+      <file name="/Dummy.txt" timestamp="1594280994970">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -198,6 +197,12 @@
         <mark key="]" line="30" column="4" />
         <mark key="^" line="30" column="4" />
         <mark key="." line="30" column="3" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_mine.xml" timestamp="1594281813251">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="47" column="74" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicNotificationManager.java" timestamp="1594279473594">
         <mark key="'" line="144" column="46" />
@@ -322,13 +327,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmRyYXdhYmxlUGFkZGluZz0iQGRpbWVuL2RwXzE2Igo=</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>wrap_content</text>
       </register>
       <register name="/" type="4">
         <text>9</text>
@@ -390,31 +395,31 @@
         <text encoding="base64">ICAgICAgICBtTWVkaWFTZXNzaW9uLnNldEFjdGl2ZShmYWxzZSk7CiAgICAgICAgbU1lZGlhU2Vzc2lvbi5yZWxlYXNlKCk7CiAgICAgICAgbUN1c3RvbU5vdGlmaWNhdGlvbkFjdGlvblJlY2VpdmVyLnVucmVnaXN0ZXIoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmRyYXdhYmxlUGFkZGluZz0iQGRpbWVuL2RwXzE2Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOm1heFdpZHRoPSJAZGltZW4vZHBfMTUwIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25UYXNrUmVtb3ZlZChJbnRlbnQgcm9vdEludGVudCkgewogICAgICAgIExvZy5kKFRBRywgIm9uVGFza1JlbW92ZWQ6ICIpOwogICAgICAgIHN0b3BTZWxmKCk7CiAgICAgICAgc3RvcEZvcmVncm91bmQodHJ1ZSk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJvbkRlc3Ryb3k6ICIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzdG9wV2l0aFRhc2s9InRydWUiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXI+Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25UYXNrUmVtb3ZlZChJbnRlbnQgcm9vdEludGVudCkgewogICAgICAgIExvZy5kKFRBRywgIm9uVGFza1JlbW92ZWQ6ICIpOwogICAgICAgIHN0b3BTZWxmKCk7CiAgICAgICAgc3RvcEZvcmVncm91bmQodHJ1ZSk7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJvbkRlc3Ryb3k6ICIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vblRhc2tSZW1vdmVkKHJvb3RJbnRlbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzdG9wV2l0aFRhc2s9InRydWUiCg==</text>
       </register>
       <register name=":" type="4">
         <text>198</text>
