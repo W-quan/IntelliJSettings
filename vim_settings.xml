@@ -170,7 +170,7 @@
         <mark key="^" line="1431" column="31" />
         <mark key="." line="20" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594280994970">
+      <file name="/Dummy.txt" timestamp="1594287842499">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -181,11 +181,6 @@
         <mark key="]" line="336" column="35" />
         <mark key="." line="336" column="35" />
         <mark key="^" line="443" column="55" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" timestamp="1594091090590">
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicServiceConnection.java" timestamp="1594266824272">
         <mark key="[" line="38" column="0" />
@@ -217,6 +212,12 @@
         <mark key="]" line="139" column="11" />
         <mark key="^" line="102" column="21" />
         <mark key="." line="139" column="11" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_audio_player/java/com/wujie/ermeng/audio/player/dialog/AudioPlayListDialog.java" timestamp="1594287606891">
+        <mark key="[" line="136" column="75" />
+        <mark key="]" line="136" column="72" />
+        <mark key="^" line="136" column="72" />
+        <mark key="." line="136" column="71" />
       </file>
       <file name="/fragment.java" timestamp="1594265466323">
         <mark key="[" line="0" column="0" />
