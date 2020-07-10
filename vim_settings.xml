@@ -129,7 +129,7 @@
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/gradle.properties" timestamp="1594282045499">
         <mark key="[" line="23" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594368640132">
+      <file name="/Dummy.txt" timestamp="1594369943751">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -143,17 +143,24 @@
         <mark key="." line="260" column="0" />
         <mark key="^" line="259" column="114" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_audio_player/java/com/wujie/ermeng/audio/player/activity/AudioPlayingActivity.java" timestamp="1594346007994">
-        <mark key="[" line="893" column="38" />
-        <mark key="]" line="893" column="44" />
-        <mark key="." line="893" column="43" />
-        <mark key="^" line="893" column="44" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_audio_player/java/com/wujie/ermeng/audio/player/activity/AudioPlayingActivity.java" timestamp="1594369728238">
+        <mark key="'" line="392" column="39" />
+        <mark key="[" line="809" column="0" />
+        <mark key="]" line="810" column="29" />
+        <mark key="." line="809" column="0" />
+        <mark key="^" line="799" column="81" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_user_center.xml" timestamp="1594368620275">
-        <mark key="[" line="700" column="80" />
-        <mark key="]" line="701" column="53" />
-        <mark key="^" line="701" column="53" />
-        <mark key="." line="701" column="52" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_user_center.xml" timestamp="1594368909982">
+        <mark key="[" line="699" column="57" />
+        <mark key="]" line="702" column="53" />
+        <mark key="^" line="702" column="53" />
+        <mark key="." line="702" column="52" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_audio_player/res/layout/activity_audio_playing.xml" timestamp="1594369113031">
+        <mark key="[" line="46" column="26" />
+        <mark key="]" line="46" column="33" />
+        <mark key="^" line="46" column="33" />
+        <mark key="." line="46" column="32" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_mine.xml" timestamp="1594347989990">
         <mark key="[" line="48" column="39" />
@@ -187,12 +194,8 @@
         <mark key="^" line="136" column="72" />
         <mark key="." line="136" column="71" />
       </file>
-      <file name="/fragment.java" timestamp="1594265466323">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="320" column="36" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeFragmentAdapter.java" />
       <jump line="83" column="29" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_mine.xml" />
       <jump line="15" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_mine.xml" />
       <jump line="95" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" />
@@ -292,12 +295,13 @@
       <jump line="327" column="52" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/AndroidManifest.xml" />
       <jump line="1151" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/app/VoiceApplication.java" />
+      <jump line="393" column="39" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_audio_player/java/com/wujie/ermeng/audio/player/activity/AudioPlayingActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBFdmVudEJ1cy5nZXREZWZhdWx0KCkucG9zdChuZXcgQ29sbGVjdGlvbkV2ZW50KG1lZGlhSW5mbykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTXVzaWNTZXJ2aWNlQ29ubmVjdGlvbi5nZXRJbnN0YW5jZSgpLnN0b3AoKTsK</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
@@ -362,7 +366,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBFdmVudEJ1cy5nZXREZWZhdWx0KCkucG9zdChuZXcgQ29sbGVjdGlvbkV2ZW50KG1lZGlhSW5mbykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTXVzaWNTZXJ2aWNlQ29ubmVjdGlvbi5nZXRJbnN0YW5jZSgpLnN0b3AoKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6dmlzaWJpbGl0eT0iZ29uZSIK</text>
