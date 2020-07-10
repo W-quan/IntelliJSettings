@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Set the number of pages that should be retained to either side of the * current page in the view hierarchy in an idle state. Pages beyond this * limit will be recreated from the adapter when needed." />
       <item value="should have the same name (various editor features rely on this convention)" />
       <item value="By convention, the custom view (VoicePlayingIcon) and the declare-styleable (voisePlayingIconAttr)" />
       <item value="* Gives this view a hint about whether is displayed or not. For instance, when * a View moves out of the screen, it might receives a display hint indicating * the view is not displayed. Applications should not &lt;em&gt;rely&lt;/em&gt; on this hint * as there is no guarantee that they will receive one. *" />
@@ -50,12 +51,11 @@
       <item value="* @param actions the indices of the actions to show in the compact notification view" />
       <item value="meda data" />
       <item value="invalidate Media Session Metadata" />
-      <item value="on Position Discontinuity" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="282" />
-        <entry key="ENGLISH" value="282" />
+        <entry key="ENGLISH" value="283" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
