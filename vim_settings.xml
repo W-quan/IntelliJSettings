@@ -112,7 +112,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594378121247">
+      <file name="/Dummy.txt" timestamp="1594621998511">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -287,7 +287,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXVzZXJJbmZvLmlzQW5jaG9yKCkpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0K</text>
+        <text>[首页悬浮控件]退出房间后显示控件</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
@@ -355,31 +355,31 @@
         <text encoding="base64">ICAgICAgICBpZiAoIXVzZXJJbmZvLmlzQW5jaG9yKCkpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text>[首页悬浮控件]退出房间后显示控件</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGN1cnJlbnRQb3NpdGlvbiA9IFZvaWNlQXBwbGljYXRpb24uZ2V0SW5zdGFuY2UoKS5jdXJyZW50UG9zaXRpb247Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGN1cnJlbnRQb3NpdGlvbiA9IFZvaWNlQXBwbGljYXRpb24uZ2V0SW5zdGFuY2UoKS5jdXJyZW50UG9zaXRpb247Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhdmF0YXJMYXlvdXQuc2V0VmlzaWJpbGl0eShWaWV3LkdPTkUpOwogICAgICAgIG1EcmFnTGF5b3V0TW9kZSA9IE5PTkU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdmF0YXJMYXlvdXQuc2V0VmlzaWJpbGl0eShWaWV3LkdPTkUpOwogICAgICAgIG1EcmFnTGF5b3V0TW9kZSA9IE5PTkU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>198</text>
