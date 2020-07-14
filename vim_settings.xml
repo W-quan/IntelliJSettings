@@ -112,7 +112,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594633810850">
+      <file name="/Dummy.txt" timestamp="1594693690408">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -165,11 +165,18 @@
         <mark key="." line="7" column="29" />
         <mark key="^" line="3" column="46" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" timestamp="1594621398133">
-        <mark key="[" line="1036" column="9" />
-        <mark key="]" line="1037" column="8" />
-        <mark key="." line="1037" column="7" />
-        <mark key="^" line="1037" column="8" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" timestamp="1594693751023">
+        <mark key="'" line="469" column="0" />
+        <mark key="[" line="858" column="12" />
+        <mark key="]" line="858" column="13" />
+        <mark key="." line="858" column="12" />
+        <mark key="^" line="858" column="13" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/presenter/UserCenterFragmentPresenter.java" timestamp="1594693125633">
+        <mark key="[" line="86" column="12" />
+        <mark key="]" line="86" column="41" />
+        <mark key="^" line="86" column="41" />
+        <mark key="." line="86" column="40" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_audio_player/java/com/wujie/ermeng/audio/player/dialog/AudioPlayListDialog.java" timestamp="1594287606891">
         <mark key="[" line="136" column="75" />
@@ -181,9 +188,14 @@
         <mark key="[" line="23" column="19" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/app/VoiceApplication.java" timestamp="1594636456158" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/auth/AuthModel.java" timestamp="1594693154624">
+        <mark key="[" line="216" column="20" />
+        <mark key="]" line="216" column="27" />
+        <mark key="^" line="216" column="27" />
+        <mark key="." line="216" column="26" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="29" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_mine.xml" />
       <jump line="15" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_mine.xml" />
       <jump line="95" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" />
       <jump line="59" column="26" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" />
@@ -283,12 +295,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/AndroidManifest.xml" />
       <jump line="1151" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/app/VoiceApplication.java" />
       <jump line="393" column="39" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_audio_player/java/com/wujie/ermeng/audio/player/activity/AudioPlayingActivity.java" />
+      <jump line="469" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>[首页悬浮控件]退出房间后显示控件</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
@@ -356,31 +369,31 @@
         <text encoding="base64">ICAgICAgICBpZiAoIXVzZXJJbmZvLmlzQW5jaG9yKCkpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text>[首页悬浮控件]退出房间后显示控件</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBybExpdmUuc2V0VmlzaWJpbGl0eSh1c2VySW5mby5pc0FuY2hvcigpID8gVmlldy5WSVNJQkxFIDogVmlldy5HT05FKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGN1cnJlbnRQb3NpdGlvbiA9IFZvaWNlQXBwbGljYXRpb24uZ2V0SW5zdGFuY2UoKS5jdXJyZW50UG9zaXRpb247Cg==</text>
+        <text>[首页悬浮控件]退出房间后显示控件</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhdmF0YXJMYXlvdXQuc2V0VmlzaWJpbGl0eShWaWV3LkdPTkUpOwogICAgICAgIG1EcmFnTGF5b3V0TW9kZSA9IE5PTkU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGN1cnJlbnRQb3NpdGlvbiA9IFZvaWNlQXBwbGljYXRpb24uZ2V0SW5zdGFuY2UoKS5jdXJyZW50UG9zaXRpb247Cg==</text>
       </register>
       <register name=":" type="4">
         <text>198</text>
