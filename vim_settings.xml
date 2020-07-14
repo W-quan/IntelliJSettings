@@ -112,7 +112,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594711138721">
+      <file name="/Dummy.txt" timestamp="1594722249802">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -158,7 +158,6 @@
         <mark key="^" line="46" column="33" />
         <mark key="." line="46" column="32" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Demo/Muti-Barrage/Muti-Barrage/build.gradle" timestamp="1594719717705" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_mine.xml" timestamp="1594347989990">
         <mark key="[" line="48" column="39" />
         <mark key="]" line="42" column="25" />
