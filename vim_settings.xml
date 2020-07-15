@@ -152,11 +152,11 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/UserInfoModifyActivity.java" timestamp="1594798623963">
-        <mark key="[" line="362" column="55" />
-        <mark key="]" line="363" column="36" />
-        <mark key="." line="363" column="35" />
-        <mark key="^" line="363" column="36" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/UserInfoModifyActivity.java" timestamp="1594799514636">
+        <mark key="[" line="366" column="33" />
+        <mark key="]" line="367" column="34" />
+        <mark key="." line="367" column="33" />
+        <mark key="^" line="367" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_audio_player/res/layout/activity_audio_playing.xml" timestamp="1594369113031">
         <mark key="[" line="46" column="26" />
@@ -185,6 +185,8 @@
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" timestamp="1594711098007">
         <mark key="'" line="469" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.LuckSiege.PictureSelector/picture_library/v2.5.8/543f2c0a1b6ed48741d4f4c21eb77b827023c8ec/picture_library-v2.5.8-sources.jar!/com/luck/picture/lib/PictureSelectionModel.java" timestamp="1594799349780" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.LuckSiege.PictureSelector/picture_library/v2.5.8/543f2c0a1b6ed48741d4f4c21eb77b827023c8ec/picture_library-v2.5.8-sources.jar!/com/luck/picture/lib/style/PictureCropParameterStyle.java" timestamp="1594799470828" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/presenter/UserCenterFragmentPresenter.java" timestamp="1594693125633">
         <mark key="[" line="86" column="12" />
         <mark key="]" line="86" column="41" />
@@ -314,7 +316,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVtZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRQaWN0dXJlQ3JvcFN0eWxlKCkK</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
@@ -382,31 +384,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgR2xpZGVBcHAud2l0aChjb250ZXh0KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5sb2FkKHVybCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuaW50byhpbWFnZVZpZXcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVtZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRQaWN0dXJlQ3JvcFN0eWxlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVtZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL2NoZWNrUGVybWlzc2lvbihjaGVja1Blcm1pc3Npb25MaXN0ZW5lciwgUi5zdHJpbmcuYXNrX2NhbWVyYSwgTWFuaWZlc3QucGVybWlzc2lvbi5DQU1FUkEpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvL2NoZWNrUGVybWlzc2lvbihjaGVja1Blcm1pc3Npb25MaXN0ZW5lciwgUi5zdHJpbmcuYXNrX2NhbWVyYSwgTWFuaWZlc3QucGVybWlzc2lvbi5DQU1FUkEpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL+S9jueJiOacrOaOiOadg+ajgOafpQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBvcGVuR3JDYW1lcmEoKSB7CiAgICAgICAgCiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAvL+S9jueJiOacrOaOiOadg+ajgOafpQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCB0YWtlUGhvdG8oKSB7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBvcGVuR3JDYW1lcmEoKSB7CiAgICAgICAgCiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBFcmJhblRha2VQaG90b0FjdGl2aXR5LnN0YXJ0VG9UYWtlUGhvdG8odGhpcywgdGhpcyk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCB0YWtlUGhvdG8oKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>198</text>
