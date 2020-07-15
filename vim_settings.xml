@@ -170,6 +170,12 @@
         <mark key="." line="7" column="29" />
         <mark key="^" line="3" column="46" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/build.gradle" timestamp="1594783188200">
+        <mark key="[" line="291" column="0" />
+        <mark key="]" line="292" column="80" />
+        <mark key="^" line="292" column="80" />
+        <mark key="." line="292" column="79" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" timestamp="1594711098007">
         <mark key="'" line="469" column="0" />
       </file>
