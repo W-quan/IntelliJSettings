@@ -152,11 +152,11 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/UserInfoModifyActivity.java" timestamp="1594799514636">
-        <mark key="[" line="366" column="33" />
-        <mark key="]" line="367" column="34" />
-        <mark key="." line="367" column="33" />
-        <mark key="^" line="367" column="34" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/UserInfoModifyActivity.java" timestamp="1594802296818">
+        <mark key="[" line="583" column="33" />
+        <mark key="]" line="584" column="34" />
+        <mark key="." line="584" column="33" />
+        <mark key="^" line="584" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_audio_player/res/layout/activity_audio_playing.xml" timestamp="1594369113031">
         <mark key="[" line="46" column="26" />
@@ -182,11 +182,10 @@
         <mark key="^" line="292" column="80" />
         <mark key="." line="292" column="79" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.LuckSiege.PictureSelector/ucrop/v2.5.8/c8485c62b766341040ddf50bfb13afb503aedae4/ucrop-v2.5.8-sources.jar!/com/yalantis/ucrop/UCropActivity.java" timestamp="1594801673421" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" timestamp="1594711098007">
         <mark key="'" line="469" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.LuckSiege.PictureSelector/picture_library/v2.5.8/543f2c0a1b6ed48741d4f4c21eb77b827023c8ec/picture_library-v2.5.8-sources.jar!/com/luck/picture/lib/PictureSelectionModel.java" timestamp="1594799349780" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.LuckSiege.PictureSelector/picture_library/v2.5.8/543f2c0a1b6ed48741d4f4c21eb77b827023c8ec/picture_library-v2.5.8-sources.jar!/com/luck/picture/lib/style/PictureCropParameterStyle.java" timestamp="1594799470828" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/presenter/UserCenterFragmentPresenter.java" timestamp="1594693125633">
         <mark key="[" line="86" column="12" />
         <mark key="]" line="86" column="41" />
@@ -199,16 +198,12 @@
         <mark key="^" line="136" column="72" />
         <mark key="." line="136" column="71" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/gradle.properties" timestamp="1594282045499">
-        <mark key="[" line="23" column="19" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/auth/AuthModel.java" timestamp="1594693154624">
         <mark key="[" line="216" column="20" />
         <mark key="]" line="216" column="27" />
         <mark key="^" line="216" column="27" />
         <mark key="." line="216" column="26" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.LuckSiege.PictureSelector/picture_library/v2.5.8/543f2c0a1b6ed48741d4f4c21eb77b827023c8ec/picture_library-v2.5.8-sources.jar!/com/luck/picture/lib/PictureSelector.java" timestamp="1594794640202" />
     </filemarks>
     <jumps>
       <jump line="15" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_mine.xml" />
