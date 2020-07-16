@@ -178,11 +178,7 @@
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/build.gradle" timestamp="1594783188200">
         <mark key="[" line="291" column="0" />
-        <mark key="]" line="292" column="80" />
-        <mark key="^" line="292" column="80" />
-        <mark key="." line="292" column="79" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.LuckSiege.PictureSelector/ucrop/v2.5.8/c8485c62b766341040ddf50bfb13afb503aedae4/ucrop-v2.5.8-sources.jar!/com/yalantis/ucrop/UCropActivity.java" timestamp="1594801673421" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" timestamp="1594711098007">
         <mark key="'" line="469" column="0" />
       </file>
@@ -197,6 +193,12 @@
         <mark key="]" line="136" column="72" />
         <mark key="^" line="136" column="72" />
         <mark key="." line="136" column="71" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/fragment_room_content.xml" timestamp="1594864844383">
+        <mark key="[" line="212" column="44" />
+        <mark key="]" line="213" column="33" />
+        <mark key="^" line="213" column="33" />
+        <mark key="." line="213" column="32" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/auth/AuthModel.java" timestamp="1594693154624">
         <mark key="[" line="216" column="20" />
@@ -310,14 +312,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRQaWN0dXJlQ3JvcFN0eWxlKCkK</text>
+      <register name="&quot;" type="4">
+        <text>gone</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>gone</text>
       </register>
       <register name="/" type="4">
         <text>9</text>
