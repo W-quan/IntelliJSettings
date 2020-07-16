@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&lt;!-- Describes the content of a view so that a autofill service can fill in the appropriate data. Multiple hints can be combined in a comma separated list or an array of strings to mean e.g. emailAddress or postalAddress. --&gt;" />
       <item value="equivalent" />
       <item value="* Set the number of pages that should be retained to either side of the * current page in the view hierarchy in an idle state. Pages beyond this * limit will be recreated from the adapter when needed." />
       <item value="should have the same name (various editor features rely on this convention)" />
@@ -50,12 +51,11 @@
       <item value="Prior" />
       <item value="Requests up to 3 actions (by index in the order of addition) to be shown in the compact * notification view." />
       <item value="* @param actions the indices of the actions to show in the compact notification view" />
-      <item value="meda data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="283" />
-        <entry key="ENGLISH" value="284" />
+        <entry key="CHINESE" value="284" />
+        <entry key="ENGLISH" value="285" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
