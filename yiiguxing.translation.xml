@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hour" />
       <item value="定时关房" />
       <item value="clean" />
       <item value="clear" />
@@ -50,12 +51,11 @@
       <item value="set Ongoing" />
       <item value="* Set this flag if you would only like the sound, vibrate * and ticker to be played if the notification is not already showing." />
       <item value="* Notification visibility: Do not reveal any part of this notification on a secure lockscreen." />
-      <item value="* Notification visibility: Show this notification on all lockscreens, but conceal sensitive or * private information on secure lockscreens." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="289" />
-        <entry key="ENGLISH" value="289" />
+        <entry key="ENGLISH" value="290" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
