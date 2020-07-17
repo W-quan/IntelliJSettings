@@ -191,13 +191,12 @@
         <mark key="^" line="4" column="37" />
         <mark key="." line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/activity_medal_edit.xml" timestamp="1594958896248">
-        <mark key="[" line="29" column="41" />
-        <mark key="]" line="29" column="56" />
-        <mark key="^" line="29" column="56" />
-        <mark key="." line="29" column="55" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/activity_medal_edit.xml" timestamp="1594959191005">
+        <mark key="[" line="35" column="46" />
+        <mark key="]" line="35" column="54" />
+        <mark key="^" line="35" column="54" />
+        <mark key="." line="35" column="53" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/values/colors.xml" timestamp="1594867455706" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/activity/MedalEditActivity.java" timestamp="1594958203542">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="16" column="28" />
@@ -209,6 +208,12 @@
         <mark key="]" line="539" column="63" />
         <mark key="^" line="539" column="63" />
         <mark key="." line="539" column="62" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_medal_edit_text.xml" timestamp="1594958927716">
+        <mark key="[" line="1" column="66" />
+        <mark key="]" line="5" column="45" />
+        <mark key="^" line="5" column="45" />
+        <mark key="." line="5" column="44" />
       </file>
     </filemarks>
     <jumps>
