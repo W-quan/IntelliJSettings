@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="clean" />
+      <item value="clear" />
       <item value="outdate" />
       <item value="empty" />
       <item value="medel" />
@@ -49,13 +51,11 @@
       <item value="* Notification visibility: Do not reveal any part of this notification on a secure lockscreen." />
       <item value="* Notification visibility: Show this notification on all lockscreens, but conceal sensitive or * private information on secure lockscreens." />
       <item value="* &lt;p&gt;If you are using this style, consider using the corresponding styles like * {@link androidx.media.R.style#TextAppearance_Compat_Notification_Media} or * {@link" />
-      <item value="* corresponding custom views to display." />
-      <item value="&gt;Instead of providing a media notification that is completely custom, a developer can set * this style and still obtain system decorations like the notification header with the expand * affordance and actions." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="286" />
-        <entry key="ENGLISH" value="287" />
+        <entry key="CHINESE" value="288" />
+        <entry key="ENGLISH" value="289" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
