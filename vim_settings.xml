@@ -125,11 +125,11 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="37" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_medal_item.xml" timestamp="1594891329036">
-        <mark key="[" line="5" column="39" />
-        <mark key="]" line="5" column="85" />
-        <mark key="." line="5" column="84" />
-        <mark key="^" line="5" column="85" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_medal_item.xml" timestamp="1594896712560">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="22" column="52" />
+        <mark key="^" line="22" column="52" />
+        <mark key="." line="22" column="51" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/MedalFragment.java" timestamp="1594887879146">
         <mark key="[" line="58" column="53" />
@@ -189,11 +189,11 @@
         <mark key="." line="4" column="3" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.cardview/cardview/1.0.0/c9f3ce7ca74ad2c978230f4094ba6804c5166f9c/cardview-1.0.0-sources.jar!/androidx/cardview/widget/RoundRectDrawableWithShadow.java" timestamp="1594890296208" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_medal.xml" timestamp="1594895448515">
-        <mark key="[" line="19" column="49" />
-        <mark key="]" line="19" column="50" />
-        <mark key="^" line="43" column="43" />
-        <mark key="." line="19" column="50" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_medal.xml" timestamp="1594896773318">
+        <mark key="[" line="43" column="46" />
+        <mark key="]" line="13" column="48" />
+        <mark key="^" line="13" column="48" />
+        <mark key="." line="13" column="47" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/values/colors.xml" timestamp="1594867455706" />
       <file name="$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res/values/attrs.xml" timestamp="1594866425319" />
@@ -309,14 +309,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>dp_84</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>9</text>
@@ -375,7 +375,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJAZGltZW4vZHBfNzYiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IkBkaW1lbi9kcF83NiIK</text>
+        <text encoding="base64">ICAgICAgICA8c2hhcGU+CiAgICAgICAgICAgIDxjb3JuZXJzIGFuZHJvaWQ6cmFkaXVzPSJAZGltZW4vZHBfOCIvPgogICAgICAgICAgICA8c29saWQgYW5kcm9pZDpjb2xvcj0iQGNvbG9yL3doaXRlIi8+CiAgICAgICAgICAgIDxzdHJva2UgYW5kcm9pZDpjb2xvcj0iQGNvbG9yL2NvbG9yX2ZmNjU2NSIvPgogICAgICAgIDwvc2hhcGU+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgo=</text>
