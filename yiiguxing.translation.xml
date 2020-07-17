@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="outdate" />
       <item value="empty" />
       <item value="medel" />
       <item value="&lt;!-- Describes the content of a view so that a autofill service can fill in the appropriate data. Multiple hints can be combined in a comma separated list or an array of strings to mean e.g. emailAddress or postalAddress. --&gt;" />
@@ -50,12 +51,11 @@
       <item value="* &lt;p&gt;If you are using this style, consider using the corresponding styles like * {@link androidx.media.R.style#TextAppearance_Compat_Notification_Media} or * {@link" />
       <item value="* corresponding custom views to display." />
       <item value="&gt;Instead of providing a media notification that is completely custom, a developer can set * this style and still obtain system decorations like the notification header with the expand * affordance and actions." />
-      <item value="Prior" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="285" />
-        <entry key="ENGLISH" value="286" />
+        <entry key="CHINESE" value="286" />
+        <entry key="ENGLISH" value="287" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
