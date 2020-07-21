@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The option setting 'android.useNewApkCreator=false' is experimental and unsupported." />
       <item value="# When configured, Gradle will run in incubating parallel mode. # This option should only be used with decoupled projects. More details, visit" />
       <item value="First" />
       <item value="mins" />
@@ -50,12 +51,11 @@
       <item value="* The compilation status of the media." />
       <item value="truncated" />
       <item value="NOTIFICATION CHANNEL" />
-      <item value="* &lt;p&gt;Note that calling this method does &lt;em&gt;not&lt;/em&gt; put the service in the started state * itself, even though the name sounds like it. You must always call * {@link #startService(Intent)} first to tell the system it should keep the service running, * and then use this method to tell it to keep it running harder.&lt;/p&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="292" />
-        <entry key="ENGLISH" value="293" />
+        <entry key="CHINESE" value="293" />
+        <entry key="ENGLISH" value="294" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
