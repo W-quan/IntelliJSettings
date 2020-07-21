@@ -112,12 +112,55 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1595320412524">
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.19/6b3e317b749ca2eeb0d8a84a0bf656299b5258cf/rxjava-2.2.19-sources.jar!/io/reactivex/Single.java" timestamp="1595315397104" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/view/LiveRoomView.java" timestamp="1595235716526">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="102" column="13" />
+        <mark key="^" line="102" column="13" />
+        <mark key="." line="102" column="12" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/IUserModel.java" timestamp="1595235431600">
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
+        <mark key="^" line="180" column="42" />
+        <mark key="." line="181" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/dialog/FirstChargeDialog.java" timestamp="1595320218163">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wjhd.sdk/remote_service/1.0.42-20200713.092319-1/828c16a85dc783ae04667a5cc9b2171e294fd78d/remote_service-1.0.42-20200713.092319-1-sources.jar!/com/wjhd/im/business/chatroom/entity/ChatRoomNotification.java" timestamp="1595321790341" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/fragment/HomePartyRoomFragment.java" timestamp="1595317033808">
+        <mark key="[" line="807" column="0" />
+        <mark key="]" line="807" column="0" />
+        <mark key="." line="807" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/UserModel.java" timestamp="1595314996975">
+        <mark key="'" line="624" column="17" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/gradle.properties" timestamp="1595313269837">
+        <mark key="'" line="25" column="29" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.1.0/7ba5bcd622e3d6d7ab6b9833717c4385e4ba0a51/material-1.1.0-sources.jar!/com/google/android/material/bottomsheet/BottomSheetDialog.java" timestamp="1595299125338">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="87" column="5" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/utils/net/RxHelper.java" timestamp="1595315815943">
+        <mark key="'" line="138" column="46" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/GiftDialog.java" timestamp="1595320190869">
+        <mark key="[" line="792" column="0" />
+        <mark key="]" line="792" column="66" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1595321060169">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.19/6b3e317b749ca2eeb0d8a84a0bf656299b5258cf/rxjava-2.2.19-sources.jar!/io/reactivex/Single.java" timestamp="1595315397104" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/dialog/RoomOperationDialog.java" timestamp="1595233303433">
         <mark key="[" line="416" column="0" />
         <mark key="]" line="416" column="0" />
@@ -134,24 +177,12 @@
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="31" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/view/LiveRoomView.java" timestamp="1595235716526">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="97" column="13" />
-        <mark key="^" line="97" column="13" />
-        <mark key="." line="97" column="12" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/dialog_first_charge.xml" timestamp="1595317614950">
         <mark key="'" line="30" column="8" />
         <mark key="[" line="19" column="46" />
         <mark key="]" line="19" column="47" />
         <mark key="." line="19" column="46" />
         <mark key="^" line="19" column="47" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/presenter/LiveRoomPresenter.java" timestamp="1595316635319">
-        <mark key="'" line="363" column="59" />
-        <mark key="[" line="372" column="0" />
-        <mark key="]" line="372" column="0" />
-        <mark key="." line="372" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/widget/callback/RoomBottomViewWrapper.java" timestamp="1595232027589">
         <mark key="'" line="199" column="58" />
@@ -160,66 +191,15 @@
         <mark key="." line="200" column="87" />
         <mark key="^" line="200" column="88" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/IUserModel.java" timestamp="1595235431600">
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="0" />
-        <mark key="^" line="180" column="42" />
-        <mark key="." line="181" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/dialog/FirstChargeDialog.java" timestamp="1595320218163">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/fragment/HomePartyRoomFragment.java" timestamp="1595317033808">
-        <mark key="[" line="807" column="0" />
-        <mark key="]" line="807" column="0" />
-        <mark key="." line="807" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/common/widget/dialog/CommonPopupDialog.java" timestamp="1595230984609">
-        <mark key="]" line="153" column="5" />
-        <mark key="^" line="153" column="5" />
-        <mark key="." line="153" column="4" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/UserModel.java" timestamp="1595314996975">
-        <mark key="'" line="624" column="17" />
-        <mark key="[" line="675" column="0" />
-        <mark key="]" line="675" column="56" />
-        <mark key="^" line="672" column="34" />
-        <mark key="." line="673" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/gradle.properties" timestamp="1595313269837">
-        <mark key="'" line="25" column="29" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.1.0/7ba5bcd622e3d6d7ab6b9833717c4385e4ba0a51/material-1.1.0-sources.jar!/com/google/android/material/bottomsheet/BottomSheetDialog.java" timestamp="1595299125338">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="87" column="5" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1595317780629">
-        <mark key="[" line="829" column="30" />
-        <mark key="]" line="830" column="35" />
-        <mark key="^" line="830" column="35" />
-        <mark key="." line="830" column="34" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/utils/net/RxHelper.java" timestamp="1595315815943">
-        <mark key="'" line="138" column="46" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/GiftDialog.java" timestamp="1595320190869">
-        <mark key="[" line="792" column="0" />
-        <mark key="]" line="792" column="66" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/values/strings.xml" timestamp="1595320600976">
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1595321698301" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/values/strings.xml" timestamp="1595321004654">
         <mark key="[" line="82" column="35" />
         <mark key="]" line="82" column="36" />
-        <mark key="." line="82" column="36" />
-        <mark key="^" line="82" column="35" />
+        <mark key="." line="82" column="35" />
+        <mark key="^" line="82" column="36" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="28" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/UserModel.java" />
       <jump line="754" column="32" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_user_center.xml" />
       <jump line="217" column="46" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_user_center.xml" />
       <jump line="736" column="48" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_user_center.xml" />
@@ -319,18 +299,19 @@
       <jump line="25" column="29" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/gradle.properties" />
       <jump line="138" column="46" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/utils/net/RxHelper.java" />
       <jump line="363" column="59" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/presenter/LiveRoomPresenter.java" />
+      <jump line="645" column="27" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>2</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>9</text>
