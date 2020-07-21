@@ -121,11 +121,11 @@
         <mark key="^" line="97" column="13" />
         <mark key="." line="97" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/presenter/LiveRoomPresenter.java" timestamp="1595304240943">
-        <mark key="[" line="749" column="18" />
-        <mark key="]" line="750" column="19" />
-        <mark key="^" line="750" column="19" />
-        <mark key="." line="750" column="18" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/presenter/LiveRoomPresenter.java" timestamp="1595306037365">
+        <mark key="[" line="747" column="43" />
+        <mark key="]" line="747" column="72" />
+        <mark key="^" line="747" column="72" />
+        <mark key="." line="747" column="71" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/utils/TimeUtils.java" timestamp="1595230026015">
         <mark key="[" line="274" column="39" />
@@ -320,14 +320,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>MINUTES</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>MINUTES</text>
       </register>
       <register name="/" type="4">
         <text>9</text>
