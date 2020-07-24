@@ -122,12 +122,12 @@
         <mark key="^" line="29" column="25" />
         <mark key="." line="29" column="24" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/presenter/LiveRoomPresenter.java" timestamp="1595502259531">
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/presenter/LiveRoomPresenter.java" timestamp="1595555716698">
         <mark key="'" line="59" column="50" />
-        <mark key="[" line="762" column="0" />
-        <mark key="]" line="762" column="0" />
-        <mark key="." line="762" column="0" />
-        <mark key="^" line="782" column="40" />
+        <mark key="[" line="757" column="44" />
+        <mark key="]" line="757" column="52" />
+        <mark key="." line="757" column="51" />
+        <mark key="^" line="757" column="52" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_medal_item.xml" timestamp="1595492675813">
         <mark key="[" line="11" column="0" />
@@ -140,10 +140,18 @@
         <mark key="^" line="61" column="28" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/dimen.xml" timestamp="1595485564387">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/IUserModel.java" timestamp="1595555547013">
+        <mark key="[" line="180" column="4" />
+        <mark key="]" line="180" column="12" />
+        <mark key="^" line="180" column="12" />
+        <mark key="." line="180" column="11" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/UserModel.java" timestamp="1595555745798">
+        <mark key="'" line="672" column="25" />
+        <mark key="[" line="845" column="8" />
+        <mark key="]" line="845" column="16" />
+        <mark key="^" line="845" column="16" />
+        <mark key="." line="845" column="15" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/widget/RoomOwnerView.java" timestamp="1595487943934">
         <mark key="[" line="105" column="0" />
@@ -198,19 +206,12 @@
         <mark key="." line="29" column="40" />
         <mark key="^" line="29" column="44" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_medal_item_name_50.xml" timestamp="1595413148741">
-        <mark key="[" line="3" column="39" />
-        <mark key="]" line="3" column="45" />
-        <mark key="^" line="3" column="45" />
-        <mark key="." line="3" column="44" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1595497905836">
         <mark key="'" line="560" column="36" />
         <mark key="." line="294" column="154" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="44" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values-night/colors.xml" />
       <jump line="14" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values-night/colors.xml" />
       <jump line="0" column="19" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/ic_mine_header_arrow_forward.xml" />
       <jump line="5" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/ic_mine_header_arrow_forward.xml" />
@@ -310,18 +311,19 @@
       <jump line="156" column="30" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/manager/AvRoomDataManager.java" />
       <jump line="127" column="5" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/manager/AvRoomDataManager.java" />
       <jump line="59" column="50" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/presenter/LiveRoomPresenter.java" />
+      <jump line="672" column="25" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/UserModel.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21wb3NlKGJpbmRVbnRpbEV2ZW50KFByZXNlbnRlckV2ZW50LkRFU1RST1kpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>SingleSource</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>needShowFirstCharge</text>
+        <text>SingleSource</text>
       </register>
       <register name="/" type="4">
         <text>R</text>
