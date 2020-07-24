@@ -29,7 +29,6 @@
         <entry>R</entry>
       </history-search>
       <history-cmd>
-        <entry>215</entry>
         <entry>124</entry>
         <entry>222</entry>
         <entry>254</entry>
@@ -49,6 +48,7 @@
         <entry>719</entry>
         <entry>408</entry>
         <entry>198</entry>
+        <entry>712</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -206,8 +206,9 @@
         <mark key="." line="29" column="40" />
         <mark key="^" line="29" column="44" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1595497905836">
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1595558465534">
         <mark key="'" line="560" column="36" />
+        <mark key="[" line="759" column="55" />
         <mark key="." line="294" column="154" />
       </file>
     </filemarks>
@@ -412,7 +413,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21wb3NlKGJpbmRVbnRpbEV2ZW50KFByZXNlbnRlckV2ZW50LkRFU1RST1kpKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>198</text>
+        <text>712</text>
       </register>
     </registers>
   </component>
