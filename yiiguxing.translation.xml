@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="LENGTH" />
       <item value="Charged" />
       <item value="is Using" />
       <item value="Using" />
@@ -50,12 +51,11 @@
       <item value="CONTENT STYLE SUPPORTED" />
       <item value="// Verify that things aren't ... broken. (This test should always pass.)" />
       <item value="utilized" />
-      <item value="artwork" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="297" />
-        <entry key="ENGLISH" value="298" />
+        <entry key="CHINESE" value="298" />
+        <entry key="ENGLISH" value="299" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
