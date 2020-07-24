@@ -146,6 +146,12 @@
         <mark key="^" line="180" column="12" />
         <mark key="." line="180" column="11" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/bean/UserInfo.java" timestamp="1595573242864">
+        <mark key="[" line="300" column="42" />
+        <mark key="]" line="300" column="42" />
+        <mark key="." line="300" column="42" />
+        <mark key="^" line="378" column="42" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/UserModel.java" timestamp="1595562857354">
         <mark key="'" line="847" column="0" />
         <mark key="[" line="845" column="8" />
@@ -170,7 +176,6 @@
         <mark key="." line="54" column="32" />
         <mark key="^" line="54" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/fragment_medal.xml" timestamp="1595487013958" />
       <file name="/Dummy.txt" timestamp="1595499151101">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -206,10 +211,12 @@
         <mark key="." line="29" column="40" />
         <mark key="^" line="29" column="44" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1595558465534">
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1595573619092">
         <mark key="'" line="560" column="36" />
         <mark key="[" line="759" column="55" />
-        <mark key="." line="294" column="154" />
+        <mark key="]" line="656" column="46" />
+        <mark key="." line="656" column="45" />
+        <mark key="^" line="656" column="46" />
       </file>
     </filemarks>
     <jumps>
@@ -318,13 +325,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>SingleSource</text>
+        <text>X</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>SingleSource</text>
+        <text>X</text>
       </register>
       <register name="/" type="4">
         <text>R</text>
@@ -386,31 +393,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21wb3NlKGJpbmRVbnRpbEV2ZW50KFByZXNlbnRlckV2ZW50LkRFU1RST1kpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21wb3NlKGJpbmRVbnRpbEV2ZW50KFByZXNlbnRlckV2ZW50LkRFU1RST1kpKQo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogdXNlck1lZGFsIDogeyJoYXNNZWRhbCI6dHJ1ZSwidXNlck1lZGFsIjp7InZhbGlkIjowLCJtZWRhbE5hbWUiOiLli4vnq6DlkI0iLCJoYXNVc2UiOjAsImFuY2hvclVpZCI6MTIzLCJtZWRhbExldmVsIjoiMDEiLCJtZWRhbElkIjoxfX0KICAgICAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21wb3NlKGJpbmRVbnRpbEV2ZW50KFByZXNlbnRlckV2ZW50LkRFU1RST1kpKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21wb3NlKGJpbmRVbnRpbEV2ZW50KFByZXNlbnRlckV2ZW50LkRFU1RST1kpKQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgVXNlck1lZGFsIHsKICAgICAgICBwdWJsaWMgYm9vbGVhbgogICAgfQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21wb3NlKGJpbmRVbnRpbEV2ZW50KFByZXNlbnRlckV2ZW50LkRFU1RST1kpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuY29tcG9zZShiaW5kVW50aWxFdmVudChQcmVzZW50ZXJFdmVudC5ERVNUUk9ZKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21wb3NlKGJpbmRVbnRpbEV2ZW50KFByZXNlbnRlckV2ZW50LkRFU1RST1kpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuY29tcG9zZShiaW5kVW50aWxFdmVudChQcmVzZW50ZXJFdmVudC5ERVNUUk9ZKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21wb3NlKGJpbmRVbnRpbEV2ZW50KFByZXNlbnRlckV2ZW50LkRFU1RST1kpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAub2JzZXJ2ZU9uKEFuZHJvaWRTY2hlZHVsZXJzLm1haW5UaHJlYWQoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21wb3NlKGJpbmRVbnRpbEV2ZW50KFByZXNlbnRlckV2ZW50LkRFU1RST1kpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuY29tcG9zZShSeEhlbHBlci5oYW5kbGVTY2hlZHVsZXJzKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuY29tcG9zZShiaW5kVW50aWxFdmVudChQcmVzZW50ZXJFdmVudC5ERVNUUk9ZKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb21wb3NlKGJpbmRVbnRpbEV2ZW50KFByZXNlbnRlckV2ZW50LkRFU1RST1kpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuY29tcG9zZShiaW5kVW50aWxFdmVudChQcmVzZW50ZXJFdmVudC5ERVNUUk9ZKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>712</text>
