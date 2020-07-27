@@ -120,6 +120,9 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.CymChad/BaseRecyclerViewAdapterHelper/3.0.1/9d535db159cb80cd0adb34a0f724f25435064389/BaseRecyclerViewAdapterHelper-3.0.1-sources.jar!/com/chad/library/adapter/base/diff/BrvahAsyncDiffer.kt" timestamp="1595579716055">
         <mark key="'" line="62" column="34" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wjhd.sdk/remote_service/1.0.43-20200716.070657-1/978f86837afc19e3e5c3f8e5cfb5ea149cb88090/remote_service-1.0.43-20200716.070657-1-sources.jar!/com/wjhd/im/business/auth/constant/ClientType.java" timestamp="1595818167162">
+        <mark key="'" line="17" column="4" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/presenter/LiveRoomPresenter.java" timestamp="1595585816915">
         <mark key="'" line="85" column="18" />
         <mark key="[" line="770" column="0" />
@@ -132,7 +135,8 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/im/custom/bean/CustomAttachment.java" timestamp="1595816043713">
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/im/custom/bean/CustomAttachment.java" timestamp="1595817823046">
+        <mark key="'" line="370" column="22" />
         <mark key="[" line="317" column="0" />
         <mark key="]" line="318" column="9" />
         <mark key="^" line="318" column="9" />
@@ -214,8 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="499" column="28" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" />
-      <jump line="152" column="19" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/activity/MeMoreAct.java" />
       <jump line="70" column="22" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/MainTabLayout.java" />
       <jump line="292" column="85" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/MainActivity.java" />
       <jump line="180" column="16" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/widget/IOSSwitchView.java" />
@@ -314,6 +316,8 @@
       <jump line="62" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.CymChad/BaseRecyclerViewAdapterHelper/3.0.1/9d535db159cb80cd0adb34a0f724f25435064389/BaseRecyclerViewAdapterHelper-3.0.1-sources.jar!/com/chad/library/adapter/base/diff/BrvahAsyncDiffer.kt" />
       <jump line="86" column="18" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/presenter/LiveRoomPresenter.java" />
       <jump line="117" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/MedalFragment.java" />
+      <jump line="370" column="22" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/im/custom/bean/CustomAttachment.java" />
+      <jump line="17" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wjhd.sdk/remote_service/1.0.43-20200716.070657-1/978f86837afc19e3e5c3f8e5cfb5ea149cb88090/remote_service-1.0.43-20200716.070657-1-sources.jar!/com/wjhd/im/business/auth/constant/ClientType.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
