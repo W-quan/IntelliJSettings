@@ -144,7 +144,12 @@
         <mark key="." line="146" column="24" />
         <mark key="^" line="146" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/manager/ChatRoomManager.java" timestamp="1595833744889" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/manager/ChatRoomManager.java" timestamp="1595838054770">
+        <mark key="[" line="675" column="47" />
+        <mark key="]" line="675" column="54" />
+        <mark key="^" line="675" column="54" />
+        <mark key="." line="675" column="53" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/UserModel.java" timestamp="1595834635317">
         <mark key="'" line="195" column="20" />
         <mark key="[" line="845" column="8" />
@@ -302,8 +307,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">X0xFVkVMIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIENVU1RPTV9NU0dfUk9PTV9NRURBTF9HRVQ6Cg==</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
@@ -368,7 +373,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iQGRpbWVuL2RwXzQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIENVU1RPTV9NU0dfUk9PTV9NRURBTF9HRVQ6Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB0b29sczppZ25vcmU9IlNwVXNhZ2UiCg==</text>
