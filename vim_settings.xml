@@ -137,11 +137,11 @@
         <mark key="^" line="70" column="66" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/manager/ChatRoomManager.java" timestamp="1595846175808">
-        <mark key="[" line="692" column="0" />
-        <mark key="]" line="692" column="0" />
-        <mark key="^" line="687" column="58" />
-        <mark key="." line="692" column="0" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/manager/ChatRoomManager.java" timestamp="1595901647581">
+        <mark key="[" line="834" column="14" />
+        <mark key="]" line="834" column="12" />
+        <mark key="^" line="834" column="12" />
+        <mark key="." line="834" column="11" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/im/custom/bean/CustomAttachParser.java" timestamp="1595841820955">
         <mark key="[" line="244" column="54" />
@@ -314,14 +314,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHJvb21Vc2VyTWVkYWxVcGdyYWRlQXR0YWNobWVudC5nZXRNUm9vbU1lZGFsKCkuZ2V0TWVkYWxJZCgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPT0gdXNlck1lZGFsQmVhbi5nZXRVc2VyTWVkYWwoKS5nZXRNZWRhbElkKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>R</text>
