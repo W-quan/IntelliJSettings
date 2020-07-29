@@ -117,6 +117,11 @@
         <mark key="^" line="13" column="22" />
         <mark key="." line="13" column="21" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/webview/CommonWebViewFragment.java" timestamp="1596012280476">
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/MedalFragment.java" timestamp="1595992083436">
         <mark key="d" line="97" column="63" />
         <mark key="[" line="52" column="35" />
@@ -137,13 +142,7 @@
         <mark key="^" line="154" column="53" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/GiftDialog.java" timestamp="1596009203152" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/fragment_medal.xml" timestamp="1595989653506">
-        <mark key="[" line="87" column="29" />
-        <mark key="]" line="87" column="34" />
-        <mark key="^" line="87" column="34" />
-        <mark key="." line="87" column="33" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1596008285165">
+      <file name="/Dummy.txt" timestamp="1596011893208">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -184,12 +183,6 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="62" column="82" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/color/color_medal_done.xml" timestamp="1595990785564">
-        <mark key="[" line="2" column="38" />
-        <mark key="]" line="2" column="44" />
-        <mark key="." line="2" column="43" />
-        <mark key="^" line="2" column="44" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/manager/IMMessageManager.java" timestamp="1596006743084">
         <mark key="[" line="158" column="55" />
         <mark key="]" line="159" column="32" />
@@ -214,6 +207,12 @@
         <mark key="]" line="18" column="27" />
         <mark key="^" line="18" column="27" />
         <mark key="." line="18" column="26" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/activity/MedalEditActivity.java" timestamp="1596011883791">
+        <mark key="[" line="53" column="26" />
+        <mark key="]" line="53" column="41" />
+        <mark key="^" line="53" column="41" />
+        <mark key="." line="53" column="40" />
       </file>
       <file name="/fragment.java" timestamp="1596005745202">
         <mark key="[" line="0" column="0" />
@@ -325,13 +324,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>超过3个字符</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>超过3个字符</text>
       </register>
       <register name="/" type="4">
         <text>R</text>
