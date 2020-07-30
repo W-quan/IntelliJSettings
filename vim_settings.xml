@@ -147,12 +147,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.2.2/9e11ba92347527565fadcecd7399e6f1ef2296f4/fragment-1.2.2-sources.jar!/androidx/fragment/app/DialogFragment.java" timestamp="1596080185824">
         <mark key="'" line="169" column="30" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/fragment/DialogWebFragment.java" timestamp="1596082818560">
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/fragment/DialogWebFragment.java" timestamp="1596083175277">
         <mark key="'" line="194" column="16" />
-        <mark key="[" line="290" column="13" />
-        <mark key="]" line="230" column="0" />
-        <mark key="^" line="269" column="16" />
-        <mark key="." line="230" column="0" />
+        <mark key="[" line="230" column="35" />
+        <mark key="]" line="230" column="41" />
+        <mark key="^" line="230" column="41" />
+        <mark key="." line="230" column="40" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/IUserModel.java" timestamp="1596075042943">
         <mark key="'" line="21" column="17" />
@@ -311,7 +311,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1cGVyLm9uUmVjZWl2ZWRIdHRwRXJyb3Iod2ViVmlldywgd2ViUmVzb3VyY2VSZXF1ZXN0LCB3ZWJSZXNvdXJjZVJlc3BvbnNlKTsK</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
@@ -379,31 +379,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgRGlhbG9nV2ViRnJhZ21lbnQgbmV3SW5zdGFuY2UoU3RyaW5nIHVybCkgewoKICAgICAgICBCdW5kbGUgYXJncyA9IG5ldyBCdW5kbGUoKTsKICAgICAgICBhcmdzLnB1dFN0cmluZygidXJsIiwgdXJsKTsKICAgICAgICBEaWFsb2dXZWJGcmFnbWVudCBmcmFnbWVudCA9IG5ldyBEaWFsb2dXZWJGcmFnbWVudCgpOwogICAgICAgIGZyYWdtZW50LnNldEFyZ3VtZW50cyhhcmdzKTsKICAgICAgICByZXR1cm4gZnJhZ21lbnQ7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1cGVyLm9uUmVjZWl2ZWRIdHRwRXJyb3Iod2ViVmlldywgd2ViUmVzb3VyY2VSZXF1ZXN0LCB3ZWJSZXNvdXJjZVJlc3BvbnNlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIW1TaG93Q2xvc2VWaWV3KSB7CiAgICAgICAgICAgIGl2Q2xvc2Uuc2V0VmlzaWJpbGl0eShWaWV3LkdPTkUpOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtU2hvd0Nsb3NlVmlldyA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIW1TaG93Q2xvc2VWaWV3KSB7CiAgICAgICAgICAgIGl2Q2xvc2Uuc2V0VmlzaWJpbGl0eShWaWV3LkdPTkUpOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBtU2hvd0Nsb3NlVmlldyA9IHRydWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBCdW5kbGUgYXJncyA9IG5ldyBCdW5kbGUoKTsKICAgICAgICBhcmdzLnB1dFN0cmluZygidXJsIiwgdXJsKTsKICAgICAgICBEaWFsb2dXZWJGcmFnbWVudCBmcmFnbWVudCA9IG5ldyBEaWFsb2dXZWJGcmFnbWVudCgpOwogICAgICAgIGZyYWdtZW50LnNldEFyZ3VtZW50cyhhcmdzKTsKICAgICAgICByZXR1cm4gZnJhZ21lbnQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBCdW5kbGUgYXJncyA9IG5ldyBCdW5kbGUoKTsKICAgICAgICBhcmdzLnB1dFN0cmluZygidXJsIiwgdXJsKTsKICAgICAgICBEaWFsb2dXZWJGcmFnbWVudCBmcmFnbWVudCA9IG5ldyBEaWFsb2dXZWJGcmFnbWVudCgpOwogICAgICAgIGZyYWdtZW50LnNldEFyZ3VtZW50cyhhcmdzKTsKICAgICAgICByZXR1cm4gZnJhZ21lbnQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVNaWNCdG4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>712</text>
