@@ -148,23 +148,21 @@
         <mark key="^" line="154" column="53" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/GiftDialog.java" timestamp="1596161110235" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/fragment_medal.xml" timestamp="1596091757190">
-        <mark key="'" line="90" column="12" />
-        <mark key="[" line="3" column="50" />
-        <mark key="]" line="4" column="25" />
-        <mark key="^" line="4" column="25" />
-        <mark key="." line="4" column="24" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1596108850369">
+      <file name="/Dummy.txt" timestamp="1596163335417">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/dialog/RoomOperationDialog.java" timestamp="1596091088243">
-        <mark key="[" line="463" column="0" />
-        <mark key="]" line="464" column="25" />
-        <mark key="." line="464" column="24" />
-        <mark key="^" line="464" column="25" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_medal_item_name_0.xml" timestamp="1596163236057">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="39" />
+        <mark key="." line="3" column="39" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/widget/MedalView.java" timestamp="1596163320054">
+        <mark key="[" line="86" column="58" />
+        <mark key="]" line="86" column="58" />
+        <mark key="^" line="92" column="15" />
+        <mark key="." line="86" column="58" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/widget/RemoteViews.java" timestamp="1596104897328" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicNotificationManager.java" timestamp="1596103155364" />
@@ -293,14 +291,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>ShowCloseView</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>R</text>
@@ -359,34 +357,34 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMuaGVpZ2h0ID0gKFVJVXRpbC5nZXRTY3JlZW5IZWlnaHQoY29udGV4dCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVkYWxUdkl0ZW1OYW1lQmdSZXMgPSBSLmRyYXdhYmxlLmJnX21lZGFsX2l0ZW1fbmFtZV8xMDsKICAgICAgICAgICAgaWNNZWRhbExldmVsQmdSZXMgPSBSLmRyYXdhYmxlLmljX21lZGFsX2xldmVsXzEwOwogICAgICAgICAgICBtU3BhY2VMYXlvdXRQYXJhbXMudG9wTWFyZ2luID0gMDsKICAgICAgICAgICAgbVNwYWNlTGF5b3V0UGFyYW1zLnJpZ2h0TWFyZ2luID0gZHAxMDsKICAgICAgICAgICAgbVR2TWVkYWxMZXZlbExheW91dFBhcmFtcy53aWR0aCA9IGRwMjA7CiAgICAgICAgICAgIG1Udk1lZGFsTGV2ZWxMYXlvdXRQYXJhbXMuaGVpZ2h0ID0gZHAxODsKICAgICAgICAgICAgbVR2TWVkYWwuc2V0UGFkZGluZyhkcDMsIDAsIGRwMTAsIGRwMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGF5b3V0UGFyYW1zLndpZHRoID0gZG0ud2lkdGhQaXhlbHMgLSBEaXNwbGF5VXRpbHMuZGlwMnB4KGNvbnRleHQsIDQ4ICogMik7CiAgICAgICAgICAgIGxheW91dFBhcmFtcy5oZWlnaHQgPSBkbS5oZWlnaHRQaXhlbHMgLSBEaXNwbGF5VXRpbHMuZGlwMnB4KGNvbnRleHQsIDcyICogMik7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGF5b3V0UGFyYW1zLndpZHRoID0gZG0ud2lkdGhQaXhlbHMgLSBEaXNwbGF5VXRpbHMuZGlwMnB4KGNvbnRleHQsIDQ4ICogMik7CiAgICAgICAgICAgIGxheW91dFBhcmFtcy5oZWlnaHQgPSBkbS5oZWlnaHRQaXhlbHMgLSBEaXNwbGF5VXRpbHMuZGlwMnB4KGNvbnRleHQsIDcyICogMik7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL3BhcmFtcy5oZWlnaHQgPSAoVUlVdGlsLmdldFNjcmVlbkhlaWdodChjb250ZXh0KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iQGRpbWVuL2RwXzIwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkVuZD0iQGRpbWVuL2RwXzIwIgo=</text>
+        <text encoding="base64">ICAgICAgICAvL3BhcmFtcy5oZWlnaHQgPSAoVUlVdGlsLmdldFNjcmVlbkhlaWdodChjb250ZXh0KSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBFdmVudEJ1cy5nZXREZWZhdWx0KCkucG9zdChuZXcgQ2xvc2VXZWJWaWV3RXZlbnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iQGRpbWVuL2RwXzIwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkVuZD0iQGRpbWVuL2RwXzIwIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaXJzdENoYXJnZS5zZXRDaGFyZ2UoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBFdmVudEJ1cy5nZXREZWZhdWx0KCkucG9zdChuZXcgQ2xvc2VXZWJWaWV3RXZlbnQoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBFdmVudEJ1cy5nZXREZWZhdWx0KCkucG9zdChuZXcgQ2xvc2VEaWFsb2dXZWJWaWV3RXZlbnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaXJzdENoYXJnZS5zZXRDaGFyZ2UoZmFsc2UpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBFdmVudEJ1cy5nZXREZWZhdWx0KCkucG9zdChuZXcgQ2xvc2VXZWJWaWV3RXZlbnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBFdmVudEJ1cy5nZXREZWZhdWx0KCkucG9zdChuZXcgQ2xvc2VEaWFsb2dXZWJWaWV3RXZlbnQoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>712</text>
