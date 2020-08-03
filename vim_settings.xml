@@ -112,6 +112,28 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/presenter/LiveRoomPresenter.java" timestamp="1596184464067">
+        <mark key="'" line="378" column="40" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="758" column="102" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/webview/JSInterface.java" timestamp="1596423240276">
+        <mark key="'" line="66" column="13" />
+        <mark key="[" line="506" column="0" />
+        <mark key="]" line="506" column="0" />
+        <mark key="." line="506" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/list_item_dialog_gift.xml" timestamp="1596442535139" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/magic/bean/MagicInfo.java" timestamp="1596442603835" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/GiftDialog.java" timestamp="1596440574196">
+        <mark key="'" line="676" column="47" />
+        <mark key="[" line="814" column="0" />
+        <mark key="]" line="814" column="0" />
+        <mark key="." line="814" column="0" />
+        <mark key="^" line="932" column="97" />
+      </file>
       <file name="/Dummy.txt" timestamp="1596438574741">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -129,25 +151,6 @@
         <mark key="^" line="189" column="114" />
         <mark key="." line="189" column="113" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_first_charge.xml" timestamp="1596165680902">
-        <mark key="[" line="6" column="50" />
-        <mark key="]" line="6" column="53" />
-        <mark key="^" line="6" column="53" />
-        <mark key="." line="6" column="52" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/presenter/LiveRoomPresenter.java" timestamp="1596184464067">
-        <mark key="'" line="378" column="40" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="758" column="102" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/webview/JSInterface.java" timestamp="1596423240276">
-        <mark key="'" line="66" column="13" />
-        <mark key="[" line="506" column="0" />
-        <mark key="]" line="506" column="0" />
-        <mark key="." line="506" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/gift/dialog/GiftGridView.java" timestamp="1596439797530" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/dialog_bottom_gift.xml" timestamp="1596186598007">
         <mark key="[" line="250" column="36" />
@@ -163,12 +166,6 @@
         <mark key="^" line="21" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/widget/GiftV2View.java" timestamp="1596437444337" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/gift/bean/GiftInfo.java" timestamp="1596177159920">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="79" column="20" />
-        <mark key="^" line="79" column="20" />
-        <mark key="." line="79" column="19" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/build/generated/ap_generated_sources/ermengDebug/out/com/ormatch/android/asmr/databinding/ListItemDialogGiftBindingImpl.java" timestamp="1596439744179">
         <mark key="'" line="75" column="15" />
       </file>
@@ -178,13 +175,6 @@
         <mark key="]" line="768" column="0" />
         <mark key="^" line="1855" column="57" />
         <mark key="." line="768" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/GiftDialog.java" timestamp="1596440574196">
-        <mark key="'" line="676" column="47" />
-        <mark key="[" line="814" column="0" />
-        <mark key="]" line="814" column="0" />
-        <mark key="." line="814" column="0" />
-        <mark key="^" line="932" column="97" />
       </file>
     </filemarks>
     <jumps>
