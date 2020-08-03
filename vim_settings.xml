@@ -112,6 +112,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/wujie_chatroom/WuJieRoomModel.java" timestamp="1596446296308">
+        <mark key="[" line="147" column="28" />
+        <mark key="]" line="147" column="84" />
+        <mark key="^" line="147" column="84" />
+        <mark key="." line="147" column="83" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/presenter/LiveRoomPresenter.java" timestamp="1596443708804">
         <mark key="'" line="63" column="13" />
         <mark key="[" line="756" column="0" />
@@ -126,7 +132,14 @@
         <mark key="." line="506" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/list_item_dialog_gift.xml" timestamp="1596442535139" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wjhd.sdk/remote_service/1.0.43-20200716.070657-1/978f86837afc19e3e5c3f8e5cfb5ea149cb88090/remote_service-1.0.43-20200716.070657-1-sources.jar!/com/wjhd/im/business/chatroom/entity/ChatRoomMember.java" timestamp="1596446140648" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/magic/bean/MagicInfo.java" timestamp="1596442603835" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/presenter/AvRoomPresenter.java" timestamp="1596445710619" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/manager/ChatRoomManager.java" timestamp="1596446291607">
+        <mark key="[" line="1044" column="0" />
+        <mark key="]" line="1046" column="66" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wjhd.sdk/remote_service/1.0.43-20200716.070657-1/978f86837afc19e3e5c3f8e5cfb5ea149cb88090/remote_service-1.0.43-20200716.070657-1-sources.jar!/com/wjhd/im/business/chatroom/entity/EnterChatRoomResultData.java" timestamp="1596445819189" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/GiftDialog.java" timestamp="1596440574196">
         <mark key="'" line="676" column="47" />
         <mark key="[" line="814" column="0" />
@@ -145,26 +158,12 @@
         <mark key="." line="515" column="0" />
         <mark key="^" line="515" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_wallet/java/com/yizhuan/erban/wallet/fragment/MyNoteBalanceFragment.java" timestamp="1596184612698">
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="207" column="0" />
-        <mark key="^" line="189" column="114" />
-        <mark key="." line="189" column="113" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/data/RoomData.java" timestamp="1596446062622">
+        <mark key="'" line="39" column="52" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/noble/NobleUtil.java" timestamp="1596446187379" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/gift/dialog/GiftGridView.java" timestamp="1596439797530" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/dialog_bottom_gift.xml" timestamp="1596186598007">
-        <mark key="[" line="250" column="36" />
-        <mark key="]" line="250" column="40" />
-        <mark key="." line="250" column="39" />
-        <mark key="^" line="250" column="40" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/activity/MedalEditActivity.java" timestamp="1596422833414" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/utils/SharedPreferenceUtils.java" timestamp="1596184404582">
-        <mark key="[" line="18" column="101" />
-        <mark key="]" line="21" column="23" />
-        <mark key="." line="21" column="22" />
-        <mark key="^" line="21" column="23" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/widget/GiftV2View.java" timestamp="1596437444337" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/build/generated/ap_generated_sources/ermengDebug/out/com/ormatch/android/asmr/databinding/ListItemDialogGiftBindingImpl.java" timestamp="1596439744179">
         <mark key="'" line="75" column="15" />
@@ -178,7 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="606" column="16" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/MainActivity.java" />
       <jump line="80" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.2.0/8eb1782c02c4b7a6af797dab2a05266f385a1775/core-1.2.0-sources.jar!/androidx/core/app/NotificationCompat.java" />
       <jump line="481" column="40" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.2.0/8eb1782c02c4b7a6af797dab2a05266f385a1775/core-1.2.0-sources.jar!/androidx/core/app/NotificationCompat.java" />
       <jump line="991" column="34" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/app/VoiceApplication.java" />
@@ -278,18 +276,19 @@
       <jump line="676" column="47" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/GiftDialog.java" />
       <jump line="75" column="15" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/build/generated/ap_generated_sources/ermengDebug/out/com/ormatch/android/asmr/databinding/ListItemDialogGiftBindingImpl.java" />
       <jump line="63" column="13" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/presenter/LiveRoomPresenter.java" />
+      <jump line="39" column="52" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/data/RoomData.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaXJzdENoYXJnZS5zZXRDaGFyZ2UoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEF2Um9vbURhdGFNYW5hZ2VyLmdldCgpCiAgICAgICAgICAgICAgICAgICAgICAgIC5nZXRSb29tRGF0YSgpCiAgICAgICAgICAgICAgICAgICAgICAgIC51cGRhdGVSb29tTWVkYWwodXNlckluZm8uZ2V0VXNlck1lZGFsKCkpOwo=</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>remove todo</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text>R</text>
@@ -348,7 +347,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBKYXZhc2NyaXB0SW50ZXJmYWNlCiAgICBwdWJsaWMgdm9pZCBvcGVuR2lmdERpYWxvZygpIHsKICAgICAgICBFdmVudEJ1cy5nZXREZWZhdWx0KCkucG9zdChuZXcgSDVPcGVuR2lmdERpYWxvZ0V2ZW50KCkpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEF2Um9vbURhdGFNYW5hZ2VyLmdldCgpCiAgICAgICAgICAgICAgICAgICAgICAgIC5nZXRSb29tRGF0YSgpCiAgICAgICAgICAgICAgICAgICAgICAgIC51cGRhdGVSb29tTWVkYWwodXNlckluZm8uZ2V0VXNlck1lZGFsKCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaXJzdENoYXJnZS5zZXRDaGFyZ2UoZmFsc2UpOwo=</text>
