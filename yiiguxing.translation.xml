@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="author not set medal yet" />
       <item value="Press ⌘D in the editor to duplicate the selected block, or the current line when no block is selected." />
       <item value="KEY SHARE PREFERENCE HAD CHARGED" />
       <item value="CHARGED" />
@@ -50,12 +51,11 @@
       <item value="* Notification style for media custom views that are decorated by the system." />
       <item value="extras" />
       <item value="Utility to return a default size. Uses the supplied size if the * MeasureSpec imposed no constraints. Will get larger if allowed * by the MeasureSpec." />
-      <item value="* Measure the view and its content to determine the measured width and the * measured height. This method is invoked by {@link #measure(int, int)} and * should be overridden by subclasses to provide accurate and efficient * measurement of their contents." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="308" />
-        <entry key="ENGLISH" value="308" />
+        <entry key="ENGLISH" value="309" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />

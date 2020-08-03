@@ -112,7 +112,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1596186675277">
+      <file name="/Dummy.txt" timestamp="1596423844225">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -127,6 +127,12 @@
         <mark key="]" line="86" column="58" />
         <mark key="^" line="92" column="15" />
         <mark key="." line="86" column="58" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/dialog/RoomOperationDialog.java" timestamp="1596423839650">
+        <mark key="[" line="468" column="55" />
+        <mark key="]" line="468" column="70" />
+        <mark key="." line="468" column="69" />
+        <mark key="^" line="468" column="70" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_wallet/java/com/yizhuan/erban/wallet/fragment/MyNoteBalanceFragment.java" timestamp="1596184612698">
         <mark key="[" line="203" column="0" />
@@ -147,11 +153,11 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="758" column="102" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_dialog_web.xml" timestamp="1596108350633">
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="43" />
-        <mark key="." line="10" column="42" />
-        <mark key="^" line="10" column="43" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/webview/JSInterface.java" timestamp="1596423240276">
+        <mark key="'" line="66" column="13" />
+        <mark key="[" line="506" column="0" />
+        <mark key="]" line="506" column="0" />
+        <mark key="." line="506" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/fragment/DialogWebFragment.java" timestamp="1596108629403">
         <mark key="'" line="200" column="16" />
@@ -166,6 +172,7 @@
         <mark key="." line="250" column="39" />
         <mark key="^" line="250" column="40" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/activity/MedalEditActivity.java" timestamp="1596422833414" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/utils/SharedPreferenceUtils.java" timestamp="1596184404582">
         <mark key="[" line="18" column="101" />
         <mark key="]" line="21" column="23" />
@@ -194,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="16" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicServiceConnection.java" />
       <jump line="739" column="13" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/MainActivity.java" />
       <jump line="216" column="8" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/MainActivity.java" />
       <jump line="198" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/activity/AVRoomActivity.java" />
@@ -294,12 +300,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/strings.xml" />
       <jump line="787" column="33" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/GiftDialog.java" />
       <jump line="563" column="17" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/GiftDialog.java" />
+      <jump line="66" column="13" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/webview/JSInterface.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
@@ -364,34 +371,34 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBTdWJzY3JpYmUodGhyZWFkTW9kZSA9IFRocmVhZE1vZGUuTUFJTikKICAgIHB1YmxpYyB2b2lkIG9uR2V0V2FsbGV0SW5mbyhHZXRXYWxsZXRJbmZvRXZlbnQgZXZlbnQpIHsKICAgICAgICBnZXRNdnBQcmVzZW50ZXIoKS5kaXNwbGF5Tm90ZUJhbGFuY2UoKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIEBKYXZhc2NyaXB0SW50ZXJmYWNlCiAgICBwdWJsaWMgdm9pZCBvcGVuR2lmdERpYWxvZygpIHsKICAgICAgICBFdmVudEJ1cy5nZXREZWZhdWx0KCkucG9zdChuZXcgSDVPcGVuR2lmdERpYWxvZ0V2ZW50KCkpOwogICAgfQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL3R2UmVjaGFyZ2Uuc2V0VmlzaWJpbGl0eShWaWV3LlZJU0lCTEUpOwogICAgICAgIC8vdHZSZWNoYXJnZS5zZXRUZXh0KGNvbnRleHQuZ2V0VGV4dChSLnN0cmluZy5jaGFyZ2UpKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL3R2UmVjaGFyZ2Uuc2V0VmlzaWJpbGl0eShWaWV3LlZJU0lCTEUpOwogICAgICAgIC8vdHZSZWNoYXJnZS5zZXRUZXh0KGNvbnRleHQuZ2V0VGV4dChSLnN0cmluZy50ZXh0X2dpZnRfcmFkaXNoX29idGFpbl90aXBzKSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dmlzaWJpbGl0eT0iZ29uZSIK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAhVGV4dFV0aWxzLmlzRW1wdHkoY3VycmVudFJvb21JbmZvLmdldE1lZGFsTmFtZSgpKTsKICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQEphdmFzY3JpcHRJbnRlcmZhY2UKICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gZ2V0TWVkYWxTdGF0dXMoKSB7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBKYXZhc2NyaXB0SW50ZXJmYWNlCiAgICBwdWJsaWMgYm9vbGVhbiBnZXRNZWRhbFN0YXR1cygpIHsKICAgICAgICBSb29tSW5mbyBjdXJyZW50Um9vbUluZm8gPSBBdlJvb21EYXRhTWFuYWdlci5nZXQoKS5tQ3VycmVudFJvb21JbmZvOwogICAgICAgIGlmIChjdXJyZW50Um9vbUluZm8gPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgIHJldHVybiAhVGV4dFV0aWxzLmlzRW1wdHkoY3VycmVudFJvb21JbmZvLmdldE1lZGFsTmFtZSgpKTsKICAgIH0KCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRNdnBQcmVzZW50ZXIoKS5kaXNwbGF5Tm90ZUJhbGFuY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBFdmVudEJ1cy5nZXREZWZhdWx0KCkucG9zdChuZXcgSDVPcGVuR2lmdERpYWxvZ0V2ZW50KCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ueWl6aHVhbi5lcmJhbi5yb29tLnByZXNlbnRlci5MaXZlUm9vbVByZXNlbnRlci5LRVlfU0hBUkVfUFJFRkVSRU5DRV9NRURBTF9VUkw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEtFWV9TSEFSRV9QUkVGRVJFTkNFX0hBRF9DSEFSR0VEID0gImtleV9zaGFyZV9wcmVmZXJlbmNlX2hhZF9jaGFyZ2VkIjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEtFWV9TSEFSRV9QUkVGRVJFTkNFX01FREFMX1VSTCA9ICJrZXlfc2hhcmVfcHJlZmVyZW5jZV9tZWRhbF91cmwiOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bWF4TGluZXM9IjEiCg==</text>
+        <text encoding="base64">ICAgICAgICAvL3R2UmVjaGFyZ2Uuc2V0VmlzaWJpbGl0eShWaWV3LlZJU0lCTEUpOwogICAgICAgIC8vdHZSZWNoYXJnZS5zZXRUZXh0KGNvbnRleHQuZ2V0VGV4dChSLnN0cmluZy5jaGFyZ2UpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>712</text>
