@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Statistic" />
       <item value="* Adds the given observer to the observers list within the lifespan of the given * owner. The events are dispatched on the main thread. If LiveData already has data * set, it will be delivered to the observer." />
       <item value="delay" />
       <item value="author not set medal yet" />
@@ -50,12 +51,11 @@
       <item value="badge" />
       <item value="* Supply custom RemoteViews to use instead of the platform template in the heads up dialog. *" />
       <item value="* &lt;p&gt;Instead of providing a media notification that is completely custom, a developer can set * this style and still obtain system decorations like the notification header with the expand * affordance and actions." />
-      <item value="* Notification style for media custom views that are decorated by the system." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="310" />
-        <entry key="ENGLISH" value="311" />
+        <entry key="CHINESE" value="311" />
+        <entry key="ENGLISH" value="312" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
