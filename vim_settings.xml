@@ -115,12 +115,6 @@
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/model/AvRoomModel.java" timestamp="1596535802824">
         <mark key="'" line="798" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/bindinglist/BaseItem.java" timestamp="1596528183803">
-        <mark key="[" line="18" column="70" />
-        <mark key="]" line="19" column="4" />
-        <mark key="." line="19" column="3" />
-        <mark key="^" line="19" column="4" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/event/BackpackActivityH5Event.java" timestamp="1596535590616">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="7" column="23" />
@@ -180,6 +174,11 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/dialog/RoomOperationDialog.java" timestamp="1596598653382">
+        <mark key="[" line="475" column="0" />
+        <mark key="]" line="475" column="0" />
+        <mark key="." line="475" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/data/RoomData.java" timestamp="1596538830088">
         <mark key="'" line="39" column="52" />
         <mark key="[" line="96" column="0" />
@@ -211,11 +210,11 @@
         <mark key="]" line="1100" column="0" />
         <mark key="." line="1100" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-core/2.2.0/6dcd7f31093b360c4a8bced748159e6fd237ba52/lifecycle-livedata-core-2.2.0-sources.jar!/androidx/lifecycle/LiveData.java" timestamp="1596536221115" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-core/2.2.0/6dcd7f31093b360c4a8bced748159e6fd237ba52/lifecycle-livedata-core-2.2.0-sources.jar!/androidx/lifecycle/LiveData.java" timestamp="1596598568076">
+        <mark key="'" line="182" column="5" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="46" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicNotificationManager.java" />
-      <jump line="327" column="52" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicService.java" />
       <jump line="1151" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/app/VoiceApplication.java" />
       <jump line="393" column="39" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_audio_player/java/com/wujie/ermeng/audio/player/activity/AudioPlayingActivity.java" />
       <jump line="469" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" />
@@ -314,12 +313,14 @@
       <jump line="39" column="52" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/data/RoomData.java" />
       <jump line="1031" column="23" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/manager/ChatRoomManager.java" />
       <jump line="606" column="39" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/manager/WuJieChatRoomManager.java" />
+      <jump line="182" column="5" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-core/2.2.0/6dcd7f31093b360c4a8bced748159e6fd237ba52/lifecycle-livedata-core-2.2.0-sources.jar!/androidx/lifecycle/LiveData.java" />
+      <jump line="477" column="27" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/dialog/RoomOperationDialog.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoImZ1Y2siLCAib25NZUVudGVyUm9vbUV2ZW50OiBvYnNlcnZlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
@@ -387,16 +388,16 @@
         <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoImZ1Y2siLCAib25NZUVudGVyUm9vbUV2ZW50OiAiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoImZ1Y2siLCAib25NZUVudGVyUm9vbUV2ZW50OiBvYnNlcnZlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoImZ1Y2siLCAib25NZUVudGVyUm9vbUV2ZW50OiAiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoImZ1Y2siLCAib25NZUVudGVyUm9vbUV2ZW50OiBvYnNlcnZlIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCgiZnVjayIsICJ1cGRhdGUgbWVkYWwiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoImZ1Y2siLCAib25NZUVudGVyUm9vbUV2ZW50OiAiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCgiZnVjayIsICJjaGF0Um9vbU1lbWJlckluOiAiKTsK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiZnVjayIsICJ1cGRhdGUgbWVkYWwiKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBMb2cuZCgiZnVjayIsICJjaGF0Um9vbU1lbWJlckluOiAiKTsK</text>
@@ -408,10 +409,10 @@
         <text encoding="base64">ICAgICAgICBMb2cuZCgiZnVjayIsICJjaGF0Um9vbU1lbWJlckluOiAiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJmdWNrIiwgImNoYXRSb29tTWVtYmVySW46IHVwZGF0ZSBtZWRhbCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiZnVjayIsICJjaGF0Um9vbU1lbWJlckluOiAiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJmdWNrIiwgImNoYXRSb29tTWVtYmVySW46ICIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJmdWNrIiwgImNoYXRSb29tTWVtYmVySW46IHVwZGF0ZSBtZWRhbCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>712</text>
