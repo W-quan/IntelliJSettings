@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* startForegroundService() was introduced in O, just call startService * for before O." />
+      <item value="FLAG IMMUTABLE" />
+      <item value="FLAG CANCEL CURRENT" />
+      <item value="* Flag indicating that if the described PendingIntent does not * already exist, then simply return null instead of creating it. * For use with {@link #getActivity}, {@link #getBroadcast}, and * {@link #getService}." />
       <item value="Statistic" />
       <item value="* Adds the given observer to the observers list within the lifespan of the given * owner. The events are dispatched on the main thread. If LiveData already has data * set, it will be delivered to the observer." />
       <item value="delay" />
@@ -47,15 +51,11 @@
       <item value="* However, for MediaStyle and DecoratedMediaCustomViewStyle notifications * that have a media session attached there is no such requirement." />
       <item value="colorized" />
       <item value="* telling the system not to decorate this notification with any special color but instead use * default colors when presenting this notification." />
-      <item value="* Sets the &quot;ticker&quot; text which is sent to accessibility services. Prior to * {@link Build.VERSION_CODES#LOLLIPOP}, sets the text that is displayed in the status bar * when the notification first arrives." />
-      <item value="badge" />
-      <item value="* Supply custom RemoteViews to use instead of the platform template in the heads up dialog. *" />
-      <item value="* &lt;p&gt;Instead of providing a media notification that is completely custom, a developer can set * this style and still obtain system decorations like the notification header with the expand * affordance and actions." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="311" />
-        <entry key="ENGLISH" value="312" />
+        <entry key="CHINESE" value="315" />
+        <entry key="ENGLISH" value="316" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />

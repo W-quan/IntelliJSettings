@@ -112,37 +112,33 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/model/AvRoomModel.java" timestamp="1596535802824">
-        <mark key="'" line="798" column="12" />
-      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/service/DaemonService.java" timestamp="1596617935228" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/application/XChatApplication.java" timestamp="1596615621874">
         <mark key="[" line="548" column="0" />
         <mark key="]" line="548" column="0" />
         <mark key="." line="548" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/UserModel.java" timestamp="1596535785319">
-        <mark key="'" line="685" column="24" />
-        <mark key="[" line="685" column="41" />
-        <mark key="]" line="686" column="25" />
-        <mark key="^" line="686" column="25" />
-        <mark key="." line="686" column="24" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/app/PendingIntent.java" timestamp="1596617321044" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicService.java" timestamp="1596617999506">
+        <mark key="'" line="66" column="4" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/login/LoginActivity.java" timestamp="1596615482419">
         <mark key="[" line="177" column="0" />
         <mark key="]" line="177" column="0" />
         <mark key="." line="177" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/app/VoiceApplication.java" timestamp="1596615053449">
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/app/VoiceApplication.java" timestamp="1596616518955">
         <mark key="[" line="768" column="0" />
         <mark key="]" line="768" column="0" />
         <mark key="." line="768" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/presenter/LiveRoomPresenter.java" timestamp="1596535701658">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="45" />
-        <mark key="^" line="801" column="49" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicNotificationManager.java" timestamp="1596617957764">
+        <mark key="[" line="74" column="52" />
+        <mark key="]" line="75" column="16" />
+        <mark key="." line="75" column="24" />
+        <mark key="^" line="75" column="16" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.2.0/8eb1782c02c4b7a6af797dab2a05266f385a1775/core-1.2.0-sources.jar!/androidx/core/content/ContextCompat.java" timestamp="1596618471336" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/build.gradle" timestamp="1596615204751">
         <mark key="'" line="0" column="0" />
       </file>
@@ -157,13 +153,12 @@
         <mark key="]" line="157" column="0" />
         <mark key="." line="157" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/helper/OpenRoomHelper.java" timestamp="1596595132859" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/initial/IInitialModel.java" timestamp="1596615546509">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596535722286">
+      <file name="/Dummy.txt" timestamp="1596615986209">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -173,10 +168,10 @@
         <mark key="]" line="475" column="0" />
         <mark key="." line="475" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/data/RoomData.java" timestamp="1596538830088">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/layout_notify_media_controller_big.xml" timestamp="1596616564158">
+        <mark key="[" line="37" column="28" />
+        <mark key="]" line="37" column="29" />
+        <mark key="." line="37" column="29" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/statistic/StatisticModel.java" timestamp="1596615101248">
         <mark key="[" line="20" column="0" />
@@ -184,16 +179,17 @@
         <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/build.gradle" timestamp="1596615600211" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/manager/WuJieChatRoomManager.java" timestamp="1596536983398">
-        <mark key="'" line="606" column="39" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/layout_notify_media_controller.xml" timestamp="1596616541166">
+        <mark key="[" line="41" column="32" />
+        <mark key="]" line="41" column="33" />
+        <mark key="." line="41" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1596538838385" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.media/media/1.1.0/341e10416063572d12dbd751bda73d39284401af/media-1.1.0-sources.jar!/android/support/v4/media/MediaBrowserCompat.java" timestamp="1596618656720" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-core/2.2.0/6dcd7f31093b360c4a8bced748159e6fd237ba52/lifecycle-livedata-core-2.2.0-sources.jar!/androidx/lifecycle/LiveData.java" timestamp="1596598568076">
         <mark key="'" line="182" column="5" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="375" column="48" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/activity/AVRoomActivity.java" />
       <jump line="229" column="16" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/fragment_room_content.xml" />
       <jump line="297" column="49" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/fragment_room_content.xml" />
       <jump line="6" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_medal.xml" />
@@ -293,18 +289,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/build.gradle" />
       <jump line="58" column="20" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/initial/InitialModel.java" />
       <jump line="490" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/initial/InitialModel.java" />
+      <jump line="67" column="4" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0QmFpZHVTdGF0aXN0aWMoY2hhbm5lbCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>this</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
