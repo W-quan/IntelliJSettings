@@ -117,27 +117,15 @@
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/dialog/RoomOperationDialog.java" timestamp="1596679561161">
-        <mark key="[" line="462" column="34" />
-        <mark key="]" line="462" column="20" />
-        <mark key="." line="462" column="96" />
-        <mark key="^" line="462" column="20" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/data/RoomData.java" timestamp="1596678926296">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-        <mark key="^" line="42" column="33" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/layout_notify_media_controller_big.xml" timestamp="1596616564158">
         <mark key="[" line="26" column="28" />
         <mark key="]" line="26" column="29" />
         <mark key="." line="26" column="29" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/application/XChatApplication.java" timestamp="1596615621874">
-        <mark key="[" line="548" column="0" />
-        <mark key="]" line="548" column="0" />
-        <mark key="." line="548" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/manager/IMMessageManager.java" timestamp="1596621897322">
         <mark key="[" line="195" column="46" />
@@ -145,20 +133,13 @@
         <mark key="^" line="196" column="8" />
         <mark key="." line="196" column="7" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/presenter/LiveRoomPresenter.java" timestamp="1596683574094">
-        <mark key="'" line="62" column="13" />
-        <mark key="[" line="761" column="0" />
-        <mark key="]" line="761" column="0" />
-        <mark key="." line="761" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicService.java" timestamp="1596617999506">
         <mark key="'" line="67" column="4" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/presenter/AvRoomPresenter.java" timestamp="1596679061172">
-        <mark key="[" line="274" column="35" />
-        <mark key="]" line="276" column="67" />
-        <mark key="^" line="276" column="67" />
-        <mark key="." line="276" column="66" />
+        <mark key="]" line="181" column="67" />
+        <mark key="^" line="181" column="67" />
+        <mark key="." line="181" column="66" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/MedalFragment.java" timestamp="1596621868029">
         <mark key="[" line="287" column="0" />
@@ -175,15 +156,6 @@
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/manager/ChatRoomManager.java" timestamp="1596623534234">
         <mark key="[" line="1044" column="0" />
         <mark key="]" line="1045" column="38" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1596621824064">
-        <mark key="[" line="1192" column="0" />
-        <mark key="]" line="1192" column="100" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/app/VoiceApplication.java" timestamp="1596616518955">
-        <mark key="[" line="768" column="0" />
-        <mark key="]" line="768" column="0" />
-        <mark key="." line="768" column="0" />
       </file>
     </filemarks>
     <jumps>
