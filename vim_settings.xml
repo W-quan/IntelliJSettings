@@ -149,19 +149,13 @@
         <mark key="[" line="148" column="0" />
         <mark key="]" line="149" column="32" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_patriarch_mode_btn.xml" timestamp="1597140402577">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="3" column="44" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/strings.xml" timestamp="1597216248330">
         <mark key="[" line="149" column="87" />
         <mark key="]" line="149" column="87" />
         <mark key="^" line="149" column="88" />
         <mark key="." line="149" column="87" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597220699446">
+      <file name="/Dummy.txt" timestamp="1597228626975">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -188,6 +182,12 @@
         <mark key="[" line="589" column="0" />
         <mark key="]" line="589" column="105" />
         <mark key="." line="589" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/item_message_view_text.xml" timestamp="1597228328855">
+        <mark key="[" line="82" column="26" />
+        <mark key="]" line="70" column="31" />
+        <mark key="^" line="70" column="31" />
+        <mark key="." line="70" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -296,7 +296,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRpc3RpY01hbmFnZXIuSW5zdGFuY2UoKS5vbkV2ZW50KFN0YXRpc3RpY3NQcm90b2NvbC5FdmVudC5FVkVOVF9ST09NX1RJTUlOR182MCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2dvbmVNYXJnaW5TdGFydD0iQGRpbWVuL2RwXzQiCg==</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
@@ -364,31 +364,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRpc3RpY01hbmFnZXIuSW5zdGFuY2UoKS5vbkV2ZW50KFN0YXRpc3RpY3NQcm90b2NvbC5FdmVudC5FVkVOVF9ST09NX1RJTUlOR182MCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2dvbmVNYXJnaW5TdGFydD0iQGRpbWVuL2RwXzQiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iQGRpbWVuL2RwXzAiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluID0gbWluIDwgMTAgPyAK</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2dvbmVNYXJnaW5TdGFydD0iQGRpbWVuL2RwXzQiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1pbikK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iQGRpbWVuL2RwXzIiCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSBNZWRhbEVkaXRBY3Rpdml0eS5jbGFzcy5nZXRTaW1wbGVOYW1lKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8v5Y+q5YWB6K645rGJ5a2XCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWluID0gbWluIDwgMTAgPyAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL+WPquWFgeiuuOaxieWtlwogICAgICAgIG1SZWdleCA9ICJbXlx1NEUwMC1cdTlGQTVdIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1pbikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVnRXggPSA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>712</text>
