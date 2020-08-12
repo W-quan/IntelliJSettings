@@ -155,12 +155,6 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/statistic/protocol/StatisticsProtocol.java" timestamp="1597220490400">
-        <mark key="[" line="640" column="65" />
-        <mark key="]" line="640" column="65" />
-        <mark key="^" line="647" column="56" />
-        <mark key="." line="640" column="65" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/strings.xml" timestamp="1597216248330">
         <mark key="[" line="149" column="87" />
         <mark key="]" line="149" column="87" />
@@ -179,17 +173,16 @@
         <mark key="^" line="505" column="109" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/activity_medal_edit.xml" timestamp="1597215973663">
-        <mark key="[" line="39" column="51" />
-        <mark key="]" line="40" column="28" />
-        <mark key="^" line="40" column="28" />
-        <mark key="." line="40" column="27" />
+        <mark key="[" line="40" column="51" />
+        <mark key="]" line="41" column="28" />
+        <mark key="^" line="41" column="28" />
+        <mark key="." line="41" column="27" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/text/InputFilter.java" timestamp="1597215724082" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/activity/MedalEditActivity.java" timestamp="1597220493281">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1597220519459">
         <mark key="[" line="589" column="0" />
