@@ -118,12 +118,12 @@
         <mark key="." line="83" column="106" />
         <mark key="^" line="83" column="107" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/MedalFragment.java" timestamp="1597300541446">
-        <mark key="'" line="49" column="22" />
-        <mark key="[" line="107" column="88" />
-        <mark key="]" line="107" column="99" />
-        <mark key="^" line="107" column="99" />
-        <mark key="." line="107" column="98" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/MedalFragment.java" timestamp="1597308270971">
+        <mark key="'" line="50" column="22" />
+        <mark key="[" line="83" column="98" />
+        <mark key="]" line="84" column="36" />
+        <mark key="^" line="84" column="36" />
+        <mark key="." line="84" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/dialog_room_operation.xml" timestamp="1597300193970">
         <mark key="[" line="7" column="0" />
@@ -147,11 +147,11 @@
         <mark key="^" line="739" column="14" />
         <mark key="." line="740" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/strings.xml" timestamp="1597301047938">
-        <mark key="[" line="148" column="31" />
-        <mark key="]" line="148" column="31" />
-        <mark key="^" line="149" column="88" />
-        <mark key="." line="148" column="31" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/strings.xml" timestamp="1597308268348">
+        <mark key="[" line="164" column="18" />
+        <mark key="]" line="164" column="22" />
+        <mark key="^" line="164" column="22" />
+        <mark key="." line="164" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/GiftDialog.java" timestamp="1597291030811">
         <mark key="[" line="824" column="121" />
@@ -165,7 +165,7 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="79" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597301516990">
+      <file name="/Dummy.txt" timestamp="1597308524799">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -331,13 +331,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>plajFANS_BRAND_NAME</text>
+        <text>r</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>plajFANS_BRAND_NAME</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
