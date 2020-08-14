@@ -112,12 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/statistic/StatisticManager.java" timestamp="1597220321277">
-        <mark key="[" line="83" column="89" />
-        <mark key="]" line="83" column="107" />
-        <mark key="." line="83" column="106" />
-        <mark key="^" line="83" column="107" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/MedalFragment.java" timestamp="1597308270971">
         <mark key="'" line="50" column="22" />
         <mark key="[" line="83" column="98" />
@@ -205,6 +199,9 @@
         <mark key="]" line="17" column="38" />
         <mark key="." line="17" column="38" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/diff_src_erban/java/com/yizhuan/xchat_android_core/UriProvider.java" timestamp="1597387075625">
+        <mark key="'" line="313" column="25" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/activity/MedalEditActivity.java" timestamp="1597220493281">
         <mark key="[" line="112" column="0" />
         <mark key="]" line="112" column="0" />
@@ -228,7 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="624" column="17" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/UserModel.java" />
       <jump line="26" column="8" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/dialog_first_charge.xml" />
       <jump line="25" column="29" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/gradle.properties" />
       <jump line="138" column="46" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/utils/net/RxHelper.java" />
@@ -328,6 +324,7 @@
       <jump line="71" column="16" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/gift/bean/GiftInfo.java" />
       <jump line="286" column="9" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/MedalFragment.java" />
       <jump line="49" column="22" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/MedalFragment.java" />
+      <jump line="313" column="25" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/diff_src_erban/java/com/yizhuan/xchat_android_core/UriProvider.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
