@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Bridges from application code to network code. First it builds a network request from a user * request. Then it proceeds to call the network. Finally it builds a user response from the network * response." />
       <item value="* Attempts to find the next subsequence of the input sequence that matches * the pattern." />
       <item value="is String Matches" />
       <item value="* This filter will capitalize all the lowercase and titlecase letters that are added * through edits. (Note that if there are no lowercase or titlecase letters in the input, the * text would not be transformed, even if the result of capitalization of the string is * different from the string.)" />
@@ -50,12 +51,11 @@
       <item value="oval" />
       <item value="Supervisor Job" />
       <item value="previous" />
-      <item value="increments" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="320" />
-        <entry key="ENGLISH" value="321" />
+        <entry key="CHINESE" value="321" />
+        <entry key="ENGLISH" value="322" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
