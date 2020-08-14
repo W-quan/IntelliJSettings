@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="flush Request" />
+      <item value="Bridge" />
       <item value="* Bridges from application code to network code. First it builds a network request from a user * request. Then it proceeds to call the network. Finally it builds a user response from the network * response." />
       <item value="* Attempts to find the next subsequence of the input sequence that matches * the pattern." />
       <item value="is String Matches" />
@@ -49,13 +51,11 @@
       <item value="By convention, the custom view (VoicePlayingIcon) and the declare-styleable (voisePlayingIconAttr)" />
       <item value="* Gives this view a hint about whether is displayed or not. For instance, when * a View moves out of the screen, it might receives a display hint indicating * the view is not displayed. Applications should not &lt;em&gt;rely&lt;/em&gt; on this hint * as there is no guarantee that they will receive one. *" />
       <item value="oval" />
-      <item value="Supervisor Job" />
-      <item value="previous" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="321" />
-        <entry key="ENGLISH" value="322" />
+        <entry key="CHINESE" value="323" />
+        <entry key="ENGLISH" value="324" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
