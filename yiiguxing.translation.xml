@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Min notification importance: only shows in the shade, below the fold. This should * not be used with {@link Service#startForeground(int, Notification) Service.startForeground} * since a foreground service is supposed to be something the user cares about so it does * not make semantic sense to mark its notification as minimum importance. If you do this * as of Android version {@link android.os.Build.VERSION_CODES#O}, the system will show * a higher-priority notification about your app running in the background." />
+      <item value="* On some platforms, a notification that is noisy is more likely to be presented * as a heads-up notification." />
       <item value="flush Request" />
       <item value="Bridge" />
       <item value="* Bridges from application code to network code. First it builds a network request from a user * request. Then it proceeds to call the network. Finally it builds a user response from the network * response." />
@@ -49,13 +51,11 @@
       <item value="* Set the number of pages that should be retained to either side of the * current page in the view hierarchy in an idle state. Pages beyond this * limit will be recreated from the adapter when needed." />
       <item value="should have the same name (various editor features rely on this convention)" />
       <item value="By convention, the custom view (VoicePlayingIcon) and the declare-styleable (voisePlayingIconAttr)" />
-      <item value="* Gives this view a hint about whether is displayed or not. For instance, when * a View moves out of the screen, it might receives a display hint indicating * the view is not displayed. Applications should not &lt;em&gt;rely&lt;/em&gt; on this hint * as there is no guarantee that they will receive one. *" />
-      <item value="oval" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="323" />
-        <entry key="ENGLISH" value="324" />
+        <entry key="CHINESE" value="325" />
+        <entry key="ENGLISH" value="326" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
