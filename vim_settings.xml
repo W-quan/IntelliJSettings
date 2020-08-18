@@ -29,7 +29,6 @@
         <entry>baidu</entry>
       </history-search>
       <history-cmd>
-        <entry>124</entry>
         <entry>222</entry>
         <entry>254</entry>
         <entry>121</entry>
@@ -49,6 +48,7 @@
         <entry>408</entry>
         <entry>198</entry>
         <entry>712</entry>
+        <entry>1196</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,41 +112,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/MedalFragment.java" timestamp="1597394534608">
-        <mark key="'" line="50" column="22" />
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="." line="166" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/Glide.java" timestamp="1597648750353" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/statistic/protocol/StatisticsProtocol.java" timestamp="1597313743837">
-        <mark key="[" line="740" column="0" />
-        <mark key="]" line="740" column="0" />
-        <mark key="^" line="739" column="14" />
-        <mark key="." line="740" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/strings.xml" timestamp="1597373644240">
-        <mark key="[" line="149" column="87" />
-        <mark key="]" line="164" column="22" />
-        <mark key="^" line="164" column="22" />
-        <mark key="." line="164" column="21" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.0/2647551116856a6403d1a21e236837a7501c08a8/okhttp-3.12.0-sources.jar!/okhttp3/RealCall.java" timestamp="1597399370921">
-        <mark key="[" line="241" column="31" />
-        <mark key="]" line="241" column="41" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/fragment_medal.xml" timestamp="1597301320743">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="43" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="79" column="42" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1597394802913">
+      <file name="/Dummy.txt" timestamp="1597715645511">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/data/RoomData.java" timestamp="1597651097495" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/MainActivity.java" timestamp="1597653170238">
         <mark key="'" line="635" column="22" />
       </file>
@@ -166,7 +136,6 @@
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="125" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/app/NotificationManager.java" timestamp="1597647557533" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/activity_medal_edit.xml" timestamp="1597373245798">
         <mark key="[" line="19" column="44" />
         <mark key="]" line="19" column="45" />
@@ -183,10 +152,43 @@
         <mark key="]" line="176" column="0" />
         <mark key="." line="176" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/MedalFragment.java" timestamp="1597394534608">
+        <mark key="'" line="50" column="22" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="0" />
+        <mark key="." line="166" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/diff_src_erban/java/com/yizhuan/xchat_android_core/UriProvider.java" timestamp="1597387075625">
         <mark key="'" line="313" column="25" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.2.0/8eb1782c02c4b7a6af797dab2a05266f385a1775/core-1.2.0-sources.jar!/androidx/core/app/NotificationCompat.java" timestamp="1597649036462" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/statistic/protocol/StatisticsProtocol.java" timestamp="1597313743837">
+        <mark key="[" line="740" column="0" />
+        <mark key="]" line="740" column="0" />
+        <mark key="^" line="739" column="14" />
+        <mark key="." line="740" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/strings.xml" timestamp="1597373644240">
+        <mark key="[" line="149" column="87" />
+        <mark key="]" line="164" column="22" />
+        <mark key="^" line="164" column="22" />
+        <mark key="." line="164" column="21" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1597715564786">
+        <mark key="[" line="1195" column="54" />
+        <mark key="]" line="1196" column="75" />
+        <mark key="^" line="1196" column="75" />
+        <mark key="." line="1196" column="74" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.0/2647551116856a6403d1a21e236837a7501c08a8/okhttp-3.12.0-sources.jar!/okhttp3/RealCall.java" timestamp="1597399370921">
+        <mark key="[" line="241" column="31" />
+        <mark key="]" line="241" column="41" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/fragment_medal.xml" timestamp="1597301320743">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="43" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="79" column="42" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="25" column="29" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/gradle.properties" />
@@ -389,7 +391,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>712</text>
+        <text>1196</text>
       </register>
     </registers>
   </component>
