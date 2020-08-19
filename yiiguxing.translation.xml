@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="constellation" />
       <item value="level value" />
       <item value="count" />
       <item value="charm" />
@@ -50,12 +51,11 @@
       <item value="mins" />
       <item value="min" />
       <item value="Hour" />
-      <item value="定时关房" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="335" />
-        <entry key="ENGLISH" value="336" />
+        <entry key="CHINESE" value="336" />
+        <entry key="ENGLISH" value="337" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
