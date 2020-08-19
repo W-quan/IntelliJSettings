@@ -136,11 +136,11 @@
         <mark key="." line="4" column="33" />
         <mark key="^" line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_mine.xml" timestamp="1597803656498">
-        <mark key="[" line="59" column="50" />
-        <mark key="]" line="59" column="51" />
-        <mark key="^" line="58" column="50" />
-        <mark key="." line="59" column="51" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_mine.xml" timestamp="1597803780268">
+        <mark key="[" line="65" column="29" />
+        <mark key="]" line="65" column="30" />
+        <mark key="^" line="65" column="30" />
+        <mark key="." line="65" column="29" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_wallet/java/com/yizhuan/erban/wallet/activity/MyWalletViewPagerActivity.java" timestamp="1597722839903">
         <mark key="[" line="103" column="0" />
@@ -324,13 +324,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>dp_12</text>
+        <text>8</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>dp_12</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
