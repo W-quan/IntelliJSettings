@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="level value" />
+      <item value="count" />
+      <item value="charm" />
+      <item value="Url" />
+      <item value="attention" />
       <item value="* &lt;li&gt;Ongoing notifications do not have an 'X' close button, and are not affected * by the &quot;Clear all&quot; button." />
       <item value="* &lt;li&gt;Ongoing notifications are sorted above the regular notifications in the * notification panel.&lt;/li&gt;" />
       <item value="set Ongoing" />
@@ -46,16 +51,11 @@
       <item value="min" />
       <item value="Hour" />
       <item value="定时关房" />
-      <item value="clean" />
-      <item value="clear" />
-      <item value="outdate" />
-      <item value="empty" />
-      <item value="medel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="330" />
-        <entry key="ENGLISH" value="331" />
+        <entry key="CHINESE" value="335" />
+        <entry key="ENGLISH" value="336" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
