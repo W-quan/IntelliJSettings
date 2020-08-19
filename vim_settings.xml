@@ -140,16 +140,16 @@
         <mark key="." line="168" column="33" />
         <mark key="^" line="169" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597737810166">
+      <file name="/Dummy.txt" timestamp="1597827668627">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" timestamp="1597825334156">
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="^" line="323" column="36" />
-        <mark key="." line="426" column="18" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" timestamp="1597827600058">
+        <mark key="[" line="294" column="0" />
+        <mark key="]" line="294" column="0" />
+        <mark key="^" line="201" column="15" />
+        <mark key="." line="294" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_mine_copy.xml" timestamp="1597802574077">
         <mark key="[" line="4" column="23" />
@@ -316,13 +316,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvY29sb3JfMWExYTFhIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>lide_view</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
@@ -381,16 +381,16 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvY29tbW9uX3RleHRfaW1wb3J0YW50Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUVudHJ5TGlzdC5hZGQoUE9TSVRJT05fRU5UUllfQU5DSE9SX0NFTlRFUiwgbmV3IEVudHJ5SXRlbShSLmRyYXdhYmxlLmljX21pbmVfYW5jaG9yX2NlbnRlciwgUi5zdHJpbmcubGFiZWxfYW5jaG9yX2NlbnRlciwgbVN0cmluZ1N0YXJ0TGl2aW5nKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvY29sb3JfMWExYTFhIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvY29sb3JfMWExYTFhIgo=</text>
+        <text encoding="base64">ICAgICAgICBtRW50cnlMaXN0LmFkZChuZXcgRW50cnlJdGVtKFIuZHJhd2FibGUuaWNfbWluZV9hbmNob3JfY2VudGVyLCBSLnN0cmluZy5sYWJlbF9hbmNob3JfY2VudGVyLCBtU3RyaW5nU3RhcnRMaXZpbmcpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvY29sb3JfMWExYTFhIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvY29sb3JfMWExYTFhIgo=</text>
@@ -399,13 +399,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvY29sb3JfMWExYTFhIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvY29sb3JfYjJiMmIyIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvY29sb3JfMWExYTFhIgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvY29sb3JfMWExYTFhIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvY29sb3JfYjJiMmIyIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvY29sb3JfMWExYTFhIgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvY29sb3JfYjJiMmIyIgo=</text>
