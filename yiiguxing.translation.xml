@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Retrieve a dimensional unit attribute at &lt;var&gt;index&lt;/var&gt; for use * as a size in raw pixels. This is the same as * {@link #getDimension}, except the returned value is converted to * integer pixels for use as a size. A size conversion involves * rounding the base value, and ensuring that a non-zero base value * is at least one pixel in size. * &lt;p&gt;" />
+      <item value="* Geometry and text drawn with this style will be filled, ignoring all * stroke-related settings in the paint." />
+      <item value="* Geometry and text drawn with this style will be both filled and * stroked at the same time, respecting the stroke-related fields on * the paint. This mode can give unexpected results if the geometry * is oriented counter-clockwise. This restriction does not apply to * either FILL or STROKE." />
       <item value="Ambient" />
       <item value="Color" />
       <item value="constellation" />
@@ -48,14 +51,11 @@
       <item value="Using" />
       <item value="iv charm level" />
       <item value="The option setting 'android.useNewApkCreator=false' is experimental and unsupported." />
-      <item value="# When configured, Gradle will run in incubating parallel mode. # This option should only be used with decoupled projects. More details, visit" />
-      <item value="First" />
-      <item value="mins" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="338" />
-        <entry key="ENGLISH" value="339" />
+        <entry key="CHINESE" value="341" />
+        <entry key="ENGLISH" value="342" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
