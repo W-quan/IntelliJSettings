@@ -114,12 +114,6 @@
     <filemarks>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/widget/ImageView.java" timestamp="1597915034886" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/gift/dialog/PageIndicatorView.java" timestamp="1597978139754" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/colors.xml" timestamp="1597913208535">
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="158" column="46" />
-        <mark key="." line="157" column="0" />
-        <mark key="^" line="156" column="36" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/build.gradle" timestamp="1597991745031">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -137,6 +131,7 @@
         <mark key="." line="121" column="0" />
         <mark key="^" line="76" column="92" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.flyco.tablayout/FlycoTabLayout_Lib/2.1.2/431eceecfe6b4044d8e075971d9f25018f12e876/FlycoTabLayout_Lib-2.1.2-sources.jar!/com/flyco/tablayout/SlidingTabLayout.java" timestamp="1597996326671" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/strings.xml" timestamp="1597914085635">
         <mark key="[" line="173" column="24" />
         <mark key="]" line="173" column="29" />
@@ -169,8 +164,8 @@
         <mark key="." line="304" column="59" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dongxingrong/RollViewPager/V1.0/ec06f0575b88d70450fdf0a80f1e91859e02199a/RollViewPager-V1.0-sources.jar!/com/jude/rollviewpager/RollPagerView.java" timestamp="1597981928521" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" timestamp="1597992278216">
-        <mark key="'" line="761" column="0" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" timestamp="1597996137601">
+        <mark key="'" line="1069" column="15" />
         <mark key="[" line="746" column="0" />
         <mark key="]" line="746" column="0" />
         <mark key="^" line="773" column="28" />
@@ -197,7 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="16" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/MedalFragment.java" />
       <jump line="46" column="8" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/view_medal.xml" />
       <jump line="125" column="46" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/widget/MedalView.java" />
       <jump line="132" column="29" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/widget/MedalView.java" />
@@ -297,6 +291,7 @@
       <jump line="23" column="22" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/PhotoAdapter.java" />
       <jump line="747" column="42" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" />
       <jump line="761" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" />
+      <jump line="1069" column="15" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
