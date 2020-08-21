@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="基础资料" />
       <item value="info" />
       <item value="支持自定义hintview" />
       <item value="parallax" />
@@ -50,11 +51,10 @@
       <item value="UPGRDLE" />
       <item value="LENGTH" />
       <item value="Charged" />
-      <item value="is Using" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="343" />
+        <entry key="CHINESE" value="344" />
         <entry key="ENGLISH" value="344" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
