@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="payload" />
+      <item value="battle" />
+      <item value="ic voice battle play" />
+      <item value="play" />
+      <item value="ffc 808" />
       <item value="head" />
       <item value="Media" />
       <item value="set Compound Drawables Relative With Intrinsic Bounds" />
@@ -46,16 +51,11 @@
       <item value="Statistic" />
       <item value="* Adds the given observer to the observers list within the lifespan of the given * owner. The events are dispatched on the main thread. If LiveData already has data * set, it will be delivered to the observer." />
       <item value="delay" />
-      <item value="author not set medal yet" />
-      <item value="Press ⌘D in the editor to duplicate the selected block, or the current line when no block is selected." />
-      <item value="KEY SHARE PREFERENCE HAD CHARGED" />
-      <item value="CHARGED" />
-      <item value="An optional bundle of service-specific arguments to send * to the media browse service when connecting and retrieving the root id * for browsing, or null if none. The contents of this bundle may affect * the information returned when browsing." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="351" />
-        <entry key="ENGLISH" value="352" />
+        <entry key="CHINESE" value="357" />
+        <entry key="ENGLISH" value="358" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
