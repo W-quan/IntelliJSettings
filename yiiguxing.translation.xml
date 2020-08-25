@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="head" />
+      <item value="Media" />
       <item value="set Compound Drawables Relative With Intrinsic Bounds" />
       <item value="Praise Event" />
       <item value="* Returns a view of the portion of this list between the specified * {@code fromIndex}, inclusive, and {@code toIndex}, exclusive. (If * {@code fromIndex} and {@code toIndex} are equal, the returned list is * empty.) The returned list is backed by this list, so non-structural * changes in the returned list are reflected in this list, and vice-versa. * The returned list supports all of the optional list operations." />
@@ -49,13 +51,11 @@
       <item value="KEY SHARE PREFERENCE HAD CHARGED" />
       <item value="CHARGED" />
       <item value="An optional bundle of service-specific arguments to send * to the media browse service when connecting and retrieving the root id * for browsing, or null if none. The contents of this bundle may affect * the information returned when browsing." />
-      <item value="RESTRICTED" />
-      <item value="_RESTRICTED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="349" />
-        <entry key="ENGLISH" value="350" />
+        <entry key="CHINESE" value="351" />
+        <entry key="ENGLISH" value="352" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />

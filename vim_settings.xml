@@ -121,6 +121,7 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="56" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_home_recommend_media.xml" timestamp="1598341687986" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/bean/UserInfo.java" timestamp="1598337479485">
         <mark key="'" line="79" column="28" />
         <mark key="[" line="230" column="0" />
@@ -152,9 +153,8 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/RecommendationFragment.java" timestamp="1598340263808" />
-      <file name="/fragment_user_center.xml" timestamp="1598320930878" />
       <file name="/MineFragment.java" timestamp="1598337956831" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/activity/AVRoomActivity.java" timestamp="1598323005633" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendAdapter.java" timestamp="1598341329543" />
       <file name="/Dummy.txt" timestamp="1598339771703">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
