@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ellipsize" />
       <item value="column" />
       <item value="INDIVIDUAL" />
       <item value="decorate" />
@@ -50,12 +51,11 @@
       <item value="* Creates a matcher that will match the given input against this pattern." />
       <item value="load Image With Pixelated" />
       <item value="* startForegroundService() was introduced in O, just call startService * for before O." />
-      <item value="FLAG IMMUTABLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="362" />
-        <entry key="ENGLISH" value="363" />
+        <entry key="CHINESE" value="363" />
+        <entry key="ENGLISH" value="364" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
