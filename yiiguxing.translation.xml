@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decorate" />
       <item value="birth" />
       <item value="Bottle" />
       <item value="payload" />
@@ -50,12 +51,11 @@
       <item value="FLAG IMMUTABLE" />
       <item value="FLAG CANCEL CURRENT" />
       <item value="* Flag indicating that if the described PendingIntent does not * already exist, then simply return null instead of creating it. * For use with {@link #getActivity}, {@link #getBroadcast}, and * {@link #getService}." />
-      <item value="Statistic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="359" />
-        <entry key="ENGLISH" value="360" />
+        <entry key="CHINESE" value="360" />
+        <entry key="ENGLISH" value="361" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
@@ -69,6 +69,7 @@
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
+    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="4b8c0dd3e2395c8d" />
