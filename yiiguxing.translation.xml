@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duration" />
+      <item value="curr Duration" />
       <item value="TYPE VERIFIED" />
       <item value="TYPE NO SUBMITTED" />
       <item value="TYPE NO" />
@@ -49,13 +51,11 @@
       <item value="Bridge" />
       <item value="* Bridges from application code to network code. First it builds a network request from a user * request. Then it proceeds to call the network. Finally it builds a user response from the network * response." />
       <item value="* Attempts to find the next subsequence of the input sequence that matches * the pattern." />
-      <item value="is String Matches" />
-      <item value="* This filter will capitalize all the lowercase and titlecase letters that are added * through edits. (Note that if there are no lowercase or titlecase letters in the input, the * text would not be transformed, even if the result of capitalization of the string is * different from the string.)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="366" />
-        <entry key="ENGLISH" value="367" />
+        <entry key="CHINESE" value="368" />
+        <entry key="ENGLISH" value="369" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
