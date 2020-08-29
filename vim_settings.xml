@@ -129,11 +129,11 @@
         <mark key="." line="389" column="58" />
         <mark key="^" line="389" column="59" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_home_rank.xml" timestamp="1598673071018">
-        <mark key="[" line="27" column="48" />
-        <mark key="]" line="27" column="44" />
-        <mark key="." line="27" column="43" />
-        <mark key="^" line="27" column="44" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_home_rank.xml" timestamp="1598673833559">
+        <mark key="[" line="45" column="44" />
+        <mark key="]" line="45" column="45" />
+        <mark key="." line="45" column="45" />
+        <mark key="^" line="53" column="32" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/home/view/INewHomeFragmentModel.java" timestamp="1598668972486">
         <mark key="[" line="33" column="68" />
@@ -319,14 +319,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczpzcmM9IkBkcmF3YWJsZS9hYm91dF9sb2dvIiAK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>match_parent</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
