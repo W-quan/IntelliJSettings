@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sort" />
       <item value="Home Foot Print Fragment" />
       <item value="Duration" />
       <item value="curr Duration" />
@@ -50,12 +51,11 @@
       <item value="* On some platforms, a notification that is noisy is more likely to be presented * as a heads-up notification." />
       <item value="flush Request" />
       <item value="Bridge" />
-      <item value="* Bridges from application code to network code. First it builds a network request from a user * request. Then it proceeds to call the network. Finally it builds a user response from the network * response." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="369" />
-        <entry key="ENGLISH" value="370" />
+        <entry key="CHINESE" value="370" />
+        <entry key="ENGLISH" value="371" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
