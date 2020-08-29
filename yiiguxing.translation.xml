@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* The RecyclerView is currently being dragged by outside input such as user touch input." />
+      <item value="* The RecyclerView is currently animating to a final position while not under * outside control." />
+      <item value="SCROLL STATE SETTLING" />
       <item value="* SnapHelper tries to handle fling as well but for this to work properly, the * {@link RecyclerView.LayoutManager} must implement the {@link RecyclerView.SmoothScroller.ScrollVectorProvider} interface or * you should override {@link #onFling(int, int)} and handle fling manually." />
       <item value="* Class intended to support snapping for a {@link RecyclerView}." />
       <item value="sort" />
@@ -48,14 +51,11 @@
       <item value="* &lt;li&gt;Ongoing notifications are sorted above the regular notifications in the * notification panel.&lt;/li&gt;" />
       <item value="set Ongoing" />
       <item value="* &lt;p&gt;This method is appropriate for resources that will be used outside of the normal fragment or * activity lifecycle (For example in services, or for notification thumbnails)." />
-      <item value="* &lt;p&gt;Any requests started using a context will only have the application level options applied * and will not be started or stopped based on lifecycle events. In general, loads should be" />
-      <item value="* Min notification importance: only shows in the shade, below the fold. This should * not be used with {@link Service#startForeground(int, Notification) Service.startForeground} * since a foreground service is supposed to be something the user cares about so it does * not make semantic sense to mark its notification as minimum importance. If you do this * as of Android version {@link android.os.Build.VERSION_CODES#O}, the system will show * a higher-priority notification about your app running in the background." />
-      <item value="* On some platforms, a notification that is noisy is more likely to be presented * as a heads-up notification." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="372" />
-        <entry key="ENGLISH" value="373" />
+        <entry key="CHINESE" value="375" />
+        <entry key="ENGLISH" value="376" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
