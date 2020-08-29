@@ -115,12 +115,6 @@
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/HomeRecommendFragment.java" timestamp="1598667315770">
         <mark key="'" line="349" column="8" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_user_center_work.xml" timestamp="1598603394008">
-        <mark key="[" line="7" column="46" />
-        <mark key="]" line="7" column="4" />
-        <mark key="." line="7" column="3" />
-        <mark key="^" line="7" column="4" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/layout_gift_title.xml" timestamp="1598668433014" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/adapters/AbstractBaseAdapter.java" timestamp="1598672132963" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendAdapter.java" timestamp="1598672157773">
@@ -129,11 +123,11 @@
         <mark key="." line="389" column="58" />
         <mark key="^" line="389" column="59" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_home_rank.xml" timestamp="1598673833559">
-        <mark key="[" line="45" column="44" />
-        <mark key="]" line="45" column="45" />
-        <mark key="." line="45" column="45" />
-        <mark key="^" line="53" column="32" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_home_rank.xml" timestamp="1598684070201">
+        <mark key="[" line="53" column="35" />
+        <mark key="]" line="39" column="38" />
+        <mark key="." line="39" column="37" />
+        <mark key="^" line="39" column="38" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/home/view/INewHomeFragmentModel.java" timestamp="1598668972486">
         <mark key="[" line="33" column="68" />
@@ -144,7 +138,7 @@
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1598672178502">
+      <file name="/Dummy.txt" timestamp="1598683815132">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -168,13 +162,6 @@
         <mark key="]" line="105" column="52" />
         <mark key="." line="105" column="51" />
         <mark key="^" line="105" column="52" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/adapter/PersonalWorkAdapter.java" timestamp="1598603270509">
-        <mark key="'" line="76" column="19" />
-        <mark key="[" line="77" column="8" />
-        <mark key="]" line="77" column="25" />
-        <mark key="." line="77" column="24" />
-        <mark key="^" line="77" column="25" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/home/bean/HomeRecommendMultiInfo.java" timestamp="1598667981374">
         <mark key="[" line="24" column="0" />
@@ -211,6 +198,12 @@
         <mark key="]" line="66" column="0" />
         <mark key="^" line="65" column="141" />
         <mark key="." line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_home_rank_item_cover_mask.xml" timestamp="1598683851153">
+        <mark key="[" line="1" column="66" />
+        <mark key="]" line="7" column="50" />
+        <mark key="^" line="7" column="50" />
+        <mark key="." line="7" column="49" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/values/strings.xml" timestamp="1598609372221" />
     </filemarks>
@@ -320,13 +313,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>wrap_content</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>wrap_content</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
@@ -384,23 +377,23 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGEuc2V0UGxheWluZyh0cnVlKTsKICAgICAgICAgICAgICAgIG1BZGFwdGVyLm5vdGlmeUl0ZW1DaGFuZ2VkKHBvc2l0aW9uKTsK</text>
+      <register name="0" type="4">
+        <text>欢迎大家来点歌</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczpzcmM9IkBkcmF3YWJsZS9hYm91dF9sb2dvIiAK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IkBkaW1lbi9kcF80NiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxJbWFnZVZpZXcKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iIgo=</text>
+        <text encoding="base64">ICAgICAgICB0b29sczpzcmM9IkBkcmF3YWJsZS9hYm91dF9sb2dvIiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDIwLzgvMjkg5Lq65rCU5o6S6KGMCg==</text>
+        <text encoding="base64">ICAgIDxJbWFnZVZpZXcKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBzZXRSYW5rRGF0YShCYXNlVmlld0hvbGRlciBoZWxwZXIsIEhvbWVSZWNvbW1lbmRNdWx0aUluZm88TGlzdDxIb21lUmFua0luZm8+PiBpbmZvKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiAyMDIwLzgvMjkg5Lq65rCU5o6S6KGMCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBzZXRSYW5rRGF0YShCYXNlVmlld0hvbGRlciBoZWxwZXIsIEhvbWVSZWNvbW1lbmRNdWx0aUluZm88TGlzdDxIb21lUmFua0luZm8+PiBpbmZvKSB7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -409,10 +402,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IGdldFVpZFgoKSB7CiAgICAgICAgICAgIHJldHVybiB1aWRYOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgc2V0VWlkWChpbnQgdWlkWCkgewogICAgICAgICAgICB0aGlzLnVpZFggPSB1aWRYOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIFN0cmluZyBnZXRUYWdzKCkgewogICAgICAgICAgICByZXR1cm4gdGFnczsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyB2b2lkIHNldFRhZ3MoU3RyaW5nIHRhZ3MpIHsKICAgICAgICAgICAgdGhpcy50YWdzID0gdGFnczsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBpbnQgZ2V0VmFsaWQoKSB7CiAgICAgICAgICAgIHJldHVybiB2YWxpZDsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyB2b2lkIHNldFZhbGlkKGludCB2YWxpZCkgewogICAgICAgICAgICB0aGlzLnZhbGlkID0gdmFsaWQ7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgaW50IGdldE1pbnMoKSB7CiAgICAgICAgICAgIHJldHVybiBtaW5zOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgc2V0TWlucyhpbnQgbWlucykgewogICAgICAgICAgICB0aGlzLm1pbnMgPSBtaW5zOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIGludCBnZXRMaWtlKCkgewogICAgICAgICAgICByZXR1cm4gbGlrZTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyB2b2lkIHNldExpa2UoaW50IGxpa2UpIHsKICAgICAgICAgICAgdGhpcy5saWtlID0gbGlrZTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBpbnQgZ2V0UGxheSgpIHsKICAgICAgICAgICAgcmV0dXJuIHBsYXk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgdm9pZCBzZXRQbGF5KGludCBwbGF5KSB7CiAgICAgICAgICAgIHRoaXMucGxheSA9IHBsYXk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgaW50IGdldENvbW1lbnQoKSB7CiAgICAgICAgICAgIHJldHVybiBjb21tZW50OwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgc2V0Q29tbWVudChpbnQgY29tbWVudCkgewogICAgICAgICAgICB0aGlzLmNvbW1lbnQgPSBjb21tZW50OwogICAgICAgIH0KCiAgICAgICAgcHVibGljIGxvbmcgZ2V0VGltZSgpIHsKICAgICAgICAgICAgcmV0dXJuIHRpbWU7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgdm9pZCBzZXRUaW1lKGxvbmcgdGltZSkgewogICAgICAgICAgICB0aGlzLnRpbWUgPSB0aW1lOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIGludCBnZXRMYWJlbCgpIHsKICAgICAgICAgICAgcmV0dXJuIGxhYmVsOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgc2V0TGFiZWwoaW50IGxhYmVsKSB7CiAgICAgICAgICAgIHRoaXMubGFiZWwgPSBsYWJlbDsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBib29sZWFuIGlzSXNMaXZlKCkgewogICAgICAgICAgICByZXR1cm4gaXNMaXZlOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgc2V0SXNMaXZlKGJvb2xlYW4gaXNMaXZlKSB7CiAgICAgICAgICAgIHRoaXMuaXNMaXZlID0gaXNMaXZlOwogICAgICAgIH0KICAgIH0KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBAU2VyaWFsaXplZE5hbWUoInVpZCIpIHByaXZhdGUgaW50IHVpZFg7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IGdldFVpZFgoKSB7CiAgICAgICAgICAgIHJldHVybiB1aWRYOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgc2V0VWlkWChpbnQgdWlkWCkgewogICAgICAgICAgICB0aGlzLnVpZFggPSB1aWRYOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIFN0cmluZyBnZXRUYWdzKCkgewogICAgICAgICAgICByZXR1cm4gdGFnczsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyB2b2lkIHNldFRhZ3MoU3RyaW5nIHRhZ3MpIHsKICAgICAgICAgICAgdGhpcy50YWdzID0gdGFnczsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBpbnQgZ2V0VmFsaWQoKSB7CiAgICAgICAgICAgIHJldHVybiB2YWxpZDsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyB2b2lkIHNldFZhbGlkKGludCB2YWxpZCkgewogICAgICAgICAgICB0aGlzLnZhbGlkID0gdmFsaWQ7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgaW50IGdldE1pbnMoKSB7CiAgICAgICAgICAgIHJldHVybiBtaW5zOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgc2V0TWlucyhpbnQgbWlucykgewogICAgICAgICAgICB0aGlzLm1pbnMgPSBtaW5zOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIGludCBnZXRMaWtlKCkgewogICAgICAgICAgICByZXR1cm4gbGlrZTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyB2b2lkIHNldExpa2UoaW50IGxpa2UpIHsKICAgICAgICAgICAgdGhpcy5saWtlID0gbGlrZTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBpbnQgZ2V0UGxheSgpIHsKICAgICAgICAgICAgcmV0dXJuIHBsYXk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgdm9pZCBzZXRQbGF5KGludCBwbGF5KSB7CiAgICAgICAgICAgIHRoaXMucGxheSA9IHBsYXk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgaW50IGdldENvbW1lbnQoKSB7CiAgICAgICAgICAgIHJldHVybiBjb21tZW50OwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgc2V0Q29tbWVudChpbnQgY29tbWVudCkgewogICAgICAgICAgICB0aGlzLmNvbW1lbnQgPSBjb21tZW50OwogICAgICAgIH0KCiAgICAgICAgcHVibGljIGxvbmcgZ2V0VGltZSgpIHsKICAgICAgICAgICAgcmV0dXJuIHRpbWU7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgdm9pZCBzZXRUaW1lKGxvbmcgdGltZSkgewogICAgICAgICAgICB0aGlzLnRpbWUgPSB0aW1lOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIGludCBnZXRMYWJlbCgpIHsKICAgICAgICAgICAgcmV0dXJuIGxhYmVsOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgc2V0TGFiZWwoaW50IGxhYmVsKSB7CiAgICAgICAgICAgIHRoaXMubGFiZWwgPSBsYWJlbDsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBib29sZWFuIGlzSXNMaXZlKCkgewogICAgICAgICAgICByZXR1cm4gaXNMaXZlOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgc2V0SXNMaXZlKGJvb2xlYW4gaXNMaXZlKSB7CiAgICAgICAgICAgIHRoaXMuaXNMaXZlID0gaXNMaXZlOwogICAgICAgIH0KICAgIH0KfQo=</text>
       </register>
       <register name=":" type="4">
         <text>1196</text>
