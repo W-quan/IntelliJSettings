@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PREVIEW" />
       <item value="* The RecyclerView is currently being dragged by outside input such as user touch input." />
       <item value="* The RecyclerView is currently animating to a final position while not under * outside control." />
       <item value="SCROLL STATE SETTLING" />
@@ -50,12 +51,11 @@
       <item value="* &lt;li&gt;Ongoing notifications do not have an 'X' close button, and are not affected * by the &quot;Clear all&quot; button." />
       <item value="* &lt;li&gt;Ongoing notifications are sorted above the regular notifications in the * notification panel.&lt;/li&gt;" />
       <item value="set Ongoing" />
-      <item value="* &lt;p&gt;This method is appropriate for resources that will be used outside of the normal fragment or * activity lifecycle (For example in services, or for notification thumbnails)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="375" />
-        <entry key="ENGLISH" value="376" />
+        <entry key="CHINESE" value="376" />
+        <entry key="ENGLISH" value="377" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
