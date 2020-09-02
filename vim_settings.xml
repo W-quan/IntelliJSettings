@@ -120,7 +120,6 @@
       <file name="/a.dummy" timestamp="1599017272842">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/IUserModel.java" timestamp="1599016109316" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/values/styles.xml" timestamp="1599028608064" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/UserModel.java" timestamp="1599030073570">
         <mark key="[" line="166" column="0" />
@@ -162,6 +161,12 @@
         <mark key="." line="37" column="113" />
         <mark key="^" line="37" column="114" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendAdapter.java" timestamp="1599034527367">
+        <mark key="'" line="210" column="35" />
+        <mark key="]" line="234" column="8" />
+        <mark key="." line="234" column="7" />
+        <mark key="^" line="234" column="8" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/home/view/INewHomeFragmentModel.java" timestamp="1599017492703">
         <mark key="[" line="33" column="57" />
         <mark key="]" line="33" column="61" />
@@ -175,7 +180,7 @@
         <mark key="^" line="12" column="56" />
         <mark key="." line="12" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1599032628488">
+      <file name="/Dummy.txt" timestamp="1599034693342">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -312,13 +317,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL2dldE12cFByZXNlbnRlcigpLmdldEhvbWVSZWNvbW1lbmRBbmNob3IoKTsKICAgICAgICAvL2dldE12cFByZXNlbnRlcigpLmdldEhvbWVSZWNvbW1lbmRSYW5rSW5mbyhTdHJpbmcudmFsdWVPZihBdXRoTW9kZWwuZ2V0KCkuZ2V0Q3VycmVudFVpZCgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>gridLayoutManager</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
@@ -380,31 +385,31 @@
         <text encoding="base64">ICAgICAgICBpbnQgZ2VuZGVyID0gKGludCkgU2hhcmVkUHJlZmVyZW5jZVV0aWxzLmdldChLRVlfSE9NRV9EQVRBX0dFTkRFUl9SRUNPTU1FTkQsIDEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL2dldE12cFByZXNlbnRlcigpLmdldEhvbWVSZWNvbW1lbmRBbmNob3IoKTsKICAgICAgICAvL2dldE12cFByZXNlbnRlcigpLmdldEhvbWVSZWNvbW1lbmRSYW5rSW5mbyhTdHJpbmcudmFsdWVPZihBdXRoTW9kZWwuZ2V0KCkuZ2V0Q3VycmVudFVpZCgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZWN5Y2xlclZpZXcuc21vb3RoU2Nyb2xsVG9Qb3NpdGlvbigwKTsK</text>
+        <text encoding="base64">ICAgICAgICBHcmlkTGF5b3V0TWFuYWdlciBncmlkTGF5b3V0TWFuYWdlciA9IG5ldyBHcmlkTGF5b3V0TWFuYWdlcihtQ29udGV4dCwgMywgUmVjeWNsZXJWaWV3LkhPUklaT05UQUwsIGZhbHNlKTsKICAgICAgICByZWN5Y2xlclZpZXdSYW5rLnNldExheW91dE1hbmFnZXIoZ3JpZExheW91dE1hbmFnZXIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDp0bF9pbmRpY2F0b3JfbWFyZ2luX3RvcD0iQGRpbWVuL2RwXzMwIgo=</text>
+        <text encoding="base64">ICAgICAgICByZWN5Y2xlclZpZXdSYW5rLmdldExheW91dE1hbmFnZXIoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDp0bF9pbmRpY2F0b3Jfd2lkdGg9IkBkaW1lbi9kcF84Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDp0bF9pbmRpY2F0b3JfbWFyZ2luX3RvcD0iQGRpbWVuL2RwXzYwIgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVjeWNsZXJWaWV3UmFuay5vbnNjcm9sbCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEltYWdlVmlldwogICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9pdl9yYW5rIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IkBkaW1lbi9kcF8yNSIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iQGRpbWVuL2RwXzI1IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iY2VudGVyX3ZlcnRpY2FsIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luRW5kPSJAZGltZW4vZHBfMTYiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iY2VudGVyIgogICAgICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBtaXBtYXAvaWNfcG9wdWxhcml0eV9yYW5rIgogICAgICAgICAgICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAvL2dldE12cFByZXNlbnRlcigpLmdldEhvbWVSZWNvbW1lbmRBbmNob3IoKTsKICAgICAgICAvL2dldE12cFByZXNlbnRlcigpLmdldEhvbWVSZWNvbW1lbmRSYW5rSW5mbyhTdHJpbmcudmFsdWVPZihBdXRoTW9kZWwuZ2V0KCkuZ2V0Q3VycmVudFVpZCgpKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWN5Y2xlclZpZXcuc21vb3RoU2Nyb2xsVG9Qb3NpdGlvbigwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBSLmlkLml2X3Jhbms6Ci8vICAgICAgICAgICAgICAgIFVJSGVscGVyLnNob3dBbmNob3JSYW5rTGlzdEFjdChtQ29udGV4dCk7Ci8vICAgICAgICAgICAgICAgIFN0YXRpc3RpY01hbmFnZXIuSW5zdGFuY2UoKS5vbkV2ZW50KFN0YXRpc3RpY3NQcm90b2NvbC5FdmVudC5FVkVOVF9IT01FX0FVRElPX1JBTkssICLngrnlh7vpppbpobXpn7PpopHmjpLooYzmppznmoTmrKHmlbAiKTsKICAgICAgICAgICAgICAgIFZvaWNlTWF0Y2hBY3Rpdml0eS5zdGFydChnZXRDb250ZXh0KCkpOwogICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDp0bF9pbmRpY2F0b3JfbWFyZ2luX3RvcD0iQGRpbWVuL2RwXzMwIgo=</text>
       </register>
       <register name=":" type="4">
         <text>1196</text>
