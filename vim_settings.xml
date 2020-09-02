@@ -117,10 +117,8 @@
         <mark key="]" line="157" column="0" />
         <mark key="." line="157" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1599017272842">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/values/styles.xml" timestamp="1599028608064" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/util/TypedValue.java" timestamp="1599037710286" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/UserModel.java" timestamp="1599030073570">
         <mark key="[" line="166" column="0" />
         <mark key="]" line="166" column="0" />
@@ -138,10 +136,11 @@
         <mark key="^" line="49" column="48" />
         <mark key="." line="47" column="52" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_audio_player/java/com/wujie/ermeng/audio/player/activity/AudioPlayingActivity.java" timestamp="1599017223689">
-        <mark key="[" line="654" column="0" />
-        <mark key="]" line="659" column="0" />
-        <mark key="." line="659" column="0" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/layout_voice_bar.xml" timestamp="1599037915829">
+        <mark key="[" line="38" column="31" />
+        <mark key="]" line="38" column="43" />
+        <mark key="." line="38" column="42" />
+        <mark key="^" line="38" column="43" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/presenter/HomeRecommendFragmentPresenter.java" timestamp="1599030501977">
         <mark key="[" line="42" column="0" />
@@ -149,11 +148,18 @@
         <mark key="^" line="44" column="49" />
         <mark key="." line="44" column="48" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_dialog_gender_recommend_data.xml" timestamp="1599019332796">
-        <mark key="[" line="1" column="66" />
-        <mark key="]" line="1" column="6" />
-        <mark key="^" line="1" column="6" />
-        <mark key="." line="1" column="5" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/audio/widget/VoiceBar.java" timestamp="1599037713078">
+        <mark key="[" line="120" column="38" />
+        <mark key="]" line="120" column="66" />
+        <mark key="." line="120" column="65" />
+        <mark key="^" line="120" column="66" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendRankAdapter.java" timestamp="1599035895952">
+        <mark key="'" line="110" column="30" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="35" column="7" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="94" column="40" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/album/presenter/AlbumPresenter.java" timestamp="1599030510631">
         <mark key="[" line="37" column="108" />
@@ -161,17 +167,11 @@
         <mark key="." line="37" column="113" />
         <mark key="^" line="37" column="114" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendAdapter.java" timestamp="1599034527367">
-        <mark key="'" line="210" column="35" />
-        <mark key="]" line="234" column="8" />
-        <mark key="." line="234" column="7" />
-        <mark key="^" line="234" column="8" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/home/view/INewHomeFragmentModel.java" timestamp="1599017492703">
-        <mark key="[" line="33" column="57" />
-        <mark key="]" line="33" column="61" />
-        <mark key="^" line="33" column="61" />
-        <mark key="." line="33" column="60" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendAdapter.java" timestamp="1599036651222">
+        <mark key="'" line="195" column="35" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.flyco.tablayout/FlycoTabLayout_Lib/2.1.2/431eceecfe6b4044d8e075971d9f25018f12e876/FlycoTabLayout_Lib-2.1.2-sources.jar!/com/flyco/tablayout/SlidingTabLayout.java" timestamp="1599031920123" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/dialog_gender_recommend_data.xml" timestamp="1599029208533">
@@ -180,7 +180,7 @@
         <mark key="^" line="12" column="56" />
         <mark key="." line="12" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1599034693342">
+      <file name="/Dummy.txt" timestamp="1599038080974">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -191,18 +191,7 @@
         <mark key="^" line="105" column="115" />
         <mark key="." line="105" column="114" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/event/onRecommendGenderChange.java" timestamp="1599017170915">
-        <mark key="[" line="2" column="38" />
-        <mark key="]" line="2" column="13" />
-        <mark key="^" line="2" column="13" />
-        <mark key="." line="2" column="12" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/utils/SharedPreferenceUtils.java" timestamp="1599016545089">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="21" column="15" />
-        <mark key="^" line="21" column="15" />
-        <mark key="." line="21" column="14" />
-      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/widget/TextView.java" timestamp="1599037664511" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/NewHomeFragment.java" timestamp="1599032106156">
         <mark key="[" line="223" column="55" />
         <mark key="]" line="223" column="56" />
@@ -210,11 +199,14 @@
         <mark key="." line="223" column="56" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values-night/styles.xml" timestamp="1599028606868" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_home_recommend_voice_bottle_item.xml" timestamp="1599037984304">
+        <mark key="[" line="22" column="45" />
+        <mark key="]" line="60" column="43" />
+        <mark key="^" line="60" column="43" />
+        <mark key="." line="60" column="42" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="26" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/webview/JSInterface.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/nim_uikit/res/values/strings.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/strings.xml" />
       <jump line="787" column="33" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/GiftDialog.java" />
       <jump line="563" column="17" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/GiftDialog.java" />
       <jump line="66" column="13" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/webview/JSInterface.java" />
@@ -312,18 +304,21 @@
       <jump line="18" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_home_live_room.xml" />
       <jump line="284" column="40" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeFragmentAdapter.java" />
       <jump line="201" column="35" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendAdapter.java" />
+      <jump line="86" column="3" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendRankAdapter.java" />
+      <jump line="112" column="26" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendRankAdapter.java" />
+      <jump line="107" column="30" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendRankAdapter.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Cb3R0b209IkBkaW1lbi9kcF82Igo=</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>gridLayoutManager</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
@@ -382,34 +377,34 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgZ2VuZGVyID0gKGludCkgU2hhcmVkUHJlZmVyZW5jZVV0aWxzLmdldChLRVlfSE9NRV9EQVRBX0dFTkRFUl9SRUNPTU1FTkQsIDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBoZWxwZXIuc2V0VGV4dChSLmlkLnR2X3N1Yl90aXRsZSwgbVJhbmtUaXRsZXNbcF0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Cb3R0b209IkBkaW1lbi9kcF82Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBHcmlkTGF5b3V0TWFuYWdlciBncmlkTGF5b3V0TWFuYWdlciA9IG5ldyBHcmlkTGF5b3V0TWFuYWdlcihtQ29udGV4dCwgMywgUmVjeWNsZXJWaWV3LkhPUklaT05UQUwsIGZhbHNlKTsKICAgICAgICByZWN5Y2xlclZpZXdSYW5rLnNldExheW91dE1hbmFnZXIoZ3JpZExheW91dE1hbmFnZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IkBkaW1lbi9kcF82Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZWN5Y2xlclZpZXdSYW5rLmdldExheW91dE1hbmFnZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICBhcHA6YXV0b1NpemVNYXhUZXh0U2l6ZT0iQGRpbWVuL3NwXzI4IgogICAgICAgIGFwcDphdXRvU2l6ZU1pblRleHRTaXplPSJAZGltZW4vc3BfOCIKICAgICAgICBhcHA6YXV0b1NpemVTdGVwR3JhbnVsYXJpdHk9IjFzcCIKICAgICAgICBhcHA6YXV0b1NpemVUZXh0VHlwZT0idW5pZm9ybSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNjYWxlWD0iMC44NCIKICAgICAgICBhbmRyb2lkOnNjYWxlWT0iMC44NCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IkBkaW1lbi9kcF80IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkJvdHRvbT0iQGRpbWVuL2RwXzQiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVjeWNsZXJWaWV3UmFuay5vbnNjcm9sbCkK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNjYWxlWD0iMC44NCIKICAgICAgICBhbmRyb2lkOnNjYWxlWT0iMC44NCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL2dldE12cFByZXNlbnRlcigpLmdldEhvbWVSZWNvbW1lbmRBbmNob3IoKTsKICAgICAgICAvL2dldE12cFByZXNlbnRlcigpLmdldEhvbWVSZWNvbW1lbmRSYW5rSW5mbyhTdHJpbmcudmFsdWVPZihBdXRoTW9kZWwuZ2V0KCkuZ2V0Q3VycmVudFVpZCgpKSk7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5Lq65rCU5o6S6KGMYWRhcHRlcgogICAgICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZWN5Y2xlclZpZXcuc21vb3RoU2Nyb2xsVG9Qb3NpdGlvbigwKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5Lq65rCU5o6S6KGMCiAgICAgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDp0bF9pbmRpY2F0b3JfbWFyZ2luX3RvcD0iQGRpbWVuL2RwXzMwIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>1196</text>
