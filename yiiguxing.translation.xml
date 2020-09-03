@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="去应援" />
+      <item value="he have not received any gift yet" />
+      <item value="guild" />
       <item value="UNION" />
       <item value="version" />
       <item value="BOTTLE" />
@@ -48,14 +51,11 @@
       <item value="constellation" />
       <item value="level value" />
       <item value="count" />
-      <item value="charm" />
-      <item value="Url" />
-      <item value="attention" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="379" />
-        <entry key="ENGLISH" value="380" />
+        <entry key="CHINESE" value="382" />
+        <entry key="ENGLISH" value="382" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
