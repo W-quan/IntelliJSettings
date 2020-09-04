@@ -112,10 +112,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/audio/VoiceMatchActivity.java" timestamp="1599123020372">
-        <mark key="[" line="299" column="0" />
-        <mark key="]" line="299" column="0" />
-        <mark key="." line="299" column="0" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_home_recommend_collection.xml" timestamp="1599202693680">
+        <mark key="[" line="144" column="33" />
+        <mark key="]" line="144" column="34" />
+        <mark key="^" line="122" column="35" />
+        <mark key="." line="144" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_audio_player/java/com/wujie/ermeng/audio/player/activity/AudioPlayingActivity.java" timestamp="1599128670704">
         <mark key="[" line="281" column="0" />
@@ -191,11 +192,11 @@
         <mark key="^" line="18" column="98" />
         <mark key="." line="18" column="97" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/adapter/PersonalWorkAdapter.java" timestamp="1599201780383">
-        <mark key="[" line="71" column="136" />
-        <mark key="]" line="72" column="8" />
-        <mark key="." line="72" column="7" />
-        <mark key="^" line="72" column="8" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/adapter/PersonalWorkAdapter.java" timestamp="1599203357293">
+        <mark key="[" line="78" column="37" />
+        <mark key="]" line="78" column="37" />
+        <mark key="." line="78" column="37" />
+        <mark key="^" line="78" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_audio_player/java/com/wujie/ermeng/audio/player/event/AudioPlayStateEvent.java" timestamp="1599126151142">
         <mark key="[" line="21" column="60" />
@@ -314,14 +315,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBoZWxwZXIuc2V0R29uZShSLmlkLnJpX2xvY2ssIGl0ZW0uaXNTaG93U3RhdHVzKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>!</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>的</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
