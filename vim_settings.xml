@@ -112,11 +112,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_home_recommend_collection.xml" timestamp="1599202693680">
-        <mark key="[" line="144" column="33" />
-        <mark key="]" line="144" column="34" />
-        <mark key="^" line="122" column="35" />
-        <mark key="." line="144" column="34" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_home_recommend_collection.xml" timestamp="1599204038687">
+        <mark key="[" line="77" column="28" />
+        <mark key="]" line="77" column="18" />
+        <mark key="^" line="77" column="18" />
+        <mark key="." line="77" column="17" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_audio_player/java/com/wujie/ermeng/audio/player/activity/AudioPlayingActivity.java" timestamp="1599128670704">
         <mark key="[" line="281" column="0" />
@@ -172,9 +172,9 @@
         <mark key="." line="208" column="14" />
         <mark key="^" line="208" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeAlbumAudioAdapter.java" timestamp="1599201759570">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="58" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeAlbumAudioAdapter.java" timestamp="1599204047737">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="62" />
       </file>
       <file name="/Dummy.txt" timestamp="1599201270915">
         <mark key="[" line="0" column="0" />
@@ -192,11 +192,11 @@
         <mark key="^" line="18" column="98" />
         <mark key="." line="18" column="97" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/adapter/PersonalWorkAdapter.java" timestamp="1599203357293">
-        <mark key="[" line="78" column="37" />
-        <mark key="]" line="78" column="37" />
-        <mark key="." line="78" column="37" />
-        <mark key="^" line="78" column="23" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/adapter/PersonalWorkAdapter.java" timestamp="1599204060085">
+        <mark key="[" line="77" column="42" />
+        <mark key="]" line="77" column="51" />
+        <mark key="." line="77" column="50" />
+        <mark key="^" line="77" column="51" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_audio_player/java/com/wujie/ermeng/audio/player/event/AudioPlayStateEvent.java" timestamp="1599126151142">
         <mark key="[" line="21" column="60" />
@@ -315,8 +315,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBoZWxwZXIuc2V0VmlzaWJsZShSLmlkLmltZ19sYWJlbCwgaXRlbS5pc1Nob3dMYWJlbCgpKTsK</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
@@ -381,7 +381,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBoZWxwZXIuc2V0R29uZShSLmlkLnJpX2xvY2ssIGl0ZW0uaXNTaG93U3RhdHVzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBoZWxwZXIuc2V0VmlzaWJsZShSLmlkLmltZ19sYWJlbCwgaXRlbS5pc1Nob3dMYWJlbCgpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoQXVkaW9QbGF5ZXJIZWxwZXIuZ2V0KCkuaXNQbGF5aW5nKCkpIHsKICAgICAgICAgICAgQXVkaW9QbGF5ZXJIZWxwZXIuZ2V0KCkuZW5kUGxheSgpOwogICAgICAgIH0KCg==</text>
