@@ -125,11 +125,11 @@
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="45" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_home_recommend_media.xml" timestamp="1599449801597">
-        <mark key="[" line="73" column="28" />
-        <mark key="]" line="88" column="30" />
-        <mark key="^" line="88" column="30" />
-        <mark key="." line="88" column="29" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_home_recommend_media.xml" timestamp="1599454132783">
+        <mark key="[" line="55" column="40" />
+        <mark key="]" line="57" column="32" />
+        <mark key="^" line="57" column="32" />
+        <mark key="." line="57" column="31" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendAdapter.java" timestamp="1599446434962">
         <mark key="'" line="274" column="25" />
@@ -199,11 +199,11 @@
         <mark key="^" line="41" column="37" />
         <mark key="." line="41" column="36" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendMediaAdapter.java" timestamp="1599451600615">
-        <mark key="[" line="51" column="30" />
-        <mark key="]" line="51" column="31" />
-        <mark key="." line="51" column="30" />
-        <mark key="^" line="51" column="31" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendMediaAdapter.java" timestamp="1599454147262">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="51" column="52" />
+        <mark key="." line="51" column="51" />
+        <mark key="^" line="51" column="52" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/FootprintAudioListAdapter.java" timestamp="1599447179073">
         <mark key="[" line="40" column="61" />
@@ -317,14 +317,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpdGVtLnNldFBsYXlDb3VudCgxMjMyKTsK</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>231</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
@@ -386,28 +386,28 @@
         <text encoding="base64">ICAgIDxJbWFnZVZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2l2X3BsYXlfY291bnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IkBkaW1lbi9kcF82IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iQGRpbWVuL2RwXzgiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IkBkaW1lbi9kcF81IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkJvdHRvbT0iQGRpbWVuL2RwXzQiCiAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pY19ob21lX3JhbmtfcGxheV9jb3VudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0iQGlkL2l2X2NvdmVyIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0iQGlkL2l2X2NvdmVyIiAvPgoKICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdHZfcGxheV9jb3VudCIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblN0YXJ0PSJAZGltZW4vZHBfNCIKICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvemVybyIKICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL3doaXRlIgogICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IkBkaW1lbi9zcF8xMCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0iQGlkL2l2X3BsYXlfY291bnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9FbmRPZj0iQGlkL2l2X3BsYXlfY291bnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9IkBpZC9pdl9wbGF5X2NvdW50IiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtYmVySW5zdGFuY2Uuc2V0TWluaW11bUZyYWN0aW9uRGlnaXRzKDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpdGVtLnNldFBsYXlDb3VudCgxMjMyKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0iQGlkL2l2X3BsYXlfY291bnQiIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVtYmVySW5zdGFuY2Uuc2V0TWluaW11bUZyYWN0aW9uRGlnaXRzKDEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0iQGlkL2l2X3BsYXlfY291bnQiIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxJbWFnZVZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2l2X3BsYXlfY291bnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IkBkaW1lbi9kcF82IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iQGRpbWVuL2RwXzgiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IkBkaW1lbi9kcF81IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkJvdHRvbT0iQGRpbWVuL2RwXzQiCiAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pY19ob21lX3JhbmtfcGxheV9jb3VudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0iQGlkL2l2X2NvdmVyIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0iQGlkL2l2X2NvdmVyIiAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCg==</text>
+        <text encoding="base64">ICAgIDxJbWFnZVZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2l2X3BsYXlfY291bnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IkBkaW1lbi9kcF82IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iQGRpbWVuL2RwXzgiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IkBkaW1lbi9kcF81IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkJvdHRvbT0iQGRpbWVuL2RwXzQiCiAgICAgICAgYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9pY19ob21lX3JhbmtfcGxheV9jb3VudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0iQGlkL2l2X2NvdmVyIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0iQGlkL2l2X2NvdmVyIiAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm1pbkhlaWdodD0iQGRpbWVuL2RwXzM1Igo=</text>
+        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm1pbkhlaWdodD0iQGRpbWVuL2RwXzM1Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJbWFnZVZpZXcgaXZUaXAgPSBoZWxwZXIuZ2V0VmlldyhSLmlkLml2X3RpcCk7CiAgICAgICAgaWYgKGl0ZW0uaXNUb2RheVVwZGF0ZSgpKSB7CiAgICAgICAgICAgIGl2VGlwLnNldEltYWdlUmVzb3VyY2UoUi5taXBtYXAuaWNfaG9tZV9tZWRpYV9hdWRpb191cGRhdGVfZGF5KTsKICAgICAgICAgICAgaXZUaXAuc2V0VmlzaWJpbGl0eShWaWV3LlZJU0lCTEUpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGl2VGlwLnNldFZpc2liaWxpdHkoVmlldy5HT05FKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBJbWFnZVZpZXcgaXZUaXAgPSBoZWxwZXIuZ2V0VmlldyhSLmlkLml2X3RpcCk7CiAgICAgICAgaWYgKGl0ZW0uaXNUb2RheVVwZGF0ZSgpKSB7CiAgICAgICAgICAgIGl2VGlwLnNldEltYWdlUmVzb3VyY2UoUi5taXBtYXAuaWNfaG9tZV9tZWRpYV9hdWRpb191cGRhdGVfZGF5KTsKICAgICAgICAgICAgaXZUaXAuc2V0VmlzaWJpbGl0eShWaWV3LlZJU0lCTEUpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGl2VGlwLnNldFZpc2liaWxpdHkoVmlldy5HT05FKTsKICAgICAgICB9Cg==</text>
