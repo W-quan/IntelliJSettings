@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="财富" />
       <item value="BERSTYLE" />
       <item value="NUMBERSTYLE" />
       <item value="show Time Mode" />
@@ -50,11 +51,10 @@
       <item value="* &lt;li&gt;As a container for a specific interaction with one or more child views&lt;/li&gt;" />
       <item value="* &lt;li&gt;As a top-level application decor or chrome layout&lt;/li&gt;" />
       <item value="基础资料" />
-      <item value="info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="389" />
+        <entry key="CHINESE" value="390" />
         <entry key="ENGLISH" value="390" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
