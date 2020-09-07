@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BERSTYLE" />
+      <item value="NUMBERSTYLE" />
       <item value="show Time Mode" />
       <item value="show" />
       <item value="dither" />
@@ -49,13 +51,11 @@
       <item value="* &lt;li&gt;As a top-level application decor or chrome layout&lt;/li&gt;" />
       <item value="基础资料" />
       <item value="info" />
-      <item value="支持自定义hintview" />
-      <item value="parallax" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="387" />
-        <entry key="ENGLISH" value="388" />
+        <entry key="CHINESE" value="389" />
+        <entry key="ENGLISH" value="390" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
