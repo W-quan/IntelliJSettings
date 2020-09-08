@@ -160,6 +160,13 @@
         <mark key="]" line="156" column="0" />
         <mark key="." line="156" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" timestamp="1599559722720">
+        <mark key="'" line="425" column="8" />
+        <mark key="[" line="987" column="81" />
+        <mark key="]" line="988" column="28" />
+        <mark key="^" line="988" column="28" />
+        <mark key="." line="988" column="27" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_home_recommend_rank.xml" timestamp="1599549733945" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_home_recommend_category.xml" timestamp="1599551795241">
         <mark key="[" line="17" column="0" />
@@ -168,9 +175,6 @@
         <mark key="^" line="15" column="26" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/withdraw/WithdrawActivity.java" timestamp="1599552974874" />
-      <file name="/fragment.java" timestamp="1599533187471">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeFragmentAdapter.java" timestamp="1599537481386">
         <mark key="[" line="366" column="53" />
         <mark key="]" line="366" column="60" />
