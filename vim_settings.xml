@@ -126,6 +126,7 @@
         <mark key="." line="298" column="42" />
         <mark key="^" line="298" column="43" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/withdraw/bean/WithdrwaListInfo.java" timestamp="1599553061785" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/pay/bean/WalletInfo.java" timestamp="1599546322365">
         <mark key="[" line="102" column="15" />
         <mark key="]" line="102" column="20" />
@@ -165,26 +166,14 @@
         <mark key="]" line="156" column="0" />
         <mark key="." line="156" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" timestamp="1599531824768">
-        <mark key="'" line="425" column="8" />
-        <mark key="[" line="987" column="81" />
-        <mark key="]" line="988" column="28" />
-        <mark key="^" line="988" column="28" />
-        <mark key="." line="988" column="27" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_home_recommend_rank.xml" timestamp="1599549733945" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/home/bean/HomeRankInfo.java" timestamp="1599533124886">
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="15" column="24" />
-        <mark key="^" line="15" column="24" />
-        <mark key="." line="15" column="23" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_home_recommend_category.xml" timestamp="1599551795241">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="26" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/withdraw/WithdrawActivity.java" timestamp="1599552974874" />
       <file name="/fragment.java" timestamp="1599533187471">
         <mark key="[" line="0" column="0" />
       </file>
