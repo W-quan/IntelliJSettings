@@ -112,75 +112,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_home_recommend_media.xml" timestamp="1599471751560">
-        <mark key="[" line="89" column="26" />
-        <mark key="]" line="89" column="33" />
-        <mark key="^" line="89" column="33" />
-        <mark key="." line="89" column="32" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/bean/UserInfo.java" timestamp="1599467621660">
-        <mark key="[" line="221" column="0" />
-        <mark key="]" line="221" column="0" />
-        <mark key="." line="221" column="0" />
-        <mark key="^" line="222" column="40" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/UserGiftFragment.java" timestamp="1599469472233">
-        <mark key="[" line="297" column="37" />
-        <mark key="]" line="297" column="43" />
-        <mark key="." line="297" column="42" />
-        <mark key="^" line="297" column="43" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/statistic/protocol/StatisticsProtocol.java" timestamp="1599463957405" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/strings.xml" timestamp="1599468227010">
-        <mark key="[" line="193" column="37" />
-        <mark key="]" line="193" column="42" />
-        <mark key="^" line="193" column="42" />
-        <mark key="." line="193" column="41" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" timestamp="1599470273856">
-        <mark key="'" line="270" column="45" />
-        <mark key="[" line="307" column="22" />
-        <mark key="]" line="307" column="24" />
-        <mark key="." line="307" column="23" />
-        <mark key="^" line="307" column="24" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/list_item_main_audio_play.xml" timestamp="1599472402536" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/record/activity/AlbumCollectionActivity.java" timestamp="1599463730623">
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="146" column="58" />
-        <mark key="^" line="102" column="8" />
-        <mark key="." line="102" column="7" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendRankAdapter.java" timestamp="1599465517453">
-        <mark key="[" line="8" column="90" />
-        <mark key="]" line="8" column="90" />
-        <mark key="^" line="8" column="68" />
-        <mark key="." line="8" column="90" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/audio/adapter/MediaRankListAdapter.java" timestamp="1599471609969">
         <mark key="[" line="62" column="45" />
         <mark key="]" line="62" column="50" />
         <mark key="^" line="62" column="50" />
         <mark key="." line="62" column="49" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_media_rank_list.xml" timestamp="1599471593423" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendAdapter.java" timestamp="1599471110927">
-        <mark key="[" line="165" column="49" />
-        <mark key="]" line="165" column="82" />
-        <mark key="." line="165" column="81" />
-        <mark key="^" line="165" column="82" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/adapter/UserGiftAdapter.java" timestamp="1599469096342">
-        <mark key="[" line="63" column="64" />
-        <mark key="]" line="63" column="64" />
-        <mark key="^" line="63" column="64" />
-        <mark key="." line="63" column="63" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeAlbumAudioAdapter.java" timestamp="1599465924611">
-        <mark key="[" line="32" column="9" />
-        <mark key="]" line="33" column="8" />
-        <mark key="." line="33" column="7" />
-        <mark key="^" line="33" column="8" />
       </file>
       <file name="/Dummy.txt" timestamp="1599471664738">
         <mark key="[" line="0" column="0" />
@@ -192,6 +128,13 @@
         <mark key="]" line="207" column="8" />
         <mark key="." line="207" column="7" />
         <mark key="^" line="207" column="8" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" timestamp="1599470273856">
+        <mark key="'" line="270" column="45" />
+        <mark key="[" line="307" column="22" />
+        <mark key="]" line="307" column="24" />
+        <mark key="." line="307" column="23" />
+        <mark key="^" line="307" column="24" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_user_center.xml" timestamp="1599470812430">
         <mark key="[" line="41" column="44" />
@@ -206,12 +149,71 @@
         <mark key="." line="154" column="59" />
         <mark key="^" line="226" column="58" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_home_recommend_media.xml" timestamp="1599471751560">
+        <mark key="[" line="89" column="26" />
+        <mark key="]" line="89" column="33" />
+        <mark key="^" line="89" column="33" />
+        <mark key="." line="89" column="32" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendAdapter.java" timestamp="1599471110927">
+        <mark key="[" line="165" column="49" />
+        <mark key="]" line="165" column="82" />
+        <mark key="." line="165" column="81" />
+        <mark key="^" line="165" column="82" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/record/activity/AlbumCollectionActivity.java" timestamp="1599463730623">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="146" column="58" />
+        <mark key="^" line="102" column="8" />
+        <mark key="." line="102" column="7" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" timestamp="1599464173272">
         <mark key="'" line="425" column="8" />
         <mark key="[" line="773" column="0" />
         <mark key="]" line="774" column="53" />
         <mark key="^" line="787" column="50" />
         <mark key="." line="771" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/bean/UserInfo.java" timestamp="1599467621660">
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="221" column="0" />
+        <mark key="." line="221" column="0" />
+        <mark key="^" line="222" column="40" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/UserGiftFragment.java" timestamp="1599469472233">
+        <mark key="[" line="297" column="37" />
+        <mark key="]" line="297" column="43" />
+        <mark key="." line="297" column="42" />
+        <mark key="^" line="297" column="43" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/adapter/UserGiftAdapter.java" timestamp="1599469096342">
+        <mark key="[" line="63" column="64" />
+        <mark key="]" line="63" column="64" />
+        <mark key="^" line="63" column="64" />
+        <mark key="." line="63" column="63" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/strings.xml" timestamp="1599468227010">
+        <mark key="[" line="193" column="37" />
+        <mark key="]" line="193" column="42" />
+        <mark key="^" line="193" column="42" />
+        <mark key="." line="193" column="41" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeAlbumAudioAdapter.java" timestamp="1599465924611">
+        <mark key="[" line="32" column="9" />
+        <mark key="]" line="33" column="8" />
+        <mark key="." line="33" column="7" />
+        <mark key="^" line="33" column="8" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendRankAdapter.java" timestamp="1599465517453">
+        <mark key="[" line="8" column="90" />
+        <mark key="]" line="8" column="90" />
+        <mark key="^" line="8" column="68" />
+        <mark key="." line="8" column="90" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/item_message_view_text.xml" timestamp="1599530810000">
+        <mark key="[" line="46" column="37" />
+        <mark key="]" line="46" column="37" />
+        <mark key="." line="46" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -320,13 +322,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>66000000</text>
+        <text>你想见你想见你想见你想见你想见你想见你</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>66000000</text>
+        <text>你想见你想见你想见你想见你想见你想见你</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
