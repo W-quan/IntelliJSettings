@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="collided" />
+      <item value="Consider setting the experimental feature flag android.enableSeparateAnnotationProcessing=true in the gradle.properties file to run annotation processing in a separate task and make compilation incremental." />
+      <item value="separate" />
       <item value="tl tab space equal" />
       <item value="财富" />
       <item value="BERSTYLE" />
@@ -48,14 +51,11 @@
       <item value="set Compound Drawables Relative With Intrinsic Bounds" />
       <item value="Praise Event" />
       <item value="* Returns a view of the portion of this list between the specified * {@code fromIndex}, inclusive, and {@code toIndex}, exclusive. (If * {@code fromIndex} and {@code toIndex} are equal, the returned list is * empty.) The returned list is backed by this list, so non-structural * changes in the returned list are reflected in this list, and vice-versa. * The returned list supports all of the optional list operations." />
-      <item value="EXPEND" />
-      <item value="* &lt;li&gt;As a container for a specific interaction with one or more child views&lt;/li&gt;" />
-      <item value="* &lt;li&gt;As a top-level application decor or chrome layout&lt;/li&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="390" />
-        <entry key="ENGLISH" value="391" />
+        <entry key="CHINESE" value="393" />
+        <entry key="ENGLISH" value="394" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
