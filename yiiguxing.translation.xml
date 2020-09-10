@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Qualifier" />
+      <item value="* The binding for TasksRepository is on its own module so that we can replace it easily in tests." />
       <item value="switch Map" />
       <item value="* Identifies injectable constructors, methods, and fields. May apply to static * as well as instance members. An injectable member may have any access * modifier (private, package-private, protected, public). Constructors are * injected first, followed by fields, and then methods. Fields and methods * in superclasses are injected before those in subclasses. Ordering of * injection among fields and among methods in the same class is not specified." />
       <item value="Inject" />
@@ -49,13 +51,11 @@
       <item value="birth" />
       <item value="Bottle" />
       <item value="payload" />
-      <item value="battle" />
-      <item value="ic voice battle play" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="400" />
-        <entry key="ENGLISH" value="401" />
+        <entry key="CHINESE" value="402" />
+        <entry key="ENGLISH" value="403" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
