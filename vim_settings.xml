@@ -117,12 +117,6 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_wallet/java/com/yizhuan/erban/wallet/presenter/MyNoteBalancePresenter.java" timestamp="1599617063332">
-        <mark key="[" line="19" column="55" />
-        <mark key="]" line="19" column="59" />
-        <mark key="^" line="19" column="59" />
-        <mark key="." line="19" column="58" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/activity/UserCenterActivity.java" timestamp="1599808255977">
         <mark key="[" line="92" column="16" />
         <mark key="]" line="92" column="22" />
@@ -136,19 +130,9 @@
         <mark key="." line="94" column="0" />
       </file>
       <file name="/MyNewProductionFragment.java" timestamp="1599810534865" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/pay/bean/WalletInfo.java" timestamp="1599616288168">
-        <mark key="[" line="101" column="15" />
-        <mark key="]" line="101" column="15" />
-        <mark key="^" line="101" column="17" />
-        <mark key="." line="101" column="15" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Demo/architecture-samples/app/src/main/java/com/example/android/architecture/blueprints/todoapp/tasks/TasksViewModel.kt" timestamp="1599729843877" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/gradle.properties" timestamp="1599617583682">
-        <mark key="[" line="31" column="30" />
-        <mark key="]" line="32" column="47" />
-        <mark key="^" line="32" column="47" />
-        <mark key="." line="32" column="46" />
-      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/widget/Toast.java" timestamp="1599812748457" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/widget/CommToast.java" timestamp="1599812801871" />
       <file name="/Dummy.txt" timestamp="1599811893120">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -156,6 +140,12 @@
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/audio/AudioProductionModel.java" timestamp="1599809215924" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.61/72876c4e34feff9bf8d93d0b100e71ce6f5f8244/kotlin-stdlib-1.3.61-sources.jar!/kotlin/jvm/annotations/JvmPlatformAnnotations.kt" timestamp="1599729157656" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicServiceConnection.java" timestamp="1599812706830">
+        <mark key="[" line="276" column="9" />
+        <mark key="]" line="277" column="8" />
+        <mark key="^" line="277" column="8" />
+        <mark key="." line="277" column="7" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_audio_player/java/com/wujie/ermeng/audio/player/activity/AudioPlayingActivity.java" timestamp="1599811842059">
         <mark key="[" line="849" column="45" />
         <mark key="]" line="849" column="47" />
