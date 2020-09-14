@@ -138,7 +138,14 @@
         <mark key="^" line="38" column="31" />
         <mark key="." line="38" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1599817475159">
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/UserInfoDialog.java" timestamp="1600066611878">
+        <mark key="'" line="228" column="44" />
+        <mark key="[" line="1058" column="19" />
+        <mark key="]" line="1058" column="43" />
+        <mark key="^" line="1058" column="43" />
+        <mark key="." line="1058" column="42" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1600066577486">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -147,9 +154,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.61/72876c4e34feff9bf8d93d0b100e71ce6f5f8244/kotlin-stdlib-1.3.61-sources.jar!/kotlin/jvm/annotations/JvmPlatformAnnotations.kt" timestamp="1599729157656" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicServiceConnection.java" timestamp="1599812706830" />
       <file name="$USER_HOME$/Workspace/Android/Demo/architecture-samples/app/build.gradle" timestamp="1599733778498" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.timber/timber/4.7.1/8426e1daf26a6f9adef55a150f3d3ee944da39d/timber-4.7.1-sources.jar!/timber/log/Timber.java" timestamp="1599728722715">
-        <mark key="'" line="154" column="11" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/widget/MicroView.java" timestamp="1599816746097" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar!/javax/inject/Inject.java" timestamp="1599729984519" />
       <file name="$USER_HOME$/Workspace/Android/Demo/architecture-samples/app/src/main/java/com/example/android/architecture/blueprints/todoapp/di/AppModule.kt" timestamp="1599730839663" />
@@ -162,7 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="798" column="12" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/model/AvRoomModel.java" />
       <jump line="39" column="52" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/data/RoomData.java" />
       <jump line="1031" column="23" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/manager/ChatRoomManager.java" />
       <jump line="606" column="39" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/manager/WuJieChatRoomManager.java" />
@@ -262,12 +265,13 @@
       <jump line="584" column="35" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendAdapter.java" />
       <jump line="44" column="65" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeAlbumAudioAdapter.java" />
       <jump line="154" column="11" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.timber/timber/4.7.1/8426e1daf26a6f9adef55a150f3d3ee944da39d/timber-4.7.1-sources.jar!/timber/log/Timber.java" />
+      <jump line="229" column="44" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/UserInfoDialog.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghQWN0aXZpdHlVdGlsLmlzVmFsaWRDb250ZXh0KG1Db250ZXh0KSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
@@ -335,31 +339,31 @@
         <text encoding="base64">ICAgICAgICAgICAgU2luZ2xlVG9hc3RVdGlsLnNob3dUb2FzdChnZXRTdHJpbmcoUi5zdHJpbmcubWVkYWxfbmFtZV9jYW50X2JlX2VtcHR5KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghQWN0aXZpdHlVdGlsLmlzVmFsaWRDb250ZXh0KG1Db250ZXh0KSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgIH0KCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0b2FzdC5zaG93KCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmiormlbDmja7mj5LlhaXliLDlvLnluZXph4wK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmiormlbDmja7mj5LlhaXliLDlvLnluZXph4wKICAgICAgICBpZiAoYmFycmFnZUluZm8gPT0gbnVsbCkgewo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBLZXlCb2FyZFV0aWxzLmhpZGVLZXlCb2FyZCh0aGlzLCBiYXJyYWdlSW5wdXQpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAocm9vbUluZm8gIT0gbnVsbCkgewo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghQWN0aXZpdHlVdGlsLmlzVmFsaWRDb250ZXh0KG1Db250ZXh0KSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgIH0KCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0b2FzdC5zaG93KCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyDmiormlbDmja7mj5LlhaXliLDlvLnluZXph4wK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyDmiormlbDmja7mj5LlhaXliLDlvLnluZXph4wKICAgICAgICBpZiAoYmFycmFnZUluZm8gPT0gbnVsbCkgewo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2luZ2xlVG9hc3RVdGlsLnNob3dUb2FzdChnZXRTdHJpbmcoUi5zdHJpbmcubWVkYWxfbmFtZV9jYW50X2JlX2VtcHR5KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBLZXlCb2FyZFV0aWxzLmhpZGVLZXlCb2FyZCh0aGlzLCBiYXJyYWdlSW5wdXQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1196</text>
