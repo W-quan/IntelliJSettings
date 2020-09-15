@@ -145,13 +145,18 @@
         <mark key="^" line="1058" column="43" />
         <mark key="." line="1058" column="42" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/fragment_room_content.xml" timestamp="1600152465371">
+        <mark key="[" line="158" column="44" />
+        <mark key="]" line="158" column="45" />
+        <mark key="^" line="158" column="45" />
+        <mark key="." line="158" column="44" />
+      </file>
       <file name="/Dummy.txt" timestamp="1600066577486">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/audio/AudioProductionModel.java" timestamp="1599809215924" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.61/72876c4e34feff9bf8d93d0b100e71ce6f5f8244/kotlin-stdlib-1.3.61-sources.jar!/kotlin/jvm/annotations/JvmPlatformAnnotations.kt" timestamp="1599729157656" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/audio/MusicServiceConnection.java" timestamp="1599812706830" />
       <file name="$USER_HOME$/Workspace/Android/Demo/architecture-samples/app/build.gradle" timestamp="1599733778498" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/widget/MicroView.java" timestamp="1599816746097" />
@@ -270,14 +275,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>000</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
