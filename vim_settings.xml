@@ -127,33 +127,23 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="41" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/layout_room_collect_view.xml" timestamp="1600245914182" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/layout_room_announcement.xml" timestamp="1600245881524" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/presenter/MedalPresenter.java" timestamp="1600154458131">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="36" column="85" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/MedalFragment.java" timestamp="1600244192951">
-        <mark key="[" line="159" column="50" />
-        <mark key="]" line="160" column="24" />
-        <mark key="." line="160" column="23" />
-        <mark key="^" line="160" column="24" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/MedalFragment.java" timestamp="1600246919876">
+        <mark key="[" line="70" column="50" />
+        <mark key="]" line="70" column="51" />
+        <mark key="." line="70" column="51" />
+        <mark key="^" line="142" column="53" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/activity/MedalEditActivity.java" timestamp="1600154518656">
         <mark key="[" line="85" column="117" />
         <mark key="]" line="86" column="69" />
         <mark key="^" line="86" column="69" />
         <mark key="." line="86" column="68" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/widget/Toast.java" timestamp="1599816064143">
-        <mark key="[" line="134" column="33" />
-        <mark key="]" line="135" column="28" />
-        <mark key="^" line="135" column="28" />
-        <mark key="." line="135" column="27" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/widget/CommToast.java" timestamp="1599816611530">
-        <mark key="[" line="38" column="30" />
-        <mark key="]" line="38" column="31" />
-        <mark key="^" line="38" column="31" />
-        <mark key="." line="38" column="30" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/UserInfoDialog.java" timestamp="1600066611878">
         <mark key="'" line="228" column="44" />
@@ -176,21 +166,22 @@
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="91" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/fragment_room_content.xml" timestamp="1600244103972">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/fragment_room_content.xml" timestamp="1600245879563">
+        <mark key="[" line="79" column="41" />
+        <mark key="]" line="79" column="42" />
+        <mark key="." line="79" column="42" />
+        <mark key="^" line="75" column="44" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1600242379635">
         <mark key="[" line="572" column="0" />
         <mark key="]" line="572" column="0" />
         <mark key="." line="572" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/fragment_medal.xml" timestamp="1600243577864">
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="54" />
-        <mark key="^" line="163" column="32" />
-        <mark key="." line="160" column="0" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/fragment_medal.xml" timestamp="1600245245298">
+        <mark key="[" line="187" column="58" />
+        <mark key="]" line="188" column="36" />
+        <mark key="^" line="188" column="36" />
+        <mark key="." line="188" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -299,13 +290,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbUJ0blNlbmRHaWZ0LnNldFZpc2liaWxpdHkobU1lZGFscy5nZXQocG9zaXRpb24pLmdldEFuY2hvclVpZCgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPT0gQXZSb29tRGF0YU1hbmFnZXIuZ2V0KCkuZ2V0Um9vbVVpZCgpID8gVmlldy5WSVNJQkxFIDogVmlldy5HT05FKTsK</text>
+        <text encoding="base64">ICAgICAgICBtTGFzdFN3aXRjaFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>mInt</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
@@ -367,31 +358,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbUJ0blNlbmRHaWZ0LnNldFZpc2liaWxpdHkobU1lZGFscy5nZXQocG9zaXRpb24pLmdldEFuY2hvclVpZCgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPT0gQXZSb29tRGF0YU1hbmFnZXIuZ2V0KCkuZ2V0Um9vbVVpZCgpID8gVmlldy5WSVNJQkxFIDogVmlldy5HT05FKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
+        <text encoding="base64">ICAgICAgICBtTGFzdFN3aXRjaFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSJAZGltZW4vZHBfMjAiCg==</text>
+        <text encoding="base64">ICAgICAgICBtSW50ID0gMTAwMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL2lmIChtU2VsZWN0ZWRJbmRleCA9PSAtMSAmJiBtV2VhcmluZ0luZGV4ICE9IC0xKSB7CiAgICAgICAgLy8gICAgUm9vbU1lZGFsTW9kZWwuZ2V0KCkuc2V0Um9vbU1lZGFsVXNlKEF1dGhNb2RlbC5nZXQoKS5nZXRDdXJyZW50VWlkKCksCiAgICAgICAgLy8gICAgICAgICAgICBtTWVkYWxzLmdldChtV2VhcmluZ0luZGV4KS5nZXRNZWRhbElkKCksIGZhbHNlKQogICAgICAgIC8vICAgICAgICAgICAgLnN1YnNjcmliZShzIC0+IHsKICAgICAgICAvLyAgICAgICAgICAgICAgICBtV2VhcmluZ0luZGV4ID0gLTE7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgc2V0Um9vbU1lZGFsRGF0YShudWxsKTsKICAgICAgICAvLyAgICAgICAgICAgICAgICBUb2FzdEhlbHBlci5zaG93VG9hc3QoZ2V0Q29udGV4dCgpLCBSLnN0cmluZy5kb25lX2xhYmVsKTsKICAgICAgICAvLyAgICAgICAgICAgIH0sIHRocm93YWJsZSAtPiBUb2FzdEhlbHBlci5zaG93VG9hc3QoZ2V0Q29udGV4dCgpLCB0aHJvd2FibGUuZ2V0TWVzc2FnZSgpKSk7CiAgICAgICAgLy99IGVsc2UgewogICAgICAgIC8vICAgIFJvb21NZWRhbE1vZGVsLmdldCgpLnNldFJvb21NZWRhbFVzZShBdXRoTW9kZWwuZ2V0KCkuZ2V0Q3VycmVudFVpZCgpLAogICAgICAgIC8vICAgICAgICAgICAgbU1lZGFscy5nZXQobVNlbGVjdGVkSW5kZXgpLmdldE1lZGFsSWQoKSwgdHJ1ZSkKICAgICAgICAvLyAgICAgICAgICAgIC5zdWJzY3JpYmUocyAtPiB7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgbVdlYXJpbmdJbmRleCA9IG1TZWxlY3RlZEluZGV4OwogICAgICAgIC8vICAgICAgICAgICAgICAgIHNldFJvb21NZWRhbERhdGEobU1lZGFscy5nZXQobVNlbGVjdGVkSW5kZXgpKTsKICAgICAgICAvLyAgICAgICAgICAgICAgICBUb2FzdEhlbHBlci5zaG93VG9hc3QoZ2V0Q29udGV4dCgpLCBSLnN0cmluZy5kb25lX2xhYmVsKTsKICAgICAgICAvLyAgICAgICAgICAgIH0sIHRocm93YWJsZSAtPiBUb2FzdEhlbHBlci5zaG93VG9hc3QoZ2V0Q29udGV4dCgpLCB0aHJvd2FibGUuZ2V0TWVzc2FnZSgpKSk7CiAgICAgICAgLy99Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAvL21lZGFscy5jbGVhcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpIHsK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSJAZGltZW4vZHBfMjAiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVJSGVscGVyLnNob3dBbmNob3JSYW5rTGlzdEFjdChnZXRDb250ZXh0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL2lmIChtU2VsZWN0ZWRJbmRleCA9PSAtMSAmJiBtV2VhcmluZ0luZGV4ICE9IC0xKSB7CiAgICAgICAgLy8gICAgUm9vbU1lZGFsTW9kZWwuZ2V0KCkuc2V0Um9vbU1lZGFsVXNlKEF1dGhNb2RlbC5nZXQoKS5nZXRDdXJyZW50VWlkKCksCiAgICAgICAgLy8gICAgICAgICAgICBtTWVkYWxzLmdldChtV2VhcmluZ0luZGV4KS5nZXRNZWRhbElkKCksIGZhbHNlKQogICAgICAgIC8vICAgICAgICAgICAgLnN1YnNjcmliZShzIC0+IHsKICAgICAgICAvLyAgICAgICAgICAgICAgICBtV2VhcmluZ0luZGV4ID0gLTE7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgc2V0Um9vbU1lZGFsRGF0YShudWxsKTsKICAgICAgICAvLyAgICAgICAgICAgICAgICBUb2FzdEhlbHBlci5zaG93VG9hc3QoZ2V0Q29udGV4dCgpLCBSLnN0cmluZy5kb25lX2xhYmVsKTsKICAgICAgICAvLyAgICAgICAgICAgIH0sIHRocm93YWJsZSAtPiBUb2FzdEhlbHBlci5zaG93VG9hc3QoZ2V0Q29udGV4dCgpLCB0aHJvd2FibGUuZ2V0TWVzc2FnZSgpKSk7CiAgICAgICAgLy99IGVsc2UgewogICAgICAgIC8vICAgIFJvb21NZWRhbE1vZGVsLmdldCgpLnNldFJvb21NZWRhbFVzZShBdXRoTW9kZWwuZ2V0KCkuZ2V0Q3VycmVudFVpZCgpLAogICAgICAgIC8vICAgICAgICAgICAgbU1lZGFscy5nZXQobVNlbGVjdGVkSW5kZXgpLmdldE1lZGFsSWQoKSwgdHJ1ZSkKICAgICAgICAvLyAgICAgICAgICAgIC5zdWJzY3JpYmUocyAtPiB7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgbVdlYXJpbmdJbmRleCA9IG1TZWxlY3RlZEluZGV4OwogICAgICAgIC8vICAgICAgICAgICAgICAgIHNldFJvb21NZWRhbERhdGEobU1lZGFscy5nZXQobVNlbGVjdGVkSW5kZXgpKTsKICAgICAgICAvLyAgICAgICAgICAgICAgICBUb2FzdEhlbHBlci5zaG93VG9hc3QoZ2V0Q29udGV4dCgpLCBSLnN0cmluZy5kb25lX2xhYmVsKTsKICAgICAgICAvLyAgICAgICAgICAgIH0sIHRocm93YWJsZSAtPiBUb2FzdEhlbHBlci5zaG93VG9hc3QoZ2V0Q29udGV4dCgpLCB0aHJvd2FibGUuZ2V0TWVzc2FnZSgpKSk7CiAgICAgICAgLy99Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtTWVkYWxGcmFnbWVudC5vbkRpc21pc3MobmV3IERpYWxvZ0ludGVyZmFjZSgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIGNhbmNlbCgpIHsKCiAgICAgICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBkaXNtaXNzKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5wdXRMYXlvdXQuc2V0VmlzaWJpbGl0eShWaWV3LlZJU0lCTEUpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgS2V5Qm9hcmRVdGlscy5zaG93S2V5Qm9hcmQobUNvbnRleHQsIGlucHV0RWRpdCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>1196</text>
