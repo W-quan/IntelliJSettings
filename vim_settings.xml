@@ -139,11 +139,11 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="36" column="85" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/MedalFragment.java" timestamp="1600249022675">
-        <mark key="[" line="244" column="57" />
-        <mark key="]" line="244" column="74" />
-        <mark key="." line="244" column="73" />
-        <mark key="^" line="244" column="74" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/MedalFragment.java" timestamp="1600249193378">
+        <mark key="[" line="135" column="22" />
+        <mark key="]" line="135" column="22" />
+        <mark key="." line="135" column="22" />
+        <mark key="^" line="113" column="78" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/activity/MedalEditActivity.java" timestamp="1600154518656">
         <mark key="[" line="85" column="117" />
@@ -296,13 +296,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>i</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
