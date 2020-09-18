@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="period" />
+      <item value="* the initial delay time to wait before emitting the first value of 0L" />
+      <item value="* A functional interface (callback) that returns true or false for the given input value." />
       <item value="* An easy adapter to map static data to views defined in an XML file. You can specify the data * backing the list as an ArrayList of Maps. Each entry in the ArrayList corresponds to one row * in the list. The Maps contain the data for each row. You also specify an XML file that * defines the views used to display the row, and a mapping from keys in the Map to specific * views." />
       <item value="NORMAL" />
       <item value="FOCUS" />
@@ -48,14 +51,11 @@
       <item value="Duration" />
       <item value="curr Duration" />
       <item value="TYPE VERIFIED" />
-      <item value="TYPE NO SUBMITTED" />
-      <item value="TYPE NO" />
-      <item value="ellipsize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="408" />
-        <entry key="ENGLISH" value="409" />
+        <entry key="CHINESE" value="411" />
+        <entry key="ENGLISH" value="412" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
