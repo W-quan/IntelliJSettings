@@ -118,41 +118,11 @@
         <mark key="." line="183" column="18" />
         <mark key="^" line="183" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/adapter/message/MsgFollowViewHolder.java" timestamp="1600414448953">
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="15" column="22" />
-        <mark key="^" line="15" column="22" />
-        <mark key="." line="15" column="30" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/view/LiveRoomView.java" timestamp="1600411601240">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="70" column="33" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/presenter/LiveRoomPresenter.java" timestamp="1600412337557">
-        <mark key="[" line="682" column="0" />
-        <mark key="]" line="682" column="0" />
-        <mark key="^" line="681" column="58" />
-        <mark key="." line="682" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/im/custom/bean/CustomAttachment.java" timestamp="1600412853946">
         <mark key="[" line="303" column="70" />
         <mark key="]" line="302" column="0" />
         <mark key="^" line="302" column="0" />
         <mark key="." line="302" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/adapter/message/MessageTextViewHolder.java" timestamp="1600414428299">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="30" column="21" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/base/AbstractMvpPresenter.java" timestamp="1600410743245">
-        <mark key="'" line="104" column="39" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/MedalFragment.java" timestamp="1600395748260">
-        <mark key="[" line="206" column="0" />
-        <mark key="]" line="206" column="0" />
-        <mark key="." line="206" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_room_msg_follow.xml" timestamp="1600413889492">
         <mark key="[" line="6" column="0" />
@@ -160,19 +130,46 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/d38861c5e1656c5eb1890b1fa149510f38aa5d42/lifecycle-common-2.2.0-sources.jar!/androidx/lifecycle/LifecycleOwner.java" timestamp="1600418758689" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/widget/RoomOwnerView.java" timestamp="1600418512798">
+        <mark key="'" line="309" column="32" />
+        <mark key="[" line="228" column="0" />
+        <mark key="]" line="228" column="69" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wjhd.sdk/remote_service/1.0.46-20200902.075710-1/6a5bf7d2004f42dba1721bad903a0282bbc09923/remote_service-1.0.46-20200902.075710-1-sources.jar!/com/wjhd/im/business/message/constant/MsgTypeEnum.java" timestamp="1600412610690" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wjhd.sdk/remote_service/1.0.46-20200902.075710-1/6a5bf7d2004f42dba1721bad903a0282bbc09923/remote_service-1.0.46-20200902.075710-1-sources.jar!/com/wjhd/im/business/message/entity/IMMessage.java" timestamp="1600417531779">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/item_message_view_text.xml" timestamp="1600416360337">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="17" column="58" />
+        <mark key="^" line="14" column="32" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/adapter/message/MsgFollowViewHolder.java" timestamp="1600419652585">
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="28" />
+        <mark key="." line="20" column="27" />
+        <mark key="^" line="20" column="28" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/presenter/LiveRoomPresenter.java" timestamp="1600418013640">
+        <mark key="[" line="671" column="54" />
+        <mark key="]" line="671" column="55" />
+        <mark key="^" line="671" column="73" />
+        <mark key="." line="671" column="55" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/adapter/message/MessageTextViewHolder.java" timestamp="1600418405219">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="100" column="42" />
+        <mark key="^" line="94" column="40" />
+        <mark key="." line="97" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/fragment/HomePartyRoomFragment.java" timestamp="1600411642199">
         <mark key="[" line="174" column="0" />
         <mark key="]" line="182" column="129" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/widget/RoomOwnerView.java" timestamp="1600410209544">
-        <mark key="'" line="309" column="32" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.19/6b3e317b749ca2eeb0d8a84a0bf656299b5258cf/rxjava-2.2.19-sources.jar!/io/reactivex/functions/Predicate.java" timestamp="1600410644362" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/fragment_medal.xml" timestamp="1600395264007">
-        <mark key="[" line="189" column="28" />
-        <mark key="]" line="192" column="33" />
-        <mark key="^" line="192" column="33" />
-        <mark key="." line="192" column="32" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/adapter/message/MessageViewHolder.java" timestamp="1600414107432">
         <mark key="[" line="23" column="92" />
@@ -185,26 +182,30 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wjhd.sdk/remote_service/1.0.46-20200902.075710-1/6a5bf7d2004f42dba1721bad903a0282bbc09923/remote_service-1.0.46-20200902.075710-1-sources.jar!/com/wjhd/im/business/message/constant/MsgTypeEnum.java" timestamp="1600412610690" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/widget/MessageView.java" timestamp="1600419890756">
+        <mark key="[" line="191" column="38" />
+        <mark key="]" line="191" column="51" />
+        <mark key="." line="191" column="50" />
+        <mark key="^" line="191" column="51" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/025c31bbd3dfd7a83746393b1e051043/jetified-remote_service-1.0.46-20200902.075710-1/jars/classes.jar!/com/wjhd/im/business/message/entity_imp/IMMsgImp.class" timestamp="1600417488187" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/manager/WuJieChatRoomManager.java" timestamp="1600416825566">
+        <mark key="[" line="305" column="0" />
+        <mark key="]" line="307" column="66" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.19/6b3e317b749ca2eeb0d8a84a0bf656299b5258cf/rxjava-2.2.19-sources.jar!/io/reactivex/Observable.java" timestamp="1600411990879" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/item_message_follow.xml" timestamp="1600415322886">
-        <mark key="[" line="15" column="58" />
-        <mark key="]" line="16" column="4" />
-        <mark key="." line="16" column="3" />
-        <mark key="^" line="16" column="4" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/item_message_follow.xml" timestamp="1600418248928">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="^" line="136" column="55" />
+        <mark key="." line="112" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1600411688397">
-        <mark key="'" line="1668" column="26" />
-        <mark key="[" line="1605" column="46" />
-        <mark key="]" line="1605" column="63" />
-        <mark key="^" line="1605" column="63" />
-        <mark key="." line="1605" column="62" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/item_message_view_text.xml" timestamp="1600415593980">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="17" column="58" />
-        <mark key="^" line="14" column="32" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1600419860613">
+        <mark key="'" line="1679" column="26" />
+        <mark key="[" line="449" column="49" />
+        <mark key="]" line="449" column="63" />
+        <mark key="." line="449" column="62" />
+        <mark key="^" line="449" column="63" />
       </file>
     </filemarks>
     <jumps>
@@ -313,13 +314,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxJbWFnZVZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2l2X2F2YXRhciIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iQGRpbWVuL2RwXzI1IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iQGRpbWVuL2RwXzI1IgogICAgICAgIGFuZHJvaWQ6dmlzaWJpbGl0eT0iZ29uZSIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IgogICAgICAgIHRvb2xzOnNyYz0iQG1pcG1hcC9pY19kZWZhdWx0X2hlYWRfdHJhbnNsdWNlbnQiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>avatar</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
@@ -378,34 +379,34 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxJbWFnZVZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2l2X2F2YXRhciIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iQGRpbWVuL2RwXzI1IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iQGRpbWVuL2RwXzI1IgogICAgICAgIGFuZHJvaWQ6dmlzaWJpbGl0eT0iZ29uZSIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IgogICAgICAgIHRvb2xzOnNyYz0iQG1pcG1hcC9pY19kZWZhdWx0X2hlYWRfdHJhbnNsdWNlbnQiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEV2ZW50QnVzLmdldERlZmF1bHQoKS5wb3N0KG5ldyBSb29tQXR0ZW50aW9uRXZlbnQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRZUEVfRk9MTE9XOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2hhdFJvb21NZXNzYWdlLmdldE1zZ1R5cGUoKSA9IE1zZ1R5cGVFbnVtLmN1c3RvbSkKCg==</text>
+        <text encoding="base64">ICAgICAgICBtTWVzc2FnZUFkYXB0ZXIubm90aWZ5RGF0YVNldENoYW5nZWQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maW5kQW55KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBCdXR0ZXJLbmlmZS5iaW5kKHRoaXMsIGl0ZW1WaWV3KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaXNGb2xsb3dlZCkgewogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIH0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBCdXR0ZXJLbmlmZS5iaW5kKHRoaXMsIGl0ZW1WaWV3KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVJvb21Gb2xsb3dPd25lckF0dGFjaG1lbnQuc2V0Rm9sbG93KGlzRm9sbG93ZWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmFuZ2xlPSIwIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1196</text>
