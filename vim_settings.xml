@@ -118,6 +118,12 @@
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/presenter/LiveRoomPresenter.java" timestamp="1600334211041">
         <mark key="[" line="449" column="25" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/im/custom/bean/CustomAttachment.java" timestamp="1600399959395">
+        <mark key="[" line="303" column="70" />
+        <mark key="]" line="302" column="0" />
+        <mark key="^" line="302" column="0" />
+        <mark key="." line="302" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/presenter/AvRoomPresenter.java" timestamp="1600334201920" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/MedalFragment.java" timestamp="1600395748260">
         <mark key="[" line="206" column="0" />
@@ -146,7 +152,6 @@
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/values/strings.xml" timestamp="1600335362974">
         <mark key="[" line="23" column="50" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/dialog_room_close.xml" timestamp="1600326231167" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/dialog_multiple_option.xml" timestamp="1600336416090">
         <mark key="[" line="6" column="49" />
         <mark key="]" line="6" column="50" />
@@ -280,14 +285,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>关注房主</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>else {</text>
+        <text>关注房主</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
