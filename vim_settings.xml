@@ -188,12 +188,12 @@
         <mark key="^" line="134" column="42" />
         <mark key="." line="134" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1600425344044">
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1600481682271">
         <mark key="'" line="1677" column="26" />
-        <mark key="[" line="1634" column="0" />
-        <mark key="]" line="1634" column="0" />
-        <mark key="^" line="1633" column="32" />
-        <mark key="." line="1634" column="0" />
+        <mark key="[" line="582" column="72" />
+        <mark key="]" line="583" column="20" />
+        <mark key="^" line="583" column="20" />
+        <mark key="." line="583" column="19" />
       </file>
       <file name="/fragment.java" timestamp="1600423530791">
         <mark key="[" line="0" column="0" />
@@ -311,7 +311,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUT0RPOiAyMDIwLzkvMTkg5ZCI5bm2ZmVhdHVyZV9tZWRhbOWQjuWIoOmZpCAK</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
@@ -376,7 +376,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBSb29tRm9sbG93T3duZXJBdHRhY2htZW50IGF0dGFjaG1lbnQgPSBuZXcgUm9vbUZvbGxvd093bmVyQXR0YWNobWVudCgpOwoKICAgICAgICBDaGF0Um9vbU1lc3NhZ2UgbWVzc2FnZSA9IENoYXRSb29tTWVzc2FnZUJ1aWxkZXIuY3JlYXRlQ3VzdG9tTWVzc2FnZShyb29tSW5mby5nZXRSb29tSWQoKSwgYXR0YWNobWVudCk7CgogICAgICAgIE1hcDxTdHJpbmcsIFN0cmluZz4gbG9jYWxFeHQgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgbG9jYWxFeHQucHV0KFJvb21RdWV1ZUluZm9GaWVsZC5VU0VSX0lORk8sIEpTT04udG9KU09OU3RyaW5nKHVzZXJJbmZvKSk7CiAgICAgICAgbWVzc2FnZS5zZXRMb2NhbEV4dChsb2NhbEV4dCk7CgogICAgICAgIG1lc3NhZ2Uuc2V0VGV4dCgi5ZCs5LqG6YKj5LmI5LmF77yM5Zac5qyi5bCx5YWz5rOo5oiR5ZCn77yBIik7CgogICAgICAgIG1lc3NhZ2VWaWV3LmFkZE1lc3NhZ2VzKG1lc3NhZ2UpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUT0RPOiAyMDIwLzkvMTkg5ZCI5bm2ZmVhdHVyZV9tZWRhbOWQjuWIoOmZpCAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
