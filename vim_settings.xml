@@ -118,6 +118,7 @@
         <mark key="." line="209" column="0" />
         <mark key="^" line="205" column="57" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/drawable/bg_room_message_text.xml" timestamp="1600497108687" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/im/custom/bean/RoomSendMsgAttachment.java" timestamp="1600485687637">
         <mark key="[" line="8" column="87" />
         <mark key="]" line="8" column="95" />
@@ -136,7 +137,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="8" column="101" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/strings.xml" timestamp="1600421012994" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/adapter/message/MessageGuildSendMsgViewHolder.java" timestamp="1600485398042">
         <mark key="[" line="30" column="43" />
         <mark key="]" line="32" column="0" />
@@ -158,17 +158,23 @@
         <mark key="." line="70" column="12" />
         <mark key="^" line="70" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/presenter/LiveRoomPresenter.java" timestamp="1600487704696">
-        <mark key="[" line="391" column="53" />
-        <mark key="]" line="392" column="20" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/presenter/LiveRoomPresenter.java" timestamp="1600487993658">
+        <mark key="[" line="94" column="62" />
+        <mark key="]" line="94" column="51" />
         <mark key="^" line="392" column="20" />
-        <mark key="." line="392" column="19" />
+        <mark key="." line="94" column="51" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_message_send_msg.xml" timestamp="1600485155959">
-        <mark key="[" line="138" column="43" />
-        <mark key="]" line="137" column="44" />
-        <mark key="^" line="137" column="44" />
-        <mark key="." line="137" column="43" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_message_send_msg.xml" timestamp="1600497147567">
+        <mark key="[" line="124" column="30" />
+        <mark key="]" line="124" column="33" />
+        <mark key="^" line="124" column="33" />
+        <mark key="." line="124" column="32" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_room_message_line.xml" timestamp="1600497129125">
+        <mark key="[" line="8" column="48" />
+        <mark key="]" line="11" column="39" />
+        <mark key="^" line="11" column="39" />
+        <mark key="." line="11" column="38" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/adapter/message/MessageViewHolder.java" timestamp="1600422948034">
         <mark key="[" line="23" column="0" />
@@ -176,17 +182,16 @@
         <mark key="^" line="23" column="92" />
         <mark key="." line="23" column="91" />
       </file>
-      <file name="/Dummy.txt" timestamp="1600484562578">
+      <file name="/Dummy.txt" timestamp="1600497063528">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/layout_room_attention.xml" timestamp="1600420952716" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/item_message_follow.xml" timestamp="1600484573136">
-        <mark key="[" line="134" column="41" />
-        <mark key="]" line="134" column="42" />
-        <mark key="^" line="134" column="42" />
-        <mark key="." line="134" column="42" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/item_message_follow.xml" timestamp="1600497171928">
+        <mark key="[" line="23" column="54" />
+        <mark key="]" line="23" column="58" />
+        <mark key="^" line="23" column="58" />
+        <mark key="." line="23" column="57" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/event/RoomShowInputEvent.java" timestamp="1600485304894">
         <mark key="[" line="2" column="0" />
@@ -316,14 +321,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>dp_1</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>else {</text>
+        <text>dp_1</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
