@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="two" />
       <item value="period" />
       <item value="* the initial delay time to wait before emitting the first value of 0L" />
       <item value="* A functional interface (callback) that returns true or false for the given input value." />
@@ -50,12 +51,11 @@
       <item value="Home Foot Print Fragment" />
       <item value="Duration" />
       <item value="curr Duration" />
-      <item value="TYPE VERIFIED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="411" />
-        <entry key="ENGLISH" value="412" />
+        <entry key="CHINESE" value="412" />
+        <entry key="ENGLISH" value="413" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
