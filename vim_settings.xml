@@ -118,11 +118,11 @@
         <mark key="^" line="48" column="27" />
         <mark key="." line="48" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/fragment_user_info.xml" timestamp="1600757498128">
-        <mark key="[" line="150" column="25" />
-        <mark key="]" line="26" column="37" />
-        <mark key="." line="26" column="36" />
-        <mark key="^" line="26" column="37" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/fragment_user_info.xml" timestamp="1600757539730">
+        <mark key="[" line="158" column="34" />
+        <mark key="]" line="158" column="46" />
+        <mark key="." line="158" column="45" />
+        <mark key="^" line="158" column="46" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/IUserModel.java" timestamp="1600744632314">
         <mark key="'" line="23" column="17" />
@@ -149,11 +149,11 @@
         <mark key="]" line="196" column="36" />
         <mark key="." line="196" column="36" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/UserInfoFragment.java" timestamp="1600756281259">
-        <mark key="[" line="80" column="37" />
-        <mark key="]" line="80" column="44" />
-        <mark key="." line="80" column="43" />
-        <mark key="^" line="80" column="44" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/UserInfoFragment.java" timestamp="1600757587483">
+        <mark key="[" line="98" column="62" />
+        <mark key="]" line="100" column="78" />
+        <mark key="." line="100" column="77" />
+        <mark key="^" line="100" column="78" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_user_center_relationship_card.xml" timestamp="1600681962513">
         <mark key="[" line="8" column="39" />
@@ -310,14 +310,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9vbHM6dmkK</text>
+      <register name="&quot;" type="4">
+        <text>RelationshipDay</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>RelationshipDay</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
