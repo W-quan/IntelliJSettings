@@ -112,12 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/presenter/MineFragmentPresenter.java" timestamp="1600739924669">
-        <mark key="[" line="48" column="27" />
-        <mark key="]" line="48" column="27" />
-        <mark key="^" line="48" column="27" />
-        <mark key="." line="48" column="26" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/manager/AvRoomDataManager.java" timestamp="1600769988916">
         <mark key="[" line="168" column="0" />
         <mark key="]" line="168" column="0" />
@@ -133,6 +127,18 @@
         <mark key="^" line="6" column="37" />
         <mark key="." line="6" column="36" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/bean/LoverInfo.java" timestamp="1600746879449">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+        <mark key="." line="11" column="15" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/presenter/LiveRoomPresenter.java" timestamp="1600771018878">
+        <mark key="[" line="671" column="14" />
+        <mark key="]" line="671" column="17" />
+        <mark key="." line="671" column="16" />
+        <mark key="^" line="671" column="17" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_mine_entry.xml" timestamp="1600740197821">
         <mark key="[" line="58" column="48" />
         <mark key="]" line="59" column="32" />
@@ -147,25 +153,12 @@
         <mark key="]" line="196" column="36" />
         <mark key="." line="196" column="36" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/bean/LoverInfo.java" timestamp="1600746879449">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="16" />
-        <mark key="^" line="11" column="16" />
-        <mark key="." line="11" column="15" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/app/VoiceApplication.java" timestamp="1600772501279">
+        <mark key="[" line="1143" column="0" />
+        <mark key="]" line="1143" column="67" />
+        <mark key="." line="1143" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/nim_uikit/src/com/netease/nim/uikit/common/util/sys/TimeUtil.java" timestamp="1600745606721" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/view/IMineFragmentView.java" timestamp="1600685007665">
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="11" column="28" />
-        <mark key="^" line="11" column="28" />
-        <mark key="." line="11" column="27" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/presenter/LiveRoomPresenter.java" timestamp="1600771018878">
-        <mark key="[" line="671" column="14" />
-        <mark key="]" line="671" column="17" />
-        <mark key="." line="671" column="16" />
-        <mark key="^" line="671" column="17" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendAdapter.java" timestamp="1600770381452">
         <mark key="[" line="93" column="96" />
         <mark key="]" line="93" column="100" />
@@ -173,10 +166,15 @@
         <mark key="^" line="93" column="100" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/utils/net/RxHelper.java" timestamp="1600762895869" />
-      <file name="/Dummy.txt" timestamp="1600769991352">
+      <file name="/Dummy.txt" timestamp="1600772346337">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_audio_player/java/com/wujie/xchat_android_core/audio/db/model/AudioInfoDbModel.java" timestamp="1600772466224">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1600767975171">
         <mark key="'" line="1690" column="26" />
@@ -297,7 +295,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBFdmVudEJ1cy5nZXREZWZhdWx0KCkucG9zdChuZXcgQXVkaW9EYXRhU2V0Q2hhbmdlZEV2ZW50KCkpOwo=</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
@@ -361,38 +359,38 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="4">
-        <text>昵称</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRXZlbnRCdXMuZ2V0RGVmYXVsdCgpLnBvc3QobmV3IEF1ZGlvRGF0YVNldENoYW5nZWRFdmVudCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBFdmVudEJ1cy5nZXREZWZhdWx0KCkucG9zdChuZXcgQXVkaW9EYXRhU2V0Q2hhbmdlZEV2ZW50KCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEV2ZW50QnVzLmdldERlZmF1bHQoKS5wb3N0KG5ldyBBdWRpb0RhdGFTZXRDaGFuZ2VkRXZlbnQoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5piv5ZCm5Zyo5oi/6Ze05YaF6YCB6L+H56S8CiAgICAgKi8KICAgIEBTZXR0ZXIKICAgIEBHZXR0ZXIKICAgIHByaXZhdGUgYm9vbGVhbiBoYWRTZW5kR2lmdEluUm9vbTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzRW50ZXJSb29tT3ZlckZpdmVNaW4oKSkgewo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICog5piv5ZCm5Zyo5oi/6Ze05YaF6YCB6L+H56S8CiAgICAgKi8KICAgIEBTZXR0ZXIKICAgIEBHZXR0ZXIKICAgIHByaXZhdGUgYm9vbGVhbiBoYWRTZW5kR2lmdEluUm9vbTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQXZSb29tRGF0YU1hbmFnZXIuZ2V0KCkuc2V0SGFkU2VuZEdpZnRJblJvb20odHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzRW50ZXJSb29tT3ZlckZpdmVNaW4oKSkgewo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQXZSb29tRGF0YU1hbmFnZXIuZ2V0KCkuc2V0SGFkU2VuZEdpZnRJblJvb20oZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQXZSb29tRGF0YU1hbmFnZXIuZ2V0KCkuc2V0SGFkU2VuZEdpZnRJblJvb20odHJ1ZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1196</text>
