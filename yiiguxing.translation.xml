@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="statistic" />
       <item value="ancestors" />
       <item value="* @param detectMoves True if DiffUtil should try to detect moved items, false otherwise." />
       <item value="need experience for upgrade medal" />
@@ -50,12 +51,11 @@
       <item value="PREVIEW" />
       <item value="* The RecyclerView is currently being dragged by outside input such as user touch input." />
       <item value="* The RecyclerView is currently animating to a final position while not under * outside control." />
-      <item value="SCROLL STATE SETTLING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="416" />
-        <entry key="ENGLISH" value="417" />
+        <entry key="CHINESE" value="417" />
+        <entry key="ENGLISH" value="418" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
