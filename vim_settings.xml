@@ -112,24 +112,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/car/bean/CarInfo.java" timestamp="1601189433781">
-        <mark key="[" line="25" column="56" />
-        <mark key="]" line="25" column="59" />
-        <mark key="." line="25" column="58" />
-        <mark key="^" line="25" column="59" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/adapter/message/MessageTextViewHolder.java" timestamp="1601282352801">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/giftvalue/helper/GiftValueMrg.java" timestamp="1601176722176" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/activity_decoration_store.xml" timestamp="1601192740016">
         <mark key="[" line="264" column="0" />
         <mark key="]" line="264" column="0" />
         <mark key="^" line="274" column="38" />
         <mark key="." line="264" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/MedalFragment.java" timestamp="1601172966021">
-        <mark key="[" line="136" column="91" />
-        <mark key="]" line="136" column="104" />
-        <mark key="." line="136" column="103" />
-        <mark key="^" line="136" column="104" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/DecorationStoreActivity.java" timestamp="1601276035800">
         <mark key="[" line="417" column="38" />
@@ -153,11 +145,17 @@
         <mark key="^" line="81" column="73" />
         <mark key="." line="83" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/fragment_medal.xml" timestamp="1601281434134">
+        <mark key="[" line="172" column="26" />
+        <mark key="]" line="172" column="33" />
+        <mark key="." line="172" column="32" />
+        <mark key="^" line="172" column="33" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/fragment/HeadWearFragment.java" timestamp="1601198232586">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="65" column="102" />
       </file>
-      <file name="/Dummy.txt" timestamp="1601276430345">
+      <file name="/Dummy.txt" timestamp="1601281436432">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -169,6 +167,12 @@
         <mark key="." line="17" column="66" />
       </file>
       <file name="/gradle.properties" timestamp="1601260074947" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/item_message_view_text.xml" timestamp="1601282383238">
+        <mark key="[" line="69" column="26" />
+        <mark key="]" line="69" column="33" />
+        <mark key="^" line="69" column="33" />
+        <mark key="." line="69" column="32" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="313" column="25" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/diff_src_erban/java/com/yizhuan/xchat_android_core/UriProvider.java" />
@@ -276,13 +280,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHZTZW5kLnNldFZpc2liaWxpdHkoVmlldy5WSVNJQkxFKTsK</text>
+        <text encoding="base64">ICAgIEBCaW5kVmlldyhSLmlkLml2X2NoYXJtX2xldmVsKQogICAgSW1hZ2VWaWV3IGNoYXJtTGV2ZWxWaWV3Owo=</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>android</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
@@ -344,34 +348,34 @@
         <text encoding="base64">ICAgICAgICAgICAgdHZTZW5kLnNldFZpc2liaWxpdHkoVmlldy5WSVNJQkxFKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHZTZW5kLnNldFZpc2liaWxpdHkoVmlldy5WSVNJQkxFKTsK</text>
+        <text encoding="base64">ICAgIEBCaW5kVmlldyhSLmlkLml2X2NoYXJtX2xldmVsKQogICAgSW1hZ2VWaWV3IGNoYXJtTGV2ZWxWaWV3Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>#android.enableSeparateAnnotationProcessing=true</text>
+        <text encoding="base64">ICAgIDxJbWFnZVZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2l2X2NoYXJtX2xldmVsIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJAZGltZW4vZHBfMjciCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJAZGltZW4vZHBfMTEiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IkBkaW1lbi9kcF80IgogICAgICAgIGFuZHJvaWQ6dmlzaWJpbGl0eT0iZ29uZSIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0iQCtpZC90dl9uaWNrIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b1N0YXJ0T2Y9IkAraWQvdl9tZWRhbCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b0VuZE9mPSJAK2lkL2l2X3VzZXJfbGV2ZWwiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9IkAraWQvdHZfbmljayIKICAgICAgICB0b29sczpzcmM9IkBkcmF3YWJsZS9pY19jaGFybV9sZXZlbCIKICAgICAgICB0b29sczp2aXNpYmlsaXR5PSJnb25lIiAvPgoK</text>
       </register>
       <register name="3" type="2">
-        <text>#android.enableSeparateAnnotationProcessing=true</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2dvbmVNYXJnaW5FbmQ9IkBkaW1lbi9kcF8xMCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2dvbmVNYXJnaW5TdGFydD0iQGRpbWVuL2RwXzQiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IkBkaW1lbi9kcF8xNiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHZCdXkuc2V0VmlzaWJpbGl0eShWaWV3LlZJU0lCTEUpOwogICAgICAgICAgICB0dkdvU2VuZC5zZXRWaXNpYmlsaXR5KFZpZXcuVklTSUJMRSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHZTZW5kLnNldFZpc2liaWxpdHkoVmlldy5WSVNJQkxFKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBFdmVudEJ1cy5nZXREZWZhdWx0KCkucG9zdCgpOwo=</text>
+        <text>#android.enableSeparateAnnotationProcessing=true</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text>#android.enableSeparateAnnotationProcessing=true</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEV2ZW50QnVzLmdldERlZmF1bHQoKS5wb3N0KG5ldyBTaG93Q2FyUHJpY2VFdmVudCgpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRDYXJJbmZvKGJ1eUNhckluZm8pKTsK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>1196</text>
