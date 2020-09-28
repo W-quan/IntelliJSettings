@@ -131,11 +131,11 @@
         <mark key="." line="136" column="103" />
         <mark key="^" line="136" column="104" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/DecorationStoreActivity.java" timestamp="1601200346526">
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/DecorationStoreActivity.java" timestamp="1601276035800">
         <mark key="[" line="423" column="38" />
-        <mark key="]" line="423" column="42" />
-        <mark key="." line="423" column="41" />
-        <mark key="^" line="423" column="42" />
+        <mark key="]" line="423" column="45" />
+        <mark key="." line="423" column="44" />
+        <mark key="^" line="423" column="45" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/gradle.properties" timestamp="1601260267080">
         <mark key="[" line="32" column="0" />
@@ -157,7 +157,7 @@
         <mark key="[" line="64" column="0" />
         <mark key="]" line="65" column="102" />
       </file>
-      <file name="/Dummy.txt" timestamp="1601201264278">
+      <file name="/Dummy.txt" timestamp="1601276430345">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -276,7 +276,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>#android.enableSeparateAnnotationProcessing=true</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHZTZW5kLnNldFZpc2liaWxpdHkoVmlldy5WSVNJQkxFKTsK</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
@@ -344,7 +344,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdHZTZW5kLnNldFZpc2liaWxpdHkoVmlldy5WSVNJQkxFKTsK</text>
       </register>
       <register name="1" type="2">
-        <text>#android.enableSeparateAnnotationProcessing=true</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHZTZW5kLnNldFZpc2liaWxpdHkoVmlldy5WSVNJQkxFKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -353,25 +353,25 @@
         <text>#android.enableSeparateAnnotationProcessing=true</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text>#android.enableSeparateAnnotationProcessing=true</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHZCdXkuc2V0VmlzaWJpbGl0eShWaWV3LlZJU0lCTEUpOwogICAgICAgICAgICB0dkdvU2VuZC5zZXRWaXNpYmlsaXR5KFZpZXcuVklTSUJMRSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBFdmVudEJ1cy5nZXREZWZhdWx0KCkucG9zdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHZCdXkuc2V0VmlzaWJpbGl0eShWaWV3LlZJU0lCTEUpOwogICAgICAgICAgICB0dkdvU2VuZC5zZXRWaXNpYmlsaXR5KFZpZXcuVklTSUJMRSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBFdmVudEJ1cy5nZXREZWZhdWx0KCkucG9zdCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEV2ZW50QnVzLmdldERlZmF1bHQoKS5wb3N0KG5ldyBTaG93Q2FyUHJpY2VFdmVudCgpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRDYXJJbmZvKGJ1eUNhckluZm8pKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEV2ZW50QnVzLmdldERlZmF1bHQoKS5wb3N0KG5ldyBTaG93Q2FyUHJpY2VFdmVudCgpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRDYXJJbmZvKGJ1eUNhckluZm8pKTsK</text>
       </register>
       <register name=":" type="4">
         <text>1196</text>
