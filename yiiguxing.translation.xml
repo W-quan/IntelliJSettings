@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Designates global scope for an xml element." />
       <item value="* &lt;p class='note'&gt;The SharedPreferences.Editor interface * isn't expected to be implemented directly. However, if you * previously did implement it and are now getting errors * about missing &lt;code&gt;apply()&lt;/code&gt;, you can simply call * {@link #commit} from &lt;code&gt;apply()&lt;/code&gt;. */" />
       <item value="* &lt;p&gt;As {@link SharedPreferences} instances are singletons within * a process, it's safe to replace any instance of {@link #commit} with * {@link #apply} if you were already ignoring the return value. *" />
       <item value="* {@link SharedPreferences} does a regular {@link #commit} * while a {@link #apply} is still outstanding, the * {@link #commit} will block until all async commits are * completed as well as the commit itself." />
@@ -50,12 +51,11 @@
       <item value="resume" />
       <item value="pauseing Music" />
       <item value="pauseing" />
-      <item value="去应援" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="425" />
-        <entry key="ENGLISH" value="426" />
+        <entry key="CHINESE" value="426" />
+        <entry key="ENGLISH" value="427" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
