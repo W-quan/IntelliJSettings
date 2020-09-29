@@ -149,12 +149,6 @@
         <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/content/SharedPreferences.java" timestamp="1601352264409" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/DecorationStoreActivity.java" timestamp="1601276035800">
-        <mark key="[" line="417" column="38" />
-        <mark key="]" line="417" column="45" />
-        <mark key="." line="417" column="44" />
-        <mark key="^" line="417" column="45" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/adapter/UserGiftAdapter.java" timestamp="1601287124871" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/bean/GiftWallInfo.java" timestamp="1601289694447">
         <mark key="[" line="35" column="26" />
@@ -189,6 +183,11 @@
         <mark key="[" line="513" column="53" />
         <mark key="]" line="513" column="54" />
         <mark key="." line="513" column="54" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/utils/SharedPreferenceUtils.java" timestamp="1601352295971">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1601288883598">
         <mark key="[" line="0" column="0" />
