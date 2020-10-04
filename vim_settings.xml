@@ -130,12 +130,7 @@
         <mark key="^" line="67" column="36" />
         <mark key="." line="67" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/gradle.properties" timestamp="1601374449381">
-        <mark key="[" line="23" column="19" />
-        <mark key="]" line="23" column="19" />
-        <mark key="." line="23" column="19" />
-        <mark key="^" line="23" column="19" />
-      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/gradle.properties" timestamp="1601374449381" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/strings.xml" timestamp="1601454007728">
         <mark key="[" line="165" column="48" />
         <mark key="]" line="165" column="58" />
@@ -147,6 +142,12 @@
         <mark key="]" line="47" column="47" />
         <mark key="^" line="47" column="48" />
         <mark key="." line="47" column="47" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/AndroidManifest.xml" timestamp="1601477661406">
+        <mark key="[" line="81" column="34" />
+        <mark key="]" line="82" column="31" />
+        <mark key="^" line="82" column="31" />
+        <mark key="." line="82" column="30" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/build.gradle" timestamp="1601375076660" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_message_send_msg.xml" timestamp="1601476030641" />
@@ -185,11 +186,6 @@
         <mark key="]" line="19" column="37" />
         <mark key="^" line="19" column="37" />
         <mark key="." line="19" column="38" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/utils/SharedPreferenceUtils.java" timestamp="1601352295971">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/NewHomeFragment.java" timestamp="1601365730500">
         <mark key="[" line="347" column="0" />
