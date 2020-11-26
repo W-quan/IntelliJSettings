@@ -129,12 +129,6 @@
         <mark key="." line="17" column="36" />
         <mark key="^" line="17" column="37" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/presenter/MyCarPresenter.java" timestamp="1606359245671">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="56" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/HeadWearShopAdapter.java" timestamp="1606375622371">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -163,6 +157,9 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="84" column="87" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/gradle.properties" timestamp="1606383903097">
+        <mark key="'" line="16" column="20" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/CarShopAdapter.java" timestamp="1606375547659">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -187,6 +184,11 @@
         <mark key="^" line="37" column="55" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/build.gradle" timestamp="1606383957930">
+        <mark key="[" line="15" column="54" />
+        <mark key="]" line="15" column="55" />
+        <mark key="." line="15" column="55" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/DecorationStoreMoreActivity.java" timestamp="1606381340648">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
@@ -198,19 +200,17 @@
         <mark key="^" line="32" column="29" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/viewmodel/CarShopVm.java" timestamp="1606359082161">
-        <mark key="[" line="25" column="67" />
-        <mark key="]" line="25" column="67" />
-        <mark key="." line="25" column="67" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/gradle/wrapper/gradle-wrapper.properties" timestamp="1606383925224">
+        <mark key="[" line="5" column="69" />
+        <mark key="]" line="5" column="71" />
+        <mark key="." line="5" column="70" />
+        <mark key="^" line="5" column="71" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/presenter/CarPresenter.java" timestamp="1606359263801">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="^" line="43" column="38" />
         <mark key="." line="59" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1606359168914">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/MyDecorationActivity.java" timestamp="1606359365234">
         <mark key="'" line="167" column="21" />
@@ -221,7 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="679" column="4" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" />
       <jump line="23" column="22" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/PhotoAdapter.java" />
       <jump line="747" column="42" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" />
       <jump line="761" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" />
@@ -321,6 +320,7 @@
       <jump line="995" column="10" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/model/RoomBaseModel.java" />
       <jump line="233" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/NewHomeFragment.java" />
       <jump line="166" column="21" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/MyDecorationActivity.java" />
+      <jump line="16" column="20" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/gradle.properties" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
