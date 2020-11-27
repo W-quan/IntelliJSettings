@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="came" />
       <item value="load Headwear List" />
       <item value="List" />
       <item value="prod Type" />
@@ -50,12 +51,11 @@
       <item value="tl tab space equal" />
       <item value="财富" />
       <item value="BERSTYLE" />
-      <item value="NUMBERSTYLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="434" />
-        <entry key="ENGLISH" value="435" />
+        <entry key="CHINESE" value="435" />
+        <entry key="ENGLISH" value="436" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
