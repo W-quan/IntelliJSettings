@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="There is no this decoration type." />
       <item value="Active" />
       <item value="Head" />
       <item value="came" />
@@ -50,12 +51,11 @@
       <item value="collided" />
       <item value="Consider setting the experimental feature flag android.enableSeparateAnnotationProcessing=true in the gradle.properties file to run annotation processing in a separate task and make compilation incremental." />
       <item value="separate" />
-      <item value="tl tab space equal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="437" />
-        <entry key="ENGLISH" value="438" />
+        <entry key="CHINESE" value="438" />
+        <entry key="ENGLISH" value="439" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
