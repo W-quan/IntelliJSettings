@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Returns an optional array of private data, used by the UI system for * some bitmaps. Not intended to be called by applications." />
       <item value="anchor" />
       <item value="There is no this decoration type." />
       <item value="Active" />
@@ -50,12 +51,11 @@
       <item value="FOREST" />
       <item value="plant" />
       <item value="collided" />
-      <item value="Consider setting the experimental feature flag android.enableSeparateAnnotationProcessing=true in the gradle.properties file to run annotation processing in a separate task and make compilation incremental." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="439" />
-        <entry key="ENGLISH" value="440" />
+        <entry key="CHINESE" value="440" />
+        <entry key="ENGLISH" value="441" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
