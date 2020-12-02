@@ -114,10 +114,10 @@
     <filemarks>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/base/BaseFragment.java" timestamp="1606789507679" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/Constants.java" timestamp="1606817454329">
-        <mark key="[" line="120" column="40" />
-        <mark key="]" line="120" column="40" />
-        <mark key="^" line="120" column="36" />
-        <mark key="." line="120" column="40" />
+        <mark key="[" line="119" column="40" />
+        <mark key="]" line="119" column="40" />
+        <mark key="^" line="119" column="36" />
+        <mark key="." line="119" column="40" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/dialog/StoreItemPreviewDialog.java" timestamp="1606818496295">
         <mark key="[" line="132" column="9" />
@@ -174,7 +174,7 @@
         <mark key="^" line="90" column="100" />
         <mark key="." line="90" column="99" />
       </file>
-      <file name="/Dummy.txt" timestamp="1606808009487">
+      <file name="/Dummy.txt" timestamp="1606821613510">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
