@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bounds" />
+      <item value="* Same as lineTo, but the coordinates are considered relative to the last * point on this contour. If there is no previous point, then a moveTo(0,0) * is inserted automatically." />
+      <item value="counter-clockwise" />
+      <item value="counter" />
+      <item value="clockwise" />
+      <item value="The direction to wind the circle's contour" />
       <item value="* Returns an optional array of private data, used by the UI system for * some bitmaps. Not intended to be called by applications." />
       <item value="anchor" />
       <item value="There is no this decoration type." />
@@ -45,17 +51,11 @@
       <item value="* The binding for TasksRepository is on its own module so that we can replace it easily in tests." />
       <item value="switch Map" />
       <item value="* Identifies injectable constructors, methods, and fields. May apply to static * as well as instance members. An injectable member may have any access * modifier (private, package-private, protected, public). Constructors are * injected first, followed by fields, and then methods. Fields and methods * in superclasses are injected before those in subclasses. Ordering of * injection among fields and among methods in the same class is not specified." />
-      <item value="Inject" />
-      <item value="* Instructs the Kotlin compiler to generate overloads for this function that substitute default parameter values." />
-      <item value="descendant" />
-      <item value="FOREST" />
-      <item value="plant" />
-      <item value="collided" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="440" />
-        <entry key="ENGLISH" value="441" />
+        <entry key="CHINESE" value="446" />
+        <entry key="ENGLISH" value="447" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
