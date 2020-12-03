@@ -149,17 +149,16 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_my_dress_label_state.xml" timestamp="1606980986730">
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_my_dress_label_state.xml" timestamp="1606981736076">
         <mark key="[" line="23" column="47" />
         <mark key="]" line="23" column="48" />
         <mark key="." line="23" column="48" />
         <mark key="^" line="23" column="48" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_my_head_wear.xml" timestamp="1606980995363">
-        <mark key="[" line="4" column="37" />
-        <mark key="]" line="4" column="38" />
-        <mark key="." line="4" column="38" />
-        <mark key="^" line="3" column="38" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_my_head_wear.xml" timestamp="1606982066339">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1606977152625">
         <mark key="[" line="0" column="0" />
@@ -312,14 +311,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/installv1.gradle'
-apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/bintrayv1.gradle'</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdGF0aW9uPSI0NSIK</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>%</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
@@ -381,35 +379,35 @@ apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/bintrayv1.
         <text encoding="base64">ICAgICAgICAgICAgPGl0ZW0+CiAgICAgICAgICAgICAgICA8c2hhcGU+CiAgICAgICAgICAgICAgICAgICAgPHNvbGlkIGFuZHJvaWQ6Y29sb3I9IkBjb2xvci93aGl0ZSIgLz4KICAgICAgICAgICAgICAgICAgICA8Y29ybmVycyBhbmRyb2lkOnJhZGl1cz0iNWRwIiAvPgogICAgICAgICAgICAgICAgPC9zaGFwZT4KICAgICAgICAgICAgPC9pdGVtPgo=</text>
       </register>
       <register name="1" type="2">
-        <text>apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/installv1.gradle'
-apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/bintrayv1.gradle'</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdGF0aW9uPSI0NSIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzaXplIGFuZHJvaWQ6d2lkdGg9IjIwMCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmhlaWdodD0iQGRpbWVuL2RwXzEwMCIvPgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRyYW5zbGF0aW9uWD0iMTBkcCIKICAgICAgICBhbmRyb2lkOnRyYW5zbGF0aW9uWT0iLTEwZHAiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzaXplCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp3aWR0aD0iQGRpbWVuL2RwXzUwIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aGVpZ2h0PSJAZGltZW4vZHBfNTAiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRyYW5zbGF0aW9uWT0iMTBkcCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzaXplIGFuZHJvaWQ6d2lkdGg9IkBkaW1lbi9kcF8xMDAiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpoZWlnaHQ9IkBkaW1lbi9kcF8xMDAiLz4K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRyYW5zZm9ybVBpdm90WT0iNTBkcCIKICAgICAgICBhbmRyb2lkOnRyYW5zbGF0aW9uWT0iMTAwIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzaXplIGFuZHJvaWQ6d2lkdGg9IkBkaW1lbi9kcF8xMDAiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpoZWlnaHQ9IkBkaW1lbi9kcF8xMDAiLz4K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJvdGF0aW9uPSI0NSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmcm9tRGVncmVlcz0iNDUiCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRyYW5zbGF0aW9uWD0iMTAwMCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8bGF5ZXItbGlzdAo=</text>
+        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvYmdfbXlfZHJlc3NfbGFiZWxfc3RhdGUiCiAgICAgICAgLz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvYmdfbXlfZHJlc3NfbGFiZWxfc3RhdGUiCiAgICAgICAgLz4KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/installv1.gradle'
+apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/bintrayv1.gradle'</text>
       </register>
       <register name=":" type="4">
         <text>1196</text>
