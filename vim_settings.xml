@@ -128,11 +128,14 @@
         <mark key="^" line="16" column="55" />
         <mark key="." line="16" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/drawable/bg_car_item_shop.xml" timestamp="1606962708598">
-        <mark key="[" line="5" column="41" />
-        <mark key="]" line="5" column="46" />
-        <mark key="^" line="5" column="46" />
-        <mark key="." line="5" column="45" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/dimen.xml" timestamp="1606980969121">
+        <mark key="'" line="499" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/drawable/bg_car_item_shop.xml" timestamp="1606980590081">
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="11" column="61" />
+        <mark key="." line="11" column="60" />
+        <mark key="^" line="11" column="61" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/bean/UserDress.java" timestamp="1606908327515">
         <mark key="[" line="16" column="22" />
@@ -146,17 +149,17 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_my_dress_label_state.xml" timestamp="1606978337955">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="8" column="12" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/drawable/bg_my_dress_label_state.xml" timestamp="1606980986730">
+        <mark key="[" line="23" column="47" />
+        <mark key="]" line="23" column="48" />
+        <mark key="." line="23" column="48" />
+        <mark key="^" line="23" column="48" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_my_head_wear.xml" timestamp="1606963843501">
-        <mark key="[" line="9" column="44" />
-        <mark key="]" line="11" column="10" />
-        <mark key="." line="11" column="9" />
-        <mark key="^" line="11" column="10" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_my_head_wear.xml" timestamp="1606980995363">
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="38" />
+        <mark key="." line="4" column="38" />
+        <mark key="^" line="3" column="38" />
       </file>
       <file name="/Dummy.txt" timestamp="1606977152625">
         <mark key="[" line="0" column="0" />
@@ -185,6 +188,11 @@
         <mark key="^" line="55" column="59" />
         <mark key="." line="55" column="58" />
       </file>
+      <file name="$USER_HOME$/Downloads/SlantedTextView-master/android-slanted-textview/build.gradle" timestamp="1606981030909">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/model/DressModel.java" timestamp="1606908360066">
         <mark key="[" line="61" column="43" />
         <mark key="]" line="61" column="43" />
@@ -199,8 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="12" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/adapter/UserGiftAdapter.java" />
-      <jump line="1350" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/GridLayoutManager.java" />
       <jump line="79" column="28" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/bean/UserInfo.java" />
       <jump line="106" column="4" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/ormatch/android/asmr/bean/UserInfo.java" />
       <jump line="5" column="25" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/colors.xml" />
@@ -299,18 +305,21 @@
       <jump line="405" column="32" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendAdapter.java" />
       <jump line="6" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/bean/Dress.java" />
       <jump line="125" column="17" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/colors.xml" />
+      <jump line="268" column="17" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/dimen.xml" />
+      <jump line="499" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/dimen.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmcm9tRGVncmVlcz0iNDUiCg==</text>
+        <text>apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/installv1.gradle'
+apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/bintrayv1.gradle'</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
@@ -369,37 +378,38 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBJU3RvcmVJdGVtVHlwZS5UWVBFX0NIQVRfQlVCQkxFOgogICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGl0ZW0+CiAgICAgICAgICAgICAgICA8c2hhcGU+CiAgICAgICAgICAgICAgICAgICAgPHNvbGlkIGFuZHJvaWQ6Y29sb3I9IkBjb2xvci93aGl0ZSIgLz4KICAgICAgICAgICAgICAgICAgICA8Y29ybmVycyBhbmRyb2lkOnJhZGl1cz0iNWRwIiAvPgogICAgICAgICAgICAgICAgPC9zaGFwZT4KICAgICAgICAgICAgPC9pdGVtPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmcm9tRGVncmVlcz0iNDUiCg==</text>
+        <text>apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/installv1.gradle'
+apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/bintrayv1.gradle'</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmcm9tRGVncmVlcz0iNDUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzaXplIGFuZHJvaWQ6d2lkdGg9IjIwMCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmhlaWdodD0iQGRpbWVuL2RwXzEwMCIvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0b0RlZ3JlZXM9IjQ1Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzaXplCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp3aWR0aD0iQGRpbWVuL2RwXzUwIgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aGVpZ2h0PSJAZGltZW4vZHBfNTAiIC8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzaXplIGFuZHJvaWQ6d2lkdGg9IkBkaW1lbi9kcF8xMDAiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpoZWlnaHQ9IkBkaW1lbi9kcF8xMDAiLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvc29saWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzaXplIGFuZHJvaWQ6d2lkdGg9IkBkaW1lbi9kcF8xMDAiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpoZWlnaHQ9IkBkaW1lbi9kcF8xMDAiLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzdHJva2UKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmNvbG9yPSIjZmZmZmZmIiAvPgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmcm9tRGVncmVlcz0iNDUiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmcm9tRGVncmVlcz0iLTQ1Igo=</text>
+        <text encoding="base64">ICAgICAgICA8bGF5ZXItbGlzdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmcm9tRGVncmVlcz0iLTQ1Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmcm9tRGVncmVlcz0iLTQ1Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1196</text>
