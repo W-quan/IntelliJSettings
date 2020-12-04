@@ -215,11 +215,11 @@
         <mark key="." line="121" column="7" />
         <mark key="^" line="121" column="7" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/MyDecorationActivity.java" timestamp="1607052138949">
-        <mark key="[" line="102" column="12" />
-        <mark key="]" line="104" column="0" />
-        <mark key="^" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/MyDecorationActivity.java" timestamp="1607052347353">
+        <mark key="[" line="106" column="24" />
+        <mark key="]" line="106" column="24" />
+        <mark key="^" line="103" column="36" />
+        <mark key="." line="106" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -327,14 +327,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
@@ -393,7 +393,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZCA9PSAw5qCH6K+G5LiN5L2/55So5aS06aWwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8SGVhZFdlYXJJbmZvPiBoZWFkd2VhclZvcyA9IHVzZXJEcmVzcy5nZXRIZWFkd2VhclZvcygpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
