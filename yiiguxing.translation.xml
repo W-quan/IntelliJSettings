@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="primitive" />
+      <item value="meaningless" />
       <item value="// nothing to do (Note - still had to inc generation, since may have ongoing work)" />
       <item value="* A generic ordered collection of elements that supports adding and removing elements. * @param E the type of elements contained in the list. The mutable list is invariant on its element type." />
       <item value="bounds" />
@@ -49,13 +51,11 @@
       <item value="Multiple Option Dialog" />
       <item value="last Switch Time" />
       <item value="Barrage" />
-      <item value="Qualifier" />
-      <item value="* The binding for TasksRepository is on its own module so that we can replace it easily in tests." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="448" />
-        <entry key="ENGLISH" value="449" />
+        <entry key="CHINESE" value="450" />
+        <entry key="ENGLISH" value="451" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
