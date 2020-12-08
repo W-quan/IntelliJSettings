@@ -154,12 +154,6 @@
         <mark key="^" line="20" column="49" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/bean/BaseDress.java" timestamp="1607417658565">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="43" column="7" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/EnterEffectAdapter.java" timestamp="1607418534783">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -181,17 +175,23 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="28" column="53" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/widgets/EnterEffectView.java" timestamp="1607418177078">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="56" column="59" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/presenter/ChatBubblesPresenter.java" timestamp="1607423077342">
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="34" column="24" />
+        <mark key="^" line="34" column="24" />
+        <mark key="." line="34" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/fragment/MicHaloFragment.java" timestamp="1607422746063">
-        <mark key="[" line="69" column="16" />
-        <mark key="]" line="69" column="20" />
-        <mark key="^" line="69" column="20" />
-        <mark key="." line="69" column="19" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/fragment/MicHaloFragment.java" timestamp="1607423101388">
+        <mark key="[" line="25" column="69" />
+        <mark key="]" line="25" column="85" />
+        <mark key="^" line="25" column="85" />
+        <mark key="." line="25" column="84" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/DecorationStoreActivity.java" timestamp="1607423062401">
+        <mark key="[" line="162" column="41" />
+        <mark key="]" line="163" column="37" />
+        <mark key="^" line="163" column="37" />
+        <mark key="." line="163" column="36" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/dialog/StoreChatBubblePreviewDialog.java" timestamp="1607420835779">
         <mark key="[" line="50" column="44" />
@@ -199,11 +199,11 @@
         <mark key="." line="50" column="44" />
         <mark key="^" line="50" column="41" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_mic_halo.xml" timestamp="1607422899010">
-        <mark key="[" line="37" column="5" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="38" column="0" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_mic_halo.xml" timestamp="1607423003336">
+        <mark key="[" line="37" column="52" />
+        <mark key="]" line="51" column="45" />
+        <mark key="." line="51" column="44" />
+        <mark key="^" line="51" column="45" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/CarShopAdapter.java" timestamp="1607418512693">
         <mark key="[" line="38" column="0" />
@@ -216,11 +216,11 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/MicHaloAdapter.java" timestamp="1607422685600">
-        <mark key="[" line="16" column="64" />
-        <mark key="]" line="16" column="72" />
-        <mark key="^" line="16" column="72" />
-        <mark key="." line="16" column="71" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/MicHaloAdapter.java" timestamp="1607423023411">
+        <mark key="[" line="27" column="68" />
+        <mark key="]" line="27" column="95" />
+        <mark key="^" line="27" column="95" />
+        <mark key="." line="27" column="94" />
       </file>
       <file name="/fragment.java" timestamp="1607422608340">
         <mark key="[" line="0" column="0" />
@@ -331,14 +331,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2ltZ19iZ19hbGxfc2VydmljZV9naWZ0Igo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>android</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
