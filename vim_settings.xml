@@ -118,11 +118,11 @@
         <mark key="^" line="49" column="41" />
         <mark key="." line="49" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/StoreAdapter.java" timestamp="1607417527502">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="34" column="9" />
-        <mark key="^" line="41" column="75" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/presenter/MicHaloPresenter.java" timestamp="1607422584896">
+        <mark key="[" line="29" column="48" />
+        <mark key="]" line="29" column="52" />
+        <mark key="^" line="29" column="52" />
+        <mark key="." line="29" column="51" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/HeadWearShopAdapter.java" timestamp="1607418491165">
         <mark key="[" line="35" column="0" />
@@ -130,11 +130,11 @@
         <mark key="^" line="37" column="38" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_chat_bubbles.xml" timestamp="1607417920105">
-        <mark key="[" line="17" column="41" />
-        <mark key="]" line="17" column="61" />
-        <mark key="." line="17" column="60" />
-        <mark key="^" line="17" column="61" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_chat_bubbles.xml" timestamp="1607422827676">
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="33" column="13" />
+        <mark key="." line="33" column="12" />
+        <mark key="^" line="33" column="13" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/dialog_store_chat_bubble_preview.xml" timestamp="1607420742881">
         <mark key="[" line="32" column="40" />
@@ -172,23 +172,8 @@
         <mark key="." line="45" column="69" />
         <mark key="^" line="45" column="70" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/model/DressModel.java" timestamp="1607416540001">
-        <mark key="[" line="52" column="15" />
-        <mark key="]" line="53" column="52" />
-        <mark key="." line="53" column="51" />
-        <mark key="^" line="53" column="52" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/dialog/BaseDialog.java" timestamp="1607416621600">
-        <mark key="[" line="17" column="49" />
-        <mark key="]" line="17" column="49" />
-        <mark key="^" line="17" column="49" />
-        <mark key="." line="17" column="48" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/model/IDressModel.java" timestamp="1607416428952">
-        <mark key="[" line="23" column="36" />
-        <mark key="]" line="23" column="61" />
-        <mark key="^" line="23" column="61" />
-        <mark key="." line="23" column="60" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/view/IChatBubblesView.java" timestamp="1607422470245">
+        <mark key="[" line="10" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/ChatBubblesAdapter.java" timestamp="1607418283708">
         <mark key="[" line="29" column="0" />
@@ -196,23 +181,29 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="28" column="53" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/presenter/ChatBubblesPresenter.java" timestamp="1607417309869">
-        <mark key="[" line="33" column="66" />
-        <mark key="]" line="34" column="24" />
-        <mark key="^" line="34" column="24" />
-        <mark key="." line="34" column="23" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/widgets/EnterEffectView.java" timestamp="1607418177078">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="^" line="56" column="59" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/fragment/MicHaloFragment.java" timestamp="1607422746063">
+        <mark key="[" line="69" column="16" />
+        <mark key="]" line="69" column="20" />
+        <mark key="^" line="69" column="20" />
+        <mark key="." line="69" column="19" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/dialog/StoreChatBubblePreviewDialog.java" timestamp="1607420835779">
         <mark key="[" line="50" column="44" />
         <mark key="]" line="50" column="44" />
         <mark key="." line="50" column="44" />
         <mark key="^" line="50" column="41" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_mic_halo.xml" timestamp="1607422899010">
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/CarShopAdapter.java" timestamp="1607418512693">
         <mark key="[" line="38" column="0" />
@@ -225,7 +216,13 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1607420146573">
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/MicHaloAdapter.java" timestamp="1607422685600">
+        <mark key="[" line="16" column="64" />
+        <mark key="]" line="16" column="72" />
+        <mark key="^" line="16" column="72" />
+        <mark key="." line="16" column="71" />
+      </file>
+      <file name="/fragment.java" timestamp="1607422608340">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -335,13 +332,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2ltZ19iZ19hbGxfc2VydmljZV9naWZ0Igo=</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>android</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
@@ -403,7 +400,7 @@
         <text encoding="base64">ICAgICAgICBpZiAoZW50aXR5LmdldEl0ZW1UeXBlKCkgIT0gSVN0b3JlSXRlbVR5cGUuVFlQRV9USVRMRSkgewogICAgICAgICAgICBjb252ZXJ0SXRlbSh2LCBlbnRpdHkpOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2ltZ19iZ19hbGxfc2VydmljZV9naWZ0Igo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -412,25 +409,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtRWZmZWN0Vmlldy5zZXROb2JsZShkcmVzcy5nZXRQaWNFbnRlcigpLCBkcmVzcy5nZXRQaWNVcmwoKSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgY29udmVydChATm90TnVsbCBCYXNlVmlld0hvbGRlciB2LCBNdWx0aUl0ZW1FbnRpdHkgZW50aXR5KSB7CiAgICAgICAgc3VwZXIuY29udmVydCh2LCBlbnRpdHkpOwoKICAgICAgICBpZiAoZW50aXR5LmdldEl0ZW1UeXBlKCkgPT0gSVN0b3JlSXRlbVR5cGUuVFlQRV9QUkVUVFlfTk8pIHsKICAgICAgICAgICAgY29udmVydFByZXR0eU5vKHYsIChQcmV0dHlObykgZW50aXR5KTsKICAgICAgICB9CiAgICB9Cgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBtRWZmZWN0Vmlldy5zZXROb2JsZShkcmVzcy5nZXRQaWNFbnRlcigpLCBkcmVzcy5nZXRQaWNVcmwoKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgY29udmVydChATm90TnVsbCBCYXNlVmlld0hvbGRlciB2LCBNdWx0aUl0ZW1FbnRpdHkgZW50aXR5KSB7CiAgICAgICAgc3VwZXIuY29udmVydCh2LCBlbnRpdHkpOwoKICAgICAgICBpZiAoZW50aXR5LmdldEl0ZW1UeXBlKCkgPT0gSVN0b3JlSXRlbVR5cGUuVFlQRV9QUkVUVFlfTk8pIHsKICAgICAgICAgICAgY29udmVydFByZXR0eU5vKHYsIChQcmV0dHlObykgZW50aXR5KTsKICAgICAgICB9CiAgICB9Cgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgY29udmVydChATm90TnVsbCBCYXNlVmlld0hvbGRlciB2LCBNdWx0aUl0ZW1FbnRpdHkgZW50aXR5KSB7CiAgICAgICAgc3VwZXIuY29udmVydCh2LCBlbnRpdHkpOwoKICAgICAgICBpZiAoZW50aXR5LmdldEl0ZW1UeXBlKCkgPT0gSVN0b3JlSXRlbVR5cGUuVFlQRV9FTlRFUl9FRkZFQ1RTKSB7CiAgICAgICAgICAgIGNvbnZlcnRFbnRlckVmZmVjdCh2LCAoQmFzZURyZXNzKSBlbnRpdHkpOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgY29udmVydChATm90TnVsbCBCYXNlVmlld0hvbGRlciBoZWxwZXIsIE11bHRpSXRlbUVudGl0eSBpdGVtKSB7CiAgICAgICAgc3VwZXIuY29udmVydChoZWxwZXIsIGl0ZW0pOwoKICAgICAgICBpZiAoaXRlbS5nZXRJdGVtVHlwZSgpID09IElTdG9yZUl0ZW1UeXBlLlRZUEVfQ0FSKSB7CiAgICAgICAgICAgIGNvbnZlcnRDYXIoaGVscGVyLCAoQ2FySW5mbykgaXRlbSk7CiAgICAgICAgfQogICAgfQoK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgY29udmVydChATm90TnVsbCBCYXNlVmlld0hvbGRlciB2LCBNdWx0aUl0ZW1FbnRpdHkgZW50aXR5KSB7CiAgICAgICAgc3VwZXIuY29udmVydCh2LCBlbnRpdHkpOwoKICAgICAgICBpZiAoZW50aXR5LmdldEl0ZW1UeXBlKCkgPT0gSVN0b3JlSXRlbVR5cGUuVFlQRV9FTlRFUl9FRkZFQ1RTKSB7CiAgICAgICAgICAgIGNvbnZlcnRFbnRlckVmZmVjdCh2LCAoQmFzZURyZXNzKSBlbnRpdHkpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgY29udmVydChATm90TnVsbCBCYXNlVmlld0hvbGRlciBoZWxwZXIsIE11bHRpSXRlbUVudGl0eSBlbnRpdHkpIHsKICAgICAgICBzdXBlci5jb252ZXJ0KGhlbHBlciwgZW50aXR5KTsKCiAgICAgICAgaWYgKGVudGl0eS5nZXRJdGVtVHlwZSgpID09IElTdG9yZUl0ZW1UeXBlLlRZUEVfSEVBRF9XRUFSKSB7CiAgICAgICAgICAgIGNvbnZlcnRIZWFkV2VhcihoZWxwZXIsIChIZWFkV2VhckluZm8pIGVudGl0eSk7CiAgICAgICAgfQogICAgfQoK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgY29udmVydChATm90TnVsbCBCYXNlVmlld0hvbGRlciBoZWxwZXIsIE11bHRpSXRlbUVudGl0eSBpdGVtKSB7CiAgICAgICAgc3VwZXIuY29udmVydChoZWxwZXIsIGl0ZW0pOwoKICAgICAgICBpZiAoaXRlbS5nZXRJdGVtVHlwZSgpID09IElTdG9yZUl0ZW1UeXBlLlRZUEVfQ0FSKSB7CiAgICAgICAgICAgIGNvbnZlcnRDYXIoaGVscGVyLCAoQ2FySW5mbykgaXRlbSk7CiAgICAgICAgfQogICAgfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgY29udmVydChATm90TnVsbCBCYXNlVmlld0hvbGRlciBoZWxwZXIsIE11bHRpSXRlbUVudGl0eSBlbnRpdHkpIHsKICAgICAgICBzdXBlci5jb252ZXJ0KGhlbHBlciwgZW50aXR5KTsKCiAgICAgICAgaWYgKGVudGl0eS5nZXRJdGVtVHlwZSgpID09IElTdG9yZUl0ZW1UeXBlLlRZUEVfSEVBRF9XRUFSKSB7CiAgICAgICAgICAgIGNvbnZlcnRIZWFkV2VhcihoZWxwZXIsIChIZWFkV2VhckluZm8pIGVudGl0eSk7CiAgICAgICAgfQogICAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text>1196</text>
