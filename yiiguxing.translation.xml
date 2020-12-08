@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// Dynamic width, so we have no choice but to request a new // view layout with a new text layout." />
+      <item value="// We lose: the height has changed and we have a dynamic height. // Request a new view layout using our new text layout." />
+      <item value="* Check whether entirely new text requires a new view layout * or merely a new text layout." />
       <item value="forever" />
       <item value="unknown" />
       <item value="Bubble" />
@@ -48,14 +51,11 @@
       <item value="还差30经验升级到LV 2" />
       <item value="integrity" />
       <item value="在一起23天" />
-      <item value="two" />
-      <item value="period" />
-      <item value="* the initial delay time to wait before emitting the first value of 0L" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="456" />
-        <entry key="ENGLISH" value="457" />
+        <entry key="CHINESE" value="459" />
+        <entry key="ENGLISH" value="460" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
