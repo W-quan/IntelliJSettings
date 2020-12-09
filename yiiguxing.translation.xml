@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="REVERSE" />
       <item value="// Dynamic width, so we have no choice but to request a new // view layout with a new text layout." />
       <item value="// We lose: the height has changed and we have a dynamic height. // Request a new view layout using our new text layout." />
       <item value="* Check whether entirely new text requires a new view layout * or merely a new text layout." />
@@ -50,12 +51,11 @@
       <item value="need experience for upgrade medal" />
       <item value="还差30经验升级到LV 2" />
       <item value="integrity" />
-      <item value="在一起23天" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="459" />
-        <entry key="ENGLISH" value="460" />
+        <entry key="CHINESE" value="460" />
+        <entry key="ENGLISH" value="461" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
