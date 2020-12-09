@@ -112,7 +112,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1607479593589">
+      <file name="/Dummy.txt" timestamp="1607482259496">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -129,17 +129,16 @@
         <mark key="^" line="29" column="52" />
         <mark key="." line="29" column="51" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/EnterEffectAdapter.java" timestamp="1607418534783">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="21" column="53" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/presenter/EnterEffectsPresenter.java" timestamp="1607426470398">
         <mark key="[" line="22" column="61" />
         <mark key="]" line="22" column="74" />
         <mark key="^" line="22" column="74" />
         <mark key="." line="22" column="73" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/dialog/StoreMicHaloPreviewDialog.java" timestamp="1607482253566">
+        <mark key="[" line="33" column="52" />
+        <mark key="]" line="33" column="45" />
+        <mark key="." line="33" column="45" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_chat_bubbles.xml" timestamp="1607422827676">
         <mark key="[" line="33" column="8" />
@@ -192,12 +191,6 @@
         <mark key="^" line="25" column="85" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/PrettyNoAdapter.java" timestamp="1607418553031">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="20" column="49" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/DecorationStoreActivity.java" timestamp="1607423062401">
         <mark key="[" line="162" column="41" />
         <mark key="]" line="163" column="37" />
@@ -216,8 +209,14 @@
         <mark key="." line="31" column="43" />
         <mark key="^" line="39" column="40" />
       </file>
-      <file name="/fragment.java" timestamp="1607422608340">
+      <file name="/fragment.java" timestamp="1607482225449">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/dialog_store_preview_mic_halo.xml" timestamp="1607482460629">
+        <mark key="[" line="24" column="45" />
+        <mark key="]" line="25" column="45" />
+        <mark key="." line="25" column="44" />
+        <mark key="^" line="25" column="45" />
       </file>
     </filemarks>
     <jumps>
@@ -325,14 +324,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="8">
-        <text>chat_bubble_</text>
+      <register name="&quot;" type="4">
+        <text>v_bg_top</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>v_bg_top</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
@@ -393,35 +392,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoZW50aXR5LmdldEl0ZW1UeXBlKCkgIT0gSVN0b3JlSXRlbVR5cGUuVFlQRV9USVRMRSkgewogICAgICAgICAgICBjb252ZXJ0SXRlbSh2LCBlbnRpdHkpOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
       </register>
-      <register name="1" type="8">
-        <text>chat_bubble_</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJ0dl9wcmV2aWV3Igo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2ltZ19iZ19hbGxfc2VydmljZV9naWZ0Igo=</text>
+        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9InR2X3ByZXZpZXciCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0iQGlkL3ZfYmdfdG9wIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJAaWQvdl9iZ190b3AiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJAaWQvdl9iZ190b3AiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJoZWxsb34iCiAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci93aGl0ZSIKICAgICAgICBhbmRyb2lkOnRleHRTaXplPSJAZGltZW4vc3BfMjAiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9IkBpZC9pdl9idWJibGUiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9IkBpZC9pdl9idWJibGUiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJAaWQvaXZfYnViYmxlIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJAaWQvaXZfYnViYmxlIiAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtRWZmZWN0Vmlldy5zZXROb2JsZShkcmVzcy5nZXRQaWNFbnRlcigpLCBkcmVzcy5nZXRQaWNVcmwoKSk7Cg==</text>
+        <text encoding="base64">ICAgIDxWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC92X2JnX3RvcCIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iQGRpbWVuL2RwXzE5NCIKICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9iZ19kaWFsb2dfc3RvcmVfcHJldmlld19jaGF0X2J1YmJsZV90b3AiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIgLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgY29udmVydChATm90TnVsbCBCYXNlVmlld0hvbGRlciB2LCBNdWx0aUl0ZW1FbnRpdHkgZW50aXR5KSB7CiAgICAgICAgc3VwZXIuY29udmVydCh2LCBlbnRpdHkpOwoKICAgICAgICBpZiAoZW50aXR5LmdldEl0ZW1UeXBlKCkgPT0gSVN0b3JlSXRlbVR5cGUuVFlQRV9QUkVUVFlfTk8pIHsKICAgICAgICAgICAgY29udmVydFByZXR0eU5vKHYsIChQcmV0dHlObykgZW50aXR5KTsKICAgICAgICB9CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogMTIvOC8yMCAgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="8">
+        <text>chat_bubble_</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgY29udmVydChATm90TnVsbCBCYXNlVmlld0hvbGRlciB2LCBNdWx0aUl0ZW1FbnRpdHkgZW50aXR5KSB7CiAgICAgICAgc3VwZXIuY29udmVydCh2LCBlbnRpdHkpOwoKICAgICAgICBpZiAoZW50aXR5LmdldEl0ZW1UeXBlKCkgPT0gSVN0b3JlSXRlbVR5cGUuVFlQRV9FTlRFUl9FRkZFQ1RTKSB7CiAgICAgICAgICAgIGNvbnZlcnRFbnRlckVmZmVjdCh2LCAoQmFzZURyZXNzKSBlbnRpdHkpOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2ltZ19iZ19hbGxfc2VydmljZV9naWZ0Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgY29udmVydChATm90TnVsbCBCYXNlVmlld0hvbGRlciBoZWxwZXIsIE11bHRpSXRlbUVudGl0eSBpdGVtKSB7CiAgICAgICAgc3VwZXIuY29udmVydChoZWxwZXIsIGl0ZW0pOwoKICAgICAgICBpZiAoaXRlbS5nZXRJdGVtVHlwZSgpID09IElTdG9yZUl0ZW1UeXBlLlRZUEVfQ0FSKSB7CiAgICAgICAgICAgIGNvbnZlcnRDYXIoaGVscGVyLCAoQ2FySW5mbykgaXRlbSk7CiAgICAgICAgfQogICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1196</text>
