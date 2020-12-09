@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Draw marquee text as ellipsize end while inactive instead of with the fade. * (Useful for devices where the fade can be expensive if overdone)" />
+      <item value="* This value used used with the {@link #setRepeatCount(int)} property to repeat * the animation indefinitely." />
       <item value="REVERSE" />
       <item value="// Dynamic width, so we have no choice but to request a new // view layout with a new text layout." />
       <item value="// We lose: the height has changed and we have a dynamic height. // Request a new view layout using our new text layout." />
@@ -49,13 +51,11 @@
       <item value="ancestors" />
       <item value="* @param detectMoves True if DiffUtil should try to detect moved items, false otherwise." />
       <item value="need experience for upgrade medal" />
-      <item value="还差30经验升级到LV 2" />
-      <item value="integrity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="460" />
-        <entry key="ENGLISH" value="461" />
+        <entry key="CHINESE" value="462" />
+        <entry key="ENGLISH" value="463" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
