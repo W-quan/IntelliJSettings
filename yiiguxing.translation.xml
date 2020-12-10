@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="time Ms" />
       <item value="tv desc" />
       <item value="空空如也" />
       <item value="repeat" />
@@ -50,7 +51,6 @@
       <item value="* &lt;p&gt;Note that when two editors are modifying preferences at the same * time, the last one to call apply wins." />
       <item value="single" />
       <item value="RELATIONSHIP" />
-      <item value="statistic" />
     </histories>
     <option name="languageScores">
       <map>
