@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="UNSHELVE" />
       <item value="time Ms" />
       <item value="tv desc" />
       <item value="空空如也" />
@@ -50,12 +51,11 @@
       <item value="* &lt;p&gt;Unlike {@link #commit}, which writes its preferences out * to persistent storage synchronously, {@link #apply} * commits its changes to the in-memory" />
       <item value="* &lt;p&gt;Note that when two editors are modifying preferences at the same * time, the last one to call apply wins." />
       <item value="single" />
-      <item value="RELATIONSHIP" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="464" />
-        <entry key="ENGLISH" value="464" />
+        <entry key="ENGLISH" value="465" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
