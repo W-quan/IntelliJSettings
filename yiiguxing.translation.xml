@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="opt" />
       <item value="Sweep angle (in degrees) measured clockwise" />
       <item value="* @param oval The bounds of oval defining shape and size of the arc" />
       <item value="* Append the specified arc to the path as a new contour. If the start of * the path is different from the path's current last point, then an * automatic lineTo() is added to connect the current contour to the * start of the arc. However, if the path is empty, then we call moveTo() * with the first point of the arc." />
@@ -50,12 +51,11 @@
       <item value="is Present" />
       <item value="Barrier" />
       <item value="Valid" />
-      <item value="* Designates global scope for an xml element." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="471" />
-        <entry key="ENGLISH" value="472" />
+        <entry key="CHINESE" value="472" />
+        <entry key="ENGLISH" value="473" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
