@@ -127,6 +127,12 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/java/com/ormatch/android/asmr/widget/ShadowFrameLayout.java" timestamp="1607668961514">
+        <mark key="[" line="76" column="9" />
+        <mark key="]" line="76" column="28" />
+        <mark key="^" line="76" column="28" />
+        <mark key="." line="76" column="27" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_my_chat_bubbles.xml" timestamp="1607654210096">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -157,12 +163,7 @@
         <mark key="^" line="18" column="53" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/mine/MyEnterEffectAdapter.java" timestamp="1607593087956">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="37" column="64" />
-        <mark key="." line="23" column="0" />
-      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/graphics/Path.java" timestamp="1607668839436" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/event/UseDressEvent.java" timestamp="1607594435222">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="7" column="21" />
