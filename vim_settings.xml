@@ -134,17 +134,17 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="84" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/layout_store_my_dress_buy_bar.xml" timestamp="1607657426238">
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="50" />
+        <mark key="." line="1" column="49" />
+        <mark key="^" line="1" column="50" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/view/IMyDecorationView.java" timestamp="1607599550119">
         <mark key="[" line="18" column="9" />
         <mark key="]" line="19" column="0" />
         <mark key="^" line="18" column="53" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/utils/TimeUtils.java" timestamp="1607583714905">
-        <mark key="[" line="487" column="0" />
-        <mark key="]" line="487" column="0" />
-        <mark key="." line="487" column="0" />
-        <mark key="^" line="487" column="18" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/mine/MyEnterEffectAdapter.java" timestamp="1607593087956">
         <mark key="[" line="23" column="0" />
@@ -316,14 +316,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblN0YXJ0PSJAZGltZW4vZHBfNSIKICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iQGRpbWVuL2RwXzEwIgogICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luRW5kPSJAZGltZW4vZHBfNSIK</text>
+      <register name="&quot;" type="4">
+        <text>android</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>android</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
