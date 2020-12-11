@@ -112,7 +112,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1607654281141">
+      <file name="/Dummy.txt" timestamp="1607656012750">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -121,10 +121,6 @@
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/EnterEffectAdapter.java" timestamp="1607570559750">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="27" column="73" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_my_chat_bubbles.xml" timestamp="1607654210096">
         <mark key="[" line="7" column="0" />
