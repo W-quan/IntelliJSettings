@@ -112,11 +112,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1608002463563">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/car/bean/CarInfo.java" timestamp="1608016269204" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_car_shop.xml" timestamp="1608004515170">
         <mark key="[" line="16" column="33" />
         <mark key="]" line="20" column="52" />
         <mark key="^" line="20" column="52" />
         <mark key="." line="20" column="51" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/presenter/MyDecorationPresenter.java" timestamp="1608000753186">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="^" line="104" column="20" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1607764388481">
         <mark key="[" line="0" column="0" />
@@ -137,6 +149,12 @@
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/mine/MyEnterEffectAdapter.java" timestamp="1607763376444">
+        <mark key="[" line="33" column="12" />
+        <mark key="]" line="33" column="21" />
+        <mark key="." line="33" column="20" />
+        <mark key="^" line="33" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/headwear/bean/HeadWearInfo.java" timestamp="1607767346734">
         <mark key="[" line="99" column="0" />
@@ -163,25 +181,6 @@
         <mark key="]" line="156" column="31" />
         <mark key="." line="156" column="30" />
         <mark key="^" line="156" column="31" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1608002463563">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/presenter/MyDecorationPresenter.java" timestamp="1608000753186">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="^" line="104" column="20" />
-        <mark key="." line="107" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/noble/NobleUtil.java" timestamp="1608000142159" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.2.5/8c4af5c3dd89946395f419fca724e155926b1882/fragment-1.2.5-sources.jar!/androidx/fragment/app/Fragment.java" timestamp="1608003417355" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/mine/MyEnterEffectAdapter.java" timestamp="1607763376444">
-        <mark key="[" line="33" column="12" />
-        <mark key="]" line="33" column="21" />
-        <mark key="." line="33" column="20" />
-        <mark key="^" line="33" column="21" />
       </file>
       <file name="/fragment.java" timestamp="1607999446935">
         <mark key="[" line="0" column="0" />
