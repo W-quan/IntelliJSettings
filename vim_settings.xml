@@ -112,31 +112,46 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1607768642757">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/ViewGroup.java" timestamp="1607762248089">
+        <mark key="'" line="7668" column="53" />
+      </file>
       <file name="/a.dummy" timestamp="1607764388481">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.CymChad/BaseRecyclerViewAdapterHelper/3.0.4/390120ce29d463702a3f7070e46fa290ee09a6f6/BaseRecyclerViewAdapterHelper-3.0.4-sources.jar!/com/chad/library/adapter/base/listener/OnItemChildClickListener.java" timestamp="1607759535250" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/presenter/MyDecorationMorePresenter.java" timestamp="1607761064264">
         <mark key="[" line="35" column="45" />
         <mark key="]" line="35" column="46" />
         <mark key="." line="35" column="46" />
         <mark key="^" line="64" column="83" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/presenter/MyCarPresenter.java" timestamp="1607756668552" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java" timestamp="1607762379206" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/activity_my_decoration_more.xml" timestamp="1607766200595">
         <mark key="[" line="24" column="33" />
         <mark key="]" line="26" column="33" />
         <mark key="." line="26" column="32" />
         <mark key="^" line="26" column="33" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/LinearLayoutManager.java" timestamp="1607761765283" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/headwear/bean/HeadWearInfo.java" timestamp="1607767346734">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/mine/MyEnterEffectAdapter.java" timestamp="1607763376444">
+        <mark key="[" line="33" column="12" />
+        <mark key="]" line="33" column="21" />
+        <mark key="." line="33" column="20" />
+        <mark key="^" line="33" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/presenter/MyHeadWearPresenter.java" timestamp="1607756573799" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_my_enter_effect.xml" timestamp="1607762244019">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="9" />
+        <mark key="." line="8" column="8" />
+        <mark key="^" line="8" column="9" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/headwear/bean/HeadWearInfo.java" timestamp="1607767346734">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/MyDecorationMoreActivity.java" timestamp="1607768632926">
         <mark key="'" line="120" column="57" />
         <mark key="i" line="127" column="18" />
@@ -151,38 +166,11 @@
         <mark key="^" line="118" column="8" />
         <mark key="." line="118" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1607768642757">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/ViewGroup.java" timestamp="1607762248089">
-        <mark key="'" line="7668" column="53" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/mine/MyEnterEffectAdapter.java" timestamp="1607763376444">
-        <mark key="[" line="33" column="12" />
-        <mark key="]" line="33" column="21" />
-        <mark key="." line="33" column="20" />
-        <mark key="^" line="33" column="21" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/mine/MyDecorationAdapter.java" timestamp="1607767474469">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="101" column="15" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_my_enter_effect.xml" timestamp="1607762244019">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="9" />
-        <mark key="." line="8" column="8" />
-        <mark key="^" line="8" column="9" />
-      </file>
       <file name="/fragment.java" timestamp="1607764388487">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/MyDecorationActivity.java" timestamp="1607768010983">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="76" />
-        <mark key="^" line="133" column="47" />
-        <mark key="." line="371" column="0" />
+        <mark key="." line="283" column="0" />
       </file>
     </filemarks>
     <jumps>
