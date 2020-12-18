@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SHELF" />
       <item value="seek" />
       <item value="* If the View occupies multiple spans, span with the minimum index is returned." />
       <item value="If" />
@@ -50,12 +51,11 @@
       <item value="came" />
       <item value="load Headwear List" />
       <item value="List" />
-      <item value="prod Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="477" />
-        <entry key="ENGLISH" value="478" />
+        <entry key="CHINESE" value="478" />
+        <entry key="ENGLISH" value="479" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
