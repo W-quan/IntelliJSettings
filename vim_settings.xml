@@ -160,11 +160,11 @@
         <mark key="^" line="46" column="52" />
         <mark key="." line="46" column="51" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/dialog/StoreItemPreviewDialog.java" timestamp="1608202018678">
-        <mark key="[" line="136" column="75" />
-        <mark key="]" line="136" column="72" />
-        <mark key="." line="136" column="71" />
-        <mark key="^" line="136" column="72" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/dialog/StoreItemPreviewDialog.java" timestamp="1608258071619">
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
+        <mark key="^" line="148" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/medal/MedalInfo.java" timestamp="1608176488347">
         <mark key="[" line="7" column="23" />
@@ -315,13 +315,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5jb21wb3NlKFJ4SGVscGVyLmhhbmRsZVN0cmluZ0RhdGEoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWxzZSA=</text>
+        <text>opt</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
@@ -383,34 +383,34 @@
         <text encoding="base64">ICAgICAgICAgICAgc3R2LnNldFZpc2liaWxpdHkoVmlldy5HT05FKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5jb21wb3NlKFJ4SGVscGVyLmhhbmRsZVN0cmluZ0RhdGEoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5jb21wb3NlKCkK</text>
+        <text encoding="base64">ICAgICAgICBDb21tb25XZWJWaWV3QWN0aXZpdHkuc3RhcnQoZ2V0Q29udGV4dCgpLCBtRGVjb3JhdGlvbi5nZXRSZWRpcmVjdExpbmsoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R2LnNldFZpc2liaWxpdHkoVmlldy5WSVNJQkxFKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGVhZHdlYXJNb2RlbC5nZXQoKS5idXlIZWFkV2VhclYyKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R2LnNldFZpc2liaWxpdHkoVmlldy5WSVNJQkxFKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R2LnNldFZpc2liaWxpdHkoVmlldy5WSVNJQkxFKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R2LnNldFZpc2liaWxpdHkoVmlldy5WSVNJQkxFKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5jb21wb3NlKFJ4SGVscGVyLmhhbmRsZVN0cmluZ0RhdGEoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R2LnNldFZpc2liaWxpdHkoVmlldy5WSVNJQkxFKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5jb21wb3NlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R2LnNldFZpc2liaWxpdHkoVmlldy5HT05FKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3R2LnNldFZpc2liaWxpdHkoVmlldy5WSVNJQkxFKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3R2LnNldFZpc2liaWxpdHkoVmlldy5WSVNJQkxFKTsK</text>
       </register>
       <register name=":" type="4">
         <text>1196</text>
