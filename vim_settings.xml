@@ -131,10 +131,7 @@
         <mark key="." line="7" column="49" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/dialog/StoreItemPreviewDialog.java" timestamp="1608274907433">
-        <mark key="[" line="99" column="32" />
-        <mark key="]" line="99" column="32" />
-        <mark key="." line="99" column="32" />
-        <mark key="^" line="147" column="12" />
+        <mark key="^" line="162" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/presenter/PrettyNoPresenter.java" timestamp="1608277850974">
         <mark key="[" line="54" column="45" />
@@ -167,12 +164,6 @@
         <mark key="^" line="14" column="26" />
         <mark key="." line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/MyDecorationMoreActivity.java" timestamp="1608286313195">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="^" line="92" column="4" />
-        <mark key="." line="93" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/utils/net/RxHelper.java" timestamp="1608277562075">
         <mark key="[" line="108" column="29" />
         <mark key="]" line="109" column="28" />
@@ -182,8 +173,8 @@
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/activity_my_decoration.xml" timestamp="1608286032412">
         <mark key="[" line="4" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1608284333545">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1608287536384">
+        <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
@@ -204,12 +195,6 @@
         <mark key="^" line="126" column="52" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.CymChad/BaseRecyclerViewAdapterHelper/3.0.1/9d535db159cb80cd0adb34a0f724f25435064389/BaseRecyclerViewAdapterHelper-3.0.1-sources.jar!/com/chad/library/adapter/base/module/LoadMoreModule.kt" timestamp="1608275695091" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/headwear/HeadwearModel.java" timestamp="1608280943204">
-        <mark key="[" line="51" column="103" />
-        <mark key="]" line="51" column="104" />
-        <mark key="^" line="51" column="104" />
-        <mark key="." line="51" column="103" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/MyDecorationActivity.java" timestamp="1608286308667">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="88" column="0" />
@@ -320,14 +305,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIGludCBnZXRTdGF0dXNCYXJUeXBlKCkgewogICAgICAgIHJldHVybiBTVEFUVVNfQkFSX1RZUEVfVFJBTl9MQVlPVVRfREFSS19GT05UOwogICAgfQoK</text>
+      <register name="&quot;" type="4">
+        <text>修复我的装扮 更多 贵族头饰不显示 价格/购买/续费</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>PAGE_START</text>
+        <text>修复我的装扮 更多 贵族头饰不显示 价格/购买/续费</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
