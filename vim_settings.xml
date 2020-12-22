@@ -118,18 +118,6 @@
         <mark key="^" line="98" column="16" />
         <mark key="." line="98" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_team_list.xml" timestamp="1608619967949">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="38" column="46" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_car_shop.xml" timestamp="1608607544409">
-        <mark key="[" line="9" column="42" />
-        <mark key="]" line="10" column="44" />
-        <mark key="^" line="10" column="44" />
-        <mark key="." line="10" column="43" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/activity_bills_gift.xml" timestamp="1608619411485">
         <mark key="[" line="51" column="35" />
         <mark key="]" line="51" column="47" />
@@ -141,13 +129,17 @@
         <mark key="]" line="470" column="24" />
         <mark key="." line="470" column="24" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/build/generated/data_binding_base_class_source_out/ermengDebug/out/com/ormatch/android/asmr/databinding/FragmentRadishRecordBinding.java" timestamp="1608620898498" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/fragment/CarShopFragment.java" timestamp="1608608866048">
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/DecorationStoreActivity.java" timestamp="1608630728583">
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="^" line="151" column="96" />
+        <mark key="." line="152" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/build/generated/data_binding_base_class_source_out/ermengDebug/out/com/ormatch/android/asmr/databinding/FragmentRadishRecordBinding.java" timestamp="1608620898498" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_labour_union/res/layout/dialog_secret_code.xml" timestamp="1608619935178" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/statistic/protocol/StatisticsProtocol.java" timestamp="1608630533007">
+        <mark key="'" line="8" column="13" />
+      </file>
       <file name="/Dummy.txt" timestamp="1608621899665">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -252,7 +244,6 @@
       <jump line="21" column="51" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/dialog_bottom_gift.xml" />
       <jump line="35" column="16" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/dialog_bottom_gift.xml" />
       <jump line="28" column="13" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/statistic/StatisticManager.java" />
-      <jump line="8" column="22" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/statistic/protocol/StatisticsProtocol.java" />
       <jump line="308" column="8" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/statistic/protocol/StatisticsProtocol.java" />
       <jump line="297" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/DecorationStoreActivity.java" />
       <jump line="431" column="18" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" />
@@ -302,12 +293,13 @@
       <jump line="9" column="3" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/layout_common_divider.xml" />
       <jump line="3" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/layout_bill_date.xml" />
       <jump line="42" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/layout_bill_date.xml" />
+      <jump line="8" column="13" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/statistic/protocol/StatisticsProtocol.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>android</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
@@ -375,31 +367,31 @@
         <text encoding="base64">ICAgIDxkaW1lbiBuYW1lPSJzcF82Ij42c3A8L2RpbWVuPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PFZpZXcgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgogICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMWRwIgogICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvY29tbW9uX2RpdmlkZXJfY29sb3IiIC8+</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxkYXRhPgoKICAgIDwvZGF0YT4KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1cGVyLm9uUGFnZVNlbGVjdGVkKHBvc2l0aW9uKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIK</text>
+        <text encoding="base64">PFZpZXcgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgogICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMWRwIgogICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvY29tbW9uX2RpdmlkZXJfY29sb3IiIC8+</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PFJlbGF0aXZlTGF5b3V0IAogICAgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">PC9sYXlvdXQ+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkYXRhPgogICAgICAgIAogICAgPC9kYXRhPgoK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIDxkYXRhPgoKICAgIDwvZGF0YT4KCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PFJlbGF0aXZlTGF5b3V0IAogICAgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PC9sYXlvdXQ+Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC92aWV3X2xpbmUiCg==</text>
+        <text encoding="base64">ICAgIDxkYXRhPgogICAgICAgIAogICAgPC9kYXRhPgoK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIDxkYXRhPgoKICAgIDwvZGF0YT4KCg==</text>
