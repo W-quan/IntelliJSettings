@@ -148,12 +148,6 @@
         <mark key="." line="14" column="25" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/gradle.properties" timestamp="1608533467119" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/utils/net/RxHelper.java" timestamp="1608277562075">
-        <mark key="[" line="108" column="29" />
-        <mark key="]" line="109" column="28" />
-        <mark key="^" line="109" column="28" />
-        <mark key="." line="109" column="27" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/activity_my_decoration.xml" timestamp="1608286032412">
         <mark key="[" line="4" column="39" />
       </file>
@@ -171,6 +165,11 @@
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/MineFragment.java" timestamp="1608277781608">
         <mark key="[" line="489" column="0" />
         <mark key="]" line="489" column="95" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_audio_player/java/com/wujie/ermeng/audio/player/activity/AudioPlayingActivity.java" timestamp="1608543161589">
+        <mark key="[" line="328" column="43" />
+        <mark key="]" line="328" column="43" />
+        <mark key="." line="328" column="43" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/android_crop_lib/build.gradle" timestamp="1608534623672" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/build.gradle" timestamp="1608534858190">
@@ -313,14 +312,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBiYXNlX3JlY3ljbGVyX3ZpZXdfaGVscGVyID0gIjMuMC40Igo=</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
