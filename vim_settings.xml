@@ -153,26 +153,27 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_my_head_wear.xml" timestamp="1608617579839">
-        <mark key="[" line="23" column="39" />
-        <mark key="]" line="23" column="40" />
-        <mark key="." line="23" column="40" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_my_head_wear.xml" timestamp="1608622651544">
+        <mark key="[" line="86" column="28" />
+        <mark key="]" line="86" column="32" />
+        <mark key="." line="86" column="31" />
+        <mark key="^" line="86" column="32" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/build/generated/data_binding_base_class_source_out/ermengDebug/out/com/ormatch/android/asmr/databinding/ItemTeamListBinding.java" timestamp="1608619727211" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_my_car.xml" timestamp="1608617716952">
-        <mark key="[" line="23" column="39" />
-        <mark key="]" line="23" column="40" />
-        <mark key="." line="23" column="40" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_my_car.xml" timestamp="1608622588411">
+        <mark key="[" line="23" column="36" />
+        <mark key="]" line="23" column="37" />
+        <mark key="." line="23" column="37" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_my_chat_bubbles.xml" timestamp="1608617693110">
-        <mark key="[" line="22" column="39" />
-        <mark key="]" line="22" column="40" />
-        <mark key="." line="22" column="40" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_my_chat_bubbles.xml" timestamp="1608622819296">
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="22" column="37" />
+        <mark key="." line="22" column="37" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_my_mic_halo.xml" timestamp="1608617706700">
-        <mark key="[" line="22" column="39" />
-        <mark key="]" line="22" column="40" />
-        <mark key="." line="22" column="40" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_my_mic_halo.xml" timestamp="1608622807123">
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="22" column="37" />
+        <mark key="." line="22" column="37" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/fragment_radish_record.xml" timestamp="1608621309476">
         <mark key="[" line="3" column="0" />
@@ -180,10 +181,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_my_enter_effect.xml" timestamp="1608617568962">
-        <mark key="[" line="21" column="39" />
-        <mark key="]" line="21" column="40" />
-        <mark key="." line="21" column="40" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_my_enter_effect.xml" timestamp="1608622813445">
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="21" column="37" />
+        <mark key="." line="21" column="37" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/layout_common_divider.xml" timestamp="1608621523991">
         <mark key="[" line="2" column="4" />
@@ -306,13 +307,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;</text>
+        <text>android</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;</text>
+        <text>android</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
