@@ -112,33 +112,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/fragment/RadishFragment.java" timestamp="1608608944521">
-        <mark key="[" line="97" column="74" />
-        <mark key="]" line="98" column="16" />
-        <mark key="^" line="98" column="16" />
-        <mark key="." line="98" column="15" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/activity_bills_gift.xml" timestamp="1608619411485">
-        <mark key="[" line="51" column="35" />
-        <mark key="]" line="51" column="47" />
-        <mark key="." line="51" column="46" />
-        <mark key="^" line="51" column="47" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/dimen.xml" timestamp="1608609723856">
-        <mark key="[" line="470" column="23" />
-        <mark key="]" line="470" column="24" />
-        <mark key="." line="470" column="24" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/DecorationStoreActivity.java" timestamp="1608630812888">
-        <mark key="[" line="180" column="83" />
-        <mark key="]" line="180" column="98" />
-        <mark key="^" line="180" column="98" />
-        <mark key="." line="180" column="97" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/build/generated/data_binding_base_class_source_out/ermengDebug/out/com/ormatch/android/asmr/databinding/FragmentRadishRecordBinding.java" timestamp="1608620898498" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_labour_union/res/layout/dialog_secret_code.xml" timestamp="1608619935178" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/statistic/protocol/StatisticsProtocol.java" timestamp="1608630790012">
-        <mark key="'" line="8" column="13" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/fragment/RadishFragment.java" timestamp="1608689997194">
+        <mark key="[" line="79" column="63" />
+        <mark key="]" line="79" column="73" />
+        <mark key="^" line="79" column="73" />
+        <mark key="." line="79" column="72" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_my_head_wear.xml" timestamp="1608622651544">
         <mark key="[" line="23" column="28" />
@@ -146,11 +124,25 @@
         <mark key="." line="23" column="31" />
         <mark key="^" line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/build/generated/data_binding_base_class_source_out/ermengDebug/out/com/ormatch/android/asmr/databinding/ItemTeamListBinding.java" timestamp="1608619727211" />
+      <file name="/Dummy.txt" timestamp="1608690493735">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_my_car.xml" timestamp="1608622588411">
         <mark key="[" line="23" column="36" />
         <mark key="]" line="23" column="37" />
         <mark key="." line="23" column="37" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/dialog/StoreItemPreviewDialog.java" timestamp="1608689871344">
+        <mark key="[" line="147" column="46" />
+        <mark key="]" line="147" column="46" />
+        <mark key="^" line="147" column="46" />
+        <mark key="." line="147" column="45" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/activity_bills_gift.xml" timestamp="1608619411485">
+        <mark key="[" line="51" column="35" />
+        <mark key="]" line="51" column="47" />
+        <mark key="." line="51" column="46" />
+        <mark key="^" line="51" column="47" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_my_chat_bubbles.xml" timestamp="1608622819296">
         <mark key="[" line="22" column="36" />
@@ -179,6 +171,17 @@
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/dimen.xml" timestamp="1608609723856">
+        <mark key="[" line="470" column="23" />
+        <mark key="]" line="470" column="24" />
+        <mark key="." line="470" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/DecorationStoreActivity.java" timestamp="1608630812888">
+        <mark key="[" line="180" column="83" />
+        <mark key="]" line="180" column="98" />
+        <mark key="^" line="180" column="98" />
+        <mark key="." line="180" column="97" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/layout_bill_date.xml" timestamp="1608621282788">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="1" column="0" />
@@ -186,7 +189,15 @@
         <mark key="." line="2" column="50" />
         <mark key="^" line="1" column="4" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.databinding/databinding-runtime/4.0.2/81f1c4582aa462bcf1e3198265f90a3462bdd5ab/databinding-runtime-4.0.2-sources.jar!/androidx/databinding/ViewDataBinding.java" timestamp="1608619524100" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/statistic/protocol/StatisticsProtocol.java" timestamp="1608630790012">
+        <mark key="'" line="8" column="13" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/fragment/CarShopFragment.java" timestamp="1608689985073">
+        <mark key="[" line="93" column="37" />
+        <mark key="]" line="93" column="85" />
+        <mark key="^" line="93" column="85" />
+        <mark key="." line="93" column="84" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="80" column="19" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendAdapter.java" />
@@ -293,14 +304,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRpc3RpY01hbmFnZXIuSW5zdGFuY2UoKS5vbkV2ZW50KFN0YXRpc3RpY3NQcm90b2NvbC5FdmVudC5FVkVOVF9NT1JFX01BTExfVEFHKTsK</text>
+      <register name="&quot;" type="4">
+        <text>carInfo</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>android</text>
+        <text>carInfo</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
