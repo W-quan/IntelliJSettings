@@ -171,11 +171,6 @@
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/dimen.xml" timestamp="1608609723856">
-        <mark key="[" line="470" column="23" />
-        <mark key="]" line="470" column="24" />
-        <mark key="." line="470" column="24" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/DecorationStoreActivity.java" timestamp="1608630812888">
         <mark key="[" line="180" column="83" />
         <mark key="]" line="180" column="98" />
@@ -189,6 +184,7 @@
         <mark key="." line="2" column="50" />
         <mark key="^" line="1" column="4" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/headwear/bean/HeadWearInfo.java" timestamp="1608692224431" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/statistic/protocol/StatisticsProtocol.java" timestamp="1608630790012">
         <mark key="'" line="8" column="13" />
       </file>
