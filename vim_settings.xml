@@ -166,8 +166,10 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1608715385555">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1608720583513">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/BaseDecorationAdapter.java" timestamp="1608708782725">
         <mark key="[" line="89" column="28" />
@@ -330,13 +332,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>HeadWear</text>
+        <text>费</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>HeadWear</text>
+        <text>费</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
