@@ -112,65 +112,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/fragment/RadishFragment.java" timestamp="1608689997194">
-        <mark key="[" line="79" column="63" />
-        <mark key="]" line="79" column="73" />
-        <mark key="^" line="79" column="73" />
-        <mark key="." line="79" column="72" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/car/bean/CarInfo.java" timestamp="1608707630877">
         <mark key="[" line="120" column="18" />
         <mark key="]" line="120" column="35" />
         <mark key="." line="120" column="34" />
         <mark key="^" line="120" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/dialog/StoreItemPreviewDialog.java" timestamp="1608722558469">
-        <mark key="[" line="99" column="98" />
-        <mark key="]" line="96" column="73" />
-        <mark key="^" line="96" column="73" />
-        <mark key="." line="96" column="72" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/ChatBubblesAdapter.java" timestamp="1608710712907">
-        <mark key="[" line="24" column="59" />
-        <mark key="]" line="25" column="16" />
-        <mark key="^" line="25" column="16" />
-        <mark key="." line="25" column="15" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/dialog_store_preview.xml" timestamp="1608719849290" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/bean/BaseDecoration.java" timestamp="1608707538022">
-        <mark key="[" line="126" column="38" />
-        <mark key="]" line="127" column="17" />
-        <mark key="." line="127" column="16" />
-        <mark key="^" line="127" column="17" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/DecorationStoreActivity.java" timestamp="1608630812888">
-        <mark key="[" line="180" column="83" />
-        <mark key="]" line="180" column="98" />
-        <mark key="^" line="180" column="98" />
-        <mark key="." line="180" column="97" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/headwear/bean/HeadWearInfo.java" timestamp="1608707657815">
-        <mark key="[" line="79" column="35" />
-        <mark key="]" line="79" column="36" />
-        <mark key="^" line="79" column="36" />
-        <mark key="." line="79" column="35" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_head_wear.xml" timestamp="1608709003479">
-        <mark key="[" line="78" column="51" />
-        <mark key="]" line="78" column="55" />
-        <mark key="^" line="78" column="55" />
-        <mark key="." line="78" column="54" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/fragment/CarShopFragment.java" timestamp="1608710302091">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1608722638896">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/DemoCache.java" timestamp="1608774792106" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/BaseDecorationAdapter.java" timestamp="1608708782725">
         <mark key="[" line="89" column="28" />
         <mark key="]" line="89" column="28" />
@@ -189,6 +142,18 @@
         <mark key="^" line="109" column="46" />
         <mark key="." line="80" column="43" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/dialog/StoreItemPreviewDialog.java" timestamp="1608722558469">
+        <mark key="[" line="99" column="98" />
+        <mark key="]" line="96" column="73" />
+        <mark key="^" line="96" column="73" />
+        <mark key="." line="96" column="72" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/ChatBubblesAdapter.java" timestamp="1608710712907">
+        <mark key="[" line="24" column="59" />
+        <mark key="]" line="25" column="16" />
+        <mark key="^" line="25" column="16" />
+        <mark key="." line="25" column="15" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/mine/MyCarAdapter.java" timestamp="1608705429457">
         <mark key="[" line="60" column="82" />
         <mark key="]" line="60" column="96" />
@@ -201,6 +166,7 @@
         <mark key="." line="189" column="36" />
         <mark key="^" line="227" column="57" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/initial/InitialModel.java" timestamp="1608775376771" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/MicHaloAdapter.java" timestamp="1608710748159">
         <mark key="[" line="25" column="58" />
         <mark key="]" line="25" column="16" />
@@ -218,6 +184,29 @@
         <mark key="]" line="38" column="30" />
         <mark key="^" line="38" column="30" />
         <mark key="." line="38" column="29" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/bean/BaseDecoration.java" timestamp="1608707538022">
+        <mark key="[" line="126" column="38" />
+        <mark key="]" line="127" column="17" />
+        <mark key="." line="127" column="16" />
+        <mark key="^" line="127" column="17" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/headwear/bean/HeadWearInfo.java" timestamp="1608707657815">
+        <mark key="[" line="79" column="35" />
+        <mark key="]" line="79" column="36" />
+        <mark key="^" line="79" column="36" />
+        <mark key="." line="79" column="35" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_head_wear.xml" timestamp="1608709003479">
+        <mark key="[" line="78" column="51" />
+        <mark key="]" line="78" column="55" />
+        <mark key="^" line="78" column="55" />
+        <mark key="." line="78" column="54" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/fragment/CarShopFragment.java" timestamp="1608710302091">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/mine/MyHeadWearAdapter.java" timestamp="1608695566044">
         <mark key="[" line="63" column="0" />
