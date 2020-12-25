@@ -118,6 +118,29 @@
         <mark key="." line="120" column="34" />
         <mark key="^" line="120" column="35" />
       </file>
+      <file name="/Dummy.txt" timestamp="1608809322272">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/BaseDecorationAdapter.java" timestamp="1608708782725">
+        <mark key="[" line="89" column="28" />
+        <mark key="]" line="89" column="28" />
+        <mark key="^" line="89" column="28" />
+        <mark key="." line="89" column="27" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/EnterEffectAdapter.java" timestamp="1608710657135">
+        <mark key="[" line="27" column="85" />
+        <mark key="]" line="28" column="8" />
+        <mark key="^" line="28" column="8" />
+        <mark key="." line="28" column="7" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/presenter/MyDecorationPresenter.java" timestamp="1608713630627">
+        <mark key="[" line="80" column="43" />
+        <mark key="]" line="80" column="43" />
+        <mark key="^" line="109" column="46" />
+        <mark key="." line="80" column="43" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/dialog/StoreItemPreviewDialog.java" timestamp="1608722558469">
         <mark key="[" line="99" column="98" />
         <mark key="]" line="96" column="73" />
@@ -136,7 +159,19 @@
         <mark key="^" line="25" column="16" />
         <mark key="." line="25" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/initial/InitialModel.java" timestamp="1608775376771" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/helper/DecorationDialogHelper.java" timestamp="1608714513610">
+        <mark key="[" line="189" column="36" />
+        <mark key="]" line="189" column="36" />
+        <mark key="." line="189" column="36" />
+        <mark key="^" line="227" column="57" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/MicHaloAdapter.java" timestamp="1608710748159">
+        <mark key="[" line="25" column="58" />
+        <mark key="]" line="25" column="16" />
+        <mark key="^" line="25" column="16" />
+        <mark key="." line="25" column="15" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/bean/BaseDecoration.java" timestamp="1608866565427" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/headwear/bean/HeadWearInfo.java" timestamp="1608707657815">
         <mark key="[" line="79" column="35" />
         <mark key="]" line="79" column="36" />
@@ -163,43 +198,6 @@
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/activity_my_decoration.xml" timestamp="1608805829666">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="43" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1608809322272">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/DemoCache.java" timestamp="1608774792106" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/BaseDecorationAdapter.java" timestamp="1608708782725">
-        <mark key="[" line="89" column="28" />
-        <mark key="]" line="89" column="28" />
-        <mark key="^" line="89" column="28" />
-        <mark key="." line="89" column="27" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_my_car.xml" timestamp="1608806032719" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/EnterEffectAdapter.java" timestamp="1608710657135">
-        <mark key="[" line="27" column="85" />
-        <mark key="]" line="28" column="8" />
-        <mark key="^" line="28" column="8" />
-        <mark key="." line="28" column="7" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/presenter/MyDecorationPresenter.java" timestamp="1608713630627">
-        <mark key="[" line="80" column="43" />
-        <mark key="]" line="80" column="43" />
-        <mark key="^" line="109" column="46" />
-        <mark key="." line="80" column="43" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/helper/DecorationDialogHelper.java" timestamp="1608714513610">
-        <mark key="[" line="189" column="36" />
-        <mark key="]" line="189" column="36" />
-        <mark key="." line="189" column="36" />
-        <mark key="^" line="227" column="57" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/MicHaloAdapter.java" timestamp="1608710748159">
-        <mark key="[" line="25" column="58" />
-        <mark key="]" line="25" column="16" />
-        <mark key="^" line="25" column="16" />
-        <mark key="." line="25" column="15" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/MyDecorationActivity.java" timestamp="1608809227819">
         <mark key="[" line="178" column="48" />
