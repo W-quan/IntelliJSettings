@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* &lt;p&gt;This value will not change over the lifetime of a Bitmap.&lt;/p&gt;" />
+      <item value="* &lt;p&gt;This can be larger than the result of {@link #getByteCount()} if a bitmap is reused to * decode other bitmaps of smaller size, or by manual reconfiguration. See {@link * #reconfigure(int, int, Config)}, {@link #setWidth(int)}, {@link #setHeight(int)}, {@link * #setConfig(Bitmap.Config)}, and {@link BitmapFactory.Options#inBitmap * BitmapFactory.Options.inBitmap}. If a bitmap is not modified in this way, this value will be * the same as that returned by {@link #getByteCount()}.&lt;/p&gt; *" />
+      <item value="* Returns the size of the allocated memory used to store this bitmap's pixels." />
+      <item value="* &lt;p&gt;As of {@link android.os.Build.VERSION_CODES#KITKAT}, the result of this method can * no longer be used to determine memory usage of a bitmap. See {@link" />
+      <item value="* Returns the minimum number of bytes that can be used to store this bitmap's pixels." />
+      <item value="* Return the number of bytes between rows in the bitmap's pixels. Note that * this refers to the pixels as stored natively by the bitmap. If you call * getPixels() or setPixels(), then the pixels are uniformly treated as * 32bit values, packed according to the Color class." />
       <item value="* Used internally to set the containing binding for an included binding to this." />
       <item value="SHELF" />
       <item value="seek" />
@@ -45,17 +51,11 @@
       <item value="clockwise" />
       <item value="The direction to wind the circle's contour" />
       <item value="* Returns an optional array of private data, used by the UI system for * some bitmaps. Not intended to be called by applications." />
-      <item value="anchor" />
-      <item value="There is no this decoration type." />
-      <item value="Active" />
-      <item value="Head" />
-      <item value="came" />
-      <item value="load Headwear List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="479" />
-        <entry key="ENGLISH" value="480" />
+        <entry key="CHINESE" value="485" />
+        <entry key="ENGLISH" value="486" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
