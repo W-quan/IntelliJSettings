@@ -130,11 +130,11 @@
         <mark key="." line="32" column="3" />
         <mark key="^" line="32" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/adapter/message/MessageTextViewHolder.java" timestamp="1609300646425">
-        <mark key="[" line="135" column="108" />
-        <mark key="]" line="135" column="116" />
-        <mark key="." line="135" column="115" />
-        <mark key="^" line="135" column="116" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/adapter/message/MessageTextViewHolder.java" timestamp="1609312505248">
+        <mark key="[" line="114" column="35" />
+        <mark key="]" line="115" column="30" />
+        <mark key="." line="115" column="29" />
+        <mark key="^" line="115" column="30" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/face/DynamicFaceModel.java" timestamp="1609208624543">
         <mark key="[" line="242" column="0" />
@@ -153,6 +153,12 @@
         <mark key="[" line="1243" column="0" />
         <mark key="]" line="1243" column="0" />
         <mark key="." line="1243" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/util/pool/GlideTrace.java" timestamp="1609312634765">
+        <mark key="[" line="8" column="49" />
+        <mark key="]" line="8" column="49" />
+        <mark key="^" line="8" column="49" />
+        <mark key="." line="8" column="48" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/widget/GiftView.java" timestamp="1609128002610">
         <mark key="'" line="661" column="35" />
