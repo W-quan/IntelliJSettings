@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// BitmapFactory.Options out* variables are reset by most calls to decodeStream, successful or // otherwise, so capture here in case we log below." />
+      <item value="// Once we've read the image header, we no longer need to allow the buffer to expand in // size. To avoid unnecessary allocations reading image data, we fix the mark limit so that it // is no larger than our current buffer size here. We need to do so immediately before // decoding the full image to avoid having our mark limit overridden by other calls to // mark and reset. See issue #225." />
+      <item value="// If we failed to obtain the image dimensions, we may end up with an incorrectly sized Bitmap, // so we want to use a mutable Bitmap type. One way this can happen is if the image header is so // large (10mb+) that our attempt to use inJustDecodeBounds fails and we're forced to decode the // full size image." />
       <item value="* Checks to see whether or not a log for the specified tag is loggable at the specified level." />
       <item value="/** We want to switch from the disk cache service to the source executor. */" />
       <item value="INITIALIZE" />
@@ -48,14 +51,11 @@
       <item value="/** Subscriber priority to influence the order of event delivery. * Within the same delivery thread ({@link ThreadMode}), higher priority subscribers will receive events before * others with a lower priority. The default priority is 0. Note: the priority does *NOT* affect the order of * delivery among subscribers with different {@link ThreadMode}s! */" />
       <item value="* If true, delivers the most recent sticky event (posted with * {@link EventBus#postSticky(Object)}) to this subscriber (if event available)." />
       <item value="primitive" />
-      <item value="meaningless" />
-      <item value="// nothing to do (Note - still had to inc generation, since may have ongoing work)" />
-      <item value="* A generic ordered collection of elements that supports adding and removing elements. * @param E the type of elements contained in the list. The mutable list is invariant on its element type." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="492" />
-        <entry key="ENGLISH" value="493" />
+        <entry key="CHINESE" value="495" />
+        <entry key="ENGLISH" value="496" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
