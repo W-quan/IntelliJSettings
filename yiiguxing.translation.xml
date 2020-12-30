@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Tries to intelligently choose a strategy based on the data source of the {@link" />
+      <item value="/** Writes resources to disk after they've been decoded. */" />
+      <item value="/** Writes retrieved data directly to the disk cache before it's decoded. */" />
       <item value="* &lt;p&gt;This value will not change over the lifetime of a Bitmap.&lt;/p&gt;" />
       <item value="* &lt;p&gt;This can be larger than the result of {@link #getByteCount()} if a bitmap is reused to * decode other bitmaps of smaller size, or by manual reconfiguration. See {@link * #reconfigure(int, int, Config)}, {@link #setWidth(int)}, {@link #setHeight(int)}, {@link * #setConfig(Bitmap.Config)}, and {@link BitmapFactory.Options#inBitmap * BitmapFactory.Options.inBitmap}. If a bitmap is not modified in this way, this value will be * the same as that returned by {@link #getByteCount()}.&lt;/p&gt; *" />
       <item value="* Returns the size of the allocated memory used to store this bitmap's pixels." />
@@ -48,14 +51,11 @@
       <item value="* Same as lineTo, but the coordinates are considered relative to the last * point on this contour. If there is no previous point, then a moveTo(0,0) * is inserted automatically." />
       <item value="counter-clockwise" />
       <item value="counter" />
-      <item value="clockwise" />
-      <item value="The direction to wind the circle's contour" />
-      <item value="* Returns an optional array of private data, used by the UI system for * some bitmaps. Not intended to be called by applications." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="485" />
-        <entry key="ENGLISH" value="486" />
+        <entry key="CHINESE" value="488" />
+        <entry key="ENGLISH" value="489" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
