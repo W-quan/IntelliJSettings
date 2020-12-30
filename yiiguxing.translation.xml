@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Checks to see whether or not a log for the specified tag is loggable at the specified level." />
+      <item value="/** We want to switch from the disk cache service to the source executor. */" />
+      <item value="INITIALIZE" />
+      <item value="// When we're encoding we've already notified our callback and it isn't safe to do so again." />
       <item value="* Tries to intelligently choose a strategy based on the data source of the {@link" />
       <item value="/** Writes resources to disk after they've been decoded. */" />
       <item value="/** Writes retrieved data directly to the disk cache before it's decoded. */" />
@@ -47,15 +51,11 @@
       <item value="meaningless" />
       <item value="// nothing to do (Note - still had to inc generation, since may have ongoing work)" />
       <item value="* A generic ordered collection of elements that supports adding and removing elements. * @param E the type of elements contained in the list. The mutable list is invariant on its element type." />
-      <item value="bounds" />
-      <item value="* Same as lineTo, but the coordinates are considered relative to the last * point on this contour. If there is no previous point, then a moveTo(0,0) * is inserted automatically." />
-      <item value="counter-clockwise" />
-      <item value="counter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="488" />
-        <entry key="ENGLISH" value="489" />
+        <entry key="CHINESE" value="492" />
+        <entry key="ENGLISH" value="493" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
