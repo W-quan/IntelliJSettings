@@ -112,32 +112,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/layout_user_car_store.xml" timestamp="1609403254867">
-        <mark key="[" line="13" column="44" />
-        <mark key="]" line="13" column="4" />
-        <mark key="." line="13" column="3" />
-        <mark key="^" line="13" column="4" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/layout_gift_title.xml" timestamp="1609398313120">
-        <mark key="[" line="7" column="33" />
-        <mark key="]" line="7" column="45" />
-        <mark key="." line="7" column="44" />
-        <mark key="^" line="7" column="45" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/adapter/message/MessageTextViewHolder.java" timestamp="1609320820192">
-        <mark key="[" line="131" column="28" />
-        <mark key="]" line="131" column="28" />
-        <mark key="." line="131" column="28" />
-        <mark key="^" line="131" column="29" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/util/pool/GlideTrace.java" timestamp="1609312634765">
-        <mark key="[" line="8" column="49" />
-        <mark key="]" line="8" column="49" />
-        <mark key="^" line="8" column="49" />
-        <mark key="." line="8" column="48" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/GiftDialog.java" timestamp="1609404998493" />
-      <file name="/Dummy.txt" timestamp="1609403567134">
+      <file name="/Dummy.txt" timestamp="1609728581164">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -147,17 +122,35 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/layout_user_car_store.xml" timestamp="1609403254867">
+        <mark key="[" line="13" column="44" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="4" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/layout_des_personal.xml" timestamp="1609403436714">
         <mark key="[" line="8" column="37" />
         <mark key="]" line="8" column="38" />
         <mark key="." line="8" column="38" />
         <mark key="^" line="73" column="47" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/layout_gift_title.xml" timestamp="1609398313120">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="7" column="45" />
+        <mark key="." line="7" column="44" />
+        <mark key="^" line="7" column="45" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/layout_user_medal_wall.xml" timestamp="1609403471617">
         <mark key="[" line="10" column="35" />
         <mark key="]" line="10" column="36" />
         <mark key="^" line="7" column="42" />
         <mark key="." line="10" column="36" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/adapter/message/MessageTextViewHolder.java" timestamp="1609320820192">
+        <mark key="[" line="131" column="28" />
+        <mark key="]" line="131" column="28" />
+        <mark key="." line="131" column="28" />
+        <mark key="^" line="131" column="29" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/user_info_my_car_item.xml" timestamp="1609400373547">
         <mark key="[" line="22" column="26" />
@@ -174,6 +167,12 @@
         <mark key="^" line="530" column="13" />
         <mark key="." line="531" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/util/pool/GlideTrace.java" timestamp="1609312634765">
+        <mark key="[" line="8" column="49" />
+        <mark key="]" line="8" column="49" />
+        <mark key="^" line="8" column="49" />
+        <mark key="." line="8" column="48" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/adapter/UserInfoCarAdapter.java" timestamp="1609400721098">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="34" column="0" />
@@ -188,7 +187,6 @@
       <file name="/fragment.java" timestamp="1609299191392">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/annatation/ActLayoutRes.java" timestamp="1609397331977" />
     </filemarks>
     <jumps>
       <jump line="92" column="6" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/presenter/HomeMediaFragmentPresenter.java" />
