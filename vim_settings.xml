@@ -159,11 +159,11 @@
         <mark key="^" line="7" column="42" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_relationship_large.xml" timestamp="1609816542011">
-        <mark key="[" line="54" column="31" />
-        <mark key="]" line="54" column="43" />
-        <mark key="." line="54" column="42" />
-        <mark key="^" line="54" column="43" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_relationship_large.xml" timestamp="1609816694865">
+        <mark key="[" line="38" column="31" />
+        <mark key="]" line="43" column="31" />
+        <mark key="." line="43" column="30" />
+        <mark key="^" line="43" column="31" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/AndroidManifest.xml" timestamp="1609752826439">
         <mark key="[" line="472" column="59" />
@@ -318,13 +318,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>dp_16</text>
+        <text>dp_46</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>dp_16</text>
+        <text>dp_46</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
