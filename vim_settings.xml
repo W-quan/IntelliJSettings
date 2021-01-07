@@ -122,11 +122,11 @@
         <mark key="]" line="36" column="59" />
         <mark key="." line="36" column="59" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/UserInfoFragment.java" timestamp="1610011157618">
-        <mark key="[" line="70" column="9" />
-        <mark key="]" line="70" column="9" />
-        <mark key="^" line="70" column="9" />
-        <mark key="." line="70" column="8" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/UserInfoFragment.java" timestamp="1610011438705">
+        <mark key="[" line="74" column="69" />
+        <mark key="]" line="75" column="35" />
+        <mark key="^" line="75" column="35" />
+        <mark key="." line="75" column="34" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/io/File.java" timestamp="1610008800078" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/RelationshipListActivity.kt" timestamp="1609837661301">
@@ -135,7 +135,7 @@
         <mark key="^" line="28" column="41" />
         <mark key="." line="28" column="40" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netease.nimlib/basesdk/8.1.2/1557a038cd72d85d3dd87886c73599730843f04f/basesdk-8.1.2-sources.jar!/com/netease/nimlib/sdk/msg/MessageBuilder.java" timestamp="1610011155933" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netease.nimlib/basesdk/8.1.2/1557a038cd72d85d3dd87886c73599730843f04f/basesdk-8.1.2-sources.jar!/com/netease/nimlib/sdk/msg/MessageBuilder.java" timestamp="1610011565580" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/adapters/BaseRecyclerViewAdapter.java" timestamp="1609837963132">
         <mark key="^" line="28" column="8" />
       </file>
