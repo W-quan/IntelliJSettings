@@ -112,12 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/RelationshipListActivity.kt" timestamp="1609837661301">
-        <mark key="[" line="28" column="41" />
-        <mark key="]" line="28" column="41" />
-        <mark key="^" line="28" column="41" />
-        <mark key="." line="28" column="40" />
-      </file>
       <file name="/Dummy.txt" timestamp="1609837823162">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -128,7 +122,19 @@
         <mark key="]" line="36" column="59" />
         <mark key="." line="36" column="59" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/5991ca87ef1fb5544943d9abc5a9a37583fabe03/annotations-13.0-sources.jar!/org/jetbrains/annotations/NotNull.java" timestamp="1609837914883" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/UserInfoFragment.java" timestamp="1610008539805">
+        <mark key="[" line="70" column="50" />
+        <mark key="]" line="71" column="21" />
+        <mark key="^" line="71" column="21" />
+        <mark key="." line="71" column="20" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/io/File.java" timestamp="1610008560078" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/RelationshipListActivity.kt" timestamp="1609837661301">
+        <mark key="[" line="28" column="41" />
+        <mark key="]" line="28" column="41" />
+        <mark key="^" line="28" column="41" />
+        <mark key="." line="28" column="40" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/adapters/BaseRecyclerViewAdapter.java" timestamp="1609837963132">
         <mark key="^" line="28" column="8" />
       </file>
