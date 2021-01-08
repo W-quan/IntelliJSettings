@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="become student" />
+      <item value="become teacher" />
+      <item value="bestie" />
+      <item value="闺蜜" />
+      <item value="基友" />
       <item value="iv head wear" />
       <item value="wear" />
       <item value="iv wear" />
@@ -46,16 +51,11 @@
       <item value="REVERSE" />
       <item value="// Dynamic width, so we have no choice but to request a new // view layout with a new text layout." />
       <item value="// We lose: the height has changed and we have a dynamic height. // Request a new view layout using our new text layout." />
-      <item value="* Check whether entirely new text requires a new view layout * or merely a new text layout." />
-      <item value="forever" />
-      <item value="unknown" />
-      <item value="Bubble" />
-      <item value="Eefect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="502" />
-        <entry key="ENGLISH" value="503" />
+        <entry key="CHINESE" value="507" />
+        <entry key="ENGLISH" value="508" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
@@ -65,6 +65,7 @@
         <entry key="MARATHI" value="1" />
         <entry key="SWEDISH" value="2" />
         <entry key="GREEK" value="2" />
+        <entry key="ITALIAN" value="2" />
       </map>
     </option>
   </component>
