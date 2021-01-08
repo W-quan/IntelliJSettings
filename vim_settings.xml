@@ -112,25 +112,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1610074394898">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/im/custom/bean/CustomAttachParser.java" timestamp="1610076449945">
+        <mark key="[" line="303" column="45" />
+        <mark key="]" line="303" column="69" />
+        <mark key="." line="303" column="68" />
+        <mark key="^" line="303" column="69" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/im/custom/bean/CustomAttachment.java" timestamp="1610074113593">
-        <mark key="[" line="342" column="68" />
-        <mark key="]" line="342" column="69" />
-        <mark key="^" line="342" column="69" />
-        <mark key="." line="342" column="68" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/GiftDialog.java" timestamp="1610076664117">
+        <mark key="[" line="1179" column="9" />
+        <mark key="]" line="1180" column="8" />
+        <mark key="^" line="1180" column="8" />
+        <mark key="." line="1180" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/gift/bean/GiftType.java" timestamp="1610074680341">
         <mark key="[" line="55" column="42" />
         <mark key="]" line="45" column="39" />
         <mark key="." line="45" column="38" />
         <mark key="^" line="45" column="39" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/UserInfoFragment.java" timestamp="1610013969134">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/attachment/RelationshipAttachment.java" timestamp="1610075466984">
         <mark key="[" line="5" column="0" />
@@ -252,7 +250,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgTWFkaXNvblJvbmcgb24gMjAyMC85LzIyCiAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBDVVNUT01fTVNHX1NVQl9ST09NX0NPVVBMRV9DQVJEX0NQX0VGRkVDVDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF0dGFjaG1lbnQgPSBuZXcgQ291cGxlQ2FyZEhlYWRXZWFyRWZmZWN0QXR0YWNobWVudCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
@@ -317,7 +315,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0IGpzb25PYmplY3QgPSBuZXcgSlNPTk9iamVjdCgpOwogICAgICAgIGpzb25PYmplY3QucHV0KCJyb3V0ZXJUeXBlIiwgcm91dGVyVHlwZSk7CiAgICAgICAganNvbk9iamVjdC5wdXQoIm1zZyIsIG1zZyk7CiAgICAgICAganNvbk9iamVjdC5wdXQoInJvdXRlclZhbHVlIiwgcm91dGVyVmFsdWUpOwogICAgICAgIGpzb25PYmplY3QucHV0KCJ0aXRsZSIsIHRpdGxlKTsKICAgICAgICByZXR1cm4ganNvbk9iamVjdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBDVVNUT01fTVNHX1NVQl9ST09NX0NPVVBMRV9DQVJEX0NQX0VGRkVDVDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF0dGFjaG1lbnQgPSBuZXcgQ291cGxlQ2FyZEhlYWRXZWFyRWZmZWN0QXR0YWNobWVudCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgTWFkaXNvblJvbmcgb24gMjAyMC85LzIyCiAqLwo=</text>
