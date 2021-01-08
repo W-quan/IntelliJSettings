@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="intimate Space" />
       <item value="courtship" />
       <item value="become student" />
       <item value="become teacher" />
@@ -50,12 +51,11 @@
       <item value="* Draw marquee text as ellipsize end while inactive instead of with the fade. * (Useful for devices where the fade can be expensive if overdone)" />
       <item value="* This value used used with the {@link #setRepeatCount(int)} property to repeat * the animation indefinitely." />
       <item value="REVERSE" />
-      <item value="// Dynamic width, so we have no choice but to request a new // view layout with a new text layout." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="508" />
-        <entry key="ENGLISH" value="509" />
+        <entry key="CHINESE" value="509" />
+        <entry key="ENGLISH" value="510" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
