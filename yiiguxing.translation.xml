@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Minimum Fraction Digits" />
       <item value="relation" />
       <item value="COUPLE" />
       <item value="CARD BROMANCE" />
@@ -50,12 +51,11 @@
       <item value="UNSHELVE" />
       <item value="time Ms" />
       <item value="tv desc" />
-      <item value="空空如也" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="513" />
-        <entry key="ENGLISH" value="514" />
+        <entry key="CHINESE" value="515" />
+        <entry key="ENGLISH" value="516" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
