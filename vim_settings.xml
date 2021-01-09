@@ -188,7 +188,7 @@
         <mark key="." line="68" column="61" />
         <mark key="^" line="68" column="62" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/bean/Relationship.java" timestamp="1610177656191">
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/bean/Relationship.java" timestamp="1610178988633">
         <mark key="[" line="69" column="12" />
         <mark key="]" line="69" column="16" />
         <mark key="^" line="69" column="16" />
@@ -201,11 +201,11 @@
         <mark key="." line="538" column="0" />
         <mark key="^" line="535" column="18" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/adapter/RelationshipAdapter.java" timestamp="1610178234379">
-        <mark key="[" line="45" column="138" />
-        <mark key="]" line="18" column="8" />
-        <mark key="." line="18" column="7" />
-        <mark key="^" line="18" column="8" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/adapter/RelationshipAdapter.java" timestamp="1610179051520">
+        <mark key="[" line="47" column="134" />
+        <mark key="]" line="47" column="135" />
+        <mark key="." line="47" column="134" />
+        <mark key="^" line="47" column="135" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/attachment/RelationshipAttachment.java" timestamp="1610162726575">
         <mark key="[" line="39" column="0" />
