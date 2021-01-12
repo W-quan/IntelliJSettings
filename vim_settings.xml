@@ -122,10 +122,9 @@
         <mark key="." line="101" column="44" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/im/custom/bean/CustomAttachment.java" timestamp="1610437310402">
-        <mark key="[" line="344" column="0" />
-        <mark key="]" line="344" column="0" />
-        <mark key="^" line="343" column="79" />
-        <mark key="." line="344" column="0" />
+        <mark key="[" line="342" column="0" />
+        <mark key="]" line="342" column="0" />
+        <mark key="." line="342" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/fragment_user_info.xml" timestamp="1610440800706">
         <mark key="[" line="74" column="0" />
@@ -133,40 +132,15 @@
         <mark key="^" line="58" column="43" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/attachment/CoupleCardReceiveAttachment.java" timestamp="1610436275413">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="59" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/relationship/viewholder/CoupleCardRespondAgreeViewHolder.java" timestamp="1610435684255">
-        <mark key="[" line="124" column="130" />
-        <mark key="]" line="124" column="144" />
-        <mark key="^" line="124" column="144" />
-        <mark key="." line="124" column="143" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/im/custom/bean/CustomAttachParser.java" timestamp="1610437115655">
-        <mark key="[" line="290" column="55" />
-        <mark key="]" line="290" column="53" />
-        <mark key="." line="290" column="52" />
-        <mark key="^" line="290" column="53" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/UserModel.java" timestamp="1610440908259">
         <mark key="'" line="205" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1610440494053">
+      <file name="/Dummy.txt" timestamp="1610441215579">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/UserInfoFragment.java" timestamp="1610440941091">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/MainActivity.java" timestamp="1610437510284">
-        <mark key="[" line="568" column="0" />
-        <mark key="]" line="568" column="0" />
-        <mark key="." line="568" column="0" />
-      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/MainActivity.java" timestamp="1610441744466" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/view_holder_couple_card_respond_agree.xml" timestamp="1610440184339">
         <mark key="[" line="72" column="46" />
         <mark key="]" line="72" column="37" />
@@ -185,32 +159,23 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/attachment/RelationshipRequestAttachment.java" timestamp="1610436388165">
-        <mark key="[" line="15" column="5" />
-        <mark key="]" line="16" column="4" />
-        <mark key="^" line="16" column="4" />
-        <mark key="." line="16" column="3" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" timestamp="1610440572180" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/attachment/RelationCardReceiveAttachment.java" timestamp="1610437670048">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/bean/CoupleCardRespondInfo.java" timestamp="1610435109369">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="24" column="37" />
-        <mark key="^" line="24" column="37" />
-        <mark key="." line="24" column="36" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/diff_src_erban/java/com/yizhuan/xchat_android_core/UriProvider.java" timestamp="1610435857314">
-        <mark key="'" line="312" column="25" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/view_holder_couple_card_respond_disagree.xml" timestamp="1610439596161">
         <mark key="[" line="12" column="31" />
         <mark key="]" line="12" column="44" />
         <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="44" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1610442562856">
+        <mark key="[" line="1447" column="9" />
+        <mark key="]" line="1449" column="78" />
+        <mark key="^" line="1449" column="78" />
+        <mark key="." line="1449" column="77" />
       </file>
     </filemarks>
     <jumps>
