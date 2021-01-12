@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="accept" />
+      <item value="RESPOND" />
+      <item value="accect" />
+      <item value="respone" />
       <item value="set Minimum Fraction Digits" />
       <item value="relation" />
       <item value="COUPLE" />
@@ -47,15 +51,11 @@
       <item value="* Add the specified arc to the path as a new contour." />
       <item value="rectangle" />
       <item value="* Clear any lines and curves from the path, making it empty. * This does NOT change the fill-type setting." />
-      <item value="* Add a closed round-rectangle contour to the path. Each corner receives * two radius values [X, Y]. The corners are ordered top-left, top-right, * bottom-right, bottom-left" />
-      <item value="UNSHELVE" />
-      <item value="time Ms" />
-      <item value="tv desc" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="515" />
-        <entry key="ENGLISH" value="516" />
+        <entry key="CHINESE" value="518" />
+        <entry key="ENGLISH" value="519" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CATALAN" value="1" />
@@ -66,6 +66,7 @@
         <entry key="SWEDISH" value="2" />
         <entry key="GREEK" value="2" />
         <entry key="ITALIAN" value="2" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
