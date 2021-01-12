@@ -141,9 +141,12 @@
         <mark key="^" line="71" column="103" />
         <mark key="." line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/bean/Relationship.java" timestamp="1610417158177">
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/bean/Relationship.java" timestamp="1610417190377">
         <mark key="'" line="12" column="28" />
-        <mark key="[" line="69" column="30" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="72" column="11" />
+        <mark key="^" line="72" column="11" />
+        <mark key="." line="72" column="10" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/relationship/couple_card/widget/ReceiveCoupleCardDialog.java" timestamp="1610356438466">
         <mark key="[" line="45" column="0" />
