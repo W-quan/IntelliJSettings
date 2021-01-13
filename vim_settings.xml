@@ -121,16 +121,10 @@
         <mark key="^" line="23" column="16" />
         <mark key="." line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/RelationshipModel.java" timestamp="1610445579029">
-        <mark key="'" line="47" column="26" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="^" line="95" column="95" />
-        <mark key="." line="92" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1610504545874">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/RelationshipListActivity.kt" timestamp="1610523268737" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/resources/ResourcesChain.kt" timestamp="1610505492479">
         <mark key="[" line="5" column="56" />
         <mark key="]" line="5" column="37" />
@@ -148,6 +142,11 @@
         <mark key="]" line="10" column="20" />
         <mark key="^" line="15" column="17" />
         <mark key="." line="10" column="20" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1610522799867">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/resources/RelationResourcesChain.java" timestamp="1610509669745">
         <mark key="[" line="28" column="46" />
