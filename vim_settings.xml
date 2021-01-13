@@ -127,11 +127,11 @@
         <mark key="." line="96" column="0" />
         <mark key="^" line="82" column="67" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/resources/ResourcesChain.kt" timestamp="1610505492479">
-        <mark key="[" line="5" column="56" />
-        <mark key="]" line="5" column="37" />
-        <mark key="." line="5" column="36" />
-        <mark key="^" line="5" column="37" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/im/custom/bean/CustomAttachment.java" timestamp="1610532405016">
+        <mark key="[" line="344" column="71" />
+        <mark key="]" line="344" column="75" />
+        <mark key="." line="344" column="74" />
+        <mark key="^" line="344" column="75" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/utils/StringUtils.java" timestamp="1610526568087">
         <mark key="'" line="6295" column="25" />
@@ -157,6 +157,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/initial/bean/InitInfo.java" timestamp="1610531973939">
+        <mark key="'" line="18" column="13" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/resources/RelationResourcesChain.java" timestamp="1610509669745">
         <mark key="[" line="28" column="46" />
@@ -202,9 +205,6 @@
         <mark key="." line="3" column="3" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.0/2647551116856a6403d1a21e236837a7501c08a8/okhttp-3.12.0-sources.jar!/okhttp3/internal/http/RealInterceptorChain.java" timestamp="1610508652485" />
-      <file name="/fragment.java" timestamp="1610505748696">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/resources/IResourcesHandler.kt" timestamp="1610527396310">
         <mark key="[" line="12" column="82" />
         <mark key="]" line="12" column="82" />
@@ -213,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="512" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendAdapter.java" />
       <jump line="38" column="28" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/bean/UserInfo.java" />
       <jump line="250" column="16" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/98c722f92c224b35def1bbf9db2b23af/jetified-RollViewPager-V1.0/jars/classes.jar!/com/jude/rollviewpager/RollPagerView.class" />
       <jump line="112" column="32" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/ShowPhotoActivity.java" />
@@ -313,18 +312,19 @@
       <jump line="47" column="26" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/RelationshipModel.java" />
       <jump line="419" column="6" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/utils/StringUtils.java" />
       <jump line="6295" column="25" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/utils/StringUtils.java" />
+      <jump line="18" column="13" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/initial/bean/InitInfo.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGhvbGRlci5zZXRCYWNrZ3JvdW5kUmVzb3VyY2UoUi5pZC5yb290LCBSLmRyYXdhYmxlLmJnX3JlbGF0aW9uc2hpcF90ZWFjaGVyX3N0dWRlbnRfbGFyZ2UpCg==</text>
+      <register name="&quot;" type="4">
+        <text>求</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>relationLevel</text>
+        <text>求</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
