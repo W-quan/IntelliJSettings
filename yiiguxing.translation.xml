@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Interceptor" />
       <item value="Backgroud" />
       <item value="Provier" />
       <item value="accept" />
@@ -50,12 +51,11 @@
       <item value="Sweep angle (in degrees) measured clockwise" />
       <item value="* @param oval The bounds of oval defining shape and size of the arc" />
       <item value="* Append the specified arc to the path as a new contour. If the start of * the path is different from the path's current last point, then an * automatic lineTo() is added to connect the current contour to the * start of the arc. However, if the path is empty, then we call moveTo() * with the first point of the arc." />
-      <item value="* Add the specified arc to the path as a new contour." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="519" />
-        <entry key="ENGLISH" value="520" />
+        <entry key="CHINESE" value="520" />
+        <entry key="ENGLISH" value="521" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="1" />
