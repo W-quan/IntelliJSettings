@@ -121,11 +121,11 @@
         <mark key="^" line="23" column="16" />
         <mark key="." line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/RelationshipListActivity.kt" timestamp="1610524436960">
-        <mark key="[" line="36" column="88" />
-        <mark key="]" line="36" column="91" />
-        <mark key="." line="36" column="90" />
-        <mark key="^" line="36" column="91" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/RelationshipListActivity.kt" timestamp="1610524568405">
+        <mark key="[" line="36" column="90" />
+        <mark key="]" line="36" column="92" />
+        <mark key="." line="36" column="91" />
+        <mark key="^" line="36" column="92" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/resources/ResourcesChain.kt" timestamp="1610505492479">
         <mark key="[" line="5" column="56" />
@@ -152,7 +152,7 @@
         <mark key="^" line="15" column="17" />
         <mark key="." line="10" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1610522799867">
+      <file name="/Dummy.txt" timestamp="1610524836395">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -316,14 +316,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="8">
-        <text>UserModel.get().nick)</text>
+      <register name="&quot;" type="4">
+        <text>8</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>baidu</text>
