@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>version</entry>
         <entry>;</entry>
         <entry>layout</entry>
         <entry>itemSpace</entry>
@@ -27,6 +26,7 @@
         <entry>2</entry>
         <entry>R</entry>
         <entry>baidu</entry>
+        <entry encoding="base64">XDx1c2VySW5mb1w+</entry>
       </history-search>
       <history-cmd>
         <entry>222</entry>
@@ -115,44 +115,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/RelationshipListActivity.kt" timestamp="1610528416372">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="82" column="67" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/im/custom/bean/CustomAttachment.java" timestamp="1610532405016">
-        <mark key="[" line="344" column="71" />
-        <mark key="]" line="344" column="75" />
-        <mark key="." line="344" column="74" />
-        <mark key="^" line="344" column="75" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/utils/StringUtils.java" timestamp="1610526568087">
-        <mark key="'" line="6295" column="25" />
-        <mark key="[" line="7567" column="0" />
-        <mark key="]" line="7567" column="0" />
-        <mark key="^" line="6295" column="25" />
-        <mark key="." line="7567" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/bean/UserInfo.java" timestamp="1610533164341">
-        <mark key="[" line="220" column="43" />
-        <mark key="]" line="221" column="4" />
-        <mark key="^" line="221" column="4" />
-        <mark key="." line="221" column="3" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/resources/RelationResourcesChain.kt" timestamp="1610530541988">
-        <mark key="[" line="13" column="58" />
-        <mark key="]" line="15" column="8" />
-        <mark key="^" line="15" column="8" />
-        <mark key="." line="15" column="7" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/resources/RelationBromanceResourcesHandler.kt" timestamp="1610527917046">
-        <mark key="[" line="27" column="37" />
-        <mark key="]" line="27" column="62" />
-        <mark key="^" line="27" column="62" />
-        <mark key="." line="27" column="61" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/bean/RelationshipCardSendResult.java" timestamp="1610528750423" />
       <file name="/Dummy.txt" timestamp="1610528459873">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -167,14 +129,24 @@
         <mark key="^" line="29" column="16" />
         <mark key="." line="29" column="15" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/widget/TextView.java" timestamp="1610524268073" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/RelationshipListActivity.kt" timestamp="1610528416372">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="82" column="67" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/im/custom/bean/CustomAttachment.java" timestamp="1610532405016">
+        <mark key="[" line="344" column="71" />
+        <mark key="]" line="344" column="75" />
+        <mark key="." line="344" column="74" />
+        <mark key="^" line="344" column="75" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/resources/RelationCoupleResourcesHandler.kt" timestamp="1610527921731">
         <mark key="[" line="27" column="37" />
         <mark key="]" line="27" column="62" />
         <mark key="." line="27" column="61" />
         <mark key="^" line="27" column="62" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/widget/MicroView.java" timestamp="1610533118778" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/resources/RelationBestieResourcesHandler.kt" timestamp="1610527949178">
         <mark key="[" line="24" column="58" />
         <mark key="]" line="24" column="65" />
@@ -187,11 +159,30 @@
         <mark key="^" line="26" column="74" />
         <mark key="." line="26" column="73" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/data/CoupleHeadWearEffectDataManager.java" timestamp="1610533901795">
-        <mark key="[" line="121" column="40" />
-        <mark key="]" line="122" column="16" />
-        <mark key="." line="122" column="15" />
-        <mark key="^" line="122" column="16" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/utils/StringUtils.java" timestamp="1610526568087">
+        <mark key="'" line="6295" column="25" />
+        <mark key="[" line="7567" column="0" />
+        <mark key="]" line="7567" column="0" />
+        <mark key="^" line="6295" column="25" />
+        <mark key="." line="7567" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/bean/UserInfo.java" timestamp="1610533164341">
+        <mark key="[" line="220" column="43" />
+        <mark key="]" line="221" column="4" />
+        <mark key="^" line="221" column="4" />
+        <mark key="." line="221" column="3" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/data/CoupleHeadWearEffectDataManager.java" timestamp="1610593293718">
+        <mark key="[" line="148" column="60" />
+        <mark key="]" line="148" column="61" />
+        <mark key="^" line="148" column="61" />
+        <mark key="." line="148" column="60" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/resources/RelationResourcesChain.kt" timestamp="1610530541988">
+        <mark key="[" line="13" column="58" />
+        <mark key="]" line="15" column="8" />
+        <mark key="^" line="15" column="8" />
+        <mark key="." line="15" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/adapter/RelationshipAdapter.java" timestamp="1610528119575">
         <mark key="[" line="15" column="0" />
@@ -199,7 +190,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="42" column="32" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.0/2647551116856a6403d1a21e236837a7501c08a8/okhttp-3.12.0-sources.jar!/okhttp3/internal/http/RealInterceptorChain.java" timestamp="1610508652485" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/resources/RelationBromanceResourcesHandler.kt" timestamp="1610527917046">
+        <mark key="[" line="27" column="37" />
+        <mark key="]" line="27" column="62" />
+        <mark key="^" line="27" column="62" />
+        <mark key="." line="27" column="61" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/resources/IResourcesHandler.kt" timestamp="1610527396310">
         <mark key="[" line="12" column="82" />
         <mark key="]" line="12" column="82" />
@@ -208,7 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="28" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/bean/UserInfo.java" />
       <jump line="250" column="16" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/98c722f92c224b35def1bbf9db2b23af/jetified-RollViewPager-V1.0/jars/classes.jar!/com/jude/rollviewpager/RollPagerView.class" />
       <jump line="112" column="32" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/ShowPhotoActivity.java" />
       <jump line="13" column="13" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_user_center_voice.xml" />
@@ -308,21 +303,22 @@
       <jump line="419" column="6" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/utils/StringUtils.java" />
       <jump line="6295" column="25" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/utils/StringUtils.java" />
       <jump line="18" column="13" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/initial/bean/InitInfo.java" />
+      <jump line="123" column="28" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/data/CoupleHeadWearEffectDataManager.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>殊</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>殊</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>baidu</text>
+        <text encoding="base64">XDx1c2VySW5mb1w+</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -381,34 +377,34 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gaWYgKGluZGV4ID4gc1Jlc291cmNlc0hhbmRsZXJzLnNpemUpIHsKICAgICAgICAgICAgMAogICAgICAgIH0gZWxzZSBzUmVzb3VyY2VzSGFuZGxlcnNbaW5kZXgrK10KICAgICAgICAgICAgICAgIC5nZXRSZWxhdGlvbnNoaXBJdGVtQmFja2dyb3VuZFJlc291cmNlcyhyZWxhdGlvbnNoaXAsIHRoaXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5oi/5Li754m55q6K5aSE55CGCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXNlckluZm8gb3duZXJJbmZvID0gQ2hhdFJvb21FeHRVdGlsLmdldFVzZXJJbmZvKHJvb21Pd25lclF1ZXVlSW5mby5tQ2hhdFJvb21NZW1iZXIpOwogICAgICAgICAgICBsb25nIG93bmVyVWlkID0gb3duZXJJbmZvLmdldFVpZCgpOwogICAgICAgICAgICBVc2VySW5mbyBteUluZm8gPSBVc2VyTW9kZWwuZ2V0KCkuZ2V0Q2FjaGVMb2dpblVzZXJJbmZvKCk7CiAgICAgICAgICAgIGlmIChteUluZm8gIT0gbnVsbCkgewogICAgICAgICAgICAgICAgZm9yIChSZWxhdGlvbnNoaXAgcmVsYXRpb24gOiBteUluZm8uZ2V0UmVsYXRpb25Wb3MoKSkgewogICAgICAgICAgICAgICAgICAgIGlmIChyZWxhdGlvbi5nZXRSZWxhdGlvblVpZCgpID09IG93bmVyVWlkKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTcGFyc2VBcnJheTxSb29tUXVldWVJbmZvPiBtZW1iZXJNYXAgPSBBdlJvb21EYXRhTWFuYWdlci5nZXQoKS5tTWljUXVldWVNZW1iZXJNYXA7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBtZW1iZXJNYXAuc2l6ZSgpOyBpKyspIHsKICAgICAgICAgICAgUm9vbVF1ZXVlSW5mbyByb29tUXVldWVJbmZvID0gbWVtYmVyTWFwLmdldChpKTsKICAgICAgICAgICAgQ2hhdFJvb21NZW1iZXIgbWVtYmVyID0gcm9vbVF1ZXVlSW5mby5tQ2hhdFJvb21NZW1iZXI7CiAgICAgICAgICAgIGlmIChtZW1iZXIgIT0gbnVsbCAmJiBtZW1iZXIuZ2V0VXNlcklkKCkgPiAwKSB7CiAgICAgICAgICAgICAgICBVc2VySW5mbyB1c2VySW5mbyA9IENoYXRSb29tRXh0VXRpbC5nZXRVc2VySW5mbyhtZW1iZXIuZ2V0Q3VzdG9tSW5mbygpKTsKICAgICAgICAgICAgICAgIGlmICh1c2VySW5mbyAhPSBudWxsICYmIHVzZXJJbmZvLmdldExvdmVyVWlkKCkgPT0gdWlkKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVzZXJJbmZvICE9IG51bGwpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIHJlc3VsdCA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChSZWxhdGlvbnNoaXAgcmVsYXRpb24gOiBVc2VyTW9kZWwuZ2V0KCkuZ2V0Q2FjaGVMb2dpblVzZXJJbmZvKCkuZ2V0UmVsYXRpb25Wb3MoKSkgewoKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGhvbGRlci5zZXRCYWNrZ3JvdW5kUmVzb3VyY2UoUi5pZC5yb290LCBSLmRyYXdhYmxlLmJnX3JlbGF0aW9uc2hpcF90ZWFjaGVyX3N0dWRlbnRfbGFyZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGhvbGRlci5zZXRCYWNrZ3JvdW5kUmVzb3VyY2UoUi5pZC5yb290LCBSLmRyYXdhYmxlLmJnX3JlbGF0aW9uc2hpcF9iZXN0aWVfbGFyZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVzZXJJbmZvID09IG51bGwpIHsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGhvbGRlci5zZXRCYWNrZ3JvdW5kUmVzb3VyY2UoUi5pZC5yb290LCBSLmRyYXdhYmxlLmJnX3JlbGF0aW9uc2hpcF9icm9tYW5jZV9sYXJnZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIGhvbGRlci5zZXRCYWNrZ3JvdW5kUmVzb3VyY2UoUi5pZC5yb290LCBSLmRyYXdhYmxlLmJnX3JlbGF0aW9uc2hpcF9jb3VwbGVfbGFyZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXNlckluZm8gdXNlckluZm8gPSBDaGF0Um9vbUV4dFV0aWwuZ2V0VXNlckluZm8ocm9vbU93bmVyUXVldWVJbmZvLm1DaGF0Um9vbU1lbWJlcik7CiAgICAgICAgICAgIGlmICh1c2VySW5mbyAhPSBudWxsICYmIHVzZXJJbmZvLmdldExvdmVyVWlkKCkgPT0gdWlkKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>1196</text>
@@ -417,11 +413,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>baidu</last-search>
+      <last-search encoding="base64">XDx1c2VySW5mb1w+</last-search>
       <last-offset />
-      <last-pattern>baidu</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VySW5mb1w+</last-pattern>
       <last-replace>$root.ext.supportVersion</last-replace>
-      <last-substitute>28.0.0</last-substitute>
+      <last-substitute>baidu</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
