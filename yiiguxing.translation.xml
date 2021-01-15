@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="child" />
       <item value="Send Gift Success Event" />
       <item value="is Relation With Owner" />
       <item value="abbreviate" />
@@ -50,12 +51,11 @@
       <item value="seek" />
       <item value="* If the View occupies multiple spans, span with the minimum index is returned." />
       <item value="If" />
-      <item value="* Starting with RecyclerView &lt;b&gt;24.2.0&lt;/b&gt;, span indices are always indexed from position 0 * even if the layout is RTL. In a vertical GridLayoutManager, &lt;b&gt;leftmost&lt;/b&gt; span is span * 0 if the layout is &lt;b&gt;LTR&lt;/b&gt; and &lt;b&gt;rightmost&lt;/b&gt; span is span 0 if the layout is * &lt;b&gt;RTL&lt;/b&gt;. Prior to 24.2.0, it was the opposite which was conflicting with * {@link SpanSizeLookup#getSpanIndex(int, int)}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="525" />
-        <entry key="ENGLISH" value="526" />
+        <entry key="CHINESE" value="526" />
+        <entry key="ENGLISH" value="527" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="1" />
