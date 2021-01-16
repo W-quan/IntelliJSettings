@@ -170,17 +170,17 @@
         <mark key="^" line="10" column="21" />
         <mark key="." line="10" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1610768627891">
+      <file name="/Dummy.txt" timestamp="1610782787507">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/Map.java" timestamp="1610778307606" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/widget/MicroView.java" timestamp="1610782660357">
-        <mark key="[" line="355" column="105" />
-        <mark key="]" line="355" column="105" />
-        <mark key="^" line="308" column="8" />
-        <mark key="." line="355" column="105" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/widget/MicroView.java" timestamp="1610784598859">
+        <mark key="[" line="399" column="9" />
+        <mark key="]" line="400" column="8" />
+        <mark key="^" line="400" column="8" />
+        <mark key="." line="400" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/magic/MagicModel.java" timestamp="1610782224384">
         <mark key="[" line="149" column="0" />
