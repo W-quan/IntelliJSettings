@@ -115,7 +115,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1610786386161">
+      <file name="/Dummy.txt" timestamp="1610935981295">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -132,6 +132,7 @@
         <mark key="^" line="1165" column="110" />
         <mark key="." line="1165" column="100" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/im/custom/bean/CustomAttachment.java" timestamp="1610938321098" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/magic/MagicDialog.java" timestamp="1610782040210">
         <mark key="'" line="231" column="25" />
       </file>
