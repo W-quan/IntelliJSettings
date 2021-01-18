@@ -115,6 +115,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1610786386161">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/RelationshipModel.java" timestamp="1610768191926">
         <mark key="[" line="84" column="77" />
         <mark key="]" line="84" column="78" />
@@ -126,13 +131,6 @@
         <mark key="]" line="16" column="15" />
         <mark key="^" line="16" column="15" />
         <mark key="." line="16" column="14" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/androidx/swiperefreshlayout/widget/SwipeRefreshLayout.java" timestamp="1610764710017" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/manager/AvRoomDataManager.java" timestamp="1610784737275">
-        <mark key="[" line="265" column="70" />
-        <mark key="]" line="265" column="71" />
-        <mark key="." line="265" column="70" />
-        <mark key="^" line="265" column="71" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/presenter/LiveRoomPresenter.java" timestamp="1610768470500">
         <mark key="[" line="1165" column="100" />
@@ -149,6 +147,12 @@
         <mark key="^" line="9" column="42" />
         <mark key="." line="9" column="41" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/magic/MagicModel.java" timestamp="1610782224384">
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
+        <mark key="^" line="150" column="20" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/gift/event/TriggerRelationHeadWearEffectEvent.java" timestamp="1610782257506">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -158,37 +162,6 @@
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/fragment/HomePartyFragment.java" timestamp="1610766846317">
         <mark key="'" line="322" column="45" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/GiftDialog.java" timestamp="1610780579514">
-        <mark key="[" line="1660" column="64" />
-        <mark key="]" line="1660" column="64" />
-        <mark key="." line="1660" column="63" />
-        <mark key="^" line="1660" column="64" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/gift/event/SendMultiGiftSuccessEvent.java" timestamp="1610780587022">
-        <mark key="[" line="9" column="33" />
-        <mark key="]" line="10" column="21" />
-        <mark key="^" line="10" column="21" />
-        <mark key="." line="10" column="20" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1610786386161">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/Map.java" timestamp="1610778307606" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/widget/MicroView.java" timestamp="1610786185582">
-        <mark key="[" line="322" column="63" />
-        <mark key="]" line="323" column="21" />
-        <mark key="^" line="323" column="21" />
-        <mark key="." line="323" column="20" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/magic/MagicModel.java" timestamp="1610782224384">
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
-        <mark key="^" line="150" column="20" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/gift/GiftModel.java" timestamp="1610778882539" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1610767954881">
         <mark key="[" line="1479" column="87" />
         <mark key="]" line="1479" column="87" />
@@ -201,6 +174,12 @@
         <mark key="." line="38" column="73" />
         <mark key="^" line="38" column="74" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/GiftDialog.java" timestamp="1610780579514">
+        <mark key="[" line="1660" column="64" />
+        <mark key="]" line="1660" column="64" />
+        <mark key="." line="1660" column="63" />
+        <mark key="^" line="1660" column="64" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/widget/callback/RoomGiftDialogClick.java" timestamp="1610782211959">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -208,6 +187,12 @@
       </file>
       <file name="/fragment.java" timestamp="1610767670107">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/gift/event/SendMultiGiftSuccessEvent.java" timestamp="1610780587022">
+        <mark key="[" line="9" column="33" />
+        <mark key="]" line="10" column="21" />
+        <mark key="^" line="10" column="21" />
+        <mark key="." line="10" column="20" />
       </file>
     </filemarks>
     <jumps>
