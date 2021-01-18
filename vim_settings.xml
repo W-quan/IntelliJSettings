@@ -115,19 +115,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/relationship/viewholder/ReceiveCoupleCardViewHolder.java" timestamp="1610961538158">
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/relationship/viewholder/ReceiveCoupleCardViewHolder.java" timestamp="1610962842271">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="123" column="0" />
         <mark key="^" line="98" column="81" />
-        <mark key="." line="122" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/bean/RelationshipCardSendResult.java" timestamp="1610960949820">
-        <mark key="[" line="70" column="15" />
-        <mark key="]" line="70" column="19" />
-        <mark key="^" line="70" column="19" />
-        <mark key="." line="70" column="18" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/bean/RelationshipCardSendResult.java" timestamp="1610961694665">
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="46" column="23" />
+        <mark key="^" line="46" column="23" />
+        <mark key="." line="46" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1610954636108">
+      <file name="/Dummy.txt" timestamp="1610962882058">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
