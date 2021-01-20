@@ -115,7 +115,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1611129653008">
+      <file name="/Dummy.txt" timestamp="1611130848571">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -126,11 +126,11 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="54" column="53" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/UserInfoFragment.java" timestamp="1611130818064">
-        <mark key="[" line="93" column="47" />
-        <mark key="]" line="93" column="70" />
-        <mark key="." line="93" column="69" />
-        <mark key="^" line="93" column="70" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/UserInfoFragment.java" timestamp="1611130837353">
+        <mark key="[" line="15" column="47" />
+        <mark key="]" line="15" column="70" />
+        <mark key="." line="15" column="69" />
+        <mark key="^" line="15" column="70" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/RelationshipModel.java" timestamp="1611051520205">
         <mark key="'" line="22" column="13" />
@@ -173,7 +173,6 @@
         <mark key="[" line="19" column="52" />
         <mark key="]" line="19" column="52" />
         <mark key="." line="19" column="52" />
-        <mark key="^" line="29" column="36" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/List.java" timestamp="1611125555336" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/diff_src_erban/java/com/yizhuan/xchat_android_core/UriProvider.java" timestamp="1611054688742">
