@@ -176,10 +176,10 @@
         <mark key="." line="51" column="52" />
         <mark key="^" line="51" column="52" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_relationship.xml" timestamp="1611129643683">
-        <mark key="[" line="19" column="52" />
-        <mark key="]" line="19" column="52" />
-        <mark key="." line="19" column="52" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_relationship.xml" timestamp="1611219451183">
+        <mark key="[" line="74" column="35" />
+        <mark key="]" line="74" column="37" />
+        <mark key="." line="74" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/diff_src_erban/java/com/yizhuan/xchat_android_core/UriProvider.java" timestamp="1611054688742">
         <mark key="'" line="585" column="25" />
@@ -317,8 +317,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>昵称</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
@@ -382,8 +382,8 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocmVzcG9uZEluZm8uZ2V0UmVsYXRpb25UeXBlKCkgPT0gUmVsYXRpb25zaGlwQXR0YWNobWVudC5SRUxBVElPTlNISVBfVFlQRV9CRUNPTUVfU1RVREVOVCkgewogICAgICAgICAgICAgICAgICAgICAgICBpdkhlYWRXZWFyTGVmdC5zZXRJbWFnZVJlc291cmNlKFIuZHJhd2FibGUuaWNfcmVsYXRpb25fd2Vhcl9zdHVkZW50KTsKICAgICAgICAgICAgICAgICAgICAgICAgaXZIZWFkV2VhclJpZ2h0LnNldEltYWdlUmVzb3VyY2UoUi5kcmF3YWJsZS5pY19yZWxhdGlvbl93ZWFyX3RlYWNoZXIpOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>昵称</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
