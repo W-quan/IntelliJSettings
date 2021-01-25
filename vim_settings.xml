@@ -127,6 +127,9 @@
         <mark key="." line="79" column="60" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/adapter/message/MessageViewAdapter.java" timestamp="1611556004905" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/gift/bean/GiftType.java" timestamp="1611557261328">
+        <mark key="'" line="10" column="13" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/activity_p2p_message.xml" timestamp="1611055802862">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -214,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="17" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendAdapter.java" />
       <jump line="602" column="35" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendAdapter.java" />
       <jump line="584" column="35" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendAdapter.java" />
       <jump line="44" column="65" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeAlbumAudioAdapter.java" />
@@ -314,6 +316,7 @@
       <jump line="22" column="13" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/RelationshipModel.java" />
       <jump line="585" column="25" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/diff_src_erban/java/com/yizhuan/xchat_android_core/UriProvider.java" />
       <jump line="130" column="16" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/widget/GiftV2View.java" />
+      <jump line="10" column="13" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/gift/bean/GiftType.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
