@@ -190,6 +190,9 @@
         <mark key="^" line="91" column="67" />
         <mark key="." line="91" column="66" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/widget/GiftV2View.java" timestamp="1611544497223">
+        <mark key="'" line="130" column="16" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/adapter/RelationshipAdapter.java" timestamp="1611125718787">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -210,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendAdapter.java" />
       <jump line="143" column="17" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendAdapter.java" />
       <jump line="602" column="35" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendAdapter.java" />
       <jump line="584" column="35" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendAdapter.java" />
@@ -310,6 +312,7 @@
       <jump line="210" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/manager/RoomEvent.java" />
       <jump line="22" column="13" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/RelationshipModel.java" />
       <jump line="585" column="25" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/diff_src_erban/java/com/yizhuan/xchat_android_core/UriProvider.java" />
+      <jump line="130" column="16" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/widget/GiftV2View.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
