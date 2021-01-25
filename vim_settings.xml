@@ -115,14 +115,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/data/RelationshipHeadWearEffectDataManager.java" timestamp="1611196489957">
-        <mark key="[" line="79" column="26" />
-        <mark key="]" line="79" column="61" />
-        <mark key="^" line="79" column="61" />
-        <mark key="." line="79" column="60" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/adapter/message/MessageViewAdapter.java" timestamp="1611556004905" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/text/Html.java" timestamp="1611560761800" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/gift/bean/MultiGiftReceiveInfo.java" timestamp="1611563493735">
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="18" column="25" />
+        <mark key="^" line="18" column="25" />
+        <mark key="." line="18" column="24" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/RelationshipListActivity.kt" timestamp="1611543097521">
         <mark key="." line="77" column="28" />
       </file>
@@ -183,11 +183,11 @@
         <mark key="." line="328" column="11" />
         <mark key="^" line="328" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1611562477252">
-        <mark key="[" line="1693" column="20" />
-        <mark key="]" line="1693" column="21" />
-        <mark key="." line="1693" column="20" />
-        <mark key="^" line="1693" column="21" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1611563742423">
+        <mark key="[" line="1699" column="24" />
+        <mark key="]" line="1699" column="30" />
+        <mark key="." line="1699" column="29" />
+        <mark key="^" line="1699" column="30" />
       </file>
       <file name="/fragment.java" timestamp="1611562193918">
         <mark key="[" line="0" column="0" />
@@ -299,13 +299,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>giftReceiveInfo</text>
+        <text>gift</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>giftReceiveInfo</text>
+        <text>gift</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VySW5mb1w+</text>
