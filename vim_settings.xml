@@ -183,11 +183,11 @@
         <mark key="." line="328" column="11" />
         <mark key="^" line="328" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1611563742423">
-        <mark key="[" line="1699" column="24" />
-        <mark key="]" line="1699" column="30" />
-        <mark key="." line="1699" column="29" />
-        <mark key="^" line="1699" column="30" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1611564698020">
+        <mark key="[" line="1695" column="16" />
+        <mark key="]" line="1695" column="25" />
+        <mark key="." line="1695" column="24" />
+        <mark key="^" line="1695" column="25" />
       </file>
       <file name="/fragment.java" timestamp="1611562193918">
         <mark key="[" line="0" column="0" />
@@ -299,13 +299,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>gift</text>
+        <text>)</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>gift</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VySW5mb1w+</text>
@@ -364,7 +364,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3dHaWZ0SW5mbygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyaW5nID0gZ2V0U3RyaW5nKFIuc3RyaW5nLmxpdmVfcm9vbV9naWZ0X2luZm8sCiAgICAgICAgICAgICAgICBnaWZ0LmdldE5pY2soKSwKICAgICAgICAgICAgICAgIGdpZnQuZ2V0VGFyZ2V0TmljaygpLAogICAgICAgICAgICAgICAgZ2lmdC5nZXRHaWZ0SW5mbygpLmdldEdpZnROYW1lKCksCiAgICAgICAgICAgICAgICBnaWZ0LmdldEdpZnROdW0oKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBzaG93R2lmdEluZm8oR2lmdFJlY2VpdmVJbmZvIGdpZnRSZWNlaXZlSW5mbyl7CiAgICAgICAgU3RyaW5nIHN0cmluZyA9IGdldFN0cmluZyhSLnN0cmluZy5saXZlX3Jvb21fZ2lmdF9pbmZvLAogICAgICAgICAgICAgICAgZ2lmdFJlY2VpdmVJbmZvLmdldE5pY2soKSwKICAgICAgICAgICAgICAgIGdpZnRSZWNlaXZlSW5mby5nZXRUYXJnZXROaWNrKCksCiAgICAgICAgICAgICAgICBnaWZ0UmVjZWl2ZUluZm8uZ2V0R2lmdEluZm8oKS5nZXRHaWZ0TmFtZSgpLAogICAgICAgICAgICAgICAgZ2lmdFJlY2VpdmVJbmZvLmdldEdpZnROdW0oKSk7CgogICAgICAgIG1UdkdpZnRJbmZvLnNldFRleHQoSHRtbENvbXBhdC5mcm9tSHRtbChzdHJpbmcsIEh0bWxDb21wYXQuRlJPTV9IVE1MX01PREVfQ09NUEFDVCkpOwogICAgfQoK</text>
