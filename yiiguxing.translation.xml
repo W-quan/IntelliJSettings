@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="全部礼物" />
       <item value="FROM HTML MODE COMPACT" />
       <item value="FROM HTML SEPARATOR LINE BREAK HEADING" />
       <item value="FROM HTML SEPARATOR LINE BREAK PARAGRAPH" />
@@ -50,11 +51,10 @@
       <item value="* &lt;p&gt;As of {@link android.os.Build.VERSION_CODES#KITKAT}, the result of this method can * no longer be used to determine memory usage of a bitmap. See {@link" />
       <item value="* Returns the minimum number of bytes that can be used to store this bitmap's pixels." />
       <item value="* Return the number of bytes between rows in the bitmap's pixels. Note that * this refers to the pixels as stored natively by the bitmap. If you call * getPixels() or setPixels(), then the pixels are uniformly treated as * 32bit values, packed according to the Color class." />
-      <item value="* Used internally to set the containing binding for an included binding to this." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="530" />
+        <entry key="CHINESE" value="531" />
         <entry key="ENGLISH" value="531" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
