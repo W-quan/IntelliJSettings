@@ -115,8 +115,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.4.21/190d6665fb0dd88bfeb42cca86e568a1c9bfa4e3/kotlin-stdlib-common-1.4.21-sources.jar!/generated/_Collections.kt" timestamp="1611651165290" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/widget/Filter.java" timestamp="1611650166080" />
+      <file name="/Dummy.txt" timestamp="1611652085124">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/dialog/ReceivedGiftDialog.kt" timestamp="1611715036082">
+        <mark key="[" line="81" column="59" />
+        <mark key="]" line="82" column="28" />
+        <mark key="." line="82" column="27" />
+        <mark key="^" line="82" column="28" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/menu/menu_received_gift_filter.xml" timestamp="1611652378477">
         <mark key="[" line="7" column="46" />
         <mark key="]" line="10" column="4" />
@@ -129,30 +138,6 @@
         <mark key="^" line="644" column="67" />
         <mark key="." line="644" column="66" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.4.21/243af1040cd400e4267d0b6909977d34d9d5770a/kotlin-stdlib-1.4.21-sources.jar!/kotlin/Collections.kt" timestamp="1611651481561" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/values/styles.xml" timestamp="1611656127222">
-        <mark key="[" line="26" column="44" />
-        <mark key="]" line="26" column="63" />
-        <mark key="^" line="26" column="63" />
-        <mark key="." line="26" column="62" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.CymChad/BaseRecyclerViewAdapterHelper/3.0.4/390120ce29d463702a3f7070e46fa290ee09a6f6/BaseRecyclerViewAdapterHelper-3.0.4-sources.jar!/com/chad/library/adapter/base/BaseQuickAdapter.kt" timestamp="1611649124982" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/GiftDialog.java" timestamp="1611656484818" />
-      <file name="/Dummy.txt" timestamp="1611652085124">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9695210ce34760c21ed478653168dcbe/constraintlayout-1.1.3/jars/classes.jar!/androidx/constraintlayout/widget/ConstraintLayout.class" timestamp="1611648735537" />
-      <file name="$USER_HOME$/Library/Android/sdk/platforms/android-28/data/res/values/styles_material.xml" timestamp="1611654499883" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/dialog/ReceivedGiftDialog.kt" timestamp="1611657005590">
-        <mark key="[" line="90" column="23" />
-        <mark key="]" line="90" column="28" />
-        <mark key="." line="90" column="27" />
-        <mark key="^" line="90" column="28" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0/13e8ff89631c2e101eb6bddd12c2fb4bbd74b15d/appcompat-1.2.0-sources.jar!/androidx/appcompat/widget/PopupMenu.java" timestamp="1611654632382" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/widget/PopupMenu.java" timestamp="1611651683881" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d795a4bfa7ace54be14944e4a8e3a9d/appcompat-1.2.0/res/values/values.xml" timestamp="1611654847343">
         <mark key="[" line="1173" column="0" />
         <mark key="]" line="1173" column="88" />
@@ -168,6 +153,12 @@
         <mark key="]" line="272" column="47" />
         <mark key="^" line="272" column="47" />
         <mark key="." line="272" column="46" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/values/styles.xml" timestamp="1611656127222">
+        <mark key="[" line="26" column="44" />
+        <mark key="]" line="26" column="63" />
+        <mark key="^" line="26" column="63" />
+        <mark key="." line="26" column="62" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/values/hello_styles.xml" timestamp="1611654505571">
         <mark key="[" line="28" column="0" />
