@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="predicate" />
+      <item value="* @param gravity The {@link Gravity} value for aligning the popup with its * anchor." />
+      <item value="* @param popupStyleAttr An attribute in the current theme that contains a * reference to a style resource that supplies default values for * the popup window. Can be 0 to not look for defaults." />
+      <item value="ten" />
+      <item value="* A generic ordered collection of elements that supports adding and removing elements. * @param E the type of elements contained in the list. The mutable list is invariant in its element type." />
+      <item value="mutable" />
       <item value="give to" />
       <item value="送给" />
       <item value="hour" />
@@ -45,17 +51,12 @@
       <item value="/** We want to switch from the disk cache service to the source executor. */" />
       <item value="INITIALIZE" />
       <item value="// When we're encoding we've already notified our callback and it isn't safe to do so again." />
-      <item value="* Tries to intelligently choose a strategy based on the data source of the {@link" />
-      <item value="/** Writes resources to disk after they've been decoded. */" />
-      <item value="/** Writes retrieved data directly to the disk cache before it's decoded. */" />
-      <item value="* &lt;p&gt;This value will not change over the lifetime of a Bitmap.&lt;/p&gt;" />
-      <item value="* &lt;p&gt;This can be larger than the result of {@link #getByteCount()} if a bitmap is reused to * decode other bitmaps of smaller size, or by manual reconfiguration. See {@link * #reconfigure(int, int, Config)}, {@link #setWidth(int)}, {@link #setHeight(int)}, {@link * #setConfig(Bitmap.Config)}, and {@link BitmapFactory.Options#inBitmap * BitmapFactory.Options.inBitmap}. If a bitmap is not modified in this way, this value will be * the same as that returned by {@link #getByteCount()}.&lt;/p&gt; *" />
-      <item value="* Returns the size of the allocated memory used to store this bitmap's pixels." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="532" />
-        <entry key="ENGLISH" value="533" />
+        <entry key="CHINESE" value="537" />
+        <entry key="ENGLISH" value="538" />
+        <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="1" />
