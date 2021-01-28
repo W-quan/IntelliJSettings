@@ -118,22 +118,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1611816674387">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.4.21/190d6665fb0dd88bfeb42cca86e568a1c9bfa4e3/kotlin-stdlib-common-1.4.21-sources.jar!/kotlin/util/Lazy.kt" timestamp="1611804528504" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/data/RoomData.java" timestamp="1611822352614">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="92" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/dialog/ReceivedGiftDialog.kt" timestamp="1611816639063">
-        <mark key="[" line="48" column="47" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="55" column="16" />
-      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/magic/bean/MagicResponseInfo.java" timestamp="1611738738052">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="34" column="4" />
@@ -153,32 +137,12 @@
         <mark key="^" line="15" column="56" />
         <mark key="." line="15" column="55" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/presenter/AvRoomPresenter.java" timestamp="1611732251519">
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="71" />
-        <mark key="." line="159" column="0" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.4.21/190d6665fb0dd88bfeb42cca86e568a1c9bfa4e3/kotlin-stdlib-common-1.4.21-sources.jar!/kotlin/collections/Collections.kt" timestamp="1611804342706" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.robinhood.ticker/ticker/2.0.2/d2b43777a33959e93be0faf7bc8878477ec5a3f4/ticker-2.0.2-sources.jar!/com/robinhood/ticker/TickerView.java" timestamp="1611802515021" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/manager/ChatRoomManager.java" timestamp="1611741236390">
         <mark key="[" line="487" column="0" />
         <mark key="]" line="487" column="0" />
         <mark key="^" line="615" column="38" />
         <mark key="." line="487" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/pk/model/PkModel.java" timestamp="1611736530427">
-        <mark key="'" line="122" column="43" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/gift/GiftModel.java" timestamp="1611822366572">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="^" line="470" column="50" />
-        <mark key="." line="153" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/event/ShowUserDialogEvent.java" timestamp="1611815827641">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/fragment_room_content.xml" timestamp="1611802127612">
         <mark key="[" line="167" column="0" />
@@ -191,10 +155,42 @@
         <mark key="." line="228" column="179" />
         <mark key="^" line="228" column="180" />
       </file>
+      <file name="/Dummy.txt" timestamp="1611816674387">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.4.21/190d6665fb0dd88bfeb42cca86e568a1c9bfa4e3/kotlin-stdlib-common-1.4.21-sources.jar!/kotlin/util/Lazy.kt" timestamp="1611804528504" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/data/RoomData.java" timestamp="1611822352614">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="92" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/dialog/ReceivedGiftDialog.kt" timestamp="1611816639063">
+        <mark key="[" line="48" column="47" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="55" column="16" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.robinhood.ticker/ticker/2.0.2/d2b43777a33959e93be0faf7bc8878477ec5a3f4/ticker-2.0.2-sources.jar!/com/robinhood/ticker/TickerView.java" timestamp="1611802515021" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/pk/model/PkModel.java" timestamp="1611736530427">
+        <mark key="'" line="122" column="43" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/gift/GiftModel.java" timestamp="1611823273647">
+        <mark key="[" line="158" column="47" />
+        <mark key="]" line="158" column="77" />
+        <mark key="^" line="158" column="77" />
+        <mark key="." line="158" column="76" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/event/ShowUserDialogEvent.java" timestamp="1611815827641">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1611803325040">
         <mark key="'" line="2036" column="40" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/auth/AuthModel.java" timestamp="1611806254914" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-core/2.2.0/6dcd7f31093b360c4a8bced748159e6fd237ba52/lifecycle-livedata-core-2.2.0-sources.jar!/androidx/lifecycle/LiveData.java" timestamp="1611823239819" />
     </filemarks>
     <jumps>
       <jump line="1668" column="26" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" />
@@ -302,7 +298,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTXV0YWJsZUxpdmVEYXRhPFVzZXJJbmZvLlVzZXJNZWRhbEJlYW4+IHJvb21NZWRhbERhdGEgPSBuZXcgTXV0YWJsZUxpdmVEYXRhPD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
@@ -370,34 +366,34 @@
         <text encoding="base64">ICAgIHByaXZhdGUgTXV0YWJsZUxpdmVEYXRhPFVzZXJJbmZvLlVzZXJNZWRhbEJlYW4+IHJvb21NZWRhbERhdGEgPSBuZXcgTXV0YWJsZUxpdmVEYXRhPD4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTXV0YWJsZUxpdmVEYXRhPFVzZXJJbmZvLlVzZXJNZWRhbEJlYW4+IHJvb21NZWRhbERhdGEgPSBuZXcgTXV0YWJsZUxpdmVEYXRhPD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBVc2VySW5mb0RpYWxvZyhjb250ZXh0LCBpdGVtLnVpZCkuc2hvdygpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTXV0YWJsZUxpdmVEYXRhPFVzZXJJbmZvLlVzZXJNZWRhbEJlYW4+IHJvb21NZWRhbERhdGEgPSBuZXcgTXV0YWJsZUxpdmVEYXRhPD4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBVc2VySW5mb0RpYWxvZyhjb250ZXh0LCBpdGVtLnVpZCkuc2hvdygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWx0ZXJEYXRhLmlzTnVsbE9yRW1wdHkoKQo=</text>
+        <text encoding="base64">QEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iIi5oYW5rcy5odGV4dHZpZXcuZXZhcG9yYXRlLkV2YXBvcmF0ZVRleHRWaWV3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWx0ZXJEYXRhLmlzTnVsbE9yRW1wdHkoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtVHZHaWZ0SW5mby5hbmltYXRlVGV4dCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iIi5oYW5rcy5odGV4dHZpZXcuZXZhcG9yYXRlLkV2YXBvcmF0ZVRleHRWaWV3Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaWYgKCF0aGlzOjplYXN5UG9wdXAuaXNJbml0aWFsaXplZCkgewovLyAgICAgICAgICAgICAgICAgICAgZWFzeVBvcHVwID0gRWFzeVBvcHVwKGNvbnRleHQpCi8vICAgICAgICAgICAgICAgICAgICAgICAgLnNldENvbnRlbnRWaWV3KFIubGF5b3V0LnBvcHVwX3dpbmRvd19yZWNlaXZlZF9naWZ0X2ZpbHRlcikKLy8gICAgICAgICAgICAgICAgICAgICAgICAuc2V0V2lkdGgoU2NyZWVuVXRpbC5kaXAycHgoMTAwZikpCi8vICAgICAgICAgICAgICAgICAgICAgICAgLnNldE9uVmlld0xpc3RlbmVyIHsgXywgZWFzeVBvcHVwIC0+Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVhc3lQb3B1cC5maW5kVmlld0J5SWQ8Vmlldz4oUi5pZC50dl9maWx0ZXJfaXRlbV9hbGwpCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2V0T25DbGlja0xpc3RlbmVyKGZpbHRlckl0ZW1DbGlja0xpc3RlbmVyKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBlYXN5UG9wdXAuZmluZFZpZXdCeUlkPFZpZXc+KFIuaWQudHZfZmlsdGVyX2l0ZW1fbW9yZV90aGFuX3RlbikKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRPbkNsaWNrTGlzdGVuZXIoZmlsdGVySXRlbUNsaWNrTGlzdGVuZXIpCi8vICAgICAgICAgICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICAgICAgICAgIC5hcHBseSgpCi8vICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBtVHZHaWZ0SW5mby5hbmltYXRlVGV4dCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaWYgKCF0aGlzOjplYXN5UG9wdXAuaXNJbml0aWFsaXplZCkgewovLyAgICAgICAgICAgICAgICAgICAgZWFzeVBvcHVwID0gRWFzeVBvcHVwKGNvbnRleHQpCi8vICAgICAgICAgICAgICAgICAgICAgICAgLnNldENvbnRlbnRWaWV3KFIubGF5b3V0LnBvcHVwX3dpbmRvd19yZWNlaXZlZF9naWZ0X2ZpbHRlcikKLy8gICAgICAgICAgICAgICAgICAgICAgICAuc2V0V2lkdGgoU2NyZWVuVXRpbC5kaXAycHgoMTAwZikpCi8vICAgICAgICAgICAgICAgICAgICAgICAgLnNldE9uVmlld0xpc3RlbmVyIHsgXywgZWFzeVBvcHVwIC0+Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVhc3lQb3B1cC5maW5kVmlld0J5SWQ8Vmlldz4oUi5pZC50dl9maWx0ZXJfaXRlbV9hbGwpCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2V0T25DbGlja0xpc3RlbmVyKGZpbHRlckl0ZW1DbGlja0xpc3RlbmVyKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBlYXN5UG9wdXAuZmluZFZpZXdCeUlkPFZpZXc+KFIuaWQudHZfZmlsdGVyX2l0ZW1fbW9yZV90aGFuX3RlbikKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRPbkNsaWNrTGlzdGVuZXIoZmlsdGVySXRlbUNsaWNrTGlzdGVuZXIpCi8vICAgICAgICAgICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICAgICAgICAgIC5hcHBseSgpCi8vICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhZGFwdGVyLnNldEVtcHR5VmlldyhSLmxheW91dC5pdGVtX3JlY2VpdmVkX2dpZnRfZW1wdHkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1196</text>
