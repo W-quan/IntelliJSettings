@@ -133,11 +133,11 @@
         <mark key="." line="159" column="18" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.4.21/190d6665fb0dd88bfeb42cca86e568a1c9bfa4e3/kotlin-stdlib-common-1.4.21-sources.jar!/kotlin/util/Lazy.kt" timestamp="1611804528504" />
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/dialog/ReceivedGiftDialog.kt" timestamp="1611804507006">
-        <mark key="[" line="29" column="44" />
-        <mark key="]" line="29" column="70" />
-        <mark key="." line="29" column="69" />
-        <mark key="^" line="29" column="70" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/dialog/ReceivedGiftDialog.kt" timestamp="1611805844223">
+        <mark key="[" line="52" column="40" />
+        <mark key="]" line="51" column="28" />
+        <mark key="." line="51" column="27" />
+        <mark key="^" line="51" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/magic/bean/MagicResponseInfo.java" timestamp="1611738738052">
         <mark key="[" line="32" column="0" />
@@ -302,14 +302,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWx0ZXJEYXRhLmlzTnVsbE9yRW1wdHkoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VySW5mb1w+</text>
