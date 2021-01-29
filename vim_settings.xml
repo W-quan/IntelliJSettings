@@ -118,7 +118,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1611890061657">
+      <file name="/Dummy.txt" timestamp="1611902492106">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -161,8 +161,11 @@
         <mark key="." line="182" column="59" />
         <mark key="^" line="182" column="60" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1611902342229">
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1611902430413">
         <mark key="[" line="363" column="61" />
+        <mark key="]" line="1708" column="37" />
+        <mark key="^" line="1708" column="37" />
+        <mark key="." line="1708" column="36" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-core/2.2.0/6dcd7f31093b360c4a8bced748159e6fd237ba52/lifecycle-livedata-core-2.2.0-sources.jar!/androidx/lifecycle/LiveData.java" timestamp="1611887470347" />
     </filemarks>
