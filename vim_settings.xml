@@ -125,14 +125,14 @@
         <mark key="." line="5" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/im/custom/bean/CustomAttachment.java" timestamp="1611818801411" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/ArrayList.java" timestamp="1611826092594" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/ArrayList.java" timestamp="1611827839838" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_received_gift_empty.xml" timestamp="1611742664933">
         <mark key="[" line="11" column="58" />
         <mark key="]" line="15" column="56" />
         <mark key="^" line="15" column="56" />
         <mark key="." line="15" column="55" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.4.21/190d6665fb0dd88bfeb42cca86e568a1c9bfa4e3/kotlin-stdlib-common-1.4.21-sources.jar!/kotlin/collections/Collections.kt" timestamp="1611804342706" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.4.21/190d6665fb0dd88bfeb42cca86e568a1c9bfa4e3/kotlin-stdlib-common-1.4.21-sources.jar!/kotlin/collections/Collections.kt" timestamp="1611828467597" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/fragment_room_content.xml" timestamp="1611802127612">
         <mark key="[" line="167" column="0" />
         <mark key="]" line="167" column="0" />
@@ -148,17 +148,15 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="92" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/MainActivity.java" timestamp="1611827212103">
-        <mark key="[" line="361" column="35" />
-        <mark key="]" line="362" column="39" />
-        <mark key="^" line="362" column="39" />
-        <mark key="." line="362" column="38" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/MainActivity.java" timestamp="1611827896671">
+        <mark key="[" line="357" column="0" />
+        <mark key="]" line="357" column="0" />
+        <mark key="." line="357" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/dialog/ReceivedGiftDialog.kt" timestamp="1611816639063">
-        <mark key="[" line="48" column="47" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="55" column="16" />
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/dialog/ReceivedGiftDialog.kt" timestamp="1611829900274">
+        <mark key="]" line="52" column="12" />
+        <mark key="^" line="52" column="12" />
+        <mark key="." line="52" column="11" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.robinhood.ticker/ticker/2.0.2/d2b43777a33959e93be0faf7bc8878477ec5a3f4/ticker-2.0.2-sources.jar!/com/robinhood/ticker/TickerView.java" timestamp="1611802515021" />
       <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/gift/GiftModel.java" timestamp="1611823273647">
@@ -285,14 +283,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwMDA7IGkrKykgewogICAgICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IGxpc3Quc2l6ZSgpOyBqKyspIHsKICAgICAgICAgICAgICAgIExvZy5kKFRBRywgIm9uQ3JlYXRlOiAiICsgaik7CiAgICAgICAgICAgICAgICBsaXN0LnJlbW92ZShqKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>&quot;b&quot;</text>
       </register>
       <register name="*" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text>&quot;b&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VySW5mb1w+</text>
@@ -354,34 +352,34 @@
         <text encoding="base64">ICAgIHByaXZhdGUgTXV0YWJsZUxpdmVEYXRhPFVzZXJJbmZvLlVzZXJNZWRhbEJlYW4+IHJvb21NZWRhbERhdGEgPSBuZXcgTXV0YWJsZUxpdmVEYXRhPD4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwMDA7IGkrKykgewogICAgICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IGxpc3Quc2l6ZSgpOyBqKyspIHsKICAgICAgICAgICAgICAgIExvZy5kKFRBRywgIm9uQ3JlYXRlOiAiICsgaik7CiAgICAgICAgICAgICAgICBsaXN0LnJlbW92ZShqKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBsaXN0LnJlbW92ZUlme3MgLT4gImIiID09IHMgfQogICAgICAgIGxpc3QucmVtb3ZlSWYoKWZpbHRlclRvKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5hZGQoaSk7CiAgICAgICAgICAgIGxpc3QuYWRkKGkrMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaXN0LmZpbHRlciB7ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKHMgaW4gbGlzdCkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChqID09IDEpIHsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKHMgaW4gbGlzdCkgewogICAgICAgICAgICBpZiAoImIiID09IHMpIHsKICAgICAgICAgICAgICAgIGxpc3QucmVtb3ZlKHMpCiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IGxpc3Quc2l6ZSgpOyBqKyspIHsKICAgICAgICAgICAgTG9nLmQoVEFHLCAib25DcmVhdGU6ICIgKyBqKTsKICAgICAgICAgICAgaWYgKGogJSAyID09IDApIHsKICAgICAgICAgICAgICAgIGxpc3QucmVtb3ZlKGxpc3QuZ2V0KGopKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCJiIiA9PSBzKSB7CiAgICAgICAgICAgICAgICBsaXN0LnJlbW92ZShzKQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKEludGVnZXIgaW50ZWdlciA6IGxpc3QpIHsKICAgICAgICAgICAgaWYgKGludGVnZXIgPT0gOTk5KSB7CiAgICAgICAgICAgICAgICBsaXN0LnJlbW92ZShpbnRlZ2VyKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGkgPSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IGxpc3Quc2l6ZSgpOyBqKyspIHsKICAgICAgICAgICAgaWYgKGogJSAyID09IDApIHsKICAgICAgICAgICAgICAgIGxpc3QucmVtb3ZlKCkKICAgICAgICAgICAgfQoKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2xpc3QuYWRkKCJlIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoZGlhbzogJHMiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>1196</text>
