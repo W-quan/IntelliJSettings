@@ -1,0 +1,9 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="Console.Execute.Multiline" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorSplitLine" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="ViewSource" />
+</keymap>

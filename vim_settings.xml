@@ -1,0 +1,398 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>;</entry>
+        <entry>layout</entry>
+        <entry>itemSpace</entry>
+        <entry>)</entry>
+        <entry>test</entry>
+        <entry>alert</entry>
+        <entry>vlc</entry>
+        <entry>git clone</entry>
+        <entry>cloning into</entry>
+        <entry>v18</entry>
+        <entry>libtool</entry>
+        <entry>map</entry>
+        <entry>9</entry>
+        <entry>1</entry>
+        <entry>3</entry>
+        <entry>6</entry>
+        <entry>2</entry>
+        <entry>R</entry>
+        <entry>baidu</entry>
+        <entry encoding="base64">XDx1c2VySW5mb1w+</entry>
+      </history-search>
+      <history-cmd>
+        <entry>222</entry>
+        <entry>254</entry>
+        <entry>121</entry>
+        <entry>330</entry>
+        <entry>230</entry>
+        <entry>162</entry>
+        <entry>209</entry>
+        <entry>780</entry>
+        <entry>783</entry>
+        <entry>200</entry>
+        <entry>858</entry>
+        <entry>863</entry>
+        <entry>188</entry>
+        <entry>281</entry>
+        <entry>406</entry>
+        <entry>719</entry>
+        <entry>408</entry>
+        <entry>198</entry>
+        <entry>712</entry>
+        <entry>1196</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1611902492106">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/data/RoomData.java" timestamp="1611822352614">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="92" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/MainActivity.java" timestamp="1611827896671">
+        <mark key="[" line="357" column="0" />
+        <mark key="]" line="357" column="0" />
+        <mark key="." line="357" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/dialog/ReceivedGiftDialog.kt" timestamp="1611905076859">
+        <mark key="[" line="123" column="17" />
+        <mark key="]" line="124" column="16" />
+        <mark key="." line="124" column="15" />
+        <mark key="^" line="124" column="16" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/gift/bean/ReceivedGiftHistory.kt" timestamp="1611805906081">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/gift/IGiftModel.java" timestamp="1611889059796">
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="46" column="20" />
+        <mark key="^" line="46" column="45" />
+        <mark key="." line="46" column="20" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/event/ShowUserDialogEvent.java" timestamp="1611815827641">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/res/layout/fragment_room_content.xml" timestamp="1611905351356">
+        <mark key="[" line="182" column="56" />
+        <mark key="]" line="182" column="60" />
+        <mark key="." line="182" column="59" />
+        <mark key="^" line="182" column="60" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" timestamp="1611903110598">
+        <mark key="[" line="1908" column="49" />
+        <mark key="]" line="1908" column="39" />
+        <mark key="^" line="1908" column="39" />
+        <mark key="." line="1908" column="38" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-core/2.2.0/6dcd7f31093b360c4a8bced748159e6fd237ba52/lifecycle-livedata-core-2.2.0-sources.jar!/androidx/lifecycle/LiveData.java" timestamp="1611887470347" />
+    </filemarks>
+    <jumps>
+      <jump line="1668" column="26" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" />
+      <jump line="309" column="32" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/widget/RoomOwnerView.java" />
+      <jump line="104" column="39" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/base/AbstractMvpPresenter.java" />
+      <jump line="199" column="45" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/UserModel.java" />
+      <jump line="31" column="18" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/bean/LoverInfo.java" />
+      <jump line="885" column="75" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/UserModel.java" />
+      <jump line="22" column="17" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/IUserModel.java" />
+      <jump line="160" column="27" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/bean/RoomMedal.java" />
+      <jump line="75" column="9" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/bean/RoomMedal.java" />
+      <jump line="400" column="20" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" />
+      <jump line="470" column="43" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" />
+      <jump line="608" column="33" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" />
+      <jump line="21" column="51" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/dialog_bottom_gift.xml" />
+      <jump line="35" column="16" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/dialog_bottom_gift.xml" />
+      <jump line="28" column="13" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/statistic/StatisticManager.java" />
+      <jump line="308" column="8" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/statistic/protocol/StatisticsProtocol.java" />
+      <jump line="297" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/DecorationStoreActivity.java" />
+      <jump line="431" column="18" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/UserCenterFragment.java" />
+      <jump line="1005" column="4" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/model/RoomBaseModel.java" />
+      <jump line="77" column="6" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/model/RoomBaseModel.java" />
+      <jump line="1006" column="9" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/model/RoomBaseModel.java" />
+      <jump line="16" column="17" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/model_room/java/com/yizhuan/xchat_android_core/room/bean/IRoomHttpBaseModel.java" />
+      <jump line="68" column="60" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/model/RoomBaseModel.java" />
+      <jump line="995" column="10" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/model/RoomBaseModel.java" />
+      <jump line="233" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/fragment/NewHomeFragment.java" />
+      <jump line="166" column="21" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/MyDecorationActivity.java" />
+      <jump line="16" column="20" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/gradle.properties" />
+      <jump line="75" column="10" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/view_enter_effect.xml" />
+      <jump line="119" column="31" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/car/CarModel.java" />
+      <jump line="131" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/DecorationStoreActivity.java" />
+      <jump line="113" column="40" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/DecorationStoreActivity.java" />
+      <jump line="405" column="32" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/home/adapter/HomeRecommendAdapter.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/bean/Dress.java" />
+      <jump line="125" column="17" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/colors.xml" />
+      <jump line="268" column="17" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/dimen.xml" />
+      <jump line="499" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/values/dimen.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/build.gradle" />
+      <jump line="250" column="24" filename="$USER_HOME$/Downloads/SlantedTextView-master/android-slanted-textview/src/main/java/com/haozhang/lib/SlantedTextView.java" />
+      <jump line="342" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/widgets/SlantedTextView.java" />
+      <jump line="36" column="18" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/MyHeadWearAdapter.java" />
+      <jump line="168" column="59" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/car/CarModel.java" />
+      <jump line="504" column="22" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/DecorationStoreActivity.java" />
+      <jump line="224" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/layout_car_preview.xml" />
+      <jump line="2" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/layout_car_preview.xml" />
+      <jump line="53" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/MyDecorationActivity.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/item_pretty_no.xml" />
+      <jump line="22" column="29" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/base/BaseMvpFragment.java" />
+      <jump line="46" column="16" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/bean/BaseDress.java" />
+      <jump line="62" column="8" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/res/layout/item_my_enter_effect.xml" />
+      <jump line="56" column="32" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/layout_store_my_dress_buy_bar.xml" />
+      <jump line="22" column="48" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/bean/BaseDecoration.java" />
+      <jump line="134" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/car/bean/CarInfo.java" />
+      <jump line="75" column="15" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/bean/BaseDecoration.java" />
+      <jump line="21" column="61" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/base/BaseMvpActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/main/AndroidManifest.xml" />
+      <jump line="7668" column="53" filename="$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/ViewGroup.java" />
+      <jump line="120" column="57" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/MyDecorationMoreActivity.java" />
+      <jump line="270" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/activity/DecorationStoreActivity.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/adapter/BaseDecorationAdapter.java" />
+      <jump line="19" column="67" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/decoration/car/bean/CarInfo.java" />
+      <jump line="335" column="36" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/decoration/widgets/SlantedTextView.java" />
+      <jump line="9" column="3" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/layout_common_divider.xml" />
+      <jump line="3" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/layout_bill_date.xml" />
+      <jump line="42" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/res/layout/layout_bill_date.xml" />
+      <jump line="8" column="13" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/statistic/protocol/StatisticsProtocol.java" />
+      <jump line="661" column="35" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/widget/GiftView.java" />
+      <jump line="559" column="11" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.11.0/95d42bd1c43b39d58ad2c21355c2edcba1851cc1/glide-4.11.0-sources.jar!/com/bumptech/glide/request/BaseRequestOptions.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/adapter/UserInfoCarAdapter.java" />
+      <jump line="22" column="43" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/event/SendCoupleCardEvent.java" />
+      <jump line="7" column="13" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/diff_src_erban/java/com/yizhuan/xchat_android_core/UriProvider.java" />
+      <jump line="1526" column="20" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/widget/GiftDialog.java" />
+      <jump line="12" column="28" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/bean/Relationship.java" />
+      <jump line="312" column="25" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/diff_src_erban/java/com/yizhuan/xchat_android_core/UriProvider.java" />
+      <jump line="205" column="29" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/user/UserModel.java" />
+      <jump line="47" column="26" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/RelationshipModel.java" />
+      <jump line="419" column="6" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/utils/StringUtils.java" />
+      <jump line="6295" column="25" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/utils/StringUtils.java" />
+      <jump line="18" column="13" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/initial/bean/InitInfo.java" />
+      <jump line="123" column="28" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/data/CoupleHeadWearEffectDataManager.java" />
+      <jump line="89" column="47" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/im/custom/bean/CustomAttachParser.java" />
+      <jump line="98" column="29" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/im/custom/bean/CustomAttachParser.java" />
+      <jump line="387" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/im/custom/bean/CustomAttachParser.java" />
+      <jump line="100" column="14" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/im/custom/bean/CustomAttachParser.java" />
+      <jump line="384" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/im/custom/bean/CustomAttachParser.java" />
+      <jump line="380" column="4" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/im/custom/bean/CustomAttachParser.java" />
+      <jump line="178" column="22" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/library/src/main/java/com/yizhuan/xchat_android_library/utils/log/MLog.java" />
+      <jump line="1481" column="19" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" />
+      <jump line="322" column="45" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/fragment/HomePartyFragment.java" />
+      <jump line="231" column="25" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/magic/MagicDialog.java" />
+      <jump line="210" column="0" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/manager/RoomEvent.java" />
+      <jump line="22" column="13" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/relationship/RelationshipModel.java" />
+      <jump line="585" column="25" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/diff_src_erban/java/com/yizhuan/xchat_android_core/UriProvider.java" />
+      <jump line="130" column="16" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/avroom/widget/GiftV2View.java" />
+      <jump line="10" column="13" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/gift/bean/GiftType.java" />
+      <jump line="32" column="6" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_bumo/java/com/yizhuan/erban/ui/user/RelationshipListActivity.kt" />
+      <jump line="465" column="16" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/042d65759109ba0bab502d184645e4e8/jetified-EasyPopup-1.1.2/jars/classes.jar!/com/zyyoona7/popup/BasePopup.class" />
+      <jump line="2026" column="40" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/fragment/LiveRoomFragment.java" />
+      <jump line="732" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.4.21/190d6665fb0dd88bfeb42cca86e568a1c9bfa4e3/kotlin-stdlib-common-1.4.21-sources.jar!/generated/_Collections.kt" />
+      <jump line="122" column="43" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/core/src/main/java/com/yizhuan/xchat_android_core/room/pk/model/PkModel.java" />
+      <jump line="42" column="9" filename="$USER_HOME$/Workspace/Android/Ermeng_Android_Client/app/src/module_room/java/com/yizhuan/erban/room/dialog/ReceivedGiftDialog.kt" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="*" type="4">
+        <text>e</text>
+      </register>
+      <register name="-" type="4">
+        <text>list</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx1c2VySW5mb1w+</text>
+      </register>
+      <register name="o" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmZpbHRlcklzSW5zdGFuY2VUbyhtdXRhYmxlTGlzdE9mPFJlY2VpdmVkR2lmdEhpc3Rvcnk+KCkpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgbGlzdCA9IChyZXN1bHRzLnZhbHVlcyBhcyBMaXN0PCo+KS5sZXQgewogICAgICAgICAgICAgICAgICAgICAgICBpdC5maWx0ZXJJc0luc3RhbmNlVG8obXV0YWJsZUxpc3RPZjxSZWNlaXZlZEdpZnRIaXN0b3J5PigpKQogICAgICAgICAgICAgICAgICAgIH0KCgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmlsdGVySXNJbnN0YW5jZVRvKCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmlsdGVyCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGlzdE9mKHJlc3VsdHMudmFsdWVzKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vLy9AT3ZlcnJpZGUKICAgIC8vcHVibGljIExpc3Q8UmVjZWl2ZWRHaWZ0SGlzdG9yeT4gZ2V0UmVjZWl2ZWRHaWZ0SGlzdG9yeSgpIHsKICAgIC8vICAgIHJldHVybiBtQ3VycmVudFJvb21SZWNlaXZlZEdpZnRzQ2FjaGU7CiAgICAvL30KCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvL3Nob3dHaWZ0SW5mbyhnaWZ0UmVjZWl2ZUluZm8uZ2V0TmljaygpLAogICAgICAgIC8vICAgICAgICBnaWZ0UmVjZWl2ZUluZm8uZ2V0VGFyZ2V0TmljaygpLAogICAgICAgIC8vICAgICAgICBnaWZ0UmVjZWl2ZUluZm8uZ2V0R2lmdEluZm8oKS5nZXRHaWZ0TmFtZSgpLAogICAgICAgIC8vICAgICAgICBnaWZ0UmVjZWl2ZUluZm8uZ2V0R2lmdE51bSgpKTsKCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>1196</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDx1c2VySW5mb1w+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDx1c2VySW5mb1w+</last-pattern>
+      <last-replace>$root.ext.supportVersion</last-replace>
+      <last-substitute>baidu</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="true" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>
