@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ANCHOR" />
       <item value="Interactive Notice Info" />
       <item value="Retrieve a dimensional for a particular resource ID for use as a size in raw pixels. This is the same as {@link getDimension}, except the returned value is converted to integer pixels for use as a size. A size conversion involves rounding the base value, and ensuring that a non-zero base value is at least one pixel in size." />
       <item value="@param clipChildren true to clip children to their bounds," />
@@ -50,12 +51,11 @@
       <item value="respone" />
       <item value="set Minimum Fraction Digits" />
       <item value="relation" />
-      <item value="COUPLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="557" />
-        <entry key="ENGLISH" value="558" />
+        <entry key="CHINESE" value="558" />
+        <entry key="ENGLISH" value="559" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
