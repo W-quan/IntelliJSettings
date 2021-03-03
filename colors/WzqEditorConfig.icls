@@ -6,7 +6,6 @@
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="15" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="LARGE" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -859,6 +858,11 @@
     <option name="KOTLIN_PARAMETER">
       <value>
         <option name="FOREGROUND" value="ffd700" />
+      </value>
+    </option>
+    <option name="KOTLIN_SMART_CAST_VALUE">
+      <value>
+        <option name="BACKGROUND" value="586c58" />
       </value>
     </option>
     <option name="KOTLIN_TRAIT">
