@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TAG popular ranking" />
+      <item value="ranking" />
+      <item value="rank" />
       <item value="Ensures that this value is not less than the specified [minimumValue]." />
       <item value="previously" />
       <item value="Videos" />
@@ -48,14 +51,11 @@
       <item value="Maybe need cache" />
       <item value="Maybe support cache" />
       <item value="Interceptor" />
-      <item value="Backgroud" />
-      <item value="Provier" />
-      <item value="accept" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="562" />
-        <entry key="ENGLISH" value="563" />
+        <entry key="CHINESE" value="565" />
+        <entry key="ENGLISH" value="566" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
