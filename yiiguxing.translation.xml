@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogX" value="756" />
+    <option name="newTranslationDialogY" value="-596" />
     <histories>
+      <item value="favourite" />
+      <item value="favouri" />
+      <item value="favoui" />
+      <item value="favou" />
+      <item value="favo" />
+      <item value="fav" />
+      <item value="喜欢的" />
+      <item value="xi" />
+      <item value="Favorite" />
+      <item value="喜爱的" />
+      <item value="喜欢" />
+      <item value="喜欢&#10;" />
       <item value="Videos" />
       <item value="TAG popular ranking" />
       <item value="ranking" />
@@ -39,18 +53,6 @@
       <item value="give to" />
       <item value="送给" />
       <item value="hour" />
-      <item value="全部礼物" />
-      <item value="FROM HTML MODE COMPACT" />
-      <item value="FROM HTML SEPARATOR LINE BREAK HEADING" />
-      <item value="FROM HTML SEPARATOR LINE BREAK PARAGRAPH" />
-      <item value="RELATIONSHIP GRID COUNT" />
-      <item value="child" />
-      <item value="Send Gift Success Event" />
-      <item value="is Relation With Owner" />
-      <item value="abbreviate" />
-      <item value="Maybe need cache" />
-      <item value="Maybe support cache" />
-      <item value="Interceptor" />
     </histories>
     <option name="languageScores">
       <map>
