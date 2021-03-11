@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="If the tabs will wrap to be larger than the width minus gutters, we need to switch to GRAVITY_FILL. TODO (b129799806): This overrides the user TabGravity setting." />
       <item value="排行榜" />
       <item value="exceptional" />
       <item value="exceptional Rank" />
@@ -53,12 +54,11 @@
       <item value="* No locks are used to synchronize an access to the [Lazy] instance value; if the instance is accessed from multiple threads, its behavior is undefined." />
       <item value="* This is the primary class that Ticker uses to determine how to animate from one character * to another. The provided strings dictates what characters will appear between * the start and end characters." />
       <item value="destination" />
-      <item value="predicate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="573" />
-        <entry key="ENGLISH" value="573" />
+        <entry key="ENGLISH" value="574" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
