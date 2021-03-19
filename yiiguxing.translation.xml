@@ -4,6 +4,11 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="限时活动" />
+      <item value="限时" />
+      <item value="限时guo'dong" />
+      <item value="限时guo'd" />
+      <item value="xian'shi" />
       <item value="time Scope Type" />
       <item value="Scope" />
       <item value="Score¡" />
@@ -49,11 +54,6 @@
       <item value="Interactive Notice Info" />
       <item value="Retrieve a dimensional for a particular resource ID for use as a size in raw pixels. This is the same as {@link getDimension}, except the returned value is converted to integer pixels for use as a size. A size conversion involves rounding the base value, and ensuring that a non-zero base value is at least one pixel in size." />
       <item value="@param clipChildren true to clip children to their bounds," />
-      <item value="By default, children are clipped to their bounds before drawing. This allows view groups to override this behavior for animations, etc." />
-      <item value="cover" />
-      <item value="sampling" />
-      <item value="个人介绍" />
-      <item value="靓" />
     </histories>
     <option name="languageScores">
       <map>
