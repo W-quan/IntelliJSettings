@@ -4,10 +4,10 @@
       <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="configure" type="PLAIN_TEXT" />
-      <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern=".ffmpeg" type="PLAIN_TEXT" />
+      <mapping pattern="configure" type="PLAIN_TEXT" />
       <mapping pattern="1004" type="PLAIN_TEXT" />
+      <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping ext="svga" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="rawproto" type="PLAIN_TEXT" />
