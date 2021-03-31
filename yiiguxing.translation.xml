@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="SCROLL STATE SETTLING" />
+      <item value="SCROLL STATE DRAGGING" />
+      <item value="SCROLL STATE IDLE" />
       <item value="是否删除该视频?¡" />
       <item value="Evaluates the pending bindings, updating any Views that have expressions bound to modified variables. This &lt;b&gt;must&lt;b&gt; be run on the UI thread." />
       <item value="@param positionOffset Value from [0, 1) indicating the offset from the page at position." />
@@ -51,14 +54,11 @@
       <item value="favourite" />
       <item value="favouri" />
       <item value="favoui" />
-      <item value="favou" />
-      <item value="favo" />
-      <item value="fav" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="596" />
-        <entry key="ENGLISH" value="597" />
+        <entry key="CHINESE" value="599" />
+        <entry key="ENGLISH" value="600" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
