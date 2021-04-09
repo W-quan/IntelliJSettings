@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="resources" />
+      <item value="dynamic" />
+      <item value="Moment" />
+      <item value="Publish" />
       <item value="expression" />
       <item value="iv expression" />
       <item value="divider" />
@@ -50,15 +54,11 @@
       <item value="限时" />
       <item value="限时guo'dong" />
       <item value="限时guo'd" />
-      <item value="xian'shi" />
-      <item value="time Scope Type" />
-      <item value="Scope" />
-      <item value="Score¡" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="621" />
-        <entry key="ENGLISH" value="622" />
+        <entry key="CHINESE" value="625" />
+        <entry key="ENGLISH" value="626" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
