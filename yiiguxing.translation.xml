@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&lt;p&gt;Fragments using exit animations are drawn before all others for FragmentContainerView. This ensures that exiting Fragments do not appear on top of the view." />
       <item value="Flag for {@link TYPE_CLASS_TEXT}: multiple lines of text can be entered into the field. If this flag is not set, the text field will be constrained to a single line. The IME may also choose not to display an enter key when this flag is not set, as there should be no need to create new lines." />
       <item value="underline" />
       <item value="driver" />
@@ -53,12 +54,11 @@
       <item value="&lt;strong&gt;Note&lt;strong&gt;: changing this property will affect all instances of a drawable loaded from a resource. It is recommended to invoke {@link mutate()} before changing this property." />
       <item value="Specifies the radius for the corners of the gradient. If this is &gt; 0, then the drawable is drawn in a round-rectangle, rather than a rectangle. This property is honored only when the shape is of type {@link RECTANGLE}." />
       <item value="请更新版本" />
-      <item value="not implement" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="629" />
-        <entry key="ENGLISH" value="630" />
+        <entry key="CHINESE" value="630" />
+        <entry key="ENGLISH" value="631" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
