@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Constructs an empty &lt;tt&gt;HashMap&lt;tt&gt; with the specified initial capacity and the default load factor (0.75)." />
+      <item value="initial Capacity" />
       <item value="Illegal forward reference¡" />
       <item value="Concatenates the specified string to the end of this string." />
       <item value="region" />
@@ -52,8 +54,6 @@
       <item value="Evaluates the pending bindings, updating any Views that have expressions bound to modified variables. This &lt;b&gt;must&lt;b&gt; be run on the UI thread." />
       <item value="@param positionOffset Value from [0, 1) indicating the offset from the page at position." />
       <item value="@param position Position index of the first page currently being displayed. Page position+1 will be visible if positionOffset is nonzero." />
-      <item value="This method will be invoked when the current page is scrolled, either as part of a programmatically initiated smooth scroll or a user initiated touch scroll." />
-      <item value="TRIANGLE" />
     </histories>
     <option name="languageScores">
       <map>
