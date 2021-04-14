@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Concatenates the specified string to the end of this string." />
       <item value="region" />
       <item value="append Tail" />
       <item value="Returns the input subsequence matched by the previous match." />
@@ -53,7 +54,6 @@
       <item value="This method will be invoked when the current page is scrolled, either as part of a programmatically initiated smooth scroll or a user initiated touch scroll." />
       <item value="TRIANGLE" />
       <item value="Segment" />
-      <item value="activities" />
     </histories>
     <option name="languageScores">
       <map>
