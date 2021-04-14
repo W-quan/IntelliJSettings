@@ -5,6 +5,7 @@
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
       <item value="inclusive" />
+      <item value="exclusive" />
       <item value="sub Sequence" />
       <item value="Constructs an empty &lt;tt&gt;HashMap&lt;tt&gt; with the specified initial capacity and the default load factor (0.75)." />
       <item value="initial Capacity" />
@@ -53,7 +54,6 @@
       <item value="SCROLL STATE DRAGGING" />
       <item value="SCROLL STATE IDLE" />
       <item value="是否删除该视频?¡" />
-      <item value="Evaluates the pending bindings, updating any Views that have expressions bound to modified variables. This &lt;b&gt;must&lt;b&gt; be run on the UI thread." />
     </histories>
     <option name="languageScores">
       <map>
