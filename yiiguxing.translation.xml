@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="region" />
       <item value="append Tail" />
       <item value="Returns the input subsequence matched by the previous match." />
       <item value="A movement method that provides cursor movement and selection. Supports displaying the context menu on DPad Center." />
@@ -53,7 +54,6 @@
       <item value="TRIANGLE" />
       <item value="Segment" />
       <item value="activities" />
-      <item value="datum" />
     </histories>
     <option name="languageScores">
       <map>
