@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="append Tail" />
+      <item value="Returns the input subsequence matched by the previous match." />
       <item value="A movement method that provides cursor movement and selection. Supports displaying the context menu on DPad Center." />
       <item value="A movement method that traverses links in the text buffer and scrolls if necessary. Supports clicking on links with DPad Center or Enter." />
       <item value="Spans of type SPAN_INCLUSIVE_INCLUSIVE expand to include text inserted at either their starting or ending point." />
@@ -52,8 +54,6 @@
       <item value="Segment" />
       <item value="activities" />
       <item value="datum" />
-      <item value="permanent" />
-      <item value="The gravity to apply with the View to which these layout parameters are associated." />
     </histories>
     <option name="languageScores">
       <map>
