@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="the number of elements expected from the current Observable" />
       <item value="Note that this operator requires the upstream to signal {@code onComplete} for the accumulated list to be emitted. Sources that are infinite and never complete will never emit anything through this operator and an infinite source may lead to a fatal {@code OutOfMemoryError}." />
       <item value="Normally, an ObservableSource that returns multiple items will do so by invoking its {@link Observer}'s {@link ObserveronNext onNext} method for each such item. You can change this behavior, instructing the ObservableSource to compose a list of all of these items and then to invoke the Observer's {@code onNext} function once, passing it the entire list, by calling the ObservableSource's {@code toList} method prior to calling its {@link subscribe} method." />
       <item value="&lt;p&gt; This method starts at the beginning of this matcher's region, or, if a previous invocation of the method was successful and the matcher has not since been reset, at the first character not matched by the previous match." />
@@ -53,7 +54,6 @@
       <item value="&lt;!-- Enables or disables dithering of the bitmap if the bitmap does not have the same pixel configuration as the screen (for instance: a ARGB 8888 bitmap with an RGB 565 screen). Default value is true. --&gt;" />
       <item value="&lt;!-- Enables or disables bitmap filtering. Filtering is used when the bitmap is shrunk or stretched to smooth its apperance. Default value is true. --&gt;" />
       <item value="antialiasing" />
-      <item value="is Scroll State Settling" />
     </histories>
     <option name="languageScores">
       <map>
