@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Note that this operator requires the upstream to signal {@code onComplete} for the accumulated list to be emitted. Sources that are infinite and never complete will never emit anything through this operator and an infinite source may lead to a fatal {@code OutOfMemoryError}." />
+      <item value="Normally, an ObservableSource that returns multiple items will do so by invoking its {@link Observer}'s {@link ObserveronNext onNext} method for each such item. You can change this behavior, instructing the ObservableSource to compose a list of all of these items and then to invoke the Observer's {@code onNext} function once, passing it the entire list, by calling the ObservableSource's {@code toList} method prior to calling its {@link subscribe} method." />
       <item value="&lt;p&gt; This method starts at the beginning of this matcher's region, or, if a previous invocation of the method was successful and the matcher has not since been reset, at the first character not matched by the previous match." />
       <item value="Attempts to find the next subsequence of the input sequence that matches the pattern." />
       <item value="&lt;p&gt; Group zero denotes the entire pattern by convention. It is not included in this count." />
@@ -52,8 +54,6 @@
       <item value="&lt;!-- Enables or disables bitmap filtering. Filtering is used when the bitmap is shrunk or stretched to smooth its apperance. Default value is true. --&gt;" />
       <item value="antialiasing" />
       <item value="is Scroll State Settling" />
-      <item value="Indicates that the pager is in an idle, settled state. The current page is fully in view and no animation is in progress." />
-      <item value="Indicates that the pager is in the process of settling to a final position." />
     </histories>
     <option name="languageScores">
       <map>
