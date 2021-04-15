@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&lt;p&gt; This method starts at the beginning of this matcher's region, or, if a previous invocation of the method was successful and the matcher has not since been reset, at the first character not matched by the previous match." />
+      <item value="Attempts to find the next subsequence of the input sequence that matches the pattern." />
+      <item value="&lt;p&gt; Group zero denotes the entire pattern by convention. It is not included in this count." />
+      <item value="Returns the number of capturing groups in this matcher's pattern." />
       <item value="inclusive" />
       <item value="exclusive" />
       <item value="sub Sequence" />
@@ -50,10 +54,6 @@
       <item value="is Scroll State Settling" />
       <item value="Indicates that the pager is in an idle, settled state. The current page is fully in view and no animation is in progress." />
       <item value="Indicates that the pager is in the process of settling to a final position." />
-      <item value="SCROLL STATE SETTLING" />
-      <item value="SCROLL STATE DRAGGING" />
-      <item value="SCROLL STATE IDLE" />
-      <item value="是否删除该视频?¡" />
     </histories>
     <option name="languageScores">
       <map>
