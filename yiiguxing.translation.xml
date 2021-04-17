@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="RANDOM TOPIC" />
       <item value="ordinal" />
       <item value="wip" />
       <item value="drain" />
@@ -53,7 +54,6 @@
       <item value="&lt;!-- Place the object in the center of its container in both the vertical and horizontal axis, not changing its size. --&gt;" />
       <item value="&lt;!-- Grow the horizontal and vertical size of the object if needed so it completely fills its container. --&gt;" />
       <item value="&lt;!-- Enables or disables the mipmap hint. See {@link android.graphics.BitmapsetHasMipMap(boolean)} for more information. Default value is false. --&gt;" />
-      <item value="&lt;!-- Defines the vertical tile mode. When the tile mode is enabled, the bitmap is repeated. Gravity is ignored when the tile mode is enabled. Default value is &quot;disabled&quot;. --&gt;" />
     </histories>
     <option name="languageScores">
       <map>
