@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="For example, you can specify a column name for the field or change the column's type affinity." />
+      <item value="Allows specific customization about the column associated with this field." />
       <item value="properly" />
       <item value="2021-04-19 16:42:35.008 29861-29861com.ormatch.android.asmr WSystem.err: java.lang.IllegalStateException: Room cannot verify the data integrity. Looks like you've changed schema but forgot to update the version number. You can simply fix this by increasing the version number." />
       <item value="integrity" />
@@ -13,8 +15,6 @@
       <item value="Each {@link Entity} must declare a primary key unless one of its super classes declares a primary key. If both an {@link Entity} and its super class defines a {@code PrimaryKey}, the child's {@code PrimaryKey} definition will override the parent's {@code PrimaryKey}." />
       <item value="Constant to let Room inherit the field name as the column name. If used, Room will use the field name as the column name." />
       <item value="Name of the column in the database. Defaults to the field name if not set." />
-      <item value="For example, you can specify a column name for the field or change the column's type affinity." />
-      <item value="Allows specific customization about the column associated with this field." />
       <item value="RANDOM TOPIC" />
       <item value="ordinal" />
       <item value="wip" />
