@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Return the next offset after &lt;code&gt;start&lt;code&gt; but less than or equal to &lt;code&gt;limit&lt;code&gt; where a span of the specified type begins or ends." />
       <item value="ceiling Entry" />
       <item value="Returns a new RoomSQLiteQuery that can accept the given number of arguments and holds the" />
       <item value="&lt;!-- Defines over-scrolling behavior. This property is used only if the View is scrollable. Over-scrolling is the ability for the user to receive feedback when attempting to scroll beyond meaningful content. --&gt;" />
@@ -53,7 +54,6 @@
       <item value="underline" />
       <item value="driver" />
       <item value="Topics" />
-      <item value="Topices" />
     </histories>
     <option name="languageScores">
       <map>
