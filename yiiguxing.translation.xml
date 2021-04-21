@@ -80,6 +80,7 @@
     <option name="lastTrimTime" value="1618802706529" />
   </component>
   <component name="Settings">
+    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="4b8c0dd3e2395c8d" />
