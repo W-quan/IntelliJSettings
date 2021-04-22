@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="publish success" />
       <item value="restore" />
       <item value="User-visible label for the clip data." />
       <item value="Defines a listener callback that is invoked when the primary clip on the clipboard changes. Objects that want to register a listener call {@link android.content.ClipboardManageraddPrimaryClipChangedListener(OnPrimaryClipChangedListener) addPrimaryClipChangedListener()} with an object that implements OnPrimaryClipChangedListener." />
@@ -53,7 +54,6 @@
       <item value="Spans of type SPAN_INCLUSIVE_INCLUSIVE expand to include text inserted at either their starting or ending point." />
       <item value="Non-0-length spans of type SPAN_INCLUSIVE_EXCLUSIVE expand to include text inserted at their starting point but not at their ending point. When 0-length, they behave like marks." />
       <item value="SPAN INCLUSIVE EXCLUSIVE" />
-      <item value="&lt;p&gt;Fragments using exit animations are drawn before all others for FragmentContainerView. This ensures that exiting Fragments do not appear on top of the view." />
     </histories>
     <option name="languageScores">
       <map>
