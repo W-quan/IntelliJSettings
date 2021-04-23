@@ -4,6 +4,12 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="insets" />
+      <item value="inset" />
+      <item value="dodges" />
+      <item value="&lt;!-- Specifies how this view insets the CoordinatorLayout and make some other views" />
+      <item value="&lt;!-- Specifies how this view dodges the inset edges of the CoordinatorLayout. --&gt;" />
+      <item value="&lt;!-- The id of an anchor view that this view should position relative to. --&gt;" />
       <item value="&lt;!-- Minimum inset for content views within a bar. Navigation buttons and menu views are excepted. Only valid for some themes and configurations. --&gt;" />
       <item value="publish success" />
       <item value="restore" />
@@ -48,12 +54,6 @@
       <item value="Illegal forward reference¡" />
       <item value="Concatenates the specified string to the end of this string." />
       <item value="region" />
-      <item value="append Tail" />
-      <item value="Returns the input subsequence matched by the previous match." />
-      <item value="A movement method that provides cursor movement and selection. Supports displaying the context menu on DPad Center." />
-      <item value="A movement method that traverses links in the text buffer and scrolls if necessary. Supports clicking on links with DPad Center or Enter." />
-      <item value="Spans of type SPAN_INCLUSIVE_INCLUSIVE expand to include text inserted at either their starting or ending point." />
-      <item value="Non-0-length spans of type SPAN_INCLUSIVE_EXCLUSIVE expand to include text inserted at their starting point but not at their ending point. When 0-length, they behave like marks." />
     </histories>
     <option name="languageScores">
       <map>
@@ -80,7 +80,6 @@
     <option name="lastTrimTime" value="1618802706529" />
   </component>
   <component name="Settings">
-    <option name="translateDocumentation" value="true" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="4b8c0dd3e2395c8d" />
