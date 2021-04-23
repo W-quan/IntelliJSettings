@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&lt;!-- Minimum inset for content views within a bar. Navigation buttons and menu views are excepted. Only valid for some themes and configurations. --&gt;" />
       <item value="publish success" />
       <item value="restore" />
       <item value="User-visible label for the clip data." />
@@ -53,7 +54,6 @@
       <item value="A movement method that traverses links in the text buffer and scrolls if necessary. Supports clicking on links with DPad Center or Enter." />
       <item value="Spans of type SPAN_INCLUSIVE_INCLUSIVE expand to include text inserted at either their starting or ending point." />
       <item value="Non-0-length spans of type SPAN_INCLUSIVE_EXCLUSIVE expand to include text inserted at their starting point but not at their ending point. When 0-length, they behave like marks." />
-      <item value="SPAN INCLUSIVE EXCLUSIVE" />
     </histories>
     <option name="languageScores">
       <map>
