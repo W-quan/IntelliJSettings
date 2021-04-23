@@ -4,11 +4,15 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&lt;!-- Specifies how this view dodges the inset edges of the CoordinatorLayout. --&gt;" />
+      <item value="&lt;!-- Specifies how this view insets the CoordinatorLayout and make some other views dodge it. --&gt;" />
+      <item value="&lt;!-- Specifies how an object should position relative to an anchor, on both the X and Y axes, within its parent's bounds. --&gt;" />
+      <item value="&lt;!-- The index of a keyline this view should position relative to. android:layout_gravity will affect how the view aligns to the specified keyline. --&gt;" />
+      <item value="&lt;!-- Specifies how this view insets the CoordinatorLayout and make some other views" />
+      <item value="&lt;!-- Push object to the top of its container, not changing its size. --&gt;" />
       <item value="insets" />
       <item value="inset" />
       <item value="dodges" />
-      <item value="&lt;!-- Specifies how this view insets the CoordinatorLayout and make some other views" />
-      <item value="&lt;!-- Specifies how this view dodges the inset edges of the CoordinatorLayout. --&gt;" />
       <item value="&lt;!-- The id of an anchor view that this view should position relative to. --&gt;" />
       <item value="&lt;!-- Minimum inset for content views within a bar. Navigation buttons and menu views are excepted. Only valid for some themes and configurations. --&gt;" />
       <item value="publish success" />
@@ -50,10 +54,6 @@
       <item value="exclusive" />
       <item value="sub Sequence" />
       <item value="Constructs an empty &lt;tt&gt;HashMap&lt;tt&gt; with the specified initial capacity and the default load factor (0.75)." />
-      <item value="initial Capacity" />
-      <item value="Illegal forward reference¡" />
-      <item value="Concatenates the specified string to the end of this string." />
-      <item value="region" />
     </histories>
     <option name="languageScores">
       <map>
