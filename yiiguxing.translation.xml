@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&lt;!-- This flag will preserve the fitToContents boolean value on configuration change. --&gt;" />
+      <item value="&lt;!-- The top offset of the BottomSheet in the expanded-state when fitsToContent is false. The default value is 0, which results in the sheet matching the parent's top. --&gt;" />
+      <item value="&lt;!-- The ratio to be used to set the height of half-expanded state in proportion to parent, when fitToContents is false. Defaults to true half, 0.5, if not explicitly set. Ratio must be a float value between 0 and 1 and produce a half-expanded state height larger than the peek height for the half-expanded state to be operational --&gt;" />
+      <item value="&lt;!-- Skip the collapsed state once expanded; no effect unless it is hideable --&gt;" />
       <item value="collapsed Status" />
       <item value="blur" />
       <item value="overlap" />
@@ -50,10 +54,6 @@
       <item value="the number of elements expected from the current Observable" />
       <item value="Note that this operator requires the upstream to signal {@code onComplete} for the accumulated list to be emitted. Sources that are infinite and never complete will never emit anything through this operator and an infinite source may lead to a fatal {@code OutOfMemoryError}." />
       <item value="Normally, an ObservableSource that returns multiple items will do so by invoking its {@link Observer}'s {@link ObserveronNext onNext} method for each such item. You can change this behavior, instructing the ObservableSource to compose a list of all of these items and then to invoke the Observer's {@code onNext} function once, passing it the entire list, by calling the ObservableSource's {@code toList} method prior to calling its {@link subscribe} method." />
-      <item value="&lt;p&gt; This method starts at the beginning of this matcher's region, or, if a previous invocation of the method was successful and the matcher has not since been reset, at the first character not matched by the previous match." />
-      <item value="Attempts to find the next subsequence of the input sequence that matches the pattern." />
-      <item value="&lt;p&gt; Group zero denotes the entire pattern by convention. It is not included in this count." />
-      <item value="Returns the number of capturing groups in this matcher's pattern." />
     </histories>
     <option name="languageScores">
       <map>
