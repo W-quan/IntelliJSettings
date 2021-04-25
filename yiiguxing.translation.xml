@@ -4,14 +4,18 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="&lt;!-- Whether height of expanded sheet wraps content or not --&gt;" />
+      <item value="&lt;!-- Sets whether this bottom sheet should adjust it's position based on the system gesture area on Android Q and above. Value is false (insets respected) by default. --&gt;" />
+      <item value="&lt;!-- Behavior properties will be saved and restored by evaluating each flag. usage: app:behavior_saveFlags=”hideable|skipCollapsed” --&gt;" />
+      <item value="&lt;!-- The top offset of the BottomSheet in the expanded-state when fitsToContent is false. The default value is 0, which results in the sheet matching the parent's top. --&gt;" />
+      <item value="&lt;!-- The height of the bottom sheet when it is collapsed. --&gt;" />
+      <item value="&lt;!-- Peek at the 16:9 ratio keyline of its parent --&gt;" />
+      <item value="settling" />
       <item value="&lt;!-- The ratio to be used to set the height of half-expanded state in proportion to parent, when fitToContents is false. Defaults to true half, 0.5, if not explicitly set. Ratio must be a float value between 0 and 1 and produce a half-expanded state height larger than the peek height for the half-expanded state to be operational --&gt;" />
       <item value="&lt;!-- Whether this bottom sheet is draggable. If not, the app will have to supply different means to expand and collapse the sheet --&gt;" />
       <item value="&lt;!-- Skip the collapsed state once expanded; no effect unless it is hideable --&gt;" />
-      <item value="settling" />
+      <item value="&lt;!-- Whether height of expanded sheet wraps content or not --&gt;" />
       <item value="We treat the CoordinatorLayout as outside the dialog though it is technically inside" />
       <item value="&lt;!-- This flag will preserve the fitToContents boolean value on configuration change. --&gt;" />
-      <item value="&lt;!-- The top offset of the BottomSheet in the expanded-state when fitsToContent is false. The default value is 0, which results in the sheet matching the parent's top. --&gt;" />
       <item value="collapsed Status" />
       <item value="blur" />
       <item value="overlap" />
@@ -50,10 +54,6 @@
       <item value="Constant to let Room inherit the field name as the column name. If used, Room will use the field name as the column name." />
       <item value="Name of the column in the database. Defaults to the field name if not set." />
       <item value="RANDOM TOPIC" />
-      <item value="ordinal" />
-      <item value="wip" />
-      <item value="drain" />
-      <item value="Atomically terminate the container and return the contents of the last non-terminal Throwable of it." />
     </histories>
     <option name="languageScores">
       <map>
