@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="blur" />
       <item value="overlap" />
       <item value="Set the distance that this view should overlap any {@link" />
       <item value="&lt;!-- Specifies how this view dodges the inset edges of the CoordinatorLayout. --&gt;" />
@@ -53,7 +54,6 @@
       <item value="&lt;p&gt; Group zero denotes the entire pattern by convention. It is not included in this count." />
       <item value="Returns the number of capturing groups in this matcher's pattern." />
       <item value="inclusive" />
-      <item value="exclusive" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618802706529" />
+    <option name="lastTrimTime" value="1619319423007" />
   </component>
   <component name="Settings">
     <option name="youdaoTranslateSettings">
