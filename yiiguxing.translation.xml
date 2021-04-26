@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="reified" />
       <item value="Retrieve a dimensional for a particular resource ID. Unit conversions are based on the current {@link DisplayMetrics} associated with the resources." />
       <item value="Retrieve a dimensional for a particular resource ID for use as an offset in raw pixels. This is the same as {@link getDimension}, except the returned value is converted to integer pixels for you. An offset conversion involves simply truncating the base value to an integer." />
       <item value="&lt;!-- Sets whether this bottom sheet should adjust it's position based on the system gesture area on Android Q and above. Value is false (insets respected) by default. --&gt;" />
@@ -53,7 +54,6 @@
       <item value="When set to {@code true}, the SQLite type affinity for the field should be {@code INTEGER}." />
       <item value="If {@code PrimaryKey} annotation is used on a {@link Embedded}d field, all columns inherited from that embedded field becomes the composite primary key (including its grand children fields)." />
       <item value="Each {@link Entity} must declare a primary key unless one of its super classes declares a primary key. If both an {@link Entity} and its super class defines a {@code PrimaryKey}, the child's {@code PrimaryKey} definition will override the parent's {@code PrimaryKey}." />
-      <item value="Constant to let Room inherit the field name as the column name. If used, Room will use the field name as the column name." />
     </histories>
     <option name="languageScores">
       <map>
