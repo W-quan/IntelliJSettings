@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="recommendation" />
       <item value="gain" />
       <item value="@return the value of an item previously added with putExtra(), or null if no String value was found." />
       <item value="reified" />
@@ -53,7 +54,6 @@
       <item value="2021-04-19 16:42:35.008 29861-29861com.ormatch.android.asmr WSystem.err: java.lang.IllegalStateException: Room cannot verify the data integrity. Looks like you've changed schema but forgot to update the version number. You can simply fix this by increasing the version number." />
       <item value="integrity" />
       <item value="If the field type is {@code long} or {@code int} (or its TypeConverter converts it to a {@code long} or {@code int}), {@link Insert} methods treat {@code 0} as not-set while inserting the item." />
-      <item value="When set to {@code true}, the SQLite type affinity for the field should be {@code INTEGER}." />
     </histories>
     <option name="languageScores">
       <map>
