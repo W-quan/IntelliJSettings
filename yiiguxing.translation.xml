@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns `true` if this nullable char sequence is either `null` or empty or consists solely of whitespace characters." />
       <item value="pair" />
       <item value="There is no meaning attached to values in this class, it can be used for any purpose. Pair exhibits value semantics, i.e. two pairs are equal if both components are equal." />
       <item value="If multiple pairs have the same key, the resulting map will contain the value from the last of those pairs." />
@@ -53,7 +54,6 @@
       <item value="&lt;!-- Defines over-scrolling behavior. This property is used only if the View is scrollable. Over-scrolling is the ability for the user to receive feedback when attempting to scroll beyond meaningful content. --&gt;" />
       <item value="&lt;!-- Controls whether a view can take focus. By default, this is &quot;auto&quot; which lets the framework determine whether a user can move focus to a view. By setting this attribute to true the view is allowed to take focus. By setting it to &quot;false&quot; the view will not take focus. This value does not impact the behavior of directly calling {@link android.view.ViewrequestFocus}, which will always request focus regardless of this view. It only impacts where focus navigation will try to move focus. --&gt;" />
       <item value="unrecoverably" />
-      <item value="For example, you can specify a column name for the field or change the column's type affinity." />
     </histories>
     <option name="languageScores">
       <map>
