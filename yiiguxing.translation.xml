@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="cancelble" />
+      <item value="cancelable" />
       <item value="Denotes that the annotated element should not be removed when the code is minified at build time. This is typically used on methods and classes that are accessed only via reflection so a compiler may think that the code is unused. &lt;p&gt;" />
       <item value="Returns `true` if this nullable char sequence is either `null` or empty or consists solely of whitespace characters." />
       <item value="pair" />
@@ -52,8 +54,6 @@
       <item value="Return the next offset after &lt;code&gt;start&lt;code&gt; but less than or equal to &lt;code&gt;limit&lt;code&gt; where a span of the specified type begins or ends." />
       <item value="ceiling Entry" />
       <item value="Returns a new RoomSQLiteQuery that can accept the given number of arguments and holds the" />
-      <item value="&lt;!-- Defines over-scrolling behavior. This property is used only if the View is scrollable. Over-scrolling is the ability for the user to receive feedback when attempting to scroll beyond meaningful content. --&gt;" />
-      <item value="&lt;!-- Controls whether a view can take focus. By default, this is &quot;auto&quot; which lets the framework determine whether a user can move focus to a view. By setting this attribute to true the view is allowed to take focus. By setting it to &quot;false&quot; the view will not take focus. This value does not impact the behavior of directly calling {@link android.view.ViewrequestFocus}, which will always request focus regardless of this view. It only impacts where focus navigation will try to move focus. --&gt;" />
     </histories>
     <option name="languageScores">
       <map>
