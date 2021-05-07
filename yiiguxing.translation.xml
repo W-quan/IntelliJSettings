@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="MEDIA RECORDER INFO MAX DURATION REACHED" />
       <item value="cancelble" />
       <item value="cancelable" />
       <item value="Denotes that the annotated element should not be removed when the code is minified at build time. This is typically used on methods and classes that are accessed only via reflection so a compiler may think that the code is unused. &lt;p&gt;" />
@@ -53,7 +54,6 @@
       <item value="Callback that is invoked by {@link android.content.ClipboardManager} when the primary clip changes." />
       <item value="Return the next offset after &lt;code&gt;start&lt;code&gt; but less than or equal to &lt;code&gt;limit&lt;code&gt; where a span of the specified type begins or ends." />
       <item value="ceiling Entry" />
-      <item value="Returns a new RoomSQLiteQuery that can accept the given number of arguments and holds the" />
     </histories>
     <option name="languageScores">
       <map>
