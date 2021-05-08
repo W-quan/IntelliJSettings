@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="coerce At Least" />
       <item value="MEDIA RECORDER INFO MAX DURATION REACHED" />
       <item value="cancelble" />
       <item value="cancelable" />
@@ -53,7 +54,6 @@
       <item value="Defines a listener callback that is invoked when the primary clip on the clipboard changes. Objects that want to register a listener call {@link android.content.ClipboardManageraddPrimaryClipChangedListener(OnPrimaryClipChangedListener) addPrimaryClipChangedListener()} with an object that implements OnPrimaryClipChangedListener." />
       <item value="Callback that is invoked by {@link android.content.ClipboardManager} when the primary clip changes." />
       <item value="Return the next offset after &lt;code&gt;start&lt;code&gt; but less than or equal to &lt;code&gt;limit&lt;code&gt; where a span of the specified type begins or ends." />
-      <item value="ceiling Entry" />
     </histories>
     <option name="languageScores">
       <map>
