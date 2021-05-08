@@ -6,6 +6,7 @@
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.182370820668693" />
         <entry key="app/src/main/res/layout/item_my_chat_bubbles.xml" value="0.182370820668693" />
         <entry key="app/src/module_moments/res/layout/activity_publish.xml" value="0.182370820668693" />
+        <entry key="app/src/module_room/res/drawable/bg_room_message_text.xml" value="0.228125" />
       </map>
     </option>
   </component>
