@@ -2,7 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="../../../../../layout/custom_preview.xml" value="1.0" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.182370820668693" />
         <entry key="app/src/main/res/layout/fragment_user_info.xml" value="0.182370820668693" />
         <entry key="app/src/main/res/layout/item_my_chat_bubbles.xml" value="0.182370820668693" />
