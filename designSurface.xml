@@ -2,7 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../../layout/custom_preview.xml" value="0.34629629629629627" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.35185185185185186" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.182370820668693" />
         <entry key="app/src/main/res/layout/fragment_user_info.xml" value="0.182370820668693" />
         <entry key="app/src/main/res/layout/item_message_send_msg.xml" value="0.375" />
@@ -12,11 +12,13 @@
         <entry key="app/src/module_bumo/res/layout/layout_item_voice_bottle.xml" value="0.182370820668693" />
         <entry key="app/src/module_bumo/res/layout/layout_user_medal_wall.xml" value="0.182370820668693" />
         <entry key="app/src/module_moments/res/layout/activity_publish.xml" value="0.182370820668693" />
+        <entry key="app/src/module_room/res/drawable/bg_5a92f7_round.xml" value="0.34629629629629627" />
         <entry key="app/src/module_room/res/drawable/bg_room_message_text.xml" value="0.228125" />
         <entry key="app/src/module_room/res/layout/fragment_room_content.xml" value="0.3055555555555556" />
         <entry key="app/src/module_room/res/layout/layout_micro_view.xml" value="0.3055555555555556" />
         <entry key="app/src/module_room/res/layout/layout_room_charm_rank.xml" value="0.3055555555555556" />
         <entry key="app/src/module_room/res/layout/layout_room_daily_task_list.xml" value="0.3055555555555556" />
+        <entry key="app/src/module_room/res/layout/layout_room_owner_avatar.xml" value="0.3111111111111111" />
       </map>
     </option>
   </component>
