@@ -10,7 +10,7 @@
         <entry key="app/src/module_bumo/res/layout/activity_voice_match.xml" value="0.182370820668693" />
         <entry key="app/src/module_bumo/res/layout/dialog_custom_voice_match_sync_history_voice.xml" value="0.182370820668693" />
         <entry key="app/src/module_bumo/res/layout/dialog_fragment_room_rank.xml" value="0.23958333333333334" />
-        <entry key="app/src/module_bumo/res/layout/item_boss_micro.xml" value="0.3055555555555556" />
+        <entry key="app/src/module_bumo/res/layout/item_boss_micro.xml" value="0.36018518518518516" />
         <entry key="app/src/module_bumo/res/layout/item_user.xml" value="0.32037037037037036" />
         <entry key="app/src/module_bumo/res/layout/layout_item_voice_bottle.xml" value="0.182370820668693" />
         <entry key="app/src/module_bumo/res/layout/layout_user_medal_wall.xml" value="0.182370820668693" />
@@ -21,14 +21,15 @@
         <entry key="app/src/module_room/res/drawable/bg_game_mode_online_num.xml" value="0.3611111111111111" />
         <entry key="app/src/module_room/res/drawable/bg_room_message_text.xml" value="0.228125" />
         <entry key="app/src/module_room/res/layout/fragment_room_content.xml" value="0.32037037037037036" />
+        <entry key="app/src/module_room/res/layout/item_blind_date_view.xml" value="0.36018518518518516" />
         <entry key="app/src/module_room/res/layout/item_game_mode_online_user.xml" value="0.32037037037037036" />
         <entry key="app/src/module_room/res/layout/layout_game_mode_online.xml" value="0.32037037037037036" />
         <entry key="app/src/module_room/res/layout/layout_micro_view.xml" value="0.3055555555555556" />
         <entry key="app/src/module_room/res/layout/layout_room_charm_rank.xml" value="0.3055555555555556" />
         <entry key="app/src/module_room/res/layout/layout_room_daily_task_list.xml" value="0.3055555555555556" />
         <entry key="app/src/module_room/res/layout/layout_room_owner_avatar.xml" value="0.3111111111111111" />
-        <entry key="app/src/module_room/res/layout/list_item_micro.xml" value="0.3055555555555556" />
-        <entry key="app/src/module_room/res/layout/list_item_micro_king.xml" value="0.3055555555555556" />
+        <entry key="app/src/module_room/res/layout/list_item_micro.xml" value="0.36018518518518516" />
+        <entry key="app/src/module_room/res/layout/list_item_micro_king.xml" value="0.36018518518518516" />
       </map>
     </option>
   </component>
