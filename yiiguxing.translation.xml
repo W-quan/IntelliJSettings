@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="iv halo" />
       <item value="Blind Date View" />
       <item value="mute" />
       <item value="resume" />
@@ -53,7 +54,6 @@
       <item value="&lt;!-- Minimum inset for content views within a bar. Navigation buttons and menu views are excepted. Only valid for some themes and configurations. --&gt;" />
       <item value="publish success" />
       <item value="restore" />
-      <item value="User-visible label for the clip data." />
     </histories>
     <option name="languageScores">
       <map>
