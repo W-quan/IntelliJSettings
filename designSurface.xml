@@ -25,13 +25,13 @@
         <entry key="app/src/module_room/res/layout/include_mic_count_down_timer.xml" value="0.36018518518518516" />
         <entry key="app/src/module_room/res/layout/item_blind_date_view.xml" value="0.36018518518518516" />
         <entry key="app/src/module_room/res/layout/item_game_mode_online_user.xml" value="0.32037037037037036" />
-        <entry key="app/src/module_room/res/layout/item_micro_game.xml" value="0.36018518518518516" />
+        <entry key="app/src/module_room/res/layout/item_micro_game.xml" value="0.36923076923076925" />
         <entry key="app/src/module_room/res/layout/layout_game_mode_online.xml" value="0.32037037037037036" />
         <entry key="app/src/module_room/res/layout/layout_micro_view.xml" value="0.3055555555555556" />
         <entry key="app/src/module_room/res/layout/layout_room_charm_rank.xml" value="0.3055555555555556" />
         <entry key="app/src/module_room/res/layout/layout_room_daily_task_list.xml" value="0.3055555555555556" />
         <entry key="app/src/module_room/res/layout/layout_room_owner_avatar.xml" value="0.3111111111111111" />
-        <entry key="app/src/module_room/res/layout/list_item_micro.xml" value="0.36018518518518516" />
+        <entry key="app/src/module_room/res/layout/list_item_micro.xml" value="0.36923076923076925" />
         <entry key="app/src/module_room/res/layout/list_item_micro_king.xml" value="0.36018518518518516" />
       </map>
     </option>
