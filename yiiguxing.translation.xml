@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="destination" />
       <item value="MIC QUEUE UPDATED" />
       <item value="iv collesed" />
       <item value="Collapse an expandable item that has been expanded.." />
@@ -53,7 +54,6 @@
       <item value="&lt;!-- Specifies how this view insets the CoordinatorLayout and make some other views" />
       <item value="&lt;!-- Push object to the top of its container, not changing its size. --&gt;" />
       <item value="insets" />
-      <item value="inset" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621234648630" />
+    <option name="lastTrimTime" value="1621913076261" />
   </component>
   <component name="Settings">
     <option name="youdaoTranslateSettings">
