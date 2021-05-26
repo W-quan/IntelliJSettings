@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="idempotent" />
       <item value="Name shadowed: iterator¡" />
       <item value="compatible getLoadMoreViewCount and getEmptyViewCount may change" />
       <item value="destination" />
@@ -53,7 +54,6 @@
       <item value="&lt;!-- Specifies how this view insets the CoordinatorLayout and make some other views dodge it. --&gt;" />
       <item value="&lt;!-- Specifies how an object should position relative to an anchor, on both the X and Y axes, within its parent's bounds. --&gt;" />
       <item value="&lt;!-- The index of a keyline this view should position relative to. android:layout_gravity will affect how the view aligns to the specified keyline. --&gt;" />
-      <item value="&lt;!-- Specifies how this view insets the CoordinatorLayout and make some other views" />
     </histories>
     <option name="languageScores">
       <map>
