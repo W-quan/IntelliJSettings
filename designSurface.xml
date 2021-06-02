@@ -38,6 +38,7 @@
         <entry key="app/src/module_room/res/layout/include_mic_count_down_timer.xml" value="0.36018518518518516" />
         <entry key="app/src/module_room/res/layout/item_blind_date_view.xml" value="0.36018518518518516" />
         <entry key="app/src/module_room/res/layout/item_game_mode_online_user.xml" value="0.32037037037037036" />
+        <entry key="app/src/module_room/res/layout/item_message_view_text.xml" value="0.32592592592592595" />
         <entry key="app/src/module_room/res/layout/item_micro_game.xml" value="0.36923076923076925" />
         <entry key="app/src/module_room/res/layout/layout_game_mode_online.xml" value="0.36923076923076925" />
         <entry key="app/src/module_room/res/layout/layout_micro_view.xml" value="0.33240740740740743" />
