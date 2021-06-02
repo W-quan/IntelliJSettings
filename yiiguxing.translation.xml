@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&lt;p&gt;The default animation to dismiss this dialog is a fade-out transition through a windowAnimation. Call {@link setDismissWithAnimation(true)} if you want to utilize the BottomSheet animation instead." />
+      <item value="This function can be called from a few different use cases, including Swiping the dialog down or calling `dismiss()` from a `BottomSheetDialogFragment`, tapping outside a dialog, etc..." />
       <item value="idempotent" />
       <item value="Name shadowed: iterator¡" />
       <item value="compatible getLoadMoreViewCount and getEmptyViewCount may change" />
@@ -52,8 +54,6 @@
       <item value="Set the distance that this view should overlap any {@link" />
       <item value="&lt;!-- Specifies how this view dodges the inset edges of the CoordinatorLayout. --&gt;" />
       <item value="&lt;!-- Specifies how this view insets the CoordinatorLayout and make some other views dodge it. --&gt;" />
-      <item value="&lt;!-- Specifies how an object should position relative to an anchor, on both the X and Y axes, within its parent's bounds. --&gt;" />
-      <item value="&lt;!-- The index of a keyline this view should position relative to. android:layout_gravity will affect how the view aligns to the specified keyline. --&gt;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621913076261" />
+    <option name="lastTrimTime" value="1622616128179" />
   </component>
   <component name="Settings">
     <option name="youdaoTranslateSettings">
