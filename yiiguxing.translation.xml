@@ -4,6 +4,16 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="It is useful when ViewModel observes some data and you need to clear this subscription to prevent a leak of this ViewModel." />
+      <item value="This method will be called when this ViewModel is no longer used and will be destroyed." />
+      <item value="ViewModels can also be used as a communication layer between different Fragments of an Activity. Each Fragment can acquire the ViewModel using the same key via their Activity. This allows communication between Fragments in a de-coupled fashion such that they never need to talk to the other Fragment directly." />
+      <item value="communication" />
+      <item value="Typical" />
+      <item value="standpoint" />
+      <item value="ViewModel's only responsibility is to manage the data for the UI. It &lt;b&gt;should never&lt;b&gt; access your view hierarchy or hold a reference back to the Activity or the Fragment." />
+      <item value="observability" />
+      <item value="acquire" />
+      <item value="purpose" />
       <item value="&lt;p&gt;The default animation to dismiss this dialog is a fade-out transition through a windowAnimation. Call {@link setDismissWithAnimation(true)} if you want to utilize the BottomSheet animation instead." />
       <item value="This function can be called from a few different use cases, including Swiping the dialog down or calling `dismiss()` from a `BottomSheetDialogFragment`, tapping outside a dialog, etc..." />
       <item value="idempotent" />
@@ -44,16 +54,6 @@
       <item value="settling" />
       <item value="&lt;!-- The ratio to be used to set the height of half-expanded state in proportion to parent, when fitToContents is false. Defaults to true half, 0.5, if not explicitly set. Ratio must be a float value between 0 and 1 and produce a half-expanded state height larger than the peek height for the half-expanded state to be operational --&gt;" />
       <item value="&lt;!-- Whether this bottom sheet is draggable. If not, the app will have to supply different means to expand and collapse the sheet --&gt;" />
-      <item value="&lt;!-- Skip the collapsed state once expanded; no effect unless it is hideable --&gt;" />
-      <item value="&lt;!-- Whether height of expanded sheet wraps content or not --&gt;" />
-      <item value="We treat the CoordinatorLayout as outside the dialog though it is technically inside" />
-      <item value="&lt;!-- This flag will preserve the fitToContents boolean value on configuration change. --&gt;" />
-      <item value="collapsed Status" />
-      <item value="blur" />
-      <item value="overlap" />
-      <item value="Set the distance that this view should overlap any {@link" />
-      <item value="&lt;!-- Specifies how this view dodges the inset edges of the CoordinatorLayout. --&gt;" />
-      <item value="&lt;!-- Specifies how this view insets the CoordinatorLayout and make some other views dodge it. --&gt;" />
     </histories>
     <option name="languageScores">
       <map>
