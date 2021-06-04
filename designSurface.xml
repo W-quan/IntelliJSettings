@@ -34,7 +34,7 @@
         <entry key="app/src/module_room/res/drawable/bg_room_online_num.xml" value="0.3841025641025641" />
         <entry key="app/src/module_room/res/drawable/bg_switch_game.xml" value="0.2557291666666667" />
         <entry key="app/src/module_room/res/layout/dialog_room_operation.xml" value="0.32592592592592595" />
-        <entry key="app/src/module_room/res/layout/fragment_game_room.xml" value="0.35384615384615387" />
+        <entry key="app/src/module_room/res/layout/fragment_game_room.xml" value="0.36923076923076925" />
         <entry key="app/src/module_room/res/layout/fragment_room_content.xml" value="0.375" />
         <entry key="app/src/module_room/res/layout/include_mic_count_down_timer.xml" value="0.36018518518518516" />
         <entry key="app/src/module_room/res/layout/item_blind_date_view.xml" value="0.36018518518518516" />
