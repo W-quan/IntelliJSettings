@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="EVENT ROOM GIFT GIVING CLICK DETERMINE" />
       <item value="Flags for {@link fromHtml(String, int, ImageGetter, TagHandler)}: Separate block-level elements with line breaks (single newline character) in between. This inverts the {@link Spanned} to HTML string conversion done with the option {@link TO_HTML_PARAGRAPH_LINES_INDIVIDUAL}." />
       <item value="It is useful when ViewModel observes some data and you need to clear this subscription to prevent a leak of this ViewModel." />
       <item value="This method will be called when this ViewModel is no longer used and will be destroyed." />
@@ -53,7 +54,6 @@
       <item value="&lt;!-- The height of the bottom sheet when it is collapsed. --&gt;" />
       <item value="&lt;!-- Peek at the 16:9 ratio keyline of its parent --&gt;" />
       <item value="settling" />
-      <item value="&lt;!-- The ratio to be used to set the height of half-expanded state in proportion to parent, when fitToContents is false. Defaults to true half, 0.5, if not explicitly set. Ratio must be a float value between 0 and 1 and produce a half-expanded state height larger than the peek height for the half-expanded state to be operational --&gt;" />
     </histories>
     <option name="languageScores">
       <map>
