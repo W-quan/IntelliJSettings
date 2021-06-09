@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="load Activities" />
       <item value="EVENT ROOM GIFT GIVING CLICK DETERMINE" />
       <item value="Flags for {@link fromHtml(String, int, ImageGetter, TagHandler)}: Separate block-level elements with line breaks (single newline character) in between. This inverts the {@link Spanned} to HTML string conversion done with the option {@link TO_HTML_PARAGRAPH_LINES_INDIVIDUAL}." />
       <item value="It is useful when ViewModel observes some data and you need to clear this subscription to prevent a leak of this ViewModel." />
@@ -53,7 +54,6 @@
       <item value="&lt;!-- The top offset of the BottomSheet in the expanded-state when fitsToContent is false. The default value is 0, which results in the sheet matching the parent's top. --&gt;" />
       <item value="&lt;!-- The height of the bottom sheet when it is collapsed. --&gt;" />
       <item value="&lt;!-- Peek at the 16:9 ratio keyline of its parent --&gt;" />
-      <item value="settling" />
     </histories>
     <option name="languageScores">
       <map>
