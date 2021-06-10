@@ -56,6 +56,9 @@
         <entry key="app/src/module_room/res/layout/list_item_micro.xml" value="0.36923076923076925" />
         <entry key="app/src/module_room/res/layout/list_item_micro_king.xml" value="0.36018518518518516" />
         <entry key="nim_uikit/res/drawable/bg_nim_water_drop_other.xml" value="0.3731481481481482" />
+        <entry key="nim_uikit/res/drawable/bg_nim_water_drop_right.xml" value="0.2171875" />
+        <entry key="nim_uikit/res/drawable/bg_nim_water_drop_self.xml" value="0.2171875" />
+        <entry key="nim_uikit/res/drawable/bg_nim_water_drop_self_p.xml" value="0.2171875" />
       </map>
     </option>
   </component>
