@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="quote" />
       <item value="compatible getLoadMoreViewCount and getEmptyViewCount may change" />
       <item value="load Activities" />
       <item value="EVENT ROOM GIFT GIVING CLICK DETERMINE" />
@@ -53,7 +54,6 @@
       <item value="&lt;!-- Behavior properties will be saved and restored by evaluating each flag. usage: app:behavior_saveFlags=”hideable|skipCollapsed” --&gt;" />
       <item value="&lt;!-- The top offset of the BottomSheet in the expanded-state when fitsToContent is false. The default value is 0, which results in the sheet matching the parent's top. --&gt;" />
       <item value="&lt;!-- The height of the bottom sheet when it is collapsed. --&gt;" />
-      <item value="&lt;!-- Peek at the 16:9 ratio keyline of its parent --&gt;" />
     </histories>
     <option name="languageScores">
       <map>
