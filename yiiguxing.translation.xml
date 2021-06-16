@@ -4,6 +4,11 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="If the request is completed, beginning again will ensure the result is re-delivered, triggering RequestListeners and Targets. If the request is failed, beginning again will restart the request, giving it another chance to complete. If the request is already running, we can let it continue running without interruption." />
+      <item value="We only store a bitmap cache in the root of the RemoteViews." />
+      <item value="Now that everything is initialized and duplicated, setting a new BitmapCache will re-initialize the cache." />
+      <item value="Recursively sets BitmapCache in the hierarchy and update the bitmap ids." />
+      <item value="Maps bitmaps to unique indicies to avoid Bitmap duplication." />
       <item value="Because pruning can remove the need for bitmaps, we reconstruct the bitmap cache" />
       <item value="Merges the passed RemoteViews actions with this RemoteViews actions according to action-specific merge rules." />
       <item value="We only write the bitmap cache if we are the root RemoteViews, as this cache is shared by all children." />
@@ -49,11 +54,6 @@
       <item value="&lt;!-- Describes the content of a view so that a autofill service can fill in the appropriate data. Multiple hints can be combined in a comma separated list or an array of strings to mean e.g. emailAddress or postalAddress. --&gt;" />
       <item value="recommendation" />
       <item value="gain" />
-      <item value="@return the value of an item previously added with putExtra(), or null if no String value was found." />
-      <item value="reified" />
-      <item value="Retrieve a dimensional for a particular resource ID. Unit conversions are based on the current {@link DisplayMetrics} associated with the resources." />
-      <item value="Retrieve a dimensional for a particular resource ID for use as an offset in raw pixels. This is the same as {@link getDimension}, except the returned value is converted to integer pixels for you. An offset conversion involves simply truncating the base value to an integer." />
-      <item value="&lt;!-- Sets whether this bottom sheet should adjust it's position based on the system gesture area on Android Q and above. Value is false (insets respected) by default. --&gt;" />
     </histories>
     <option name="languageScores">
       <map>
