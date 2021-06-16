@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="We only write the bitmap cache if we are the root RemoteViews, as this cache is shared by all children." />
       <item value="quote" />
       <item value="compatible getLoadMoreViewCount and getEmptyViewCount may change" />
       <item value="load Activities" />
@@ -53,7 +54,6 @@
       <item value="&lt;!-- Sets whether this bottom sheet should adjust it's position based on the system gesture area on Android Q and above. Value is false (insets respected) by default. --&gt;" />
       <item value="&lt;!-- Behavior properties will be saved and restored by evaluating each flag. usage: app:behavior_saveFlags=”hideable|skipCollapsed” --&gt;" />
       <item value="&lt;!-- The top offset of the BottomSheet in the expanded-state when fitsToContent is false. The default value is 0, which results in the sheet matching the parent's top. --&gt;" />
-      <item value="&lt;!-- The height of the bottom sheet when it is collapsed. --&gt;" />
     </histories>
     <option name="languageScores">
       <map>
