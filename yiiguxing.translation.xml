@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Because pruning can remove the need for bitmaps, we reconstruct the bitmap cache" />
+      <item value="Merges the passed RemoteViews actions with this RemoteViews actions according to action-specific merge rules." />
       <item value="We only write the bitmap cache if we are the root RemoteViews, as this cache is shared by all children." />
       <item value="quote" />
       <item value="compatible getLoadMoreViewCount and getEmptyViewCount may change" />
@@ -52,8 +54,6 @@
       <item value="Retrieve a dimensional for a particular resource ID. Unit conversions are based on the current {@link DisplayMetrics} associated with the resources." />
       <item value="Retrieve a dimensional for a particular resource ID for use as an offset in raw pixels. This is the same as {@link getDimension}, except the returned value is converted to integer pixels for you. An offset conversion involves simply truncating the base value to an integer." />
       <item value="&lt;!-- Sets whether this bottom sheet should adjust it's position based on the system gesture area on Android Q and above. Value is false (insets respected) by default. --&gt;" />
-      <item value="&lt;!-- Behavior properties will be saved and restored by evaluating each flag. usage: app:behavior_saveFlags=”hideable|skipCollapsed” --&gt;" />
-      <item value="&lt;!-- The top offset of the BottomSheet in the expanded-state when fitsToContent is false. The default value is 0, which results in the sheet matching the parent's top. --&gt;" />
     </histories>
     <option name="languageScores">
       <map>
