@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns a future that can be used to do a blocking get on a background thread." />
+      <item value="A null resource indicates that the load failed, usually due to an exception." />
       <item value="estimate Memory Usage" />
       <item value="Returns an estimate of the bitmap heap memory usage for this RemoteViews." />
       <item value="As much as is reasonably practical, the hashCode method defined by class {@code Object} does return distinct integers for distinct objects. (This is typically implemented by converting the internal address of the object into an integer, but this implementation technique is not required by the Java&amp;trade; programming language.)" />
@@ -52,8 +54,6 @@
       <item value="cancelble" />
       <item value="cancelable" />
       <item value="Denotes that the annotated element should not be removed when the code is minified at build time. This is typically used on methods and classes that are accessed only via reflection so a compiler may think that the code is unused. &lt;p&gt;" />
-      <item value="Returns `true` if this nullable char sequence is either `null` or empty or consists solely of whitespace characters." />
-      <item value="pair" />
     </histories>
     <option name="languageScores">
       <map>
