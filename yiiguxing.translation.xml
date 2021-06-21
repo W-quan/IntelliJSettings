@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="我的服务" />
       <item value="Save an object allocation if we've cached an EngineResource (the typical case)." />
       <item value="A null resource indicates that the load failed, usually due to an exception." />
       <item value="TODO: Seems like we might as well put this in the memory cache instead of just recycling it since we've gotten this far..." />
@@ -53,7 +54,6 @@
       <item value="mute" />
       <item value="resume" />
       <item value="coerce At Least" />
-      <item value="MEDIA RECORDER INFO MAX DURATION REACHED" />
     </histories>
     <option name="languageScores">
       <map>
