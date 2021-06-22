@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="others service" />
+      <item value="_service" />
       <item value="我的服务" />
       <item value="Save an object allocation if we've cached an EngineResource (the typical case)." />
       <item value="A null resource indicates that the load failed, usually due to an exception." />
@@ -52,8 +54,6 @@
       <item value="iv halo" />
       <item value="Blind Date View" />
       <item value="mute" />
-      <item value="resume" />
-      <item value="coerce At Least" />
     </histories>
     <option name="languageScores">
       <map>
