@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="signed" />
       <item value="history record" />
       <item value="collect product" />
       <item value="others service" />
@@ -53,7 +54,6 @@
       <item value="Collapse an expandable item that has been expanded.." />
       <item value="Signals the given value and an onComplete if the downstream is ready to receive the final value." />
       <item value="Instructs a Publisher to emit an item (returned by a specified function) rather than invoking {@link SubscriberonError onError} if it encounters an error. &lt;p&gt; &lt;img width=&quot;640&quot; height=&quot;310&quot; src=&quot;https:raw.github.comwikiReactiveXRxJavaimagesrx-operatorsonErrorReturn.png&quot; alt=&quot;&quot;&gt; &lt;p&gt; By default, when a Publisher encounters an error that prevents it from emitting the expected item to its {@link Subscriber}, the Publisher invokes its Subscriber's {@code onError} method, and then quits without invoking any more of its Subscriber's methods. The {@code onErrorReturn} method changes this behavior. If you pass a function ({@code resumeFunction}) to a Publisher's {@code onErrorReturn} method, if the original Publisher encounters an error, instead of invoking its Subscriber's {@code onError} method, it will instead emit the return value of {@code resumeFunction}. &lt;p&gt; You can use this to prevent errors from propagating or to supply fallback data should errors be encountered. &lt;dl&gt; &lt;dt&gt;&lt;b&gt;Backpressure:&lt;b&gt;&lt;dt&gt; &lt;dd&gt;The operator honors backpressure from downstream. The source {@code Publisher}s is expected to honor backpressure as well. If it this expectation is violated, the operator &lt;em&gt;may&lt;em&gt; throw {@code IllegalStateException} when the source {@code Publisher} completes or {@code MissingBackpressureException} is signaled somewhere downstream.&lt;dd&gt; &lt;dt&gt;&lt;b&gt;Scheduler:&lt;b&gt;&lt;dt&gt; &lt;dd&gt;{@code onErrorReturn} does not operate by default on a particular {@link Scheduler}.&lt;dd&gt; &lt;dl&gt; @param valueSupplier a function that returns a single value that will be emitted along with a regular onComplete in case the current Flowable signals an onError event @return the original Publisher with appropriately modified behavior @see &lt;a href=&quot;http:reactivex.iodocumentationoperatorscatch.html&quot;&gt;ReactiveX operators documentation: Catch&lt;a&gt;" />
-      <item value="iv halo" />
     </histories>
     <option name="languageScores">
       <map>
