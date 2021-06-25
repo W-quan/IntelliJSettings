@@ -2,13 +2,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../../layout/custom_preview.xml" value="0.39010416666666664" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.43703703703703706" />
         <entry key="app/src/main/res/drawable/bg_dialog_remark_edit.xml" value="0.3841025641025641" />
         <entry key="app/src/main/res/drawable/bg_mine_header_panel.xml" value="0.39010416666666664" />
         <entry key="app/src/main/res/drawable/bg_mine_panel.xml" value="0.39010416666666664" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.182370820668693" />
         <entry key="app/src/main/res/layout/dialog_switch_game.xml" value="0.36923076923076925" />
         <entry key="app/src/main/res/layout/fragment_user_info.xml" value="0.182370820668693" />
+        <entry key="app/src/main/res/layout/item_home_recommend_category.xml" value="0.36923076923076925" />
         <entry key="app/src/main/res/layout/item_home_video.xml" value="0.375" />
         <entry key="app/src/main/res/layout/item_message_send_msg.xml" value="0.375" />
         <entry key="app/src/main/res/layout/item_mine_entry.xml" value="0.2833333333333333" />
