@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="doctype" />
       <item value="digit" />
       <item value="reduction" />
       <item value="collect" />
@@ -53,7 +54,6 @@
       <item value="idempotent" />
       <item value="Name shadowed: iterator¡" />
       <item value="destination" />
-      <item value="MIC QUEUE UPDATED" />
     </histories>
     <option name="languageScores">
       <map>
