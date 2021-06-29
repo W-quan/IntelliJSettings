@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="d人领取" />
+      <item value="iv confirm" />
+      <item value="free audio for whole site" />
+      <item value="dialog new user gift package" />
       <item value="doctype" />
       <item value="digit" />
       <item value="reduction" />
@@ -50,10 +54,6 @@
       <item value="acquire" />
       <item value="purpose" />
       <item value="&lt;p&gt;The default animation to dismiss this dialog is a fade-out transition through a windowAnimation. Call {@link setDismissWithAnimation(true)} if you want to utilize the BottomSheet animation instead." />
-      <item value="This function can be called from a few different use cases, including Swiping the dialog down or calling `dismiss()` from a `BottomSheetDialogFragment`, tapping outside a dialog, etc..." />
-      <item value="idempotent" />
-      <item value="Name shadowed: iterator¡" />
-      <item value="destination" />
     </histories>
     <option name="languageScores">
       <map>
