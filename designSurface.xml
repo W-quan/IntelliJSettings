@@ -2,7 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../../layout/custom_preview.xml" value="0.3953846153846154" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.4015625" />
         <entry key="app/src/main/res/drawable-night/bg_mine_header.xml" value="0.39010416666666664" />
         <entry key="app/src/main/res/drawable-night/bg_mine_header_panel.xml" value="0.39010416666666664" />
         <entry key="app/src/main/res/drawable-night/bg_mine_panel.xml" value="0.39010416666666664" />
@@ -17,9 +17,10 @@
         <entry key="app/src/main/res/layout/item_message_send_msg.xml" value="0.375" />
         <entry key="app/src/main/res/layout/item_mine_entry.xml" value="0.36923076923076925" />
         <entry key="app/src/main/res/layout/item_my_chat_bubbles.xml" value="0.182370820668693" />
+        <entry key="app/src/main/res/layout/item_my_enter_effect.xml" value="0.36923076923076925" />
         <entry key="app/src/main/res/layout/item_switch_game.xml" value="0.337037037037037" />
         <entry key="app/src/main/res/layout/layout_notify_media_controller.xml" value="0.375" />
-        <entry key="app/src/main/res/layout/view_enter_effect.xml" value="0.3398148148148148" />
+        <entry key="app/src/main/res/layout/view_enter_effect.xml" value="0.36923076923076925" />
         <entry key="app/src/module_bumo/res/drawable/bg_gender_fed100_fdb303_12.xml" value="0.3416666666666667" />
         <entry key="app/src/module_bumo/res/drawable/bg_splash.xml" value="0.33611111111111114" />
         <entry key="app/src/module_bumo/res/drawable/bg_white_0_20.xml" value="0.3841025641025641" />
@@ -44,6 +45,7 @@
         <entry key="app/src/module_bumo/res/layout/include_dialog_common_ok_cancel_btn.xml" value="0.36923076923076925" />
         <entry key="app/src/module_bumo/res/layout/include_mic_charm_layout.xml" value="0.36018518518518516" />
         <entry key="app/src/module_bumo/res/layout/item_boss_micro.xml" value="0.36018518518518516" />
+        <entry key="app/src/module_bumo/res/layout/item_enter_effect.xml" value="0.36923076923076925" />
         <entry key="app/src/module_bumo/res/layout/item_user.xml" value="0.32037037037037036" />
         <entry key="app/src/module_bumo/res/layout/layout_common_ok_cancel_dialog.xml" value="0.36923076923076925" />
         <entry key="app/src/module_bumo/res/layout/layout_common_popup_dialog.xml" value="0.36923076923076925" />
