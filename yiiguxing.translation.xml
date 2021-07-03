@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="escape" />
       <item value="radial" />
       <item value="ring" />
       <item value="oval" />
@@ -53,7 +54,6 @@
       <item value="communication" />
       <item value="Typical" />
       <item value="standpoint" />
-      <item value="ViewModel's only responsibility is to manage the data for the UI. It &lt;b&gt;should never&lt;b&gt; access your view hierarchy or hold a reference back to the Activity or the Fragment." />
     </histories>
     <option name="languageScores">
       <map>
