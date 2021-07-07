@@ -2,7 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.39010416666666664" />
         <entry key="app/src/main/res/drawable-night/bg_mine_header.xml" value="0.39010416666666664" />
         <entry key="app/src/main/res/drawable-night/bg_mine_header_panel.xml" value="0.39010416666666664" />
         <entry key="app/src/main/res/drawable-night/bg_mine_panel.xml" value="0.39010416666666664" />
@@ -76,7 +76,8 @@
         <entry key="app/src/module_er_meng_vip/res/layout/activity_vip.xml" value="0.36923076923076925" />
         <entry key="app/src/module_er_meng_vip/res/layout/foot_open_vip.xml" value="0.36923076923076925" />
         <entry key="app/src/module_er_meng_vip/res/layout/head_vip_user_info.xml" value="0.36923076923076925" />
-        <entry key="app/src/module_moments/res/layout/activity_publish.xml" value="0.182370820668693" />
+        <entry key="app/src/module_moments/res/drawable/bg_moment_publish_topic_selected.xml" value="0.39010416666666664" />
+        <entry key="app/src/module_moments/res/layout/activity_publish.xml" value="0.36923076923076925" />
         <entry key="app/src/module_room/res/drawable-xhdpi/bg_game_mode_online.xml" value="0.3611111111111111" />
         <entry key="app/src/module_room/res/drawable/bg_5a92f7_round.xml" value="0.34629629629629627" />
         <entry key="app/src/module_room/res/drawable/bg_dialog_room_gift.xml" value="0.19114583333333332" />
