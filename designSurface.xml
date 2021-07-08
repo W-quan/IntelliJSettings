@@ -52,7 +52,7 @@
         <entry key="app/src/module_bumo/res/layout/dialog_user_info.xml" value="0.375" />
         <entry key="app/src/module_bumo/res/layout/fragment_dialog_web.xml" value="0.36923076923076925" />
         <entry key="app/src/module_bumo/res/layout/fragment_game_home.xml" value="0.36923076923076925" />
-        <entry key="app/src/module_bumo/res/layout/fragment_mine.xml" value="0.36923076923076925" />
+        <entry key="app/src/module_bumo/res/layout/fragment_mine.xml" value="0.375" />
         <entry key="app/src/module_bumo/res/layout/fragment_recent_contacts.xml" value="0.36923076923076925" />
         <entry key="app/src/module_bumo/res/layout/fragment_room_fans_rank.xml" value="0.375" />
         <entry key="app/src/module_bumo/res/layout/fragment_user_center.xml" value="0.36923076923076925" />

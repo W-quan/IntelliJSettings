@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="@return Resource dimension value multiplied by the appropriate metric and truncated to integer pixels." />
+      <item value="Retrieve a dimensional for a particular resource ID for use as an offset in raw pixels. This is the same as {@link getDimension}, except the returned value is converted to integer pixels for you. An offset conversion involves simply truncating the base value to an integer." />
       <item value="escape" />
       <item value="radial" />
       <item value="ring" />
@@ -52,8 +54,6 @@
       <item value="This method will be called when this ViewModel is no longer used and will be destroyed." />
       <item value="ViewModels can also be used as a communication layer between different Fragments of an Activity. Each Fragment can acquire the ViewModel using the same key via their Activity. This allows communication between Fragments in a de-coupled fashion such that they never need to talk to the other Fragment directly." />
       <item value="communication" />
-      <item value="Typical" />
-      <item value="standpoint" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625282416576" />
+    <option name="lastTrimTime" value="1625715416966" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
