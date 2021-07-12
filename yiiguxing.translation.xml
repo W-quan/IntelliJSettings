@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="we expect only fixed sized item for now" />
       <item value="thorw bottle" />
       <item value="iv throw bottle" />
       <item value="bg fragment bottle centent" />
@@ -53,7 +54,6 @@
       <item value="compatible getLoadMoreViewCount and getEmptyViewCount may change" />
       <item value="load Activities" />
       <item value="EVENT ROOM GIFT GIVING CLICK DETERMINE" />
-      <item value="Flags for {@link fromHtml(String, int, ImageGetter, TagHandler)}: Separate block-level elements with line breaks (single newline character) in between. This inverts the {@link Spanned} to HTML string conversion done with the option {@link TO_HTML_PARAGRAPH_LINES_INDIVIDUAL}." />
     </histories>
     <option name="languageScores">
       <map>
