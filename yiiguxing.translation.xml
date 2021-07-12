@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="thorw bottle" />
+      <item value="iv throw bottle" />
+      <item value="bg fragment bottle centent" />
       <item value="A required callback invoked when the resource is no longer valid and must be freed." />
       <item value="@return Resource dimension value multiplied by the appropriate metric and truncated to integer pixels." />
       <item value="Retrieve a dimensional for a particular resource ID for use as an offset in raw pixels. This is the same as {@link getDimension}, except the returned value is converted to integer pixels for you. An offset conversion involves simply truncating the base value to an integer." />
@@ -51,9 +54,6 @@
       <item value="load Activities" />
       <item value="EVENT ROOM GIFT GIVING CLICK DETERMINE" />
       <item value="Flags for {@link fromHtml(String, int, ImageGetter, TagHandler)}: Separate block-level elements with line breaks (single newline character) in between. This inverts the {@link Spanned} to HTML string conversion done with the option {@link TO_HTML_PARAGRAPH_LINES_INDIVIDUAL}." />
-      <item value="It is useful when ViewModel observes some data and you need to clear this subscription to prevent a leak of this ViewModel." />
-      <item value="This method will be called when this ViewModel is no longer used and will be destroyed." />
-      <item value="ViewModels can also be used as a communication layer between different Fragments of an Activity. Each Fragment can acquire the ViewModel using the same key via their Activity. This allows communication between Fragments in a de-coupled fashion such that they never need to talk to the other Fragment directly." />
     </histories>
     <option name="languageScores">
       <map>
