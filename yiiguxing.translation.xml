@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Generally this method should be used for scaling and translating view item for better (different) view presentation of layouting." />
       <item value="we expect only fixed sized item for now" />
       <item value="thorw bottle" />
       <item value="iv throw bottle" />
@@ -53,7 +54,6 @@
       <item value="quote" />
       <item value="compatible getLoadMoreViewCount and getEmptyViewCount may change" />
       <item value="load Activities" />
-      <item value="EVENT ROOM GIFT GIVING CLICK DETERMINE" />
     </histories>
     <option name="languageScores">
       <map>
