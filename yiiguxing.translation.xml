@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Represents a property, such as a named `val` or `var` declaration. Instances of this class are obtainable by the `::` operator. See the [Kotlin language documentation](https:kotlinlang.orgdocsreferencereflection.html) for more information." />
       <item value="bg btn bottle disenable" />
       <item value="@return The index of the child to draw this iteration." />
       <item value="iteration" />
@@ -53,7 +54,6 @@
       <item value="&lt;li&gt;Whenever it is invoked on the same object more than once during an execution of a Java application, the {@code hashCode} method must consistently return the same integer, provided no information used in {@code equals} comparisons on the object is modified. This integer need not remain consistent from one execution of an application to another execution of the same application." />
       <item value="Returns a hash code value for the object. This method is supported for the benefit of hash tables such as those provided by" />
       <item value="If the request is completed, beginning again will ensure the result is re-delivered, triggering RequestListeners and Targets. If the request is failed, beginning again will restart the request, giving it another chance to complete. If the request is already running, we can let it continue running without interruption." />
-      <item value="We only store a bitmap cache in the root of the RemoteViews." />
     </histories>
     <option name="languageScores">
       <map>
