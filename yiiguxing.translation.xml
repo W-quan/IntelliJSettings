@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="bg btn bottle disenable" />
       <item value="@return The index of the child to draw this iteration." />
       <item value="iteration" />
       <item value="Returns the index of the child to draw for this iteration. Override this if you want to change the drawing order of children. By default, it returns i." />
@@ -53,7 +54,6 @@
       <item value="Returns a hash code value for the object. This method is supported for the benefit of hash tables such as those provided by" />
       <item value="If the request is completed, beginning again will ensure the result is re-delivered, triggering RequestListeners and Targets. If the request is failed, beginning again will restart the request, giving it another chance to complete. If the request is already running, we can let it continue running without interruption." />
       <item value="We only store a bitmap cache in the root of the RemoteViews." />
-      <item value="Now that everything is initialized and duplicated, setting a new BitmapCache will re-initialize the cache." />
     </histories>
     <option name="languageScores">
       <map>
