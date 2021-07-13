@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns a reversed read-only view of the original List. All changes made in the original list will be reflected in the reversed one." />
+      <item value="Used to reverse item traversal and layout order. This behaves similar to the layout change for RTL views. When set to true, first item is laid out at the end of the UI, second item is laid out before it etc." />
       <item value="Generally this method should be used for scaling and translating view item for better (different) view presentation of layouting." />
       <item value="we expect only fixed sized item for now" />
       <item value="thorw bottle" />
@@ -52,8 +54,6 @@
       <item value="Merges the passed RemoteViews actions with this RemoteViews actions according to action-specific merge rules." />
       <item value="We only write the bitmap cache if we are the root RemoteViews, as this cache is shared by all children." />
       <item value="quote" />
-      <item value="compatible getLoadMoreViewCount and getEmptyViewCount may change" />
-      <item value="load Activities" />
     </histories>
     <option name="languageScores">
       <map>
