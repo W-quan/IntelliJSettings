@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&lt;!-- Describes the content of a view so that a autofill service can fill in the appropriate data. Multiple hints can be combined in a comma separated list or an array of strings to mean e.g. emailAddress or postalAddress. --&gt;" />
+      <item value="write your mood at this moment" />
+      <item value="写上你此刻的心情..." />
       <item value="Represents a property, such as a named `val` or `var` declaration. Instances of this class are obtainable by the `::` operator. See the [Kotlin language documentation](https:kotlinlang.orgdocsreferencereflection.html) for more information." />
       <item value="bg btn bottle disenable" />
       <item value="@return The index of the child to draw this iteration." />
@@ -51,9 +54,6 @@
       <item value="Returns an estimate of the bitmap heap memory usage for this RemoteViews." />
       <item value="As much as is reasonably practical, the hashCode method defined by class {@code Object} does return distinct integers for distinct objects. (This is typically implemented by converting the internal address of the object into an integer, but this implementation technique is not required by the Java&amp;trade; programming language.)" />
       <item value="&lt;li&gt;If two objects are equal according to the {@code equals(Object)} method, then calling the {@code hashCode} method on each of the two objects must produce the same integer result. &lt;li&gt;It is &lt;em&gt;not&lt;em&gt; required that if two objects are unequal according to the {@link java.lang.Objectequals(java.lang.Object)} method, then calling the {@code hashCode} method on each of the two objects must produce distinct integer results. However, the programmer should be aware that producing distinct integer results for unequal objects may improve the performance of hash tables." />
-      <item value="&lt;li&gt;Whenever it is invoked on the same object more than once during an execution of a Java application, the {@code hashCode} method must consistently return the same integer, provided no information used in {@code equals} comparisons on the object is modified. This integer need not remain consistent from one execution of an application to another execution of the same application." />
-      <item value="Returns a hash code value for the object. This method is supported for the benefit of hash tables such as those provided by" />
-      <item value="If the request is completed, beginning again will ensure the result is re-delivered, triggering RequestListeners and Targets. If the request is failed, beginning again will restart the request, giving it another chance to complete. If the request is already running, we can let it continue running without interruption." />
     </histories>
     <option name="languageScores">
       <map>
