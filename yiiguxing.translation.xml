@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="resolve Layout Direction" />
       <item value="&lt;!-- Describes the content of a view so that a autofill service can fill in the appropriate data. Multiple hints can be combined in a comma separated list or an array of strings to mean e.g. emailAddress or postalAddress. --&gt;" />
       <item value="write your mood at this moment" />
       <item value="写上你此刻的心情..." />
@@ -53,7 +54,6 @@
       <item value="estimate Memory Usage" />
       <item value="Returns an estimate of the bitmap heap memory usage for this RemoteViews." />
       <item value="As much as is reasonably practical, the hashCode method defined by class {@code Object} does return distinct integers for distinct objects. (This is typically implemented by converting the internal address of the object into an integer, but this implementation technique is not required by the Java&amp;trade; programming language.)" />
-      <item value="&lt;li&gt;If two objects are equal according to the {@code equals(Object)} method, then calling the {@code hashCode} method on each of the two objects must produce the same integer result. &lt;li&gt;It is &lt;em&gt;not&lt;em&gt; required that if two objects are unequal according to the {@link java.lang.Objectequals(java.lang.Object)} method, then calling the {@code hashCode} method on each of the two objects must produce distinct integer results. However, the programmer should be aware that producing distinct integer results for unequal objects may improve the performance of hash tables." />
     </histories>
     <option name="languageScores">
       <map>
