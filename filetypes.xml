@@ -12,9 +12,11 @@
       <mapping ext="svga" type="PLAIN_TEXT" />
       <mapping ext="mmap3" type="PLAIN_TEXT" />
       <mapping ext="rawproto" type="PLAIN_TEXT" />
+      <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="mmap" type="PLAIN_TEXT" />
       <mapping ext="xlog" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
+      <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
