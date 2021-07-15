@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="dimension" />
       <item value="resolve Layout Direction" />
       <item value="&lt;!-- Describes the content of a view so that a autofill service can fill in the appropriate data. Multiple hints can be combined in a comma separated list or an array of strings to mean e.g. emailAddress or postalAddress. --&gt;" />
       <item value="write your mood at this moment" />
@@ -53,7 +54,6 @@
       <item value="Returns a future that can be used to do a blocking get on a background thread." />
       <item value="estimate Memory Usage" />
       <item value="Returns an estimate of the bitmap heap memory usage for this RemoteViews." />
-      <item value="As much as is reasonably practical, the hashCode method defined by class {@code Object} does return distinct integers for distinct objects. (This is typically implemented by converting the internal address of the object into an integer, but this implementation technique is not required by the Java&amp;trade; programming language.)" />
     </histories>
     <option name="languageScores">
       <map>
