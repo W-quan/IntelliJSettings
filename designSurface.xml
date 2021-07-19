@@ -144,6 +144,7 @@
         <entry key="app/src/module_room/res/layout/layout_room_owner_avatar.xml" value="0.3398148148148148" />
         <entry key="app/src/module_room/res/layout/list_item_micro.xml" value="0.36923076923076925" />
         <entry key="app/src/module_room/res/layout/list_item_micro_king.xml" value="0.36018518518518516" />
+        <entry key="core/src/main/res/layout/nim_message_item_audio_bottle.xml" value="0.375" />
         <entry key="nim_uikit/res/drawable/bg_nim_water_drop_other.xml" value="0.3731481481481482" />
         <entry key="nim_uikit/res/drawable/bg_nim_water_drop_right.xml" value="0.33240740740740743" />
         <entry key="nim_uikit/res/drawable/bg_nim_water_drop_self.xml" value="0.33240740740740743" />
