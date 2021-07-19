@@ -116,6 +116,7 @@
         <entry key="app/src/module_er_meng_vip/res/layout/head_vip_user_info.xml" value="0.36923076923076925" />
         <entry key="app/src/module_moments/res/drawable/bg_moment_publish_topic_selected.xml" value="0.39010416666666664" />
         <entry key="app/src/module_moments/res/layout/activity_publish.xml" value="0.36923076923076925" />
+        <entry key="app/src/module_moments/res/layout/view_holder_moment_share.xml" value="0.375" />
         <entry key="app/src/module_room/res/drawable-xhdpi/bg_game_mode_online.xml" value="0.3611111111111111" />
         <entry key="app/src/module_room/res/drawable/bg_5a92f7_round.xml" value="0.34629629629629627" />
         <entry key="app/src/module_room/res/drawable/bg_dialog_room_gift.xml" value="0.19114583333333332" />
@@ -147,6 +148,7 @@
         <entry key="nim_uikit/res/drawable/bg_nim_water_drop_right.xml" value="0.33240740740740743" />
         <entry key="nim_uikit/res/drawable/bg_nim_water_drop_self.xml" value="0.33240740740740743" />
         <entry key="nim_uikit/res/drawable/bg_nim_water_drop_self_p.xml" value="0.2171875" />
+        <entry key="nim_uikit/res/layout/nim_message_item.xml" value="0.375" />
         <entry key="sample/src/main/res/layout/activity_carousel_preview.xml" value="0.36923076923076925" />
         <entry key="sample/src/main/res/layout/item_view.xml" value="0.36923076923076925" />
       </map>
