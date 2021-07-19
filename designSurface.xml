@@ -43,6 +43,7 @@
         <entry key="app/src/main/res/layout/item_switch_game.xml" value="0.337037037037037" />
         <entry key="app/src/main/res/layout/layout_home_recommend_media.xml" value="0.36574074074074076" />
         <entry key="app/src/main/res/layout/layout_notify_media_controller.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/nim_message_item_audio_bottle.xml" value="0.375" />
         <entry key="app/src/main/res/layout/view_enter_effect.xml" value="0.36923076923076925" />
         <entry key="app/src/module_audio_player/res/layout/activity_audio_playing.xml" value="0.375" />
         <entry key="app/src/module_audio_player/res/layout/layout_audio_player_recommended_anchor.xml" value="0.2833333333333333" />
