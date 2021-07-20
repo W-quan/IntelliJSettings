@@ -50,6 +50,7 @@
         <entry key="app/src/main/res/layout/view_enter_effect.xml" value="0.36923076923076925" />
         <entry key="app/src/module_audio_player/res/layout/activity_audio_playing.xml" value="0.375" />
         <entry key="app/src/module_audio_player/res/layout/layout_audio_player_recommended_anchor.xml" value="0.2833333333333333" />
+        <entry key="app/src/module_bottle/res/drawable/bg_nim_msg_item_bottle_text.xml" value="0.39010416666666664" />
         <entry key="app/src/module_bottle/res/layout/item_nim_msg_bottle_photo.xml" value="0.375" />
         <entry key="app/src/module_bottle/res/layout/nim_message_item_audio_bottle.xml" value="0.375" />
         <entry key="app/src/module_bumo/res/drawable-night/bg_fafafa_0_20.xml" value="0.39010416666666664" />
@@ -154,11 +155,13 @@
         <entry key="app/src/module_room/res/layout/list_item_micro_king.xml" value="0.36018518518518516" />
         <entry key="core/src/main/res/drawable/bg_bottle_match_card.xml" value="0.39010416666666664" />
         <entry key="core/src/main/res/layout/nim_message_item_audio_bottle.xml" value="0.375" />
+        <entry key="nim_uikit/res/drawable-night/bg_nim_water_drop_other.xml" value="0.39010416666666664" />
         <entry key="nim_uikit/res/drawable/bg_nim_water_drop_other.xml" value="0.39010416666666664" />
         <entry key="nim_uikit/res/drawable/bg_nim_water_drop_right.xml" value="0.33240740740740743" />
         <entry key="nim_uikit/res/drawable/bg_nim_water_drop_self.xml" value="0.39010416666666664" />
         <entry key="nim_uikit/res/drawable/bg_nim_water_drop_self_p.xml" value="0.2171875" />
         <entry key="nim_uikit/res/layout/nim_message_item.xml" value="0.375" />
+        <entry key="nim_uikit/res/layout/nim_message_item_text.xml" value="0.375" />
         <entry key="nim_uikit/res/layout/nim_read_recipt_layout.xml" value="0.375" />
         <entry key="sample/src/main/res/layout/activity_carousel_preview.xml" value="0.36923076923076925" />
         <entry key="sample/src/main/res/layout/item_view.xml" value="0.36923076923076925" />
