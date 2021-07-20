@@ -45,7 +45,7 @@
         <entry key="app/src/main/res/layout/item_switch_game.xml" value="0.337037037037037" />
         <entry key="app/src/main/res/layout/layout_home_recommend_media.xml" value="0.36574074074074076" />
         <entry key="app/src/main/res/layout/layout_notify_media_controller.xml" value="0.375" />
-        <entry key="app/src/main/res/layout/nim_message_item_audio_bottle.xml" value="0.47661412349034016" />
+        <entry key="app/src/main/res/layout/nim_message_item_audio_bottle.xml" value="0.375" />
         <entry key="app/src/main/res/layout/view_enter_effect.xml" value="0.36923076923076925" />
         <entry key="app/src/module_audio_player/res/layout/activity_audio_playing.xml" value="0.375" />
         <entry key="app/src/module_audio_player/res/layout/layout_audio_player_recommended_anchor.xml" value="0.2833333333333333" />
@@ -156,6 +156,7 @@
         <entry key="nim_uikit/res/drawable/bg_nim_water_drop_self.xml" value="0.33240740740740743" />
         <entry key="nim_uikit/res/drawable/bg_nim_water_drop_self_p.xml" value="0.2171875" />
         <entry key="nim_uikit/res/layout/nim_message_item.xml" value="0.375" />
+        <entry key="nim_uikit/res/layout/nim_read_recipt_layout.xml" value="0.375" />
         <entry key="sample/src/main/res/layout/activity_carousel_preview.xml" value="0.36923076923076925" />
         <entry key="sample/src/main/res/layout/item_view.xml" value="0.36923076923076925" />
       </map>
