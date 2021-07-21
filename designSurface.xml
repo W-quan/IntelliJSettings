@@ -79,6 +79,7 @@
         <entry key="app/src/module_bumo/res/layout/activity_room_setting.xml" value="0.33425925925925926" />
         <entry key="app/src/module_bumo/res/layout/activity_setting.xml" value="0.36923076923076925" />
         <entry key="app/src/module_bumo/res/layout/activity_team_message.xml" value="0.36923076923076925" />
+        <entry key="app/src/module_bumo/res/layout/activity_user_photos_modify.xml" value="0.2109375" />
         <entry key="app/src/module_bumo/res/layout/activity_voice_match.xml" value="0.182370820668693" />
         <entry key="app/src/module_bumo/res/layout/dialog_bottom_gift.xml" value="0.27897435897435896" />
         <entry key="app/src/module_bumo/res/layout/dialog_custom_voice_match_sync_history_voice.xml" value="0.182370820668693" />
@@ -95,7 +96,7 @@
         <entry key="app/src/module_bumo/res/layout/fragment_mine.xml" value="0.22" />
         <entry key="app/src/module_bumo/res/layout/fragment_recent_contacts.xml" value="0.36923076923076925" />
         <entry key="app/src/module_bumo/res/layout/fragment_room_fans_rank.xml" value="0.375" />
-        <entry key="app/src/module_bumo/res/layout/fragment_user_center.xml" value="0.36923076923076925" />
+        <entry key="app/src/module_bumo/res/layout/fragment_user_center.xml" value="0.375" />
         <entry key="app/src/module_bumo/res/layout/head_home_print_audio.xml" value="0.375" />
         <entry key="app/src/module_bumo/res/layout/include_dialog_common_ok_cancel_btn.xml" value="0.36923076923076925" />
         <entry key="app/src/module_bumo/res/layout/include_mic_charm_layout.xml" value="0.36018518518518516" />
