@@ -165,6 +165,8 @@
         <entry key="nim_uikit/res/layout/nim_message_item_text.xml" value="0.375" />
         <entry key="nim_uikit/res/layout/nim_read_recipt_layout.xml" value="0.375" />
         <entry key="sample/src/main/res/layout/activity_carousel_preview.xml" value="0.36923076923076925" />
+        <entry key="sample/src/main/res/layout/activity_main.xml" value="0.36923076923076925" />
+        <entry key="sample/src/main/res/layout/image_card.xml" value="0.36923076923076925" />
         <entry key="sample/src/main/res/layout/item_view.xml" value="0.36923076923076925" />
       </map>
     </option>
