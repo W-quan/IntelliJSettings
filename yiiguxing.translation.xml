@@ -4,6 +4,13 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="4) scroll to fulfill requirements like stack from bottom." />
+      <item value="3) fill towards end, stacking from top" />
+      <item value="2) fill towards start, stacking from bottom" />
+      <item value="1) by checking children and other variables, find an anchor coordinate and an anchor" />
+      <item value="layout Chunk" />
+      <item value="This case relates to when the anchor child is the focused view and due to layout shrinking the focused view fell outside the viewport, e.g. when soft keyboard shows up after tapping an EditText which shrinks RV causing the focused view (The tapped EditText which is the anchor child) to get kicked out of the screen. Will update the anchor coordinate in order to make sure that the focused view is laid out. Otherwise, the available space in layoutState will be calculated as negative preventing the focused view from being laid out in fill. Note that we won't update the anchor position between layout passes (refer to TestResizingRelayoutWithAutoMeasure), which happens if we were to call updateAnchorInfoForLayout for an anchor that's not the focused view (e.g. a reference child which can change between layout passes)." />
+      <item value="calculate anchor position and coordinate" />
       <item value="Type checking has run into a recursive problem. Easiest workaround: specify types of your declarations explicitly¡" />
       <item value="This means that the View was a child of the LayoutManager when layout started but has been removed by the LayoutManager. It might have been removed from the adapter or simply become invisible due to other factors. You can distinguish these two cases by checking the change flags that were passed to" />
       <item value="&lt;!-- Defines the layout animation to use the first time the ViewGroup is laid out. Layout animations can also be started manually after the first layout. --&gt;" />
@@ -47,13 +54,6 @@
       <item value="is Permanent Vip" />
       <item value="signed" />
       <item value="history record" />
-      <item value="collect product" />
-      <item value="others service" />
-      <item value="_service" />
-      <item value="我的服务" />
-      <item value="Save an object allocation if we've cached an EngineResource (the typical case)." />
-      <item value="A null resource indicates that the load failed, usually due to an exception." />
-      <item value="TODO: Seems like we might as well put this in the memory cache instead of just recycling it since we've gotten this far..." />
     </histories>
     <option name="languageScores">
       <map>
