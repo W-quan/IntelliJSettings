@@ -85,13 +85,13 @@
         <entry key="app/src/module_bumo/res/layout/dialog_bottom_gift.xml" value="0.27897435897435896" />
         <entry key="app/src/module_bumo/res/layout/dialog_custom_voice_match_sync_history_voice.xml" value="0.182370820668693" />
         <entry key="app/src/module_bumo/res/layout/dialog_fragment_room_rank.xml" value="0.23958333333333334" />
-        <entry key="app/src/module_bumo/res/layout/dialog_remark.xml" value="0.36923076923076925" />
+        <entry key="app/src/module_bumo/res/layout/dialog_remark.xml" value="0.375" />
         <entry key="app/src/module_bumo/res/layout/dialog_reward.xml" value="0.375" />
         <entry key="app/src/module_bumo/res/layout/dialog_sign_in.xml" value="0.36923076923076925" />
         <entry key="app/src/module_bumo/res/layout/dialog_user_info.xml" value="0.375" />
         <entry key="app/src/module_bumo/res/layout/fragment_album_anchor_info.xml" value="0.375" />
         <entry key="app/src/module_bumo/res/layout/fragment_album_audio_info.xml" value="0.375" />
-        <entry key="app/src/module_bumo/res/layout/fragment_bottle.xml" value="0.2462962962962963" />
+        <entry key="app/src/module_bumo/res/layout/fragment_bottle.xml" value="0.375" />
         <entry key="app/src/module_bumo/res/layout/fragment_dialog_web.xml" value="0.36923076923076925" />
         <entry key="app/src/module_bumo/res/layout/fragment_game_home.xml" value="0.36923076923076925" />
         <entry key="app/src/module_bumo/res/layout/fragment_mine.xml" value="0.22" />
