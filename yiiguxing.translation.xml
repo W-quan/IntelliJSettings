@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="On Swipe" />
       <item value="Filters the success item of the Single via a predicate function and emitting it if the predicate returns true, completing otherwise." />
       <item value="a function that, when applied to the item emitted by each of the source Singles, results in an item that will be emitted by the resulting Single" />
       <item value="play Anim Observer" />
@@ -53,7 +54,6 @@
       <item value="dialog new user gift package" />
       <item value="doctype" />
       <item value="digit" />
-      <item value="reduction" />
     </histories>
     <option name="languageScores">
       <map>
