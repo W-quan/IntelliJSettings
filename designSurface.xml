@@ -91,7 +91,7 @@
         <entry key="app/src/module_bumo/res/layout/dialog_user_info.xml" value="0.375" />
         <entry key="app/src/module_bumo/res/layout/fragment_album_anchor_info.xml" value="0.375" />
         <entry key="app/src/module_bumo/res/layout/fragment_album_audio_info.xml" value="0.375" />
-        <entry key="app/src/module_bumo/res/layout/fragment_bottle.xml" value="0.375" />
+        <entry key="app/src/module_bumo/res/layout/fragment_bottle.xml" value="0.2462962962962963" />
         <entry key="app/src/module_bumo/res/layout/fragment_dialog_web.xml" value="0.36923076923076925" />
         <entry key="app/src/module_bumo/res/layout/fragment_game_home.xml" value="0.36923076923076925" />
         <entry key="app/src/module_bumo/res/layout/fragment_mine.xml" value="0.22" />
