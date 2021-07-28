@@ -4,7 +4,17 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="spreads" />
+      <item value="The load factor used when none specified in constructor." />
+      <item value="The maximum capacity, used if a higher value is implicitly specified by either of the constructors with arguments. MUST be a power of two &lt;= 1&lt;&lt;30." />
+      <item value="The default initial capacity - MUST be a power of two." />
+      <item value="The concurrent-programming-like SSA-based coding style helps avoid aliasing errors amid all of the twisty pointer operations." />
+      <item value="The use and transitions among plain vs tree modes is complicated by the existence of subclass LinkedHashMap. See below for hook methods defined to be invoked upon insertion, removal and access that allow LinkedHashMap internals to otherwise remain independent of these mechanics. (This also requires that a map instance be passed to some utility methods that may create new nodes.)" />
+      <item value="When bin lists are treeified, split, or untreeified, we keep them in the same relative accesstraversal order (i.e., field Node.next) to better preserve locality, and to slightly simplify handling of splits and traversals that invoke iterator.remove. When using comparators on insertion, to keep a total ordering (or as close as is required here) across rebalancings, we compare classes and identityHashCodes as tie-breakers." />
+      <item value="All applicable internal methods accept a hash code as an argument (as normally supplied from a public method), allowing them to call each other without recomputing user hashCodes. Most internal methods also accept a &quot;tab&quot; argument, that is normally the current table, but may be a new or old one when resizing or converting." />
+      <item value="The root of a tree bin is normally its first node. However, sometimes (currently only upon Iterator.remove), the root might be elsewhere, but can be recovered following parent links (method TreeNode.root())." />
       <item value="Ideally, under random hashCodes, the frequency of nodes in bins follows a Poisson distribution (http:en.wikipedia.orgwikiPoisson_distribution) with a parameter of about 0.5 on average for the default resizing threshold of 0.75, although with a large variance because of resizing granularity. Ignoring variance, the expected occurrences of list size k are (exp(-0.5) pow(0.5, k) factorial(k)). The first values are:" />
+      <item value="more: less than 1 in ten million" />
       <item value="In usages with well-distributed user hashCodes, tree bins are rarely used." />
       <item value="And when they become too small (due to removal or resizing) they are converted back to plain bins." />
       <item value="Because TreeNodes are about twice the size of regular nodes, we use them only when bins contain enough nodes to warrant use (see TREEIFY_THRESHOLD)." />
@@ -44,16 +54,6 @@
       <item value="写上你此刻的心情..." />
       <item value="Represents a property, such as a named `val` or `var` declaration. Instances of this class are obtainable by the `::` operator. See the [Kotlin language documentation](https:kotlinlang.orgdocsreferencereflection.html) for more information." />
       <item value="bg btn bottle disenable" />
-      <item value="@return The index of the child to draw this iteration." />
-      <item value="iteration" />
-      <item value="Returns the index of the child to draw for this iteration. Override this if you want to change the drawing order of children. By default, it returns i." />
-      <item value="It works using the {@link ViewGroupgetChildDrawingOrder(int, int)} method, so any case that applies to that method also applies to this callback. For example, changing the drawing order of two views will not have any effect if their elevation values are different since elevation overrides the result of this callback." />
-      <item value="A callback interface that can be used to alter the drawing order of RecyclerView children." />
-      <item value="noinspection DataBindingWithoutKapt" />
-      <item value="Returns a reversed read-only view of the original List. All changes made in the original list will be reflected in the reversed one." />
-      <item value="Used to reverse item traversal and layout order. This behaves similar to the layout change for RTL views. When set to true, first item is laid out at the end of the UI, second item is laid out before it etc." />
-      <item value="Generally this method should be used for scaling and translating view item for better (different) view presentation of layouting." />
-      <item value="we expect only fixed sized item for now" />
     </histories>
     <option name="languageScores">
       <map>
