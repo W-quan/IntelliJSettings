@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Finds the node starting at root p with the given hash and key. The kc argument caches comparableClassFor(key) upon first use comparing keys." />
       <item value="Associates the specified value with the specified key in this map. If the map previously contained a mapping for the key, the old value is replaced." />
       <item value="factor" />
       <item value="The table, initialized on first use, and resized as necessary. When allocated, length is always a power of two. (We also tolerate length zero in some operations to allow bootstrapping mechanics that are currently not needed.)" />
@@ -53,7 +54,6 @@
       <item value="dimension" />
       <item value="resolve Layout Direction" />
       <item value="&lt;!-- Describes the content of a view so that a autofill service can fill in the appropriate data. Multiple hints can be combined in a comma separated list or an array of strings to mean e.g. emailAddress or postalAddress. --&gt;" />
-      <item value="write your mood at this moment" />
     </histories>
     <option name="languageScores">
       <map>
