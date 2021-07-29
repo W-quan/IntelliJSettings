@@ -159,6 +159,7 @@
         <entry key="app/src/module_room/res/layout/list_item_micro_king.xml" value="0.36018518518518516" />
         <entry key="core/src/main/res/drawable/bg_bottle_match_card.xml" value="0.39010416666666664" />
         <entry key="core/src/main/res/layout/nim_message_item_audio_bottle.xml" value="0.375" />
+        <entry key="example/src/main/res/layout/activity_animator_sample.xml" value="0.375" />
         <entry key="nim_uikit/res/drawable-night/bg_nim_water_drop_other.xml" value="0.39010416666666664" />
         <entry key="nim_uikit/res/drawable/bg_nim_water_drop_other.xml" value="0.39010416666666664" />
         <entry key="nim_uikit/res/drawable/bg_nim_water_drop_right.xml" value="0.33240740740740743" />
