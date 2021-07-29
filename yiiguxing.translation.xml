@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="When stack from bottom is set to true, the list fills its content starting from the bottom of the view." />
       <item value="A scaling factor for fonts displayed on the display. This is the same as {@link density}, except that it may be adjusted in smaller increments at runtime based on a user preference for the font size." />
       <item value="Finds the node starting at root p with the given hash and key. The kc argument caches comparableClassFor(key) upon first use comparing keys." />
       <item value="Associates the specified value with the specified key in this map. If the map previously contained a mapping for the key, the old value is replaced." />
@@ -53,7 +54,6 @@
       <item value="&lt;!-- Defines the layout animation to use the first time the ViewGroup is laid out. Layout animations can also be started manually after the first layout. --&gt;" />
       <item value="tacit" />
       <item value="dimension" />
-      <item value="resolve Layout Direction" />
     </histories>
     <option name="languageScores">
       <map>
