@@ -157,6 +157,8 @@
         <entry key="app/src/module_room/res/layout/layout_room_owner_avatar.xml" value="0.3398148148148148" />
         <entry key="app/src/module_room/res/layout/list_item_micro.xml" value="0.36923076923076925" />
         <entry key="app/src/module_room/res/layout/list_item_micro_king.xml" value="0.36018518518518516" />
+        <entry key="app/src/module_wallet/res/layout/fragment_my_note_balance.xml" value="0.2109375" />
+        <entry key="app/src/module_wallet/res/layout/layout_wallet_note_balance_card.xml" value="0.2109375" />
         <entry key="core/src/main/res/drawable/bg_bottle_match_card.xml" value="0.39010416666666664" />
         <entry key="core/src/main/res/layout/nim_message_item_audio_bottle.xml" value="0.375" />
         <entry key="example/src/main/res/layout/activity_animator_sample.xml" value="0.375" />
