@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="frequent" />
+      <item value="subsequent" />
+      <item value="frequent exit will affect subsequent matches well" />
+      <item value="频繁退出会影响后续匹配哦" />
       <item value="When stack from bottom is set to true, the list fills its content starting from the bottom of the view." />
       <item value="A scaling factor for fonts displayed on the display. This is the same as {@link density}, except that it may be adjusted in smaller increments at runtime based on a user preference for the font size." />
       <item value="Finds the node starting at root p with the given hash and key. The kc argument caches comparableClassFor(key) upon first use comparing keys." />
@@ -50,10 +54,6 @@
       <item value="This case relates to when the anchor child is the focused view and due to layout shrinking the focused view fell outside the viewport, e.g. when soft keyboard shows up after tapping an EditText which shrinks RV causing the focused view (The tapped EditText which is the anchor child) to get kicked out of the screen. Will update the anchor coordinate in order to make sure that the focused view is laid out. Otherwise, the available space in layoutState will be calculated as negative preventing the focused view from being laid out in fill. Note that we won't update the anchor position between layout passes (refer to TestResizingRelayoutWithAutoMeasure), which happens if we were to call updateAnchorInfoForLayout for an anchor that's not the focused view (e.g. a reference child which can change between layout passes)." />
       <item value="calculate anchor position and coordinate" />
       <item value="Type checking has run into a recursive problem. Easiest workaround: specify types of your declarations explicitly¡" />
-      <item value="This means that the View was a child of the LayoutManager when layout started but has been removed by the LayoutManager. It might have been removed from the adapter or simply become invisible due to other factors. You can distinguish these two cases by checking the change flags that were passed to" />
-      <item value="&lt;!-- Defines the layout animation to use the first time the ViewGroup is laid out. Layout animations can also be started manually after the first layout. --&gt;" />
-      <item value="tacit" />
-      <item value="dimension" />
     </histories>
     <option name="languageScores">
       <map>
