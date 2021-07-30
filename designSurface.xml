@@ -122,7 +122,9 @@
         <entry key="app/src/module_bumo/res/layout/main_tab_layout.xml" value="0.375" />
         <entry key="app/src/module_bumo/res/layout/nim_msg_fragment.xml" value="0.375" />
         <entry key="app/src/module_bumo/res/layout/nim_recent_contact_list_item_new.xml" value="0.36923076923076925" />
+        <entry key="app/src/module_bumo/res/layout/nim_recent_contact_say_hi.xml" value="0.375" />
         <entry key="app/src/module_bumo/res/layout/vs_layout_home_guide.xml" value="0.375" />
+        <entry key="app/src/module_bumo/res/layout/vs_p2p_message_voice_match_say_hi_guide.xml" value="0.375" />
         <entry key="app/src/module_er_meng_vip/res/layout/activity_vip.xml" value="0.36923076923076925" />
         <entry key="app/src/module_er_meng_vip/res/layout/foot_open_vip.xml" value="0.36923076923076925" />
         <entry key="app/src/module_er_meng_vip/res/layout/head_vip_user_info.xml" value="0.36923076923076925" />
@@ -167,6 +169,8 @@
         <entry key="nim_uikit/res/drawable/bg_nim_water_drop_right.xml" value="0.33240740740740743" />
         <entry key="nim_uikit/res/drawable/bg_nim_water_drop_self.xml" value="0.39010416666666664" />
         <entry key="nim_uikit/res/drawable/bg_nim_water_drop_self_p.xml" value="0.2171875" />
+        <entry key="nim_uikit/res/layout/nim_message_activity_bottom_layout.xml" value="0.375" />
+        <entry key="nim_uikit/res/layout/nim_message_activity_text_layout.xml" value="0.375" />
         <entry key="nim_uikit/res/layout/nim_message_item.xml" value="0.375" />
         <entry key="nim_uikit/res/layout/nim_message_item_text.xml" value="0.375" />
         <entry key="nim_uikit/res/layout/nim_read_recipt_layout.xml" value="0.375" />
