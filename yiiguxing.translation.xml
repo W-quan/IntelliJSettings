@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="tv signed days" />
+      <item value="tv signed in days" />
+      <item value="tv sign in days" />
+      <item value="tv sign days" />
       <item value="已连续签到1天，继续加油哦！" />
       <item value="继续加油哦" />
       <item value="source Compatibility" />
@@ -50,10 +54,6 @@
       <item value="a function that, when applied to the item emitted by each of the source Singles, results in an item that will be emitted by the resulting Single" />
       <item value="play Anim Observer" />
       <item value="iv matched avatar left" />
-      <item value="4) scroll to fulfill requirements like stack from bottom." />
-      <item value="3) fill towards end, stacking from top" />
-      <item value="2) fill towards start, stacking from bottom" />
-      <item value="1) by checking children and other variables, find an anchor coordinate and an anchor" />
     </histories>
     <option name="languageScores">
       <map>
