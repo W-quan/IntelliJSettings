@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="已连续签到1天，继续加油哦！" />
+      <item value="继续加油哦" />
       <item value="source Compatibility" />
       <item value="set Immediate" />
       <item value="frequent" />
@@ -52,8 +54,6 @@
       <item value="3) fill towards end, stacking from top" />
       <item value="2) fill towards start, stacking from bottom" />
       <item value="1) by checking children and other variables, find an anchor coordinate and an anchor" />
-      <item value="layout Chunk" />
-      <item value="This case relates to when the anchor child is the focused view and due to layout shrinking the focused view fell outside the viewport, e.g. when soft keyboard shows up after tapping an EditText which shrinks RV causing the focused view (The tapped EditText which is the anchor child) to get kicked out of the screen. Will update the anchor coordinate in order to make sure that the focused view is laid out. Otherwise, the available space in layoutState will be calculated as negative preventing the focused view from being laid out in fill. Note that we won't update the anchor position between layout passes (refer to TestResizingRelayoutWithAutoMeasure), which happens if we were to call updateAnchorInfoForLayout for an anchor that's not the focused view (e.g. a reference child which can change between layout passes)." />
     </histories>
     <option name="languageScores">
       <map>
