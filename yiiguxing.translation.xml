@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="赠10音符" />
       <item value="quote" />
       <item value="tv extra" />
       <item value="tv money sign" />
@@ -53,7 +54,6 @@
       <item value="bins" />
       <item value="This map usually acts as a binned (bucketed) hash table, but when bins get too large, they are transformed into bins of TreeNodes, each structured similarly to those in java.util.TreeMap" />
       <item value="This map usually acts as a binned (bucketed) hash table, but" />
-      <item value="On Swipe" />
     </histories>
     <option name="languageScores">
       <map>
