@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The opacity of the final ambient shadow is a function of the shadow caster height, the alpha channel of the outlineAmbientShadowColor (typically opaque), and the {@link android.R.attrambientShadowAlpha} theme attribute. --&gt;" />
+      <item value="By default the shadow color is black. Generally, this color will be opaque so the intensity of the shadow is consistent between different views with different colors." />
+      <item value="&lt;!-- Sets the color of the ambient shadow that is drawn when the view has a positive Z or elevation value." />
       <item value="iv room bubble" />
       <item value="赠10音符" />
       <item value="quote" />
@@ -51,9 +54,6 @@
       <item value="but additionally support faster lookup when overpopulated." />
       <item value="Bins of TreeNodes may be traversed and used like any others," />
       <item value="Bins" />
-      <item value="Most methods try to use normal bins, but relay to TreeNode methods when applicable (simply by checking instanceof a node)." />
-      <item value="bins" />
-      <item value="This map usually acts as a binned (bucketed) hash table, but when bins get too large, they are transformed into bins of TreeNodes, each structured similarly to those in java.util.TreeMap" />
     </histories>
     <option name="languageScores">
       <map>
