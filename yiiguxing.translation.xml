@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="iv room bubble" />
       <item value="赠10音符" />
       <item value="quote" />
       <item value="tv extra" />
@@ -53,7 +54,6 @@
       <item value="Most methods try to use normal bins, but relay to TreeNode methods when applicable (simply by checking instanceof a node)." />
       <item value="bins" />
       <item value="This map usually acts as a binned (bucketed) hash table, but when bins get too large, they are transformed into bins of TreeNodes, each structured similarly to those in java.util.TreeMap" />
-      <item value="This map usually acts as a binned (bucketed) hash table, but" />
     </histories>
     <option name="languageScores">
       <map>
