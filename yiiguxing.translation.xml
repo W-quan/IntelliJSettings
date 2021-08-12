@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="exchange" />
       <item value="BOTTLE THROW CUSTOM TEXT COUNT USED UP" />
       <item value="m Repeat Count" />
       <item value="fraction" />
@@ -53,7 +54,6 @@
       <item value="Thus, performance degrades gracefully under accidental or malicious usages in which hashCode() methods return values that are poorly distributed, as well as those in which many keys share a hashCode, so long as they are also Comparable. (If neither of these apply, we may waste about a factor of two in time and space compared to taking no precautions. But the only known cases stem from poor user programming practices that are already so slow that this makes little difference.)" />
       <item value="The added complexity of tree bins is worthwhile in providing worst-case O(log n) operations when keys either have distinct hashes or are orderable" />
       <item value="(We conservatively check generic types via reflection to validate this -- see method comparableClassFor)." />
-      <item value="Tree bins (i.e., bins whose elements are all TreeNodes) are ordered primarily by hashCode, but in the case of ties, if two elements are of the same &quot;class C implements Comparable&lt;C&gt;&quot;, type then their compareTo method is used for ordering." />
     </histories>
     <option name="languageScores">
       <map>
