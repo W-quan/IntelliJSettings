@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="今天瓶子次数用完了" />
       <item value="is Digit" />
       <item value="exchange" />
       <item value="BOTTLE THROW CUSTOM TEXT COUNT USED UP" />
@@ -53,7 +54,6 @@
       <item value="And when they become too small (due to removal or resizing) they are converted back to plain bins." />
       <item value="Because TreeNodes are about twice the size of regular nodes, we use them only when bins contain enough nodes to warrant use (see TREEIFY_THRESHOLD)." />
       <item value="Thus, performance degrades gracefully under accidental or malicious usages in which hashCode() methods return values that are poorly distributed, as well as those in which many keys share a hashCode, so long as they are also Comparable. (If neither of these apply, we may waste about a factor of two in time and space compared to taking no precautions. But the only known cases stem from poor user programming practices that are already so slow that this makes little difference.)" />
-      <item value="The added complexity of tree bins is worthwhile in providing worst-case O(log n) operations when keys either have distinct hashes or are orderable" />
     </histories>
     <option name="languageScores">
       <map>
