@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="coerce At Least" />
       <item value="launch" />
       <item value="今天瓶子次数用完了" />
       <item value="is Digit" />
@@ -53,7 +54,6 @@
       <item value="more: less than 1 in ten million" />
       <item value="In usages with well-distributed user hashCodes, tree bins are rarely used." />
       <item value="And when they become too small (due to removal or resizing) they are converted back to plain bins." />
-      <item value="Because TreeNodes are about twice the size of regular nodes, we use them only when bins contain enough nodes to warrant use (see TREEIFY_THRESHOLD)." />
     </histories>
     <option name="languageScores">
       <map>
