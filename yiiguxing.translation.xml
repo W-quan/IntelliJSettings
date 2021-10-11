@@ -4,6 +4,14 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="STATE REPEAT FOLLOW" />
+      <item value="stats" />
+      <item value="STATUS REPEAT FOLLOW" />
+      <item value="STATUS EACH OTHER FOLLOW" />
+      <item value="STATUS FIRST TIME FOLLOW" />
+      <item value="STATUS UN FOLLOW" />
+      <item value="EACH OTHER FOLLOW" />
+      <item value="STATS EACH OTHER FOLLOW" />
       <item value="Statistics Protocol" />
       <item value="bg gender famale" />
       <item value="ic user female" />
@@ -46,19 +54,11 @@
       <item value="factor" />
       <item value="The table, initialized on first use, and resized as necessary. When allocated, length is always a power of two. (We also tolerate length zero in some operations to allow bootstrapping mechanics that are currently not needed.)" />
       <item value="spreads" />
-      <item value="The load factor used when none specified in constructor." />
-      <item value="The maximum capacity, used if a higher value is implicitly specified by either of the constructors with arguments. MUST be a power of two &lt;= 1&lt;&lt;30." />
-      <item value="The default initial capacity - MUST be a power of two." />
-      <item value="The concurrent-programming-like SSA-based coding style helps avoid aliasing errors amid all of the twisty pointer operations." />
-      <item value="The use and transitions among plain vs tree modes is complicated by the existence of subclass LinkedHashMap. See below for hook methods defined to be invoked upon insertion, removal and access that allow LinkedHashMap internals to otherwise remain independent of these mechanics. (This also requires that a map instance be passed to some utility methods that may create new nodes.)" />
-      <item value="When bin lists are treeified, split, or untreeified, we keep them in the same relative accesstraversal order (i.e., field Node.next) to better preserve locality, and to slightly simplify handling of splits and traversals that invoke iterator.remove. When using comparators on insertion, to keep a total ordering (or as close as is required here) across rebalancings, we compare classes and identityHashCodes as tie-breakers." />
-      <item value="All applicable internal methods accept a hash code as an argument (as normally supplied from a public method), allowing them to call each other without recomputing user hashCodes. Most internal methods also accept a &quot;tab&quot; argument, that is normally the current table, but may be a new or old one when resizing or converting." />
-      <item value="The root of a tree bin is normally its first node. However, sometimes (currently only upon Iterator.remove), the root might be elsewhere, but can be recovered following parent links (method TreeNode.root())." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="635" />
-        <entry key="ENGLISH" value="636" />
+        <entry key="CHINESE" value="643" />
+        <entry key="ENGLISH" value="644" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
