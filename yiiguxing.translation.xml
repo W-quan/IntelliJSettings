@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="composite Search" />
       <item value="This can only happen during construction." />
       <item value="Now that everything is initialized and duplicated, setting a new BitmapCache will re-initialize the cache." />
       <item value="Because pruning can remove the need for bitmaps, we reconstruct the bitmap cache" />
@@ -53,12 +54,11 @@
       <item value="频繁退出会影响后续匹配哦" />
       <item value="When stack from bottom is set to true, the list fills its content starting from the bottom of the view." />
       <item value="A scaling factor for fonts displayed on the display. This is the same as {@link density}, except that it may be adjusted in smaller increments at runtime based on a user preference for the font size." />
-      <item value="Finds the node starting at root p with the given hash and key. The kc argument caches comparableClassFor(key) upon first use comparing keys." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="647" />
-        <entry key="ENGLISH" value="648" />
+        <entry key="CHINESE" value="648" />
+        <entry key="ENGLISH" value="649" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
@@ -77,6 +77,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634117550527" />
+    <option name="lastTrimTime" value="1634628562478" />
   </component>
 </application>
