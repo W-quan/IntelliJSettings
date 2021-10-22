@@ -73,6 +73,9 @@
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="TingPngPlugin.TingPngAction">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
   <action id="UpdateRunningApplication" />
   <action id="ViewSource" />
   <action id="android.deploy.ApplyChanges">
