@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="load Confessions" />
+      <item value="load Confessiones" />
       <item value="item confession entrance" />
       <item value="item confession entry" />
       <item value="PROPAGANDA" />
@@ -52,13 +54,11 @@
       <item value="This can only happen during construction." />
       <item value="Now that everything is initialized and duplicated, setting a new BitmapCache will re-initialize the cache." />
       <item value="Because pruning can remove the need for bitmaps, we reconstruct the bitmap cache" />
-      <item value="Bitmap Reflection Action" />
-      <item value="STATE REPEAT FOLLOW" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="687" />
-        <entry key="ENGLISH" value="688" />
+        <entry key="CHINESE" value="688" />
+        <entry key="ENGLISH" value="689" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
@@ -66,6 +66,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="KURDISH" value="1" />
+        <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="MARATHI" value="1" />
         <entry key="NORWEGIAN" value="1" />
