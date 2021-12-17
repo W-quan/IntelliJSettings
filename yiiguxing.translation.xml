@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="If this is the first child and it wants to handle system windows, we need to make sure we don't scroll it past the inset" />
       <item value="An additional flag to be used with 'snap'. If set, the view will be snapped to its top and bottom margins, as opposed to the edges of the view itself." />
       <item value="Upon a scroll ending, if the view is only partially visible then it will be snapped and scrolled to it's closest edge" />
       <item value="The view will be scroll in direct relation to scroll events. This flag needs to be set for any of the other flags to take effect. If any sibling views before this one do not have this flag, then this value has no effect" />
@@ -53,12 +54,11 @@
       <item value="Go Bang" />
       <item value="TOPIC DETAIL" />
       <item value="tv follower" />
-      <item value="tv followr" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="706" />
-        <entry key="ENGLISH" value="707" />
+        <entry key="CHINESE" value="707" />
+        <entry key="ENGLISH" value="708" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
