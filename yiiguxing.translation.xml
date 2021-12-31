@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="UPLOAD DIR" />
       <item value="Using fading edges may introduce noticeable performance degradations and should be used only when required by the application's visual design. To request fading edges with API level 14 and above, use the &lt;code&gt;android:requiresFadingEdge&lt;code&gt; attribute instead. --&gt;" />
       <item value="&lt;!-- Reference to a Transition XML resource defining the desired Transition used to move Views out of the Window's content Scene when launching a new Activity. Corresponds to {@link android.view.WindowsetExitTransition(android.transition.Transition)}. --&gt;" />
       <item value="Would be faster if we didn't have to do this. Can we chop the (displayable) text so that we don't need to do this ever?" />
@@ -53,14 +54,13 @@
       <item value="key version code for msg notification" />
       <item value="KEY VERSION CODE FOR MSG NOTIFICATION" />
       <item value="快速设置" />
-      <item value="open msg notify tips" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="717" />
+        <entry key="CHINESE" value="718" />
         <entry key="ENGLISH" value="718" />
         <entry key="POLISH" value="1" />
-        <entry key="GERMAN" value="2" />
+        <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
