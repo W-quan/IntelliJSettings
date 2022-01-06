@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Flushing State" />
+      <item value="Flushing" />
       <item value="expired" />
       <item value="If we're restarted after we're complete (usually via something like a notifyDataSetChanged that starts an identical request into the same Target or View), we can simply use the resource and size we retrieved the last time around and skip obtaining a new size, starting a new load etc. This does mean that users who want to restart a load because they expect that the view size has changed will need to explicitly clear the View or Target before starting the new load." />
       <item value="Build the ErrorRequestCoordinator first if necessary so we can update parentCoordinator." />
@@ -52,13 +54,11 @@
       <item value="Broadcast Action: Wired Headset plugged in or unplugged." />
       <item value="&lt;!-- Flag indicating whether this is a translucent window. --&gt;" />
       <item value="translucent" />
-      <item value="Room Drawer Dialog" />
-      <item value="had Closed Recommend Author" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="722" />
-        <entry key="ENGLISH" value="723" />
+        <entry key="CHINESE" value="724" />
+        <entry key="ENGLISH" value="725" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="1" />
