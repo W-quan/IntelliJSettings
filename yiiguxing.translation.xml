@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="tv processing" />
+      <item value="tv pking" />
       <item value="infinite" />
       <item value="TYPE GRID THREE COLUMN" />
       <item value="reshowing" />
@@ -52,14 +54,13 @@
       <item value="he multiplier used when layout_collapseMode is set to 'parallax'. The value should be between 0.0 and 1.0." />
       <item value="The view will act as normal with no collapsing behavior" />
       <item value="The view will scroll in a parallax fashion. See the layout_collapseParallaxMultiplier attribute to change the multiplier" />
-      <item value="parallax" />
-      <item value="TYPE NEWEST" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="737" />
-        <entry key="ENGLISH" value="738" />
+        <entry key="CHINESE" value="738" />
+        <entry key="ENGLISH" value="739" />
         <entry key="POLISH" value="1" />
+        <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="1" />
