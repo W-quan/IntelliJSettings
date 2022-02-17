@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="-596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="abandoned" />
       <item value="去搭讪" />
       <item value="referrer" />
       <item value="无" />
@@ -53,12 +54,11 @@
       <item value="An additional flag for 'enterAlways' which modifies the returning view to only initially scroll back to it's collapsed height. Once the scrolling view has reached the end of it's scroll range, the remainder of this view will be scrolled into view." />
       <item value="When entering (scrolling on screen) the view will scroll on any downwards scroll event, regardless of whether the scrolling view is also scrolling. This is commonly referred to as the 'quick return' pattern." />
       <item value="AGENT ATTACH FAILED" />
-      <item value="content Scrim" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="744" />
-        <entry key="ENGLISH" value="744" />
+        <entry key="ENGLISH" value="745" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="3" />
