@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="756" />
     <option name="newTranslationDialogY" value="-596" />
     <histories>
+      <item value="sort By Descending" />
       <item value="- New feature: Boom 3D can now automatically change the equalizer preset&#10;based on the app that is playing audio. This feature can be turned on in&#10;" />
       <item value="topActivity is not available, retry." />
       <item value="topActivity is unable" />
@@ -52,12 +53,11 @@
       <item value="Boolean internal attribute to adjust view layout based on system windows such as the status bar. If true, adjusts the padding of this view to leave space for the system windows. Will only take effect if this view is in a non-embedded activity." />
       <item value="UPLOAD DIR" />
       <item value="Using fading edges may introduce noticeable performance degradations and should be used only when required by the application's visual design. To request fading edges with API level 14 and above, use the &lt;code&gt;android:requiresFadingEdge&lt;code&gt; attribute instead. --&gt;" />
-      <item value="&lt;!-- Reference to a Transition XML resource defining the desired Transition used to move Views out of the Window's content Scene when launching a new Activity. Corresponds to {@link android.view.WindowsetExitTransition(android.transition.Transition)}. --&gt;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="760" />
-        <entry key="ENGLISH" value="760" />
+        <entry key="ENGLISH" value="761" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="3" />
