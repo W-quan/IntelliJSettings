@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="756" />
     <option name="newTranslationDialogY" value="-596" />
     <histories>
+      <item value="load Rank Entrance" />
       <item value="Selection change will reposition the toolbar. Hide it for a few ms for a smoother transition." />
       <item value="Return true so click won't be triggered in the leftover empty space" />
       <item value="Postpone the runnable until we know on which thread it needs to run. Assume that the runnable will be successfully placed after attach." />
@@ -52,12 +53,11 @@
       <item value="无" />
       <item value="v channel" />
       <item value="big Customer Attachment" />
-      <item value="wait for next active activity by delay 200ms." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="785" />
-        <entry key="ENGLISH" value="786" />
+        <entry key="CHINESE" value="786" />
+        <entry key="ENGLISH" value="787" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="3" />
