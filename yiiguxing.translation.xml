@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="756" />
     <option name="newTranslationDialogY" value="-596" />
     <histories>
+      <item value="activity Unavailable" />
       <item value="subscribe Room Chat Msg" />
       <item value="Mark the specified range of text with the specified object. The flags determine how the span will behave when text is inserted at the start or end of the span's range." />
       <item value="Make sure there is enough room for empty interior nodes. This magic formula computes the size of the smallest perfect binary tree no smaller than mSpanCount." />
@@ -52,12 +53,11 @@
       <item value="outline Spot Shadow Color" />
       <item value="outline Ambient Shadow Color" />
       <item value="Destroy any previous software drawing cache if present NOTE: even if previous layer type is HW, we do this to ensure we've cleaned up drawing cache created in Viewdraw when drawing to a SW canvas." />
-      <item value="6. Draw decorations (scrollbars for instance)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="795" />
-        <entry key="ENGLISH" value="796" />
+        <entry key="CHINESE" value="796" />
+        <entry key="ENGLISH" value="797" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="3" />
