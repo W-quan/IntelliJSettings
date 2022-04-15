@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="756" />
     <option name="newTranslationDialogY" value="-596" />
     <histories>
+      <item value="decorations" />
       <item value="is Knap" />
       <item value="tv couples match" />
       <item value="tv Couples Match" />
@@ -52,12 +53,11 @@
       <item value="Triple" />
       <item value="ARCHIVE" />
       <item value="2:56 下午 File type recognized: File extension '.klib' was reassigned to 'ARCHIVE' Revert to plain text" />
-      <item value="reassigned" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="805" />
-        <entry key="ENGLISH" value="805" />
+        <entry key="ENGLISH" value="806" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="3" />
