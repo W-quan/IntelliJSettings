@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="756" />
     <option name="newTranslationDialogY" value="-596" />
     <histories>
+      <item value="Resources" />
+      <item value="screen" />
       <item value="matching Anchor Count" />
       <item value="tv Anchor Count" />
       <item value="icon edit to match botton" />
@@ -51,13 +53,11 @@
       <item value="sort By Insertion Order" />
       <item value="Safe conversion, but requires a suppressWarning" />
       <item value="is Non Intermediate Selection Span" />
-      <item value="sort By Descending" />
-      <item value="- New feature: Boom 3D can now automatically change the equalizer preset&#10;based on the app that is playing audio. This feature can be turned on in&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="810" />
-        <entry key="ENGLISH" value="811" />
+        <entry key="CHINESE" value="813" />
+        <entry key="ENGLISH" value="814" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="3" />
@@ -83,5 +83,12 @@
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="4b8c0dd3e2395c8d" />
+        <option name="primaryLanguage" value="ESPERANTO" />
+      </youdao-translate>
+    </option>
   </component>
 </application>
