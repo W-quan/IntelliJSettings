@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="756" />
     <option name="newTranslationDialogY" value="-596" />
     <histories>
+      <item value="RELATIONSHIP TYPE BECOME TEACHER" />
       <item value="CUSTOM MSG MATCHING INVITATION COMPLETED" />
       <item value="CUSTOM MSG MATCH PUSH COMPLETED" />
       <item value="Couple Match Invite" />
@@ -52,12 +53,11 @@
       <item value="Character based selection by dragging. Only for mouse." />
       <item value="Handle multi-point gestures. Keep min and max offset positions. Only activated for devices that correctly handle multi-touch." />
       <item value="Prevent duplicating the selection handles until the mode starts." />
-      <item value="extracted Text Mode Will Be Started" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="819" />
-        <entry key="ENGLISH" value="820" />
+        <entry key="CHINESE" value="820" />
+        <entry key="ENGLISH" value="821" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="3" />
