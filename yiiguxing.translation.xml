@@ -3,6 +3,17 @@
     <option name="newTranslationDialogX" value="756" />
     <option name="newTranslationDialogY" value="-596" />
     <histories>
+      <item value="主持人需是管理员" />
+      <item value="未知错误" />
+      <item value="修改派对名称" />
+      <item value="change group name" />
+      <item value="修改群聊名称" />
+      <item value="房间话题编辑" />
+      <item value="room password" />
+      <item value="请输入房间密码" />
+      <item value="房间密码" />
+      <item value="不能为空" />
+      <item value="日期选择" />
       <item value="情侣" />
       <item value="专属" />
       <item value="限定" />
@@ -42,22 +53,11 @@
       <item value="拉黑后将不再收到对方的消息" />
       <item value="并自动将对方从关注列表中移除" />
       <item value="你将正常收到对方的信息" />
-      <item value="移除黑名单" />
-      <item value="put in blacklist" />
-      <item value="remove from blacklist" />
-      <item value="remove from block list" />
-      <item value="等级过低发送失败" />
-      <item value="你已被禁言" />
-      <item value="you are banned" />
-      <item value="java.util.ResourceBundle.getString() method call." />
-      <item value="A quick-fix is available to transform a string literal into a" />
-      <item value="This inspection won't report empty strings and strings consisting only of whitespaces." />
-      <item value="Hardcoded String literals are probably errors in an internationalized environment." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="894" />
-        <entry key="ENGLISH" value="895" />
+        <entry key="CHINESE" value="906" />
+        <entry key="ENGLISH" value="907" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="3" />
