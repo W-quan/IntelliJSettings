@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="756" />
     <option name="newTranslationDialogY" value="-596" />
     <histories>
+      <item value="下载失败" />
       <item value="mentioned he" />
       <item value="提醒TA看" />
       <item value="本地相册" />
@@ -52,12 +53,11 @@
       <item value="LOCATION NOT SELECT" />
       <item value="We've reached the end of the chain. If any cert in the chain is trusted, we're done." />
       <item value="If this cert has been signed by a trusted cert, use that. Add the trusted certificate to the end of the chain unless it's already present. (That would happen if the first certificate in the chain is itself a self-signed and trusted CA certificate.)" />
-      <item value="WILDCARD" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="881" />
-        <entry key="ENGLISH" value="882" />
+        <entry key="CHINESE" value="882" />
+        <entry key="ENGLISH" value="883" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="3" />
