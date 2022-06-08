@@ -3,6 +3,21 @@
     <option name="newTranslationDialogX" value="756" />
     <option name="newTranslationDialogY" value="-596" />
     <histories>
+      <item value="本地相册" />
+      <item value="拍照上传" />
+      <item value="you have not chosen a_gender yet" />
+      <item value="你还没有选择性别" />
+      <item value="upload failed" />
+      <item value="upload faild" />
+      <item value="上传失败" />
+      <item value="添加失败" />
+      <item value="fail to add" />
+      <item value="scan completed no music found" />
+      <item value="scan completed" />
+      <item value="扫描完成" />
+      <item value="请稍后" />
+      <item value="正在扫描" />
+      <item value="开始扫描" />
       <item value="you will no longer receive his msg after block" />
       <item value="remove he from the follow list" />
       <item value="you will no longer receive his msg after block and automatically remove he from the follow list" />
@@ -38,26 +53,11 @@
       <item value="WILDCARD" />
       <item value="If this method gets called and the decor view doesn't have a parent, then it was either never added or was already removed. That should never happen, but it's worth checking to avoid potential crashes." />
       <item value="Runnable" />
-      <item value="img room couple matching guide bubble" />
-      <item value="关系礼物仅支持指定一人赠送哦" />
-      <item value="can only send to one person with relation gift" />
-      <item value="城市要求" />
-      <item value="set Strikethrough" />
-      <item value="underline" />
-      <item value="bullet" />
-      <item value="前往亲密小窝" />
-      <item value="RELATIONSHIP TYPE BECOME TEACHER" />
-      <item value="CUSTOM MSG MATCHING INVITATION COMPLETED" />
-      <item value="CUSTOM MSG MATCH PUSH COMPLETED" />
-      <item value="Couple Match Invite" />
-      <item value="CUSTOM MSG MATCH invite" />
-      <item value="USER TYPE ROOM OWNER" />
-      <item value="USER TYPE ROOM OWER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="862" />
-        <entry key="ENGLISH" value="863" />
+        <entry key="CHINESE" value="878" />
+        <entry key="ENGLISH" value="879" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="3" />
