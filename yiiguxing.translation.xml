@@ -3,6 +3,18 @@
     <option name="newTranslationDialogX" value="756" />
     <option name="newTranslationDialogY" value="-596" />
     <histories>
+      <item value="you are banned" />
+      <item value="你已被禁言" />
+      <item value="room msg had closed" />
+      <item value="please chat politely" />
+      <item value="~聊天方式千万条,文明第一条~" />
+      <item value="Anti Spam Event" />
+      <item value="cruel to leave" />
+      <item value="狠心离开" />
+      <item value="喜欢就点点关注吧" />
+      <item value="follow he" />
+      <item value="follow he for listening so long" />
+      <item value="听了这么久" />
       <item value="主持人需是管理员" />
       <item value="未知错误" />
       <item value="修改派对名称" />
@@ -41,23 +53,11 @@
       <item value="scan completed no music found" />
       <item value="scan completed" />
       <item value="扫描完成" />
-      <item value="请稍后" />
-      <item value="正在扫描" />
-      <item value="开始扫描" />
-      <item value="you will no longer receive his msg after block" />
-      <item value="remove he from the follow list" />
-      <item value="you will no longer receive his msg after block and automatically remove he from the follow list" />
-      <item value="you will no longer receive his msg after block and automatically remove him from the follow list" />
-      <item value="you will no longer receive his msg after block and automatically remove them from the follow list" />
-      <item value="拉黑" />
-      <item value="拉黑后将不再收到对方的消息" />
-      <item value="并自动将对方从关注列表中移除" />
-      <item value="你将正常收到对方的信息" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="906" />
-        <entry key="ENGLISH" value="907" />
+        <entry key="CHINESE" value="920" />
+        <entry key="ENGLISH" value="921" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="3" />
