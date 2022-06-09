@@ -3,6 +3,14 @@
     <option name="newTranslationDialogX" value="756" />
     <option name="newTranslationDialogY" value="-596" />
     <histories>
+      <item value="please try after grant the mic permission" />
+      <item value="you need cancel queue to up mic" />
+      <item value="取消排麦才能上麦哦" />
+      <item value="cross room" />
+      <item value="it is cross room pk now" />
+      <item value="it is pk now" />
+      <item value="it is pking now" />
+      <item value="目前正在进行跨房PK了哦" />
       <item value="will notify your fans to your room are you sure" />
       <item value="you are banned" />
       <item value="你已被禁言" />
@@ -45,19 +53,11 @@
       <item value="本地相册" />
       <item value="拍照上传" />
       <item value="you have not chosen a_gender yet" />
-      <item value="你还没有选择性别" />
-      <item value="upload failed" />
-      <item value="upload faild" />
-      <item value="上传失败" />
-      <item value="添加失败" />
-      <item value="fail to add" />
-      <item value="scan completed no music found" />
-      <item value="scan completed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="921" />
-        <entry key="ENGLISH" value="922" />
+        <entry key="CHINESE" value="929" />
+        <entry key="ENGLISH" value="930" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="3" />
