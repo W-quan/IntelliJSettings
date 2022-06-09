@@ -3,6 +3,15 @@
     <option name="newTranslationDialogX" value="756" />
     <option name="newTranslationDialogY" value="-596" />
     <histories>
+      <item value="举报" />
+      <item value="block" />
+      <item value="user had exit the room" />
+      <item value="该成员已离开房间" />
+      <item value="user had exit room" />
+      <item value="pull into blacklist" />
+      <item value="拉入黑名单" />
+      <item value="kick out from room" />
+      <item value="私聊" />
       <item value="you are already in a_relationship and can not join" />
       <item value="you are already in a_relationship can not join" />
       <item value="参与" />
@@ -44,20 +53,11 @@
       <item value="there are no mission for today" />
       <item value="今日暂无任务" />
       <item value="退出房间将会取消你的报名" />
-      <item value="please try after grant the mic permission" />
-      <item value="you need cancel queue to up mic" />
-      <item value="取消排麦才能上麦哦" />
-      <item value="cross room" />
-      <item value="it is cross room pk now" />
-      <item value="it is pk now" />
-      <item value="it is pking now" />
-      <item value="目前正在进行跨房PK了哦" />
-      <item value="will notify your fans to your room are you sure" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="977" />
-        <entry key="ENGLISH" value="978" />
+        <entry key="CHINESE" value="987" />
+        <entry key="ENGLISH" value="988" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="3" />
