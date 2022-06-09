@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="756" />
     <option name="newTranslationDialogY" value="-596" />
     <histories>
+      <item value="will notify your fans to your room are you sure" />
       <item value="you are banned" />
       <item value="你已被禁言" />
       <item value="room msg had closed" />
@@ -52,12 +53,11 @@
       <item value="fail to add" />
       <item value="scan completed no music found" />
       <item value="scan completed" />
-      <item value="扫描完成" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="920" />
-        <entry key="ENGLISH" value="921" />
+        <entry key="CHINESE" value="921" />
+        <entry key="ENGLISH" value="922" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="3" />
