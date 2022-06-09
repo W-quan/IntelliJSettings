@@ -3,6 +3,24 @@
     <option name="newTranslationDialogX" value="756" />
     <option name="newTranslationDialogY" value="-596" />
     <histories>
+      <item value="you are already in a_relationship and can not join" />
+      <item value="you are already in a_relationship can not join" />
+      <item value="参与" />
+      <item value="你已绑定情侣关系，无法参与哦~" />
+      <item value="小黑屋管理" />
+      <item value="星币礼物" />
+      <item value="日期选择" />
+      <item value="fans have been informed" />
+      <item value="已通知粉丝" />
+      <item value="notify fans successfully" />
+      <item value="通知粉丝成功" />
+      <item value="ower" />
+      <item value="the ower has enabled the blind date mode" />
+      <item value="ROOM BLIND DATE" />
+      <item value="the ower has enabled the blind mode" />
+      <item value="the manager has enabled room chat" />
+      <item value="管理员已开启聊天公屏" />
+      <item value="the manager has open room chat" />
       <item value="你说的太快了哦" />
       <item value="queueing up" />
       <item value="you are queueing up" />
@@ -35,29 +53,11 @@
       <item value="it is pking now" />
       <item value="目前正在进行跨房PK了哦" />
       <item value="will notify your fans to your room are you sure" />
-      <item value="you are banned" />
-      <item value="你已被禁言" />
-      <item value="room msg had closed" />
-      <item value="please chat politely" />
-      <item value="~聊天方式千万条,文明第一条~" />
-      <item value="Anti Spam Event" />
-      <item value="cruel to leave" />
-      <item value="狠心离开" />
-      <item value="喜欢就点点关注吧" />
-      <item value="follow he" />
-      <item value="follow he for listening so long" />
-      <item value="听了这么久" />
-      <item value="主持人需是管理员" />
-      <item value="未知错误" />
-      <item value="修改派对名称" />
-      <item value="change group name" />
-      <item value="修改群聊名称" />
-      <item value="房间话题编辑" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="955" />
-        <entry key="ENGLISH" value="956" />
+        <entry key="CHINESE" value="977" />
+        <entry key="ENGLISH" value="978" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="3" />
