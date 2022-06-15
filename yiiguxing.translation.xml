@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="756" />
     <option name="newTranslationDialogY" value="-596" />
     <histories>
+      <item value="only if the Android Gradle Plugin is upgraded to its new version." />
+      <item value="Plugin. You can choose to do them in this upgrade to prepare for the future, but" />
+      <item value="but will be required when upgrading to a later version of the Android Gradle" />
+      <item value="These steps are not required to perform the upgrade of this project at this time," />
       <item value="signature" />
       <item value="protection Level" />
       <item value="extract hardcoded string of layout" />
@@ -49,10 +53,6 @@
       <item value="你点的太快了哦" />
       <item value="confirm" />
       <item value="hand slipped" />
-      <item value="手滑了" />
-      <item value="提示" />
-      <item value="the manager has not start the game call him" />
-      <item value="该游戏已下架" />
     </histories>
     <option name="languageScores">
       <map>
