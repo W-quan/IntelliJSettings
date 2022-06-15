@@ -8,7 +8,6 @@
             <value value="988dd231314e593035" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-05-11T09:11:07.752069Z" />
         <name value="samsung SM-G9500" />
         <target value="Android 9.0" />
         <api value="28" />
@@ -17,10 +16,20 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="22c57f9e" />
+          </Key>
+        </key>
+        <name value="Xiaomi Redmi K30" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="4ad195ea" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-05-11T10:34:44.545033Z" />
         <name value="vivo vivo X20A" />
         <target value="Android 8.1" />
         <api value="27" />
