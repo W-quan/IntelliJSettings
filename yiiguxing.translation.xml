@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="756" />
     <option name="newTranslationDialogY" value="-596" />
     <histories>
+      <item value="Show an account picker to let the user choose a Google account from the device. If the GoogleSignInOptions only asks for IDToken andor profile andor email then no consent screen will be shown here." />
+      <item value="Request only the user's ID token, which can be used to identify the user securely to your backend. This will contain the user's basic profile (name, profile picture URL, etc) so you should not need to make an additional call to personalize your application." />
       <item value="Typography Dashes" />
       <item value="INSTRUMENTATION FAILED" />
       <item value="UID PLAY TOGE Ther" />
@@ -51,13 +53,11 @@
       <item value="the manager has open room chat" />
       <item value="你说的太快了哦" />
       <item value="queueing up" />
-      <item value="you are queueing up" />
-      <item value="已在麦上" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1004" />
-        <entry key="ENGLISH" value="1005" />
+        <entry key="CHINESE" value="1006" />
+        <entry key="ENGLISH" value="1007" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="3" />
