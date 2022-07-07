@@ -8,5 +8,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
+    <mask>*.grad</mask>
   </component>
 </application>
