@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="756" />
     <option name="newTranslationDialogY" value="-596" />
     <histories>
+      <item value="Immutable List" />
       <item value="error occur" />
       <item value="Occur" />
       <item value="error" />
@@ -52,12 +53,11 @@
       <item value="通知粉丝成功" />
       <item value="ower" />
       <item value="the ower has enabled the blind date mode" />
-      <item value="ROOM BLIND DATE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1012" />
-        <entry key="ENGLISH" value="1012" />
+        <entry key="CHINESE" value="1013" />
+        <entry key="ENGLISH" value="1013" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="3" />
