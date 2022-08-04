@@ -28,7 +28,6 @@
   <action id="Editor InclusiveTranslateAction">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
-  <action id="EditorDuplicate" />
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
