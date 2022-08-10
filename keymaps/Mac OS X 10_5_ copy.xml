@@ -63,6 +63,7 @@
   </action>
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift f7" />
+    <keyboard-shortcut first-keystroke="k" />
     <keyboard-shortcut first-keystroke="shift k" />
   </action>
   <action id="PreviousTab">
