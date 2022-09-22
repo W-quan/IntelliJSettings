@@ -83,8 +83,12 @@
     <option name="lastTrimTime" value="1663572120734" />
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="ESPERANTO" />
+      </google-translate>
+    </option>
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="4b8c0dd3e2395c8d" />
