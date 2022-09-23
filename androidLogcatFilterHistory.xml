@@ -1,10 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.my.omichat tag:OkHttp " />
+    <option name="favorites">
+      <list>
+        <option value="package:com.my.omichat " />
+      </list>
+    </option>
+    <option name="mostRecentlyUsed" value="package:com.my.omichat " />
     <option name="nonFavorites">
       <list>
         <option value="package:com.my.omichat tag:OkHttp " />
-        <option value="package:com.my.omichat " />
         <option value=" level:verbose " />
         <option value="package:mine" />
         <option value="package:mine " />
