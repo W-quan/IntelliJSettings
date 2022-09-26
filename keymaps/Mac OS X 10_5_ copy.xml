@@ -9,6 +9,10 @@
   <action id="$InclusiveTranslateAction">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="ActivateBookmarksToolWindow" />
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Execute" />
   <action id="Console.Execute.Multiline" />
@@ -19,6 +23,7 @@
   <action id="Diff.ShowStandaloneDiff">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="DuplicatesForm.SendToRight" />
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
@@ -43,6 +48,7 @@
   </action>
   <action id="Exit" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.GotoProject" />
   <action id="Groovy.Shell.Execute" />
   <action id="InsertLiveTemplate">
     <keyboard-shortcut first-keystroke="ctrl j" />
