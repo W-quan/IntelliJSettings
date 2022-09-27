@@ -8,11 +8,14 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="shenlong" />
+        <option value="package:com.stinformationboard" />
+        <option value="package:com." />
+        <option value="package:mine " />
         <option value="package:com.my.omichat " />
         <option value="package:com.my.omichat level:error " />
         <option value=" level:verbose " />
         <option value="package:mine" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
