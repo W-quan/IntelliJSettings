@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="756" />
     <option name="newTranslationDialogY" value="-596" />
     <histories>
+      <item value="The image's contrast ratio is 2.83. This ratio is based on an estimated foreground color of 969696 and an estimated background color of FAFAFA. Consider increasing this ratio to 3.00 or greater." />
       <item value="check in" />
       <item value="Check in already" />
       <item value="Check in" />
@@ -52,7 +53,6 @@
       <item value="error orror" />
       <item value="btn google sign in" />
       <item value="Demonstrates retrieving an offline access one-time code for the current Google user, which can be exchanged by your server for an access token and refresh token." />
-      <item value="Show an account picker to let the user choose a Google account from the device. If the GoogleSignInOptions only asks for IDToken andor profile andor email then no consent screen will be shown here." />
     </histories>
     <option name="languageScores">
       <map>
