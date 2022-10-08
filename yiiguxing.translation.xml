@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="756" />
     <option name="newTranslationDialogY" value="-596" />
     <histories>
+      <item value="Rank" />
       <item value="The image's contrast ratio is 2.83. This ratio is based on an estimated foreground color of 969696 and an estimated background color of FAFAFA. Consider increasing this ratio to 3.00 or greater." />
       <item value="check in" />
       <item value="Check in already" />
@@ -52,12 +53,11 @@
       <item value="error" />
       <item value="error orror" />
       <item value="btn google sign in" />
-      <item value="Demonstrates retrieving an offline access one-time code for the current Google user, which can be exchanged by your server for an access token and refresh token." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1056" />
-        <entry key="ENGLISH" value="1056" />
+        <entry key="CHINESE" value="1057" />
+        <entry key="ENGLISH" value="1057" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="3" />
