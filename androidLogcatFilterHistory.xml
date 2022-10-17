@@ -5,11 +5,11 @@
         <option value="package:com.my.omichat tag:OkHttp " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.my.omichat tag:OkHttp " />
+    <option name="mostRecentlyUsed" value="package:com.my.omichat" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.my.omichat" />
         <option value="package:mine" />
+        <option value="package:com.my.omichat" />
         <option value="com.moutai.mal" />
         <option value="level:error " />
         <option value="package:com.my.omichat level:error " />
