@@ -5,9 +5,11 @@
         <option value="package:com.my.omichat tag:OkHttp " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:fuck" />
+    <option name="mostRecentlyUsed" value="package:mine tag:fuck " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:fuck " />
+        <option value="package:mine level:error " />
         <option value="tag:fuck" />
         <option value="package:mine  " />
         <option value="package:mine  -tag:ACodec" />
@@ -26,8 +28,6 @@
         <option value="okhttp" />
         <option value="shenlong" />
         <option value="package:com.stinformationboard" />
-        <option value="package:com." />
-        <option value=" level:verbose " />
       </list>
     </option>
   </component>
