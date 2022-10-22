@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="756" />
     <option name="newTranslationDialogY" value="-596" />
     <histories>
+      <item value="INSTRUMENTATION FAILED" />
       <item value="applied later, so we can use the left-most edge as the starting edge." />
       <item value="Use the top-start-most laid out view as the baseline. RTL offsets are" />
       <item value="indicator" />
@@ -52,12 +53,11 @@
       <item value="check Un Consume Purchase" />
       <item value="verify" />
       <item value="purchase" />
-      <item value="Immutable List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1062" />
-        <entry key="ENGLISH" value="1062" />
+        <entry key="CHINESE" value="1063" />
+        <entry key="ENGLISH" value="1063" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="3" />
