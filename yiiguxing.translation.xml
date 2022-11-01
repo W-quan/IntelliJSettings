@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="756" />
     <option name="newTranslationDialogY" value="-596" />
     <histories>
+      <item value="playback Started" />
       <item value="distance" />
       <item value="normal Tv Title" />
       <item value="INSTRUMENTATION FAILED" />
@@ -52,7 +53,6 @@
       <item value="message" />
       <item value="on Verify Success" />
       <item value="check Un Consumed Purchase" />
-      <item value="check Un Consume Purchase" />
     </histories>
     <option name="languageScores">
       <map>
