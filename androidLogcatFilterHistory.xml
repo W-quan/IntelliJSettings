@@ -7,8 +7,8 @@
     </option>
     <option name="nonFavorites">
       <list>
-        <option value="package:com.my.omichat" />
         <option value="package:mine" />
+        <option value="package:com.my.omichat" />
         <option value="package:mine tag:MainActivity" />
         <option value="package:mine tag:fuck " />
         <option value="package:mine level:error " />
