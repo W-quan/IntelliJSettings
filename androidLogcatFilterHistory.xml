@@ -5,9 +5,11 @@
         <option value="package:com.my.omichat tag:OkHttp " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.my.omichat tag:OkHttp " />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine tag:UI " />
         <option value="package:mine" />
         <option value="package:mine level:warn " />
         <option value="package:com.my.omichat" />
@@ -18,7 +20,6 @@
         <option value="package:mine  " />
         <option value="package:mine  -tag:ACodec" />
         <option value="package:mine  tag:MainActivity " />
-        <option value="package:mine " />
         <option value="package:mine -tag:st" />
         <option value="com.moutai.mal" />
         <option value="level:error " />
@@ -27,7 +28,6 @@
         <option value="package:com.my.omichat " />
         <option value="okhttp" />
         <option value="shenlong" />
-        <option value="package:com.stinformationboard" />
       </list>
     </option>
   </component>
