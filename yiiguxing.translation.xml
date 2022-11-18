@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="756" />
     <option name="newTranslationDialogY" value="-596" />
     <histories>
+      <item value="ccp area Code Detected Country" />
       <item value="register Carrier Number Edit Text" />
       <item value="instantiatable" />
       <item value="Instantiatable" />
@@ -52,12 +53,11 @@
       <item value="protocol" />
       <item value="permitted" />
       <item value="set Note Balance" />
-      <item value="PURCHASES UPDATED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1069" />
-        <entry key="ENGLISH" value="1069" />
+        <entry key="CHINESE" value="1070" />
+        <entry key="ENGLISH" value="1070" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="3" />
