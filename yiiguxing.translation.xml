@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="756" />
     <option name="newTranslationDialogY" value="-596" />
     <histories>
+      <item value="There is more than one label with such a name in this scope" />
       <item value="on Code Auto Retrieval Time Out" />
       <item value="ccp area Code Detected Country" />
       <item value="register Carrier Number Edit Text" />
@@ -52,7 +53,6 @@
       <item value="Recents" />
       <item value="org.xml.sax.SAXParseException; lineNumber: 1737; columnNumber: 59; The entity name must immediately follow the '&amp;' in the entity reference." />
       <item value="protocol" />
-      <item value="permitted" />
     </histories>
     <option name="languageScores">
       <map>
