@@ -5,15 +5,15 @@
         <option value="package:com.my.omichat tag:OkHttp " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine level:error " />
         <option value="package:mine -tag:ACodec" />
         <option value="package:com.my.omichat tag:OkHttp tag:HTTP " />
         <option value="package:com.my.omichat tag:OkHttp tag:" />
-        <option value="package:mine " />
         <option value="package:mine tag:ForgetPswActivity " />
         <option value="package:com.my.omichat tag:OkHttp tag:ForgetPswActivity " />
         <option value="package:mine tag:ForgetPswActivity tag:OkHttp " />
