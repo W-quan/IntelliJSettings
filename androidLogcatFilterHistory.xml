@@ -5,11 +5,12 @@
         <option value="package:com.my.omichat tag:OkHttp " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:com.my.omichat tag:OkHttp  " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
+        <option value="package:com.my.omichat tag:OkHttp  " />
         <option value="package:mine level:error " />
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine -tag:ACodec" />
         <option value="package:com.my.omichat tag:OkHttp tag:HTTP " />
@@ -27,7 +28,6 @@
         <option value="package:com.ormatch.android.asmr tag:OkHttp " />
         <option value="package:mine tag:UI " />
         <option value="package:mine level:warn " />
-        <option value="package:com.my.omichat" />
       </list>
     </option>
   </component>
