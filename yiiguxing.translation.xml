@@ -101,6 +101,16 @@
   <component name="Translation.Cache">
     <option name="lastTrimTime" value="1670556404299" />
   </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translateDocumentation" value="true" />
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="4b8c0dd3e2395c8d" />
+      </youdao-translate>
+    </option>
+  </component>
   <component name="Translation.States">
     <histories>
       <item value="Accumulates value starting with the first element and applying [operation] from left to right to current accumulator value and each element." />
