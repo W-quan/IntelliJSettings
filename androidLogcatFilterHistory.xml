@@ -8,10 +8,10 @@
     <option name="mostRecentlyUsed" value="package:com.my.omichat tag:OkHttp " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:com.my.omichat level:warn " />
         <option value="package:com.my.omichat " />
         <option value="package:mine tag:UserBlockContentCache" />
-        <option value="package:mine" />
         <option value="package:mine tag:fuck " />
         <option value="package:mine tag:CustomAttachParser" />
         <option value="package:mine level:error " />
