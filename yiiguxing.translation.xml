@@ -112,6 +112,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="EXPER" />
+      <item value="CHARM" />
       <item value="CLEARTEXT" />
       <item value="SECONDS OF MINUTE" />
       <item value="the" />
@@ -124,8 +126,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
