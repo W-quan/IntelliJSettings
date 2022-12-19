@@ -15,11 +15,11 @@
       <mapping ext="mmap3" type="PLAIN_TEXT" />
       <mapping ext="rawproto" type="PLAIN_TEXT" />
       <mapping ext="mmap" type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="xlog" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
-      <mapping ext="p12" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="jks" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="p12" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
