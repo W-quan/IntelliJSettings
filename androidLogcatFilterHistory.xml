@@ -5,10 +5,10 @@
         <option value="package:com.my.omichat tag:OkHttp " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.my.omichat tag:HTTP " />
     <option name="nonFavorites">
       <list>
         <option value="package:com.my.omichat tag:HTTP " />
+        <option value="package:mine level:verbose " />
         <option value="package:mine" />
         <option value="package:mine level:error " />
         <option value="package:com.my.omichat level:warn " />
@@ -27,7 +27,6 @@
         <option value="package:mine tag:ForgetPswActivity" />
         <option value="package: com.ormatch.android.asmr tag:OkHttp " />
         <option value="package:mine tag:OkHttp " />
-        <option value="package:com.my.omichat tag:OkHttp tag:fuck" />
       </list>
     </option>
   </component>
