@@ -11,6 +11,7 @@
       <mapping ext="bundle" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="svga" type="PLAIN_TEXT" />
+      <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="hprof" type="PLAIN_TEXT" />
       <mapping ext="mmap3" type="PLAIN_TEXT" />
       <mapping ext="rawproto" type="PLAIN_TEXT" />
