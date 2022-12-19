@@ -52,6 +52,9 @@
   <action id="Exit" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
+  <action id="Git.CreateNewBranch">
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
   <action id="Groovy.Shell.Execute" />
   <action id="InsertLiveTemplate">
     <keyboard-shortcut first-keystroke="ctrl j" />
