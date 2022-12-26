@@ -112,6 +112,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="cancel Able" />
       <item value="EXPER" />
       <item value="CHARM" />
       <item value="CLEARTEXT" />
