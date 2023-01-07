@@ -8,8 +8,8 @@
     <option name="mostRecentlyUsed" value="package:com.my.omichat tag:OkHttp " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine level:error " />
         <option value="package:mine" />
+        <option value="package:mine level:error " />
         <option value="package:com.my.omichat level:warn " />
         <option value="package:com.my.omichat tag:fuck" />
         <option value="package:com.my.omichat tag:UI " />
