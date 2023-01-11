@@ -102,8 +102,14 @@
     <option name="lastTrimTime" value="1673234847774" />
   </component>
   <component name="Translation.Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20210413000776309" />
+      </app-key>
+    </option>
     <option name="primaryLanguage" value="CHINESE" />
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="BAIDU" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="4b8c0dd3e2395c8d" />
