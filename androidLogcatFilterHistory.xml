@@ -5,9 +5,10 @@
         <option value="package:com.my.omichat tag:OkHttp " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:com.my.omichat tag:OkHttp " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine level:error " />
         <option value="package:com.my.omichat level:warn " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:fuck " />
         <option value="package:mine tag:CustomAttachParser" />
         <option value="package:com.my.omichat tag:OkHttp  " />
-        <option value="package:mine " />
         <option value="package:mine -tag:ACodec" />
         <option value="package:com.my.omichat tag:OkHttp tag:HTTP " />
         <option value="package:com.my.omichat tag:OkHttp tag:" />
